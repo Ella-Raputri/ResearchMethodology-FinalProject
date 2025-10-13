@@ -1,0 +1,85 @@
+PEMETAAN RISET TENTANG DETEKSI TOPIK PADA TWITTER
+DENGAN TEKNIK SYSTEMATIC LITERATURE REVIEW
+
+Sri Suhartini', Widodo’, Bambang Prasetya Adhi*
+' Mahasiswa Prodi Pend. Teknik Informatika dan Komputer, Teknik Elektro, FT — UNJ
+
+25 Dosen Prodi Pend. Teknik Informatika dan Komputer, Teknik Elektro, FT - UNJ
+' suhartinisri.17@gmail.com, ? widodo@unj.ac.id, > bambang_padhi@yahoo.com
+
+Abstrak
+Twitter merupakan salah satu media sosial yang banyak digemari orang, mulai dari anak remaja hingga
+dewasa. Di twitter banyak informasi yang akan didapatkan oleh para pengguna. Masing-masing informasi
+memiliki kata kunci untuk dikelompokkan topik bahasannya. Kata kunci yang dimaksud adalah kata yang
+memiliki posisi yang istimewa dalam sebuah kalimat. Dari kata kunci ini maka topik akan lebih mudah untuk di
+deteksi. Terdapat berbagai macam metode untuk mendeteksi topik pada twitter. Penelitian ini bertujuan untuk
+membuat peta riset deteksi topik pada twitter dengan teknik systematic literature review. Literatur yang
+digunakan berasal dari beberapa digital library yaitu IEEE eXplore, Sciencedirect, Google Scholar dan
+Citeseerx . Selanjutnya proses penyaringan literatur berdasarkan relevansi judul didapat 50 judul literatur.
+Setelah itu menganalisis isi dari masing-masing literatur. Hasil analisis menunjukkan terdapat 39 jenis metode
+deteksi topik. Metode terbanyak yang digunakan ialah Latent Dirichlet Allocation (LDA). Dan metode dengan
+tingkat akurasi tertinggi yang digunakan ialah Random Forest (RF) dan Naives Bayes dengan tingkat akurasi
+
+95,5%
+
+Kata kunci : Deteksi Topik, Systematic Literature Review, Twitter.
+
+1. Pendahuluan
+
+Salah satu faktor penting penunjang globalisasi
+ialah internet. Internet banyak dimanfaatkan untuk
+berbagai pemenuhan kebutuhan, dimana salah
+satunya dimanfaatkan untuk sosial media. Saat ini
+banyak sosial media yang digemari oleh masyarakat,
+baik dari luar negeri maupun dalam negeri. Salah
+satu contoh sosial media yang sedang trend saat ini
+yaitu twitter.
+
+Twitter banyak digunakan berbagai kalangan
+masyarakat, mulai dari remaja hingga orang dewasa.
+‘Yang membuat twitter ini unik ialah karena fwitter
+menerapkan teks pendek pada penggunaannya. Pada
+Twitter, user hanya dapat menulis status atau yang
+dikenal dengan fveet sebanyak 280 karakter.
+
+Salah satu topik yang dibahas mengenai twitter
+ialah metode deteksi topik pada twitter. Twitter
+mempunyai banyak fitur di dalam aplikasinya, salah
+satunya adalah trending topic. Trending topic adalah
+suatu hal yang sedang terkenal dan banyak
+dibicarakan dalam kurun waktu tertentu (Suryadi:
+2018), Trending topic berisi dari 5 sampai 20 daftar
+topik terpopuler yang sedang berlangsung. Topik-
+topik tersebut didaftar berdasarkan lokasi negara
+user itu sendiri. Trending topic yang terdaftar
+diperingkat berdasarkan banyaknya fweet yang
+
+membahas topik tersebut. Maka setiap negara akan
+memiliki trending topic yang berbeda.
+
+Pada twitter terdapat_kesulitan dalam
+pendeteksian topik. Hal ini karena fwitter
+menerapkan sistem real time dalam mendeteksi
+topik dari aveet yang ditulis oleh user. Sistem real
+time ini yaitu mendeteksi topik secara langsung pada
+saat tweet itu dipublikasikan. Beberapa riset telah
+dilakukan dengan berbagai macam metode dalam
+pendeteksian topik pada twitter. Namun hingga kini,
+berdasarkan publikasinya belum ada pemetaan riset
+mengenai deteksi topik pada twitter. Maka, perlu
+dibuat sebuah model pemetaan dalam pendeteksian
+topik pada twitter. Dengan adanya pemetaan ini,
+maka akan didapatkan beberapa poin penting, seperti
+jenis-jenis metode yang digunakan dalam
+pendeteksian topik pada fwitter, metode terbanyak
+yang digunakan dalam pendeteksian topik pada
+twitter, dan metode dengan tingkat akurasi tertinggi
+dalam pendeteksian topik pada twitter.
+
+Untuk membuat pemetaan riset deteksi topik
+pada twitter ini digunakan metode systematic
+literature review (SLR). Penggunaan metode ini
+dianggap paling efektif dalam memetakan riset,
+sebab dengan metode SLR data riset yang dipakai
+akan diekstrak dan dianalisis secara mendalam,
+sehingga menghasilkan keluaran data dengan

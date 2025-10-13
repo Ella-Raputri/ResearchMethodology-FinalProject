@@ -1,0 +1,80 @@
+KAJIAN LITERATUR
+Association rule
+
+Association rules digunakan untuk
+menemukan hubungan di ntara data atau
+bagaimana suatu kelompok data
+mempengaruhi suatu keberadaan data yang
+lain. Metode ini dapat membantu mengenali
+pola-pola tertentu di dalam kumpulan data
+yang besar. Dalam association rules, suatu
+kelompok item dinamakan itemset. Support
+dari itemset X adalah persentase transaksi di
+D yang mengandung X, biasa ditulis dengan
+supp(X).
+Metodologi dasar analisis asosiasi terbagi
+menjadi dua tahap:
+
+1. Analisis pola frekuensi tinggi
+Tahapan ini mencari kombinasi item
+yang memenuhi syarat minimum dari
+nilai support dalam database. Nilai
+support sebuah item diperoleh dengan
+rumus berikut.
+
+‘Support (A) = Jumlah Transaksi Mengandung A.
+Total Transaksi
+
+Sementara itu, nilai support dari 2
+item diperoleh dari rumus 2 berikut.
+‘Support (A,B) = 5 Transaksi mengandung A dan B
+¥ Transaksi
+2. Pembentukan aturan asosiasi Setelah
+pola frekuensi __ tinggi
+ditemukan, barulah dicari aturan
+
+semua
+
+asosiasi yang memenuhi  syarat
+
+minimum untuk confidence dengan
+
+menghitung confidence —aturan
+asosiatif A > B.
+Nilai confidence dari aturan A > B
+
+diperoleh dari rumus berikut.
+Confidence = P (BIA) = 5 Transaksi mengandung A dan B
+
+¥ Transaksi mengandung A
+Apriori
+
+Apriori adalah algoritma yang
+digunakan dalam melakukan _ pencarian
+frequent itemset untuk mendapatkan aturan
+asosiasi. Sesuai dengan namanya, algortima
+ini menggunakan prior knowledge mengenai
+frequent itemset properties yang telah
+diketahui sebelumnya untuk memproses
+informasi selanjutnya. Apriori menggunakan
+pendekatan secara iterative yang disebut juga
+sebagai level-wish search dimana k-itemset
+digunakan untuk mencari (k+1)- itemset.
+Pertama-tama dicari set dari frequent 1-
+itemset, set ini dinotasikan sebagai Ll. L1
+yaitu large itemset pertama yang digunakan
+untuk menemukan L2, kemudian set dari
+
+digunakan untuk
+
+menemukan L3, dan seterusnya sampai tidak
+
+frequent 2-itemset
+ada lagi frequent k-itemset yang dapat
+ditemukan. Large itemset adalah itemset
+yang sering terjadi atau itemset-itemset yang
+sudah melewati batas minimum support yang
+telah ditentukan.
+
+Adapun dua proses utama yang dilakukan
+dalam algoritma apriori, yaitu:

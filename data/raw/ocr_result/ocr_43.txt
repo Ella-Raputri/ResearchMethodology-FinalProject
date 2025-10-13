@@ -1,0 +1,139 @@
+menggunakan google form, Survey dilakukan secara
+langsung dengan mendatangi objek dan dilakukan
+bersamaan dengan FGD, Analysis data dilakukan
+mengacu kepada konsep delon & Me Lean terkait
+kualitas system serta model pembelajaran online
+sesuai ketentuan Kemenristek RI, Disain terhadap
+model dengan mengadopsi teknologi IR 5.0
+diantaranya adalah Internet of Thing (IoT) atau di
+Penelitian ini kami sebut Internet of Everything
+(loE), Machine Learning untuk Recommendation
+System (RecSys) dan Natural Language Processing
+(NLP) pada Question Generator.
+
+4.5. Performa mahasiswa
+Penelitian ini menggunakan metode survei
+dengan menggunakan kuisioner dan wawancara
+mendalam dengan beberapa praktisi pendidikan di
+Indonesia, khususnya pelajar, instruktur, dan
+penyedia pendidikan yang lebih tinggi. Studi ini juga
+mengadopsi konsep untuk beberapa indikator saja
+yaitu. kualitas sistem, pelayanan kualitas, dan
+Kepuasan pengguna dan mengadobsi (Fleischmann,
+2019) terkait survey pelaksanaan pembelajaran
+online. Dalam penelitian sebelumnya, kita tahu
+bahwa 3 indikator ditambahkan ke indikator ke-4
+terkait Kualitas sistem informasi yang dimilikinya
+sangat besar berdampak pada kepuasan siswa (Murad
+
+et al., 2019).
+
+1. Responden terdiri dari mahasiswa pembelajaran
+online dengan rentang usia 18-20 (21=42%), 21-
+30 (14=28%), 31-40 (6=12%) dan diatas 40 tahun
+(9=18).
+
+2. Mengadopsi beberapa indicator yang digunakan
+didalam Penelitian (Fleischmann, 2019), hasil
+kuisioner untuk mahasiswa pembelajaran online
+di Indonesia diketahui sebagai berikut: Dari 50
+siswa yang mengikuti pembelajaran yang
+dionlinekan karena pandemic covid-19 diketah
+bahwa: 16 mahasiswa (32%) pernah_memili
+pengalaman belajar online atau dalam mode
+pembelajaran campuran, sementara 34 mahasiswa
+lainnya (68%) belum pernah sama sekali.
+
+3. Pada saat survei, mayoritas mahasiswa 60% (30
+dari 50 mahasiswa), "menyukai" pengalaman
+mereka dalam belajar online dan 26% (13
+mahasiswa) ragu-ragu- “terkadang mereka.
+menyukainya dan terkadang tidak”. Sementara
+itu, 14% (7 mahasiswa) menyatakan “tidak
+menyukai” pengalaman tersebut.
+
+Namun secara keseluruhan, ketika mahasiswa
+ditanyakan tentang kemungkinan mereka akan
+Kembali belajar secara online maka apakah mereka
+akan menyukainya atau tidak maka 74% (37 siswa)
+mengatakan ya, 18% (9 siswa) tidak yakin dan 0.08%
+(4 siswa) tidak mau lagi belajar secara online lagi.
+
+4.6. Pemanfaatan teknologi IR 4.0
+Mangadopsi beberapa Penelitian sebelumnya
+
+terkait pemaanfaatan teknologi IR 4.0 pada model
+
+pembelajaran diantaranya penggunaan chatbot dan
+machine learning dan analisis Big Data yang
+
+Kemudian akan terintegrasi dengan konsep IoE.
+
+Dipenelitian ini kami melakukan komparasi beberapa
+
+penelitian kami sebelumnya, diantaranya adalah:
+
+1. Penggunaan question generator dengan konsep
+Natural Language Processing (NLP) pada LMS.
+Mesin — pembangkitpertanyaan —_berfungsi
+memproduksi berbagai pertanyaan yang mengacu
+kepada semua sumber belajar mahasiswa di LMS
+seperti PPT, Ms. Word, Pdf dan memungkinkan.
+kedepannya audio dan video.
+
+2. Penggunaaan chat bot menggunakan lecture note
+sebagai sumber data (Murad et al., 2019)
+
+3. Penggunaan analisis_ Big Data guna
+memaksimalkan — fungsi_ ~=LMS dengan
+memfasilitasi berbagai_— input namun.
+
+menghasilkan output dengan standarisasi format
+
+yang sama. Hal ini sekaligus merupakan
+
+interprestasi terhadap poin 1.
+
+Mengadobsi teknologi IoT, semua Teknik yang.
+digunakan kemudian terintegrasi ke LMS sehingga
+mendukung kinerja LMS yang lebih baik dan
+SMART.
+
+4.7. Model Pembelajaran
+Berdasarkan penjelasan sebelumnya, maka model
+pembelajaran yang diusulkan pada penelitian ini
+
+tertera pada Gambar 4,
+
+Berdasarkan gambar 4, maka proses pembelajaran
+berdasarkan platform LMS dapat dijabarkan sebagai
+berikut:
+
+1. LMS. sebagai platform media pembelajaran
+Online sudah menyediakan berbagai fasilitas
+terkait kebutuhan pembelajarana para pembelajar,
+diantaranya adalah ~—menyediakan materi
+pembelajaran, nilai-nilai hasil belajar dan diskusi
+forum diskusi sebagai pengganti tatap muka
+(asynchronous), serta video conference atau
+pembelajaran secara langsung menggunakan
+
+media online (synchronous).
+2. Banyaknya sumber belajar dapat dipersonalisasi
+dengan memanfaatkan —_fungsi_—_ system.
+
+rekomendasi sehingga mahasiswa belajar sesuai
+preferensi nya.
+
+3. Mahasiswa juga dapat belajar dari berbagai
+contoh Latihan ataupun soal-soal sesuai topik
+pembelajaran, sehingga untuk _memproduksi
+pertanyaan-pertanyaan —termasuk —_jawaban
+terhadap pertanyaan tersebut dapat menggunakan
+mesin pembangkit pertanyaan atau question
+generator.
+
+4. Untuk diskusi forum yang merupakan
+pembelajaran asynchronous memungkinkan pada
+saat mahasiswa membutuhkan tutorial namun.
+tutor tidak tidak available maka mesin penjawab_

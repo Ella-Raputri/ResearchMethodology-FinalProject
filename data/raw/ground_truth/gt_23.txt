@@ -1,0 +1,61 @@
+APLIKASI BERBASIS BLOCKCHAIN DALAM DUNIA PENDIDIKAN
+DENGAN METODE SYSTEMATICS REVIEW
+
+Qurotul Aini1
+, Untung Rahardja2
+, Nuke Puji Lestari Santoso3
+, Anggun Oktariyani4
+1,2,3,4Universitas Raharja
+Jl. Jenderal Sudirman No.40, RT.002 / RW.006, Cikokol, Kota Tangerang, Indonesia
+1aini@raharja.info,
+2untung@raharja.info,
+3nuke@raharja.info,
+4anggun.oktariyani@raharja.info
+
+Abstrak— Penemuan teknologi baru serta koneksi yang meluas berperan penting pada aspek
+kehidupan sehari-hari. Dengan perkembangan teknologi saat ini sistem pendidikan yang terbaru
+telah dikembangkan namun mengalami kendala terkait proses pembelajaran, pembayaran,
+kepercayaan siswa, serta sertifikasi sertifikat. Dengan begitu, teknologi blockchain hadir
+memperoleh sorotan yang besar dari para periset serta praktisi. Perihal ini atensi yang paling
+utama disebabkan oleh fitur unik yang dimiliki teknologi blockchain yaitu terkait sistem
+desentralisasi, keamanan, serta dalam berbagi data. Penyelesaian dalam permasalahan
+pembelajaran bersumber pada teknologi blockchain. Dengan metode terpercaya serta
+terdistribusi dalam menyimpan catatan pendidikan pada teknologi blockchain, terciptanya
+sistem berbagi dalam sumber pembelajaran, berbagi sertifikat digital yang kredibel, serta
+mengamankan intelektual lewat enkripsi informasi. Riset menampilkan bahwa integrasi
+pertumbuhan teknologi blockchain merupakan tren yang sangat efektif dalam dunia pendidikan.
+Penyimpanan informasi blockchain menggunakan database terdistribusi, dan sebagai pencatat
+blok data. Dalam tahapan penyusunan bersumber pada stempel waktu. Pada bok informasi yang
+baru tidak bisa dihilangkan. Meminimalisir penghancuran informasi serta menurunkan tingkat
+penipuan adalah fungsi dari algoritma kriptografi. Dalam perkembangan, hampir seluruh
+pembelajaran sentralisasi memberikan kursus mutu yang monoton. serta kurangnya pengakuan
+publik atas sistem sertifikasi yang efisien. Pencatatan informasi penyusunan teknologi
+blockchain memberikan metode yang efektif dalam pencatatan informasi pembelajaran Ulasan
+ini merupakan Tinjauan sistematis studi menyelidiki aplikasi pembelajaran berbasis blockchain.
+Dalam Suatu analisis hasil rinci dari tiap tema dicoba dan juga dialog intensif berdasarkan
+penemuan. Tinjauan ini juga menawarkan wawasan ke wilayah pembelajaran yang lain yang bisa
+mengambil faedah dari teknologi blockchain.
+Kata Kunci— Pendidikan Blockchain, teknologi blockchain, sistem sentralisasi, transkrip elektronik
+
+Abstract— The discovery of new technologies and expanding connections play an important role
+in aspects of everyday life. With current technological developments, a new education system
+has been developed but is experiencing obstacles related to the learning process, payments,
+student trust, and certificate certification. That way, blockchain technology is here to get a big
+spotlight from researchers and practitioners. This concern is mainly due to the unique features
+of blockchain technology, namely related to decentralized systems, security, and data sharing.
+The solution to learning problems comes from blockchain technology. With a trusted and
+distributed method of storing educational records on blockchain technology, creating a sharing
+system in learning resources, sharing credible digital certificates, and securing intellectuals
+through information encryption. Research shows that the integration of blockchain technology
+growth is a very effective trend in education. Blockchain information storage using distributed
+databases, and as a logger of data blocks. In the preparation stage, the source is the time stamp.
+The new information box cannot be removed. Minimizing information destruction and lowering
+the rate of fraud are functions of cryptographic algorithms. In its development, almost all
+centralized learning provides monotonous quality courses. as well as a lack of public
+recognition of an efficient certification system. The information recording of blockchain
+technology arrangement provides an effective method of recording learning information. This
+review is a systematic review of studies investigating blockchain-based learning applications. In
+an analysis the detailed results of each theme were tried out as well as intensive dialogue based
+on the findings. This overview also offers insights into other areas of learning that could take
+advantage of blockchain technology.
+Keywords— Blockchain education, blockchain technology, centralized system, electronic transcripts

@@ -1,0 +1,107 @@
+Penulis Aktif
+
+Gambar 4.3 Topik Riset Analisis pada Twitter
+
+4.6 Publikasi Terbanyak
+
+3.5
+3
+25
+2
+15
+1
+0.5
+
+publikasi
+
+Gambar 4.4 Publikasi Terbanyak
+
+Tercatat dalam kurun waktu 5 tahun, dari tahun
+2014 hingga 2018 terdapat banyak event yang
+mempublikasikan riset mengenai deteksi topik pada
+twitter. IEEE/ACM International Conference on
+Advances in Social Networks Analysis and Mining
+(ASONAM) mempublikasikan 3 judul penelitian
+dan Proceedings of the SNOW Data Challenge
+mempublikasikan 3 judul penelitian..
+
+4.7. Pembahasan
+
+Dari 50 literatur, didapatkan 39 jenis metode
+deteksi topik yaitu Term Frequency-Inverse
+Document Frequency (TF-IDF), Latent Dirichlet
+Allocation (LDA), Topic Sketch, User Temporal
+Mixture (UTM), Crowdsourcing, Time User
+Sentiment LDA  (TUS-LDA), — Expactation
+Maximization (EM), Rumour Detection System,
+Support Vector Machine (SVM), Mixture Model
+Approach, Naives bayes, Random Forest (RF),
+Stream Corpus, On-line LDA (OLDA), Micro
+Clustering, Burst Method, Non-negative Matrix
+Factorization (NMF), Topic Graph, Concept Space
+
+Representation (CSR), Semantic Space
+Representation (SSR), Density Based Spatial
+Clustering (DBSCAN), Joint Complexity, Dynamic
+Topic Model (DTM), K-Means Clustering, Extreme
+Learning Machine (ELM), Document Pivot,
+Dictionary Learning, Real-Time Framework (RTE),
+Singular’ Value Decmposition (SVD), Formal
+Concept Analysis (FCA), Deep Belief Network
+(DBN), Real-Time non Parametic (RTP), Global
+and Local Topic Model (GLTM), Spam Post
+Detection, High Utility Pattern Mining (HUPM),
+BN-Grams, Topic Detection using AGF (TDA), FP-
+‘Streams, dan Joint Ranking.
+
+Dari ke-39 jenis metode deteksi topik yang ada,
+terdapat tiga metode yang paling banyak digunakan.
+Posisi pertama ialah metode Latent Dirichlet
+Allocation (LDA) yang digunakan oleh 12 judul
+penelitian. Penggunaaan metode LDA dinilai efektif
+dan dapat meminimalisir suatu kesalahan dalam
+mendeteksi topik pada fwitter. Metode LDA senditi
+sudah banyak teori dan penelitian terkait yang
+tersedia secara umum, sehingga memudahkan para
+peneliti dalam menggunakannya. Posisi kedua
+terdapat metode Term Frequency-Inverse Document
+Frequency (TF-IDF) yang digunakan oleh 9 judul
+penelitian dan ketiga terdapat Support Vector
+Machine (SVM) yang digunakan oleh 8 judul
+penelitian.
+
+Dari 50 judul literatur yang ada, berdasarkan
+tingkat akurasinya penelitian berjudul 4 holistic
+system for troll detection on twitter dengan
+menggunakan metode Random Forest (RF) dan
+Naives Bayes menempati posisi tertinggi dengan
+nilai akurasi sebesar 95,5%. Dalam penelitian ini
+telah diidentifikasi 6 kelompok fitur, masing-masing
+berdasarkan analisis gaya penulisan, sentiment,
+perilaku, interaksi sosial, media terkait, dan waktu
+publikasi. Hasil penelitian menunjukkan bahwa
+Klarifikasi otomatis dapat berguna dalam seluruh
+proses identifikasi dan pengelolaan perilaku anti-
+sosial online yang terdapat pada aplikasi twitter.
+Nilai akurasi tertinggi lainnya diikuti oleh judul
+Exemplar-based topic detection in twitter streams
+yang menggunakan metode SVD, TFIDF, dan NMF
+dengan nilai akurasi 95%. Nilai akurasi tertinggi
+ketiga ditempati oleh judul Detecting Malicious
+Tweets in Trending Topics using Clustering and
+Classification yang menggunakan metode K-Means
+dan ELM dengan tingkat akurasi sebesar 92%.
+
+5 Kesimpulan dan Saran
+
+5.1 Kesimpulan
+Kesimpulan yang diperoleh dari pemetaaan riset
+
+tentang deteksi topik pada twitter setelah melalui
+
+seluruh tahapan systematic literature review dapat
+
+dirincikan dari hasil penelitian sebagai berikut ini:
+
+1) Dari 50 literatur yang ada terdapat 39 jenis
+metode pendeteksian topik pada twitter.

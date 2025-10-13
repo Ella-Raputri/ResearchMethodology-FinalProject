@@ -1,0 +1,102 @@
+bahwa hasil proyek dapat digunakan tidak
+hanya di bidang pendidikan sekolah.
+Metode yang dikembangkan —_ yang
+menyediakan pembentukan fleksibel dan
+pemutaran skenario stimulasi_ kognitif
+menggunakan stimulus seperti gambar, file
+suara, dan informasi tanda-alfabet, serta
+inklusi dalam proses pendidikan asisten
+robot tipe antropomorfik akan menemukan
+aplikasi_ di tingkat pendidikan  lainnya
+(prasekolah, umum dasar, sekunder, lebih
+tinggi, tambahan, termasuk profesional),
+dengan mempertimbangkan kebutuhan
+mendesak mereka, dan dapat berfungsi
+sebagai salah satu faktor integrasi dan pada
+saat yang sama mengoptimalkan sistem
+pendidikan di Rusia. Aleksandrova,
+Hramov & Khramova (2018) melakukan
+penelitian yang melibatkan 59 anak berusia
+7-8 tahun (Inggris, waktu percobaan - 3
+tahun). Semua anak belajar di sekolah dasar
+yang sama, tetapi dibagi menjadi dua kelas.
+Dasar teknis terdiri dari: layar sentuh
+(Sandtray), robot humanoid Nao, ekstrusi
+bingkai aluminium dan alat perekam. Hasil
+penelitiannya menghasilkan beberapa hal
+antara lain: Penting untuk memahami
+perilaku adaptif individu mana yang
+mengarah ke dampak positif pada
+pengguna, atau mana dari mereka yang
+mengarah ke keterikatan dalam berbagai
+konteks; Indikator yang diperlukan untuk
+evaluasi sistem adaptif harus diselidiki
+secara menyeluruh, Ada kebutuhan untuk
+pengembangan protokol penelitian karena
+akan membantu para peneliti untuk secara
+sistematis membandingkan hasil dengan
+sebelumnya. Sistem adaptif mengubah
+perilakunya —berdasarkan _perilaku
+pengguna, sehingga harus dievaluasi dalam
+interaksi jangka —panjang, untuk
+memastikan potensinya; Robot adaptif
+perlu menyimpan informasi tentang pola
+interaksi pengguna. Oleh karena itu, privasi
+data adalah salah satu masalah yang perlu
+dipertimbangkan. Kita perlu
+mendefinisikan pedoman yang akan dapat
+mendukung pertimbangan ets. dan
+menunjukkan data yang harus disimpan
+oleh robot dan berpotensi digunakan,
+
+terutama dalam kasus di mana kelompok
+pengguna adalah anak perusahaan; Masalah
+yang lain terletak pada pemahaman yang
+dapat diterima, karena kelompok pengguna
+tertentu yang diperlukan dapat diterima dari
+robot. Jadi, kita juga perlu membahas
+pertanyaan tentang interaksi pengguna saat
+berinteraksi dengan robot.
+
+Doukakis & Vlamos (2018)
+melakukan penelitian terhadap mahasiswa
+teknik pemrograman melalui. pendekatan
+neuropedagogi, temuannya menunjukkan
+bahwa perkembangan teknik pencitraan
+otak seperti elektroensefalografi_ dan
+pencitraan resonansi magnetik fungsional
+baru-baru ini, telah memberikan peluang
+tambahan bagi ahli = saraf untuk
+mengeksplorasi organisasi fungsional otak
+manusia. Dengan menggunakan_teknik-
+teknik ini, penelitian ini merupakan
+pendekatan untuk mendukung
+pembelajaran di bidang pembelajaran dan
+pengajaran pemrograman komputer. Di
+satu sisi, ada upaya untuk menghubungkan
+ilmu saraf teoretis dengan ilmu kognitif; di
+sisi lain, data penelitian yang diperoleh
+akan berkontribusi pada identifikasi praktik
+yang dapat diterapkan pada pendidikan
+pemrograman formal dan informal. Coutts
+& Davis (2018), dalam risetnya mengkaji
+perlunya lembaga pendidikan _ tinggi,
+pendidik dan pemerintah untuk mengenali
+dan memahami lebih komprehensif
+kompleksitas kerentanan pelajar yang
+beragam. Kebijakan dan praktik pendidikan
+inklusif, yang mengakui dan mendukung
+‘siswa yang berisiko', harus dilengkapi
+dengan pelatihan guru yang komprehensif.
+dalam gaya belajar yang beragam. Dalam
+konteks a_ self-study action research
+(SSAR), proses pengembangan kolaboratif
+bertujuan untuk meningkatkan praktik dan
+memberdayakan rekan peneliti dan peneliti.
+Diskusi utama difokuskan pada co-peneliti;
+Namun, tertanam di seluruh makalah ini
+adalah contoh dari perbaikan peneliti dan
+refleksi pada praktik. Paling penting adalah
+konteks sosial budaya bersama; perubahan
+pola komunikasi;/ memahami  konsep-
+konsep baru; penggunaan metode kreatif

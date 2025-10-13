@@ -1,0 +1,29 @@
+merumuskan research     question yang     efektifdiperlukan    ketentuan Population,    Intervention, Comparison,  Outcomes dan Context (PICOC)yang merupakan  lima  faktor  utama  dalam  menentukan research  question sehingga mempermudahpeneliti dalam  perumusan  RQ.  Format  dari  PICOC  sendiri  tidak  memiliki  kriteria  tertentu,  sehingga  peneliti bebas  mementukan  format  seperti  apa  yang  paling sesuai  dengan  peneliti.  Pada  penelitian  ini,  format tabel  yang  digunakan  penelitidapat  dilihat  di tabel4.1
+
+Tabel 4.1 Faktor PICOC
+Faktor
+Population: Twitter
+Intervention: Metode deteksi topik
+Comparison: Metode deteksi topik dan tingkat keberhasilan
+Outcomes: Metode deteksi topik dan tingkat keberhasilan
+Context: Akurasi metode deteksi topik 
+
+Dari kelima faktor PICOC diatas maka dirumuskanlah research question yang dapat dilihat pada tabel 4.2.
+Tabel 4.2 Research Question
+
+Tabel 4.2 Research Question
+ID Research Question 
+RQ1 Apa jenis-jenis metode yang digunakan dalam riset pendeteksian topik pada twitter?
+RQ2 Apa metode yang paling seirng digunakan dalam riset pendeteksian topik pada twitter?
+RQ3 Apa metode dengan tingkat akurasi tertinggi yang digunakan dalam riset pendeteksian topik pada twitter?
+RQ4 Asal dari sumber data dan berapa banyak data yang digunakan dalam riset pendeteksian topik pada twitter?
+RQ5 Siapa penulis yang paling sering melakukan riset pendeteksian topik pada twitter?
+RQ6 Jurnal dan conference apa yang paling sering menjadi event untuk topik deteksi?
+
+4.2 Conducting
+Pada   tahap conducting, yang   pertama   kali dilakukan    ialah    mencari    atau    mengidentifikasi penelitian yang relevan dengan penelitian yang akan dilakukan.  Pencarian  atau  identifikasi  pada   digital library dihasilkan  dari  memasukkan key  word pada mesin  pencarian  yang  sebelumnya  telahditentukan. Penggunaan key  worddilakukan  secara  konsisten pada setiap pencarian literatur pada mesin pencarian digital   library   untuk memaksimalkan   pencarian literature yang relevan.
+Dari hasil  pencarian  tersebut  didapat  sekitar  93 literatur   berbahasa inggris   dengan  topik   bahasan “deteksi topik pada twitter”.  Dari  93  literatur  yang ada,  18  didapat  dari IEEE  eXplore,  11  didapat  dari Citeseerx, 20  didapat  dari Google  Scholar, dan  44 didapat dari Science Direct.Dari  93  literatur  yang  ada,  berdasarkan  hasil identifikasi,   literatur   dipilih   kembali   berdasarkan relevansi   isi   dalam   penelitian   yang   dilakukan. Relevansi  isi  ini  disaring  berdasarkan  pemenuhan kriteria.   Kriteria   yang   dipakai   ialah   membahas mengenai  metode  deteksi  topik  pada  twitter.  Untuk memastikan  kualitas  setiap  literatur,  maka  peneliti perlu  membaca  keseluruhan  93  literatur.    Setelah melakukan   identifikasi   lanjutan,   dengan   adanya penyaringan  abstrak  dan  isi,  maka  literatur  yang memiliki relevansi isi berubah menjadi 50 literatur. Setelah   melakukan   pengkajian   atau   analisis data, hasil dari analisis data tersebut di masukkan ke dalam formekstraksi  data  yang  dibuat  berdasarkan researchquestionyang telah dirumuskan sebelumnya. Formekstraksi  data  dapat  dilihat  pada lampiran 1.Setelah mendata hasil dari  50  literatur  yang ada ke  dalam formekstraksi,  maka dilakukanlah  sintesis data  untuk  menjawab researchquestionyang  telah dibuat  sebelumnya. Researchquestionyang  utama merupakan  RQ1,  RQ2,  dan  RQ3.  Sedangkan  RQ4, RQ5,    dan    RQ6    merupakan researchquestiontambahan.
+
+4.2.1Metode Deteksi Topikpada Twitter
+Dari gambar 4.1 dapat dilihat bahwa terdapat 39 macam metode deteksi  topik yang digunakan  dalam pendeteksian topik pada twitter.
+
