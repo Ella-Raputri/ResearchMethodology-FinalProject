@@ -1,0 +1,78 @@
+TURBO Vol. 12 No. 02. 2024 p-ISSN: 2301-6663, e-ISSN: 2477-250X
+Jurnal Program Studi Teknik Mesin UM Metro URL: http://ojs.ummetro.ac.id/index.php/turbo
+
+Perancangan dan Analisis Kapasitas Mesin Pemotong Kentang
+untuk Aplikasi Industri Rumah Tangga dan UMKM
+
+Satrio Darma Utama“, Mazwan', Sukadi'
+
+‘Jurusan Teknik Mesin, Politeknik Jambi, JI. Lingkar Barat II Lr. Veteran RT. 04, Kel. Bagan
+Pete, Kec. Kota Baru, Kota Jambi 36129, Indonesia
+
+*Corresponding author. satrio.darma@politeknikjmbi.ac.id
+
+Abstract
+
+The development of technology is key to improving equipment efficiency while meeting market demands across
+various sectors. This study aims to design and develop a potato-cutting machine powered by an electric motor,
+equipped with interchangeable blades, and designed to produce uniform slices with adjustable thickness. The
+research methodology includes mechanical design based on a crankshaft transmission system, machine
+performance testing, and operational cost analysis.The test results indicate that the machine can cut up to 17
+potatoes per minute (204 kg per hour), significantly more efficient than manual methods. The machine produces
+uniform slices that meet industry standards, with operational costs of IDR 8,955 per 8-hour shift, offering
+significant cost efficiency compared to manual labor.These findings demonstrate that the modern potato-cutting
+machine not only increases productivity but also reduces dependence on manual labor while supporting precise
+and economically valuable potato processing. The adoption of this machine has the potential to enhance efficiency
+in the local potato processing sector, particularly in the Jambi region.
+
+Keywords: Potato Cutting Machine, Efficiency, Production.
+
+Abstrak
+
+Pengembangan teknologi menjadi kunci dalam meningkatkan efisiensi peralatan sekaligus memenuhi
+permintaan pasar di berbagai sektor. Penelitian ini bertujuan untuk merancang dan mengembangkan mesin
+pemotong kentang bertenaga motor listrik dengan pisau yang dapat diganti-ganti, dirancang untuk menghasilkan
+potongan seragam dengan ketebalan yang dapat diatur. Metode penelitian melibatkan desain mekanik berbasis
+sistem transmisi poros engkol, pengujian performa mesin, dan analisis biaya operasional. Hasil pengujian
+menunjukkan bahwa mesin ini mampu memotong hingga 17 kentang per menit (204 kg per jam), jauh lebih efisien
+dibandingkan metode manual. Mesin menghasilkan potongan seragam sesuai standar industri dengan biaya
+operasional sebesar Rp8.955 per shift 8 jam, memberikan efisiensi biaya yang signifikan dibandingkan tenaga
+kerja manual. Temuan ini menunjukkan bahwa mesin pemotong kentang modern tidak hanya meningkatkan
+produktivitas tetapi juga mengurangi ketergantungan pada tenaga kerja serta mendukung pengolahan kentang
+yang presisi dan bernilai ekonomi. Adopsi mesin ini berpotensi mendukung efisiensi sektor pengolahan kentang
+lokal, khususnya di wilayah Jambi.
+
+Kata kunci: Mesin Pemotong Kentang, Effisiensi, Produksi
+
+1. Pendahuluan dengan pertumbuhan industri pengolahan
+makanan yang mengandalkan kentang
+sebagai bahan baku untuk berbagai produk
+olahan. Data dari Badan Pusat Statistik
+(BPS) Provinsi Jambi pada tahun 2019
+mencatat luas panen tanaman kentang
+sebesar 5998 ha dengan produksi mencapai
+1.118.124 ton [1]
+
+Pengembangan teknologi
+merupakan usaha yang mendasar untuk
+meningkatkan efisiensi peralatan. Dalam
+konteks ini, upaya pengembangan teknologi
+perlu didasarkan pada permintaan pasar,
+baik yang sudah ada maupun yang sedang
+berkembang pada saat ini. Industri
+pengolahan kentang, khususnya di Provinsi
+Jambi, merupakan sektor yang menjadi
+komoditi utama untuk mata pencaharian
+masyarakat di daerah tersebut. Kentang
+memiliki nilai ekonomi tinggi karena
+permintaan pasar terus meningkat seiring
+DOI: http://dx.doi.org/10.24127/trb.v13i2.3748
+
+Received November 04, 2024; Received in revised form December 05, 2024; Accepted December 08, 2024
+Available online December 31, 2024 457
+
+Usaha mikro, kecil, menengah
+(UMKM) telah berkontribusi terhadap
+perekonomian dunia sebesar 90% UMKM
+juga dipandang telah berkontribusi terhadap
+perekonomian Indonesia[2]. Menyatakan

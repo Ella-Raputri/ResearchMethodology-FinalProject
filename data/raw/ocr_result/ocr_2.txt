@@ -16,7 +16,7 @@ Socially Assistive Robotics (SAR) sebagai bentuk intervensi psikologi. Dalam bid
 digunakan untuk mendorong perubahan jenis perilaku pada level tertentu, serta banyak digunakan dalam
 pelayanan kesehatan mental seperti sebagai pendamping, asisten terapi, dan pelatih atau instruktur.
 Penggunaan SAR semakin menjanjikan kedepannya yang memberikan implikasi pada perkembangan studi
-robotic psychology dan Moral Human-Robotic Interaction (HRI) untuk lebih memahami dinamika hubungan
+robotic psychology dan Moral Human-Robotic Interaction (HRI) untuk lebih memahami digtamika hubungan
 manusia-robot dalam kaitannya dengan efek yang diberikan robot pada manusia serta isu-isu moral dan etika
 dalam hubungan tersebut.
 
@@ -42,7 +42,7 @@ PENDAHULUAN
 Saat ini, manusia hidup pada era ketika
 globalisasi dan evolusi teknologi digital yang
 cepat membawa perubahan signifikan dalam
-berbagai bidang kehidupan —masyarakat,
+berbagai bidang kehidupan ï¿½masyarakat,
 Perkembangan dramatis dalam _ bidang
 komputer mendorong berkembangnya Internet
 of Things (IoT), kecerdasan buatan atau

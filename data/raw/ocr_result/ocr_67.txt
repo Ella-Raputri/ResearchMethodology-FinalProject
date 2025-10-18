@@ -1,0 +1,102 @@
+sehingga aman dari pencemaran karat
+kepada bahan [15]. Model Pisau yang
+digunakan dapat dilihat pada Gambar 2.
+Pengaturan ketebalan dan jenis potongan
+dilakukan dengan menyesuaikan jarak dan
+jenis mata pisau yang  digunakan,
+memberikan fleksibilitas bagi operator
+dalam memilih bentuk dan ukuran potongan
+yang sesuai.
+
+Penelitian ini melibatkan beberapa
+variabel utama yang diukur selama
+pengujian, yaitu:
+
+1. Variabel Bebas: Jenis mata pisau
+(stik dan segitiga) serta kecepatan
+putaran motor penggerak (RPM).
+
+2. Variabel Terikat: Ketebalan dan
+keseragaman potongan kentang.
+Pengujian dilakukan dengan
+
+mengoperasikan mesin pemotong kentang
+pada variasi jenis pisau dan kecepatan
+putaran yang telah ditentukan. Setiap variasi
+diuji sebanyak tiga kali untuk memperoleh
+data yang konsisten, di mana _hasil
+pengukuran ketebalan dan keseragaman
+potongan dicatat. Data hasil pengujian
+kemudian dianalisis untuk menilai efisiensi
+alat dan kualitas keseragaman potongan
+yang dihasilkan.
+
+Gambar 2. Pisau pemotong kentang
+3. Hasil dan Pembahasan
+
+1. Menghitung Kecepatan Akhir
+
+Kecepatan Awal Motor:
+
+e Motor 1 HP memiliki kecepatan
+standar, 1400 RPM.
+
+Rasio Gearbox:
+e 1:40
+
+Rumus untuk menghitung kecepatan akhir:
+
+kecepatan awal
+
+kecepatan akhir = Rasio Gearbox
+
+Perhitungan:
+
+Kecepatan akhir = 2400 RPM = 35 RPM
+
+2. Menghitung Kecepatan Lengan
+Pendorong
+
+Diameter Pulley:
+
+e Pulley penggerak (D1) = 70 mm
+e Pulley yang digerakkan (D2) = 140
+mm
+
+Kecepatan Pulley Penggerak:
+e Kecepatan dari gearbox = 35 RPM
+
+Hitung Rasio Pulley:
+: D1 140 mm
+Rasio pulley = 7 = pam =
+Hitung Kecepatan Lengan
+.Kecepatan pulley penggerak __
+Pendorong: Rasio Pulley ~
+3S RPM — 17,5 RPM
+
+Jadi, kecepatan lengan pendorong yang
+dihasilkan adalah 17, 5 RPM.
+
+3. Menghitung Gaya yang Dihasilkan
+oleh Lengan Pendorong
+Spesifikasi Lengan Pendorong:
+e Lengan 1: Panjang = 446 mm,
+diameter = 14 mm
+e Lengan 2: Panjang = 900 mm
+Momen Torsi Motor
+_ HP xX 5225
+
+RPM
+1x 5252
+=—T75 = 298 lb — ft
+Konfersi ke satuan SI (Nm):
+298 lb — ft x 1.35882 = 403.63 Nm
+Menghitung gaya pada lengan pendorong :
+T
+
+Fer
+
+Dengan total panjang lengan = 446 mm +
+900 mm = 1346 mm = 1,346m
+
+TURBO p-ISSN: 2301-6663, e-ISSN: 2447-250X Vol. 13, No. 02, 2024 461
