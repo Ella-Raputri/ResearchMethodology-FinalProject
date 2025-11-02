@@ -1,3 +1,4 @@
 testenv
 runs
 yolo/yolo_model1
+__pycache__
