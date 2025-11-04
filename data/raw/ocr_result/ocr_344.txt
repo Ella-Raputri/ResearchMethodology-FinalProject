@@ -1,0 +1,35 @@
+JURNAL TEKNIK MESIN
+
+OV
+
+UNIVERSITAS Dil
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3 .undip.ac.id/index.php/jtm
+
+PONEGORO.
+
+Sumy
+Seat
+
+Gambar 7. Assembly Wiring Diagram Komponen Elektrik untuk Gerak Elevasi Azimuth (STM32F103C8T6 A dan B)
+Setelah dilakukan proses pembuatan diagram skematik dan diagram wiring komponen elektrik, maka dapat
+dilanjutkan ke tahap selanjutnya yaitu membuat desain serta pengumpulan alat dan bahan.
+
+3.4 Instalasi Demo Kit
+
+Tahap selanjutnya adalah penginstalasian komponen pada demo kit. Tahap instalasi ini dilakukan dengan merangkai
+perkabelan, penampaahn kapasitor, dan menentukan penempatan komponen elekttronika. Agar memudahkan dalam
+melakukan proses peletakan komponen ini, maka dibuat sebuah design 3D yang memuat desain dari sebelumnya beserta
+peletakan komponen-komponennya. Setelah demo kit selesai dirangkai selanjutnya dilakukan pelabelan dan penamaan, bisa
+dilihat pada Gambar 8.
+
+Gambar 8. Tampilan Instalasi Demo Kit
+
+4. Hasil dan Simulasi
+4.1 Plot Sudut Azimuth dan Elevasi GCS Lab UPT Undip Terhadap Satelit LAPAN A2
+
+Berikut adalah hasil tracking satelit LAPAN A2 dari data n2yo.com dengan GCS adalah lab UPT Undip yang terkini
+yang dapat ditunjukkan pada Gambar 9 merupakan tracking plot azimuth. Kemudian diolah menjadi Gambar 10.
+
+JTM (S-1) — Vol. 11, No. 2, April 2023:125-138 133

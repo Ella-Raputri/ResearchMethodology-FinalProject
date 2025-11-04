@@ -1,0 +1,37 @@
+Jurnal Explore STMIK Mataram Ð Volume 8 No 1 Tahun 2018 ISSN: 2087-894X
+anggota, petugas, transaksi (simpanan,
+penarikan), laporan, dan menu admin.
+Berikut adalah arsiterktur program yang
+dibuat :
+B. Halaman Laporan
+Laporan sistem terdiri dari beberapa jenis
+laporan yang akan di cetak oleh sistem, seperti :
+- Cetak Laporan Harian Peranggota
+- Cetak Laporan Harian Keseluruhan
+- Cetak Laporan Harian
+- Cetak Laporan Perperiode
+Gambar 5. Arsitektur Program
+4. IMPLEMENTASI SISTEM DAN HASIL
+A. Halaman Beranda
+Halaman beranda adalah halaman yang
+pertama muncul setelah berhasil login ke dalam
+sistem. Halaman ini dilengkapi dengan tulisan-
+tulisan yang terdiri dari tentang koperasi sejarah
+koperasi, visi - misi koperasi, dan galeri. Halaman
+beranda memiliki menu utama yang terdiri dari
+data anggota, data petugas, transaksi simpanan,
+transaksi penarikan, dan data laporan harian
+maupun per periode. Jika login sebagai petugas
+maka tampilan halaman beranda pada menu
+utama bagian data petugas tidak ditampilkan, jika
+login sebagai admin maka menu utama bagian
+data petugas akan ditampilkan pada menu
+utama.
+Gambar 7. Halaman Laporan
+C. Flowchart Program
+Pada gambar 8 Berikut adalah flowchart
+program untuk melakukan transaksi simpanan
+pada KSP Harapan Bersama.
+Gambar 6. Halaman Beranda
+Gambar 8. Flowchart Transaksi
+5

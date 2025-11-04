@@ -1,0 +1,69 @@
+JURNAL TEKNIK MESIN
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3 -undip.ac.id/index.php/jtm
+
+PENGEMBANGAN MODEL DAN SMULASI UAV (UNMANNED AREA VEHICLE)
+ANTENA PENJEJAK DRONE PADA PALTFORM BERGERAK
+
+*Majenta Hendi Pratama’, M. Tauvigirrahman 7’, Paryanto”
+'Mahasiswa Jurusan Teknik Mesin Fakultas Teknik, Universitas Diponegoro
+2Dosen Jurusan Teknik Mesin Fakultas Teknik, Universitas Diponegoro
+Jl. Prof. Sudharto, SH., Tembalang-Semarang 50275, Telp. +62247460059
+*E-mail: majentahendipratama@students.undip.ac.id
+
+Abstrak
+
+Perkembangan teknologi angkasa yang sangat cepat dan dinamis sehingga membuat berbagai
+negara berlomba-lomba untuk membuat teknologi kendaraan luar angkasa (Spacecraft. Teknologi satelit
+merupakan teknologi yang sangat penting, karena begitu banyaknya fungsi satelit yang digunakan untuk
+memenuhi kebutuhan informasi manusia seperti satelit penginderaan jarak jauh, satelit pemantau cuaca
+pemanatau cuaca, satelit komunikasi, satelit komunikasi, satelit navigasi, dan satelit militer. Satelit buatan
+berdasarkan ketinggian atau altitude dapat dibedakan menjadi satelit GEO (geostasionery Earth Orbit)
+dengan altitude kurang lebih 36.000 km, MEO (Medium Earh Orbit) dengan altitude 3.000 — 35.000 km,
+dan LEO (Low Earth Orbit) dengan ketinggian kurang dari 3.000 km dan dapat mengelilingi bumi sebanyak
+12-16 kali dalam sehari.
+
+Dengan demikian kita bisa memanfaatkan teknologi satelit yang sudah mengorbit dengan cara
+mentracking dengan harapan bisa mengambil data dar staelit yang ditracking. Dalam penelitian ini kami
+membuat alat demo kit yang bisa menjejak satelit otomatis dengan system inputan berupa posisi GPS GCS,
+NORAD ID satelit dengan data tersebut kita sudah bisa mentrackng satelit yang melintas di atas kita mulai
+dari AOS time hingga LOS time. Dalam proses perancangannya kami instalasi demo kit dari pembuatan
+skema wiring porese perangkaian perkabelan. Setelah system demo kit jadi kami melakukan uji coba padad
+alat demo kit dengan uji statis pada platform dengan mentracking satelit LAPAN A-2, untuk
+mereprenstasikan satelit yang kita tuju kami menggunakan dua konfigurasi sudut azimuth dan sudut elevasi.
+Pada kenyataan uji di lapangan pada alat demo kit terdapat error pada Gerakan azimuth sebesar 5 derajat
+dan elevasi maksimal sebesar 3 derajat
+
+Kata kunci: antenna penjejak; gcs (ground control system); satellite; sudut azimuth dan elevas satelit
+Abstract
+
+The development of space technology is very fast and dynamic, making various countries compete to make
+space vehicle technology. Satellite technology is a very important technology, because so many satellite
+functions are used to meet human information needs such as remote sensing satellites, weather monitoring
+satellites, satellite communications, satellite communications, satellite navigation, and military satellites.
+Artificial satellites based on altitude or altitude can be divided into GEO (Geostationery Earth Orbit)
+satellites with an altitude of approximately 36,000 km, MEO (Medium Earh Orbit) with an altitude of 3,000
+— 35,000 km, and LEO (Low Earth Orbit) with an altitude of less than 3,000 km and It can circle the earth
+12-16 times a day.
+
+That way we can take advantage of satellite technology that is already in orbit by tracking in the hope of
+being able to retrieve data from the satellite being tracked. In this research we made a demo kit tool that
+can track satellites automatically with system input in the form of GPS GCS position, NORAD ID satellites.
+
+With this data, we can track satellites that pass above us from AOS time to LOS time. In the design process,
+
+we installed a demo kit from making a wiringporee wiring diagram. After the system demo kit was finished,
+
+we conducted trials on the demo Kit tool with static tests on the platform by tracking the LAPAN A-2 satellite,
+
+to represent the satellite we were aiming for, we used two configurations of azimuth angles and elevation
+
+angles. In fact, in the field test on the demo kit there is an error in the azimuth movement of 5 degrees and a
+
+maximum elevation of 3 degrees.
+
+Keywords: gcs (ground control system); satellite; satellite azimuth and elevation angles; tracking
+antennas
+
+JTM (S-1) — Vol. 11, No. 2, April 2023:125-138 125

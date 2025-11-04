@@ -1,0 +1,57 @@
+Jurnal Biologi Indonesia 13(1): 61-69 (2017)
+Keragaman Jenis Khamir Penghasil Etanol yang Diisolasi dari Makanan Fermentasi di
+Kepulauan Riau
+(Diversity of Ethanol Producing Yeasts Isolated from Fermented Foods in Riau
+Islands)
+I Nyoman Sumerta & Atit Kanti
+InaCC, Bidang Mikrobiologi, Pusat Penelitian Biologi-LIPI
+Jl. Raya Bogor Jakarta Km 46, Cibinong 16911, Bogor
+Email: atityeast@gmail.com
+Memasukkan: April 2016, Diterima: Agustus 2016
+ABSTRACT
+Information on genetic diversity of fermentative yeast which produce ethanol is very crucial in developing
+biofuel production in Indonesia. Research on ethanol producing yeasts is interest of many scientist. The
+objective of study was to reveal yeast diversity in Indonesian fermented foods that able to produce ethanol. The
+sample of fermented foods were collected in the traditional market in Karimun Besar Island, Kepulauan Riau.
+Yeast isolation was performed using serial dilution with direct plating and enrichment culture with glucose as
+carbon source. Fifteen of isolates were isolated and identified by amplification of D1/D2 region LSU 26S
+rDNA. Its ethanol production characteristic was analyzed base on fermentation activity and measurement with
+gas chromatography for ethanol content. The result revealed that 8 yeast species were found belong to
+Ascomycetous and grouped into 5 clades which are able to produce ethanol. The highest ethanol production
+was obtained by Saccharomyces cerevisiae Y15Kr107 (3.53%) followed by Torulaspora delbrueckii
+Y15Kr104 (1.63%), Saccharomyces cerevisiae Y15Kr093 (1.58%), Candida glabrata Y15Kr110 (1.4%),
+Torulaspora delbrueckii Y15Kr103 (1.29%), Candida glabrata Y15Kr108 (1%), Torulaspora globosa
+Y15Kr094 (0.92%), Kodamaea ohmeri Y15Kr096 (0.61%), and Pichia kudriavsevii Y15Kr106 (0.31%)
+Y15Kr105 (0.21%) Y15Kr109 (0.16%). Other yeasts strains did not produce ethanol but may play different
+role in fermentation process.
+Key words: yeast, fermented food, ethanol, Kepulauan Riau
+ABSTRAK
+Informasi tentang keragaman genetik khamir penghasil etanol di Indonesia sangat penting untuk
+mengembangkan bioenergi di Indonesia. Penelitian khamir penghasil etanol menarik bagi para peneliti. Tujuan
+dari penelitian ini adalah untuk mengungkapkan jenis khamir yang ada pada makanan fermentasi di Indonesia
+yang mampu menghasilkan etanol. Sampel makanan fermentasi diperoleh dari pasar tradisional Pulau Karimun
+Besar, Provinsi Kepulauan Riau. Isolasi khamir dilakukan dengan penanaman langsung melalui pengenceran
+dan menggunakan media pengayaan dari glukosa sebagai sumber karbon. Sebanyak 15 isolat diisolasi dan
+diidentifikasi melalui amplifikasi daerah D1/D2 LSU 26S rDNA. Karakteristik penghasil etanolnya dianalisis
+melalui aktivitas fermentasi dan kadar etanolnya diuji menggunakan kromatografi gas. Hasil yang diperoleh
+yaitu 8 jenis khamir anggota Ascomycetes yang dikelompokkan ke dalam 5 clade mampu menghasilkan etanol.
+Isolat khamir yang mampu menghasilkan etanol paling tinggi yaitu Saccharomyces cerevisiae Y15Kr107
+(3,53%) diikuti oleh Torulaspora delbrueckii Y15Kr104 (1,63%), Saccharomyces cerevisiae Y15Kr093
+(1,58%), Candida glabrata Y15Kr110 (1,4%), Torulaspora delbrueckii Y15Kr103 (1,29%), Candida glabrata
+Y15Kr108 (1%), Torulaspora globosa Y15Kr094 (0,92%), Kodamaea ohmeri Y15Kr096 (0,61%), dan Pichia
+kudriavsevii Y15Kr106 (0,31%); Y15Kr105 (0,21%); Y15Kr109 (0,16%). Sementara isolat khamir lainnya
+tidak menghasilkan etanol namun mungkin memiliki peran yang berbeda dalam proses fermentasi.
+PENDAHULUAN
+Sejak ratusan tahun, khamir telah dimanfaatkan
+sebagai starter untuk membuat berbagai jenis
+makanan dan minuman fementasi beralkohol
+(Steensels et al. 2014) seperti wine, bir, tuak,
+dan tapai. Khamir dalam proses fermentasi
+makanan dan minuman berperan mendegradasi
+substrat untuk membentuk struktur, tekstur serta
+aroma yang dapat menambah nilai gizi
+(Jespersen 2003; Aidoo et al. 2006; Buenrostro-
+Figueroa et al. 2012; Bourdichon et al. 2012;
+Carrau et al. 2015). Peran dari masing-masing
+jenis khamir pada proses fermentasi merupakan
+61

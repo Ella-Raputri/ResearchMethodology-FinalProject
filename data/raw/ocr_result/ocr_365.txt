@@ -1,0 +1,88 @@
+Jurnal Teknologi Elektro, Universitas Mercu
+
+ISSN : 2086-9479
+
+< >
+
+|
+
+Gambar 3.8 Proses keseluruhan
+pengendali lift tiga lantai
+
+Secara garis besar urutan
+perintah pada prototype elevator
+atau lift ini dapat dilihat pada flow
+chart diatas. Mulai dari saat lift
+stand by di lantai tertenu, saat ada
+panggilan melalui tombol-tombol
+lantai, sampai dengan kerja lift
+
+secara keseluruhan.
+
+PENGUJIAN DAN ANALISA
+RANGKAIAN
+Hasil Pengujian Perangkat Keras
+Driver Motor (Motor Shield L298)
+dan Motor DC
+
+Pada pengujian ini juga
+digunakan Arduino Atmega328P
+yang telah dimasukan program,
+untuk memberikan kondisi tertentu
+(high atau low) pada kaki input
+L298 sehingga kedua motor dapat
+bergerak.
+Tabel 4.1 Pengujian Driver Motor
+Shield
+
+STATUS MOTOR | STATUSMOTOR
+PINTU PENGGERAK
+
+ENL | Ni | 1N2 | EN2 | IN3 | INS
+
+Buka (CCW)
+
+I
+Tfifor-f-]- | twp ew
+0 Berhenti stop
+
+7/o0f1 Naik (CCW)
+i{ifo Turn (CW)
+ofofi Berhenti’ stop
+Keterangan..
+CW = Clockwise (searah putaran jarum jam)
+CCW = Counterclockwise (berlawanan arah jarum jam)
+Berdasarkan hasil
+
+pengujian, untuk mengontrol motor
+pintu, jika EN1 dan IN2 juga diberi
+logika 1, maka motor pintu berputar
+searah jarum jam. Putaran ini
+digunakan untuk menggerakan
+motor pintu (pintu membuka).
+Sedangkan jika EN1 dan IN1 diberi
+logika 1 maka motor pintu berputar
+berlawanan arah jarum jam
+(counterclockwise). Putaran ini
+digunakan untuk menggerakan
+motor pintu (pintu§ menutup).
+Selanjutnya untuk menghentikan
+motor pintu (pintu stop), maka
+hanya IN1 saja yang diberi logika
+1.Begitu juga untuk menggerakan
+motor penggerak.
+Pengujian Tombol
+Pengujian
+tombol-tombol dilakukan untuk
+mengetahui apakah rangkaian yang
+
+rangkaian
+
+dibuat telah tersambung dengan
+benar.Berikut adalah program untuk
+
+rangkaian tombol.
+
+Vol.4 No.3 September 2013
+
+107

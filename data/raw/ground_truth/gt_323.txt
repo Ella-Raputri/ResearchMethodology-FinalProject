@@ -1,0 +1,47 @@
+Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+Apabila flowchart yang digambarkan pada gambar 20, jika di-
+Flowchart pada gambar 22, bila di-run akan menghasilkan
+run maka hasilnya akan tampak pada gambar 21, dengan
+yang tampak pada gambar 23.
+catatan jenis kelamin yang di-input-kan = W, yang artinya
+Wanita dan berat badan di-input-kan =155.
+Gambar 23 Perulangan For
+Gambar 21 Menghitung Berat Ideal
+Bila dihitung manual jika inputnya jenis kelaminnya wanita
+H. Error pada Flowgorithm
+dan tinggi badannya 155 adalah sebagai berikut:
+Dalam menggambar flowchart dengan menggunakan
+Berat badan ideal wanita = (tinggi badan - 100)-((tinggi
+flowgorithm, apabila ada salah dalam penulisan atau tidak
+badan-100)*15%
+sesuai dengan ketentuan, maka akan tampil pesan error.
+Berat badan ideal Wanita = (155-100) Ð ((155-100)*15/100)
+Berikut pesan error pada flowgorithm
+= 55 Ð (55*15/100)
+1. Variable Not Declared
+= 55 Ð 8,25
+Pesan error ini disebabkan varibel yang digunakan tidak
+= 46,75
+dideklarasikan. Contoh dari kesalahan Varibel Not
+Kesimpulannya flowchart yang pada gambar 20 yaitu
+Declared dapat dilihat pada gambar 24 di bawah ini:
+menghitung berat badan ideal hasilnya sesuai dengan yang
+diharapkan.
+3. Struktur pengulangan (repetition).
+Struktur pengulangan merupakan pengulangan
+sejumlah aksi yang sama sebanyak jumlah yang
+ditentukan atau kondisi yang diinginkan. Struktur
+perulangan pada flowgorithm ada 3 yaitu do, while dan
+for. Flowchart untuk mencetak angka 1 sampai 5 dengan
+menggunakan for dapat dilihat pada gambar 22
+Gambar 24 Error Variable Not Declared
+Dari gambar flowchart pada gambar 24 terlihat variabel i
+digunakan, tetapi tidak dideklarasikan.
+2. Type Mismatch
+Error Type Mismatch akan muncul, bila tipe data variabel
+yang dideklarasikan tidak sesuai. Contoh flowchart salah
+yang menimbulkan error type mismatch dapat dilihat pada
+gambar 25
+Gambar 22 Perulangan 1 sampai 5 dengan menggunakan for
+62
+p-ISSN: 2337-4055 e-ISSN: 2776-9267

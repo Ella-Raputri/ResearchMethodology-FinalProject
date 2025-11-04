@@ -1,0 +1,66 @@
+Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
+menjadikan elevator atau lift
+semakin baik perkembangannya,
+mulai dari mekanik lift, sistem
+kontrol dan juga keamanannya.
+Sehingga menjadikan elevator atau
+lift adalah satu-satunya alat
+transportasi yang paling aman dan
+cepat di sebuah gedung atau
+bangunan tinggi. Saat ini banyak
+sekali elevator atau lift yang dijual
+di pasaran dengan berbagai merk,
+namun tentu saja harganya tidaklah
+murah. Sistem kontrol pengendali
+elevator atau lift yang digunakan
+pada umumnya menggunakan sistem
+pengendali lift Programmable Logic
+Controller dengan bantuan relay dan
+kontaktor.
+DASAR TEORI
+Sejarah Diciptakannya Elevator
+atau Lift
+Disini peneliti akan
+merancang sebuah prototipe sebagai
+alat peraga yang berfungsi sama
+seperti elevator atau lift yang
+sebenarnya yang digunakan pada
+gedung-gedung bertingkat.
+Perancangan ini akan memudahkan
+dalam memahami bagaimana sistem
+kerja dan pengendalian lift, tentunya
+dengan biaya yang murah, yaitu
+dengan
+menggunakanMikrokontroler
+ARDUINO ATMEGA328P yang
+memiliki kesamaan.
+Elevator atau yang lebih
+akrab dikenal oleh masyarakat luas
+dengan nama lift. Lift adalah salah
+satu alat bantu dalam kehidupan
+manusia yang berfungsi untuk
+mempermudah aktifitas manusia
+yang rutinitasnya lebih sering berada
+didalam gedung-gedung bertingkat.
+Elevator merupakan alat transportasi
+bekerja secara otomatis. Keberadaan
+dari elevator ini merupakan sebagai
+pengganti fungsi dari pada tangga
+dalam mencapai tiap-tiap lantai
+berikutnya pada suatu gedung
+bertingkat, dengan demikian
+keberadaan elevator tidak
+dikesampingkan ini dikarenakan
+dapat mengefisienkan energi dan
+waktu pengguna elevator tersebut.
+Sistem keberadaan elevator dan
+segala kemajuan dan kehandalannya
+tidak serta merta mengalami
+perkembangan perkembangan secara
+bertahap, sejak keberadaannya
+pertama kali dibangun. Sejak
+pertama kali dibangun, sistem
+penggerak elevator pada awal
+perkembangannya dimulai dengan
+cara yang sangat sederhana, yaitu
+Vol.4 No.3 September 2013 101

@@ -1,0 +1,38 @@
+Penerapan Diagram Sebab Akibat (Fishbone Diagram) pada Identifikasi Kerusakan Mekanisme Pengumpan dan
+Penyusuana Standard Operating Procedure Mesin Skrap
+putar menjadi gerak trnalasi ulang alik, pada mekanisme ini terdapat gaya tarik dan
+gaya tekan, sehingga pada pasangan tinggi perlu didesain ulang.
+c. Material . Kualiatas material dan sudut pemotongan tidak sesuai menjadi penyebab
+kerusakan pada mekanisme pengumpan karena proses pemotongan dipengearuhi oleh
+kekerasan, hal ini berakibat pada beban pemotongan yang besar.
+d. Method . Sudut pemotongan tidak sesuai, untuk setiap material berbeda, pemotongan
+tidak sesaui, terhadap parameter proses pemotongan, dan penetuan RPM yang tidak
+sesaui, berakibat kecepatan potong tidak sesuai.
+Hal diatas dapat menjadi penyebab kerusakan pada mekanisme pengumpan karena
+praktikan belum memahami pengoperasian mesin, hal ini terjadi karena buku panduan kurang
+detai
+Menganalisis diagram fishbone
+Hasil Identifikasi detail secara bertingkat penyebab kerusakan untuk melakukan
+analisis kerusakan dan upaya perbaikan pada mekanisme pengumpan mesin skrap dirangkum
+seperti terlihat pada Tabel 1
+Tabel 1 Faktor penyebab dan akar penyebab
+Faktor Penyebab
+Akar
+Penyebab
+Man Kecakapan dan keahlian praktikan N
+Praktikan teledor dan terburu buru N
+Tidak adanya Standard Operating Procedure
+(SOP)
+Y
+Machine Reliabilitas (keandalan mesin) N
+Petunjuk pada mesin N
+Komponen usang Y
+Material Kualitas kekerasan material N
+Method Sudut pemotongan tidak sesuai N
+Teknik pemotongan yang tidak sesuai N
+Penetuan RPM yang tidak sesaui N
+buku panduan kurang detail Y
+Ket: Y = Yes; N = No
+Berikut adalah gambar diagram fishbone berdasarakan hasil Identifikasi detail secara
+bertingkat penyebab kerusakan pada mekanisme pengumpan mesin skrap
+144 MARS - VOLUME 3 NOMOR 1, TAHUN 2025

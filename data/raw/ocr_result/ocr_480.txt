@@ -1,0 +1,85 @@
+Zein dkk
+
+Jenis Kelamin
+
+Selain dilakukan identifikasi jenis kelamin
+berdasarkan morfologi, dilakukan juga identifikasi
+jenis kelamin berdasar teknik DNA untuk melakukan
+koreksi kemungkinan terjadi kesalahan. Hasil
+identifikasi jenis kelamin dengan teknik DNA
+secara lengkap dapat dilihat pada Gambar 4.
+
+Karakteristik Fenotipik
+
+Hasil kajian karaktersitik fenotipik dibandingkan
+dengan hasil kajian DNA terdapat kesamaan dan
+perbedaan. Hasil yang sama dalam menentukan
+spesies dan jenis kelamin dapat dilihat pada Tabel
+3, sedangkan kajian fenotipik yang berhasil dikoreksi
+dengan hasil kajian DNA untuk menentukan spesies
+dan jenis kelamin dapat dilihat pada Tabel 4.
+
+0.01
+
+67
+
+C.galerita.320835
+
+87 | C-galerita.330810
+
+Cacatua galerita. JF414289.1
+Cacatua galerita. HQ616636.1
+Cacatua galerita. JF414290.1
+
+Karakter morfologi yang diukur pada C.
+galerita triton, yaitu meliputi berat tubuh,
+panjang tubuh, dan panjang kepala-paruh (hea-
+dbill) dapat dilihat pada Tabel 5, sedangkan hasil
+statistik Anova dengan SPSS 16.0 terhadap jenis
+kelamin C. galerita triton (Tabel 6). Berdasarkan hasil
+statistik menunjukkan antara C. galerita triton
+jantan dan betina menunjukkan tidak ada perbedaan
+yang signifikan (F hitung < F Tabel) pada tingkat
+kepercayaan 95 % dengan parameter yaitu berat
+badan (F Hitung 1,721); panjang total (F Hitung
+3,844) dan panjang kepala-paruh (F Hitung 3,837).
+Namun demikian berdasarkan rataan ketiga
+parameter tersebut menunjukkan pola bahwa C.
+galerita triton jantan lebih besar daripada betina
+seperti terlihat pada Gambar 1.
+
+C.galerita.330825
+C.galerita.320824
+C.galerita.330827
+C.galerita.330824
+C.galerita.330829
+C.galerita.330826
+C.galerita.330828
+C.galerita.330834
+C.galerita.330823
+C.galerita.330331
+C.galerita.330807
+C.galerita.330808
+C.galerita.320832
+C.galerita.330822
+
+C.galerita.202753
+C.galerita.330830
+
+C.galerita.330836
+
+P.aterrimus.330833
+
+100 | P.aterrimus.330832
+
+Gambar 3. Pohon filogeni C. galerita triton, C. galerita (Australia), dan P.aterrimus yang dilepas ke habitat
+alam di Kawasan Cagar Alam Cyclops, Jayapura, Papua pada tanggal 17 Desember 2015. Konstruksi
+pohon filogeni menggunakan jarak genetik K2P dengan metoda Neighbour Joining.
+
+Gambar 4. Elektroforesis produk PCR. M: Marker DNA (100 pasa basa); betina (Q) ditunjukkan dengan dua
+pita yakni Z yang berukuran sekitar 450 pasang basa dan W yang berukuran sekitar 650 pasang basa,
+sedangkan sampel 3 jenis kelamin jantan (3) ditunjukkan dengan munculnya satu pita Z yang berukuran
+
+650 pasang basa.
+
+164

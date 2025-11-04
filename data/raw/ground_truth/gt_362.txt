@@ -1,0 +1,56 @@
+Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
+bagian software opensource yang
+memungkinkan kita untuk
+memprogram bahasa Arduino dalam
+bahasa C. IDE memungkinkan kita
+untuk menulis sebuah program
+secara step by step kemudian
+instruksi tersebut di upload ke papan
+Arduino.
+Gambar 2.6 Tampilan Program IDE
+(Integrated Development
+Environtment)
+¥ Bagian masukan
+¥ Bagian pengendali / controller
+¥ Bagian keluaran
+Bagian masukan bertugas
+memberikan segala informasi
+mengenai kondisi yang sedang
+terjadi pada lift kepada controller,
+untuk selanjutnya diolah dan dikirim
+ke bagian keluaran, untuk
+selanjutnya dapat menggerakkan
+motor pintu dan motor penggerak.
+Diagram Blok
+Seperti yang telah
+dijelaskan sebelumnya, bahwa
+controller dalam hal ini ATMEGA
+328P berfungsi sebagai otak dari
+keseluruhan sistem yang mengatur
+kinerja secara keseluruhan. Diagram
+blok dapat dilihat pada gambar 3.1
+PROSES PERANCANGAN
+Tinjauan Umum
+Perancangan prototype
+elevator atau lift tiga lantai ini
+mengacu pada lift-lift yang telah ada
+secara umum dengan tujuan agar
+hasil perancangan bisa menyerupai
+lift yang sebenarnya. Namun
+demikian ada beberapa fungsi yang
+tidak diterapkan karena keterbatasan
+dalam segala hal mengenai sistem
+ini.
+Secara garis besar sistem
+prototype elevator atau lift ini terdiri
+dari tiga bagian utama, yaitu :
+Gambar 3.1 Blok Diagram Sistem
+Berdasarkan masukan yang
+terdiri dari tombol, sensor dan limit
+switch masing-masing adalah
+memberi perintah yang kemudian
+diolah melalui mikrokontroller
+Arduino Atmega 328P, sehingga
+menghasilkan keluaran motor pintu
+dan motor penggerak sesuai dengan
+Vol.4 No.3 September 2013 104

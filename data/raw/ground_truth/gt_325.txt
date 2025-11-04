@@ -1,0 +1,57 @@
+Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+1. Untuk membuktikan kebenaran dari flowchart yang
+digambar tidak diperlukan bahasa pemrograman. Dengan
+menggunakan flowgorithm gambar flowchart yang dibuat
+bisa langsung dikonversi ke banyak bahasa pemrograman.
+2. Dalam menggambar flowchart harus mengikuti aturan dari
+simbol-simbol yang baku. Dengan menggunakan
+flowgorithm dapat dipastikan simbol yang digunakan pasti
+baku.
+3. Kesalahan tata penulisan (sintak) pada saat menggambar
+flowchart sangat mungkin terjadi, namun dengan
+menggunakan flowgorithm, gambar flowchart dapat di
+complie, sehingga kesalahan dalam penulisan dapat
+terdeteksi, sehingga pengguna dapat dengan mudah
+memperbaikinya
+4. Gambar yang dihasilkan lebih rapi bila menggunakan
+flowgorithm.
+REFERENSI
+[1] Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford
+Stein, Introduction to Algorithms, The MIT Press; 3rd edition July 31,
+2009
+[2] Lamhot Sitorus, Algoritma dan Pemrograman, Andi, Yogyakarta, 2015
+[3] Flowgorithm. http://www.flowgorithm.org/
+[4] Abdul Kadir, Dasar Logika Pemrograman Komputer, Cetakan Kedua.
+Elexmedia Komputindo, 2018
+[5] Donald E. Knuth, The art of computer programming: Vol, Addison-
+Wesley Publishing Company, 1973
+[6] Rinaldi Munir, Leony Lidya, Algoritma dan pemrograman : dalam bahasa
+pascal, C, dan C++, Edisi keenam, Cekakan Pertama,
+Bandung:Informatika,2016
+[7] Jerry FitzGerald, Ardra FitzGerald, Warren D. Stalling, Fundamentals of
+System Analysis, Edisi kedua, New York, John Willey & Sons, 1981
+[8] Jogiyanto HM, Analisa dan Desain, Andi, Yogyakarta, 1989
+[9] Gun-gun Maulana, Pembelajaran Dasar Algoritma dan pemrograman
+Menggunakan El-Goritma Berbasis Web, Jurnal Teknik Mesin(JTK),
+Vol.06, Edisi Spesial 2017
+[10] Allen Marga Retta, Asnurul Isroqmi, Tika Dwi Nopriyanti, Pengaruh
+Penerapan Algoritma Terhadap Pembelajaran Pemrograman Komputer,
+Jurnal Inovasi Pendidikan Matematika (Indiktika) Vol2, No2, Hl. 126-
+135, Palembang, 2020
+[11] Abdi Nugroho, Pengenalan Algoritma Pemrograman Melalui Simulasi
+Robot, 15th Seminar Nasional Informatika, Prosiding Semnasif,
+Yogyakarta, 2022
+[12] Yuni Sugiarti, Memahami Algoritma Pemrograman (Analisis
+Pembelajaran dalam Implementasi Software), Jurnal Teknologi
+Pendidikan (Teknodik), No. 16/IX/TEKNODIK/JUNI/2005, Tangerang
+Selatan, 2005.
+[13] . Flowcart,https://ilmukomputer.org/wpcontent/uploads/2009/06/anharku-
+flowchart.pdf
+[14] Lina Firliana, M.Kom dkk, Algoritma dan Pemrograman C++, Aji Media
+Nusantaran, Nganjuk, 2018
+[15] Helodoc, https://www.halodoc.com/artikel/catat-begini-cara-hitung-berat-
+badan-ideal-yang-tepat
+[16] Renaldi Munir dkk, Algoritma dan Pemrograman Edisi Keenam, Cetakan
+Pertama, Informatika Bandung, 2016
+64
+p-ISSN: 2337-4055 e-ISSN: 2776-9267

@@ -1,0 +1,30 @@
+Penerapan Diagram Sebab Akibat (Fishbone Diagram) pada Identifikasi Kerusakan Mekanisme Pengumpan dan
+Penyusuana Standard Operating Procedure Mesin Skrap
+4. Gambar 7 (a) Penyekrapan alur pasak; (b) Penyekrapan alur
+Prosedur Perawatan sebelum dan sesudah Pemakaian Mesin Skrap
+Berikut adalah prosedur perawatan sebelum dan sesudah penggunaan mesin skrap.
+a. Kondisi sumber tenaga berfungsi baik, semua indikator berfungsi baik.
+b. Kondisi elemen-elemen mesin terpasang pada tempatnya dan berfungsi sebagai
+unsur gerak mekanis untuk masing-masing keperluan, perangkat/perlengkapan
+(attachment) untuk mesin skrap
+c. Lakukan pemanasan (running maintenance) selama ± 5 s/d 10 menit, agar semua
+komponen menyesuaikan gerakan dan semua pelumas yang ada di bak pelumas sudah
+beredar melumasi elemen-elemen mesin.
+d. Jika pemanasan sudah cukup, pasang/jepit benda kerja pada ragum yang sudah
+terpasang pada mesin, dengan posisi sesuai dengan bentuk pengerjaan, dan
+yakinkan bahwa benda kerja sudah terpasang.
+e. f. Memilih elemen perangkat pengerjaan (attachment) yang akan dipakai.
+Kemudian pasang alat potong pada pemegangnya (tool post), kemudian lakukan setting
+dengan benda kerjanya.
+g. Melakukan proses pemotongan, dengan mengatur pemakanan (feed), putaran mesin
+(rpm) sesuai dengan kecepatan potong, serta kedalaman pemakanan (depth of cut).
+h. Untuk menjaga keawetan mesin, pada waktu bekerja diwajibkan selalu
+memeriksa/memberi pelumas pada elemen mesin yang bergerak.
+i. Jika sudah selesai digunakan mesin dibersihkan dari segala kotoran ,kemudian
+lumasi bagian-bagian yang perlu agar terbebas dari korosi yang diakibatkan oleh
+oksidasi.
+5. KESIMPULAN DAN SARAN
+Berdasarkan analisa dengan menggunakan fishbone diagram dan bagan diagram alir
+penelitian/pengamatan yang dilakukan dapat diambil pandangan penyebab kerusakan
+mekanisme penggerak pemakanan pada mesin Skrap, adalah sebagai berikut: Komponen usang
+150 MARS - VOLUME 3 NOMOR 1, TAHUN 2025

@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract v5.5.0.20241111' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/dataset\800bbe52-14.png"; bbox 0 0 863 1301; ppageno 0; scan_res 96 96'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 137 24 270 42">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 137 24 270 42">
+     <span class='ocr_caption' id='line_1_1' title="bbox 137 24 270 42; baseline 0 0; x_size 23.279999; x_descenders 5.2799997; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_1' title='bbox 137 24 211 42; x_wconf 92'>Penulis</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 219 24 270 42; x_wconf 93'>Aktif</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 20 349 385 366">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 20 349 385 366">
+     <span class='ocr_line' id='line_1_2' title="bbox 20 349 385 366; baseline 0 -4; x_size 16; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_3' title='bbox 20 350 88 362; x_wconf 90'>Gambar</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 93 350 115 362; x_wconf 93'>4.3</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 121 350 169 366; x_wconf 93'>Topik</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 172 350 213 362; x_wconf 92'>Riset</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 218 350 281 362; x_wconf 96'>Analisis</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 286 350 325 366; x_wconf 96'>pada</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 331 349 385 362; x_wconf 96'>Twitter</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 4 404 206 420">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 4 404 206 420">
+     <span class='ocr_line' id='line_1_3' title="bbox 4 404 206 420; baseline 0 -4; x_size 16; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_10' title='bbox 4 404 27 416; x_wconf 88'>4.6</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 37 404 112 416; x_wconf 90'>Publikasi</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 117 404 206 420; x_wconf 83'>Terbanyak</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 50 435 70 586">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 50 435 70 586">
+     <span class='ocr_line' id='line_1_4' title="bbox 50 435 70 446; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_13' title='bbox 50 435 70 446; x_wconf 79'>3.5</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 63 458 70 469; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_14' title='bbox 63 458 70 469; x_wconf 95'>3</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 50 482 70 493; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_15' title='bbox 50 482 70 493; x_wconf 94'>25</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 63 505 70 516; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_16' title='bbox 63 505 70 516; x_wconf 95'>2</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 51 529 70 540; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_17' title='bbox 51 529 70 540; x_wconf 95'>15</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 64 552 70 563; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_18' title='bbox 64 552 70 563; x_wconf 95'>1</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 50 575 70 586; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_19' title='bbox 50 575 70 586; x_wconf 69'>0.5</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_5' title="bbox 81 615 393 722"></div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 217 744 275 759">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 217 744 275 759">
+     <span class='ocr_caption' id='line_1_11' title="bbox 217 744 275 759; baseline 0 -3; x_size 24.25; x_descenders 5.5; x_ascenders 6.25">
+      <span class='ocrx_word' id='word_1_20' title='bbox 217 744 275 759; x_wconf 91'>publikasi</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 69 784 336 800">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 69 784 336 800">
+     <span class='ocr_line' id='line_1_12' title="bbox 69 784 336 800; baseline 0 -4; x_size 16; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_21' title='bbox 69 784 136 796; x_wconf 90'>Gambar</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 141 784 164 796; x_wconf 92'>4.4</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 168 784 243 796; x_wconf 91'>Publikasi</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 248 784 336 800; x_wconf 92'>Terbanyak</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 2 826 402 993">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 2 826 402 993">
+     <span class='ocr_line' id='line_1_13' title="bbox 44 826 401 842; baseline 0 -3; x_size 25.439024; x_descenders 5.5; x_ascenders 6.6463413">
+      <span class='ocrx_word' id='word_1_25' title='bbox 44 827 105 839; x_wconf 86'>Tercatat</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 110 826 156 839; x_wconf 93'>dalam</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 161 826 204 839; x_wconf 88'>kurun</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 209 826 254 839; x_wconf 91'>waktu</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 261 827 268 839; x_wconf 95'>5</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 274 826 319 842; x_wconf 80'>tahun,</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 325 826 354 839; x_wconf 96'>dari</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 359 826 401 839; x_wconf 69'>tahun</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 4 847 401 864; baseline 0 -4; x_size 25.439024; x_descenders 5.5; x_ascenders 6.6463413">
+      <span class='ocrx_word' id='word_1_33' title='bbox 4 848 41 860; x_wconf 92'>2014</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 55 847 105 864; x_wconf 86'>hingga</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 120 848 156 860; x_wconf 93'>2018</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 170 847 230 864; x_wconf 92'>terdapat</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 245 847 298 864; x_wconf 96'>banyak</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 312 848 351 860; x_wconf 96'>event</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 365 851 401 864; x_wconf 96'>yang</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 4 869 400 886; baseline 0 -4; x_size 25.439024; x_descenders 5.5; x_ascenders 6.6463413">
+      <span class='ocrx_word' id='word_1_40' title='bbox 4 869 137 886; x_wconf 86'>mempublikasikan</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 143 869 175 882; x_wconf 92'>riset</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 182 869 254 886; x_wconf 88'>mengenai</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 261 869 314 882; x_wconf 91'>deteksi</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 320 869 359 886; x_wconf 91'>topik</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 365 869 400 886; x_wconf 96'>pada</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 4 890 401 907; baseline 0 -4; x_size 25.439024; x_descenders 5.5; x_ascenders 6.6463413">
+      <span class='ocrx_word' id='word_1_46' title='bbox 4 891 56 903; x_wconf 62'>twitter.</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 70 890 159 903; x_wconf 88'>IEEE/ACM</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 169 890 268 903; x_wconf 86'>International</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 283 890 368 907; x_wconf 83'>Conference</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 382 894 401 903; x_wconf 83'>on</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 2 912 402 929; baseline 0 -4; x_size 25.439024; x_descenders 5.5; x_ascenders 6.6463413">
+      <span class='ocrx_word' id='word_1_51' title='bbox 2 912 75 925; x_wconf 94'>Advances</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 84 913 98 925; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 106 912 153 925; x_wconf 96'>Social</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 160 912 230 925; x_wconf 95'>Networks</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 237 912 303 929; x_wconf 95'>Analysis</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 310 912 339 925; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 346 913 402 929; x_wconf 96'>Mining</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 4 933 401 950; baseline 0 -4; x_size 25.439024; x_descenders 5.5; x_ascenders 6.6463413">
+      <span class='ocrx_word' id='word_1_58' title='bbox 4 933 96 950; x_wconf 92'>(ASONAM)</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 109 933 242 950; x_wconf 88'>mempublikasikan</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 255 934 263 946; x_wconf 89'>3</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 275 933 315 950; x_wconf 88'>judul</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 327 933 401 950; x_wconf 88'>penelitian</span>
+     </span>
+     <span class='ocr_line' id='line_1_19' title="bbox 4 955 401 972; baseline 0 -4; x_size 25.439024; x_descenders 5.5; x_ascenders 6.6463413">
+      <span class='ocrx_word' id='word_1_63' title='bbox 4 955 31 968; x_wconf 91'>dan</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 43 955 137 972; x_wconf 91'>Proceedings</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 149 955 168 972; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 176 955 199 968; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 211 956 265 968; x_wconf 96'>SNOW</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 273 956 312 968; x_wconf 96'>Data</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 325 955 401 972; x_wconf 96'>Challenge</span>
+     </span>
+     <span class='ocr_line' id='line_1_20' title="bbox 4 976 280 993; baseline 0 -4; x_size 25.439024; x_descenders 5.5; x_ascenders 6.6463413">
+      <span class='ocrx_word' id='word_1_70' title='bbox 4 976 137 993; x_wconf 84'>mempublikasikan</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 142 977 149 989; x_wconf 96'>3</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 154 976 193 993; x_wconf 85'>judul</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 198 976 280 993; x_wconf 85'>penelitian..</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 2 1020 402 1293">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 4 1020 145 1032">
+     <span class='ocr_line' id='line_1_21' title="bbox 4 1020 145 1032; baseline 0 0; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_74' title='bbox 4 1020 27 1032; x_wconf 53'>4.7.</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 43 1020 145 1032; x_wconf 89'>Pembahasan</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 2 1040 402 1293">
+     <span class='ocr_line' id='line_1_22' title="bbox 37 1040 400 1057; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_76' title='bbox 37 1040 71 1053; x_wconf 89'>Dari</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 81 1041 99 1053; x_wconf 89'>50</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 109 1040 171 1056; x_wconf 92'>literatur,</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 182 1040 263 1057; x_wconf 92'>didapatkan</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 273 1041 291 1053; x_wconf 86'>39</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 299 1040 336 1057; x_wconf 86'>jenis</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 345 1040 400 1053; x_wconf 88'>metode</span>
+     </span>
+     <span class='ocr_line' id='line_1_23' title="bbox 4 1062 401 1079; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_83' title='bbox 4 1062 56 1075; x_wconf 25'>deteksi</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 79 1062 118 1079; x_wconf 49'>topik</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 139 1062 176 1079; x_wconf 49'>yaitu</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 199 1063 237 1075; x_wconf 60'>Term</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 259 1063 401 1079; x_wconf 48'>Frequency-Inverse</span>
+     </span>
+     <span class='ocr_line' id='line_1_24' title="bbox 3 1083 402 1100; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_88' title='bbox 3 1084 81 1096; x_wconf 96'>Document</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 92 1084 173 1100; x_wconf 91'>Frequency</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 186 1083 260 1100; x_wconf 84'>(TF-IDF),</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 272 1084 321 1096; x_wconf 96'>Latent</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 333 1083 402 1096; x_wconf 96'>Dirichlet</span>
+     </span>
+     <span class='ocr_line' id='line_1_25' title="bbox 2 1105 401 1122; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_93' title='bbox 2 1105 81 1118; x_wconf 96'>Allocation</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 94 1105 148 1122; x_wconf 95'>(LDA),</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 162 1106 203 1122; x_wconf 92'>Topic</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 215 1105 266 1120; x_wconf 92'>Sketch,</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 282 1106 317 1118; x_wconf 96'>User</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 329 1105 401 1122; x_wconf 96'>Temporal</span>
+     </span>
+     <span class='ocr_line' id='line_1_26' title="bbox 3 1126 401 1143; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_99' title='bbox 3 1127 63 1139; x_wconf 85'>Mixture</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 85 1126 142 1143; x_wconf 85'>(UTM),</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 165 1126 283 1143; x_wconf 93'>Crowdsourcing,</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 307 1127 343 1139; x_wconf 86'>Time</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 366 1127 401 1139; x_wconf 71'>User</span>
+     </span>
+     <span class='ocr_line' id='line_1_27' title="bbox 3 1148 401 1165; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_104' title='bbox 3 1149 78 1161; x_wconf 77'>Sentiment</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 110 1149 149 1161; x_wconf 35'>LDA</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 181 1148 277 1165; x_wconf 35'> (TUS-LDA),</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 293 1139 304 1171; x_wconf 32'>—</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 310 1149 401 1165; x_wconf 32'>Expactation</span>
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 3 1169 399 1186; baseline 0.003 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_109' title='bbox 3 1170 106 1182; x_wconf 89'>Maximization</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 122 1169 166 1186; x_wconf 96'>(EM),</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 181 1170 243 1182; x_wconf 96'>Rumour</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 256 1170 329 1182; x_wconf 86'>Detection</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 344 1170 399 1186; x_wconf 86'>System,</span>
+     </span>
+     <span class='ocr_line' id='line_1_29' title="bbox 3 1191 401 1208; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_114' title='bbox 3 1192 64 1208; x_wconf 96'>Support</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 77 1192 125 1204; x_wconf 96'>Vector</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 136 1191 202 1204; x_wconf 96'>Machine</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 214 1191 270 1208; x_wconf 96'>(SVM),</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 282 1192 341 1204; x_wconf 96'>Mixture</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 353 1191 401 1204; x_wconf 96'>Model</span>
+     </span>
+     <span class='ocr_line' id='line_1_30' title="bbox 2 1212 400 1229; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_120' title='bbox 2 1212 80 1229; x_wconf 92'>Approach,</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 95 1213 147 1225; x_wconf 89'>Naives</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 161 1212 206 1229; x_wconf 90'>bayes,</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 221 1212 283 1225; x_wconf 96'>Random</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 297 1213 347 1225; x_wconf 96'>Forest</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 361 1212 400 1229; x_wconf 94'>(RF),</span>
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 3 1234 401 1251; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_126' title='bbox 3 1235 56 1247; x_wconf 93'>Stream</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 73 1235 129 1251; x_wconf 93'>Corpus,</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 147 1234 203 1247; x_wconf 96'>On-line</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 218 1235 257 1247; x_wconf 93'>LDA</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 272 1234 340 1251; x_wconf 92'>(OLDA),</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 355 1235 401 1247; x_wconf 96'>Micro</span>
+     </span>
+     <span class='ocr_line' id='line_1_32' title="bbox 5 1255 401 1272; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_132' title='bbox 5 1255 85 1272; x_wconf 95'>Clustering,</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 101 1256 143 1268; x_wconf 89'>Burst</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 157 1255 217 1270; x_wconf 89'>Method,</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 233 1256 335 1272; x_wconf 92'>Non-negative</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 350 1256 401 1268; x_wconf 96'>Matrix</span>
+     </span>
+     <span class='ocr_line' id='line_1_33' title="bbox 3 1276 401 1293; baseline 0 -4; x_size 24.474138; x_descenders 5.5; x_ascenders 6.3247128">
+      <span class='ocrx_word' id='word_1_137' title='bbox 3 1277 105 1289; x_wconf 93'>Factorization</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 113 1276 170 1293; x_wconf 75'>(NMF),</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 178 1277 220 1293; x_wconf 96'>Topic</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 228 1276 278 1293; x_wconf 95'>Graph,</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 288 1277 350 1293; x_wconf 96'>Concept</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 356 1277 401 1293; x_wconf 96'>Space</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_10' title="bbox 0 0 404 336"></div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 452 7 853 1054">
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 453 7 852 281">
+     <span class='ocr_line' id='line_1_34' title="bbox 453 7 851 24; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_143' title='bbox 453 8 566 24; x_wconf 94'>Representation</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 607 7 658 24; x_wconf 60'>(CSR),</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 698 8 767 20; x_wconf 41'>Semantic</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 806 8 851 24; x_wconf 27'>Space</span>
+     </span>
+     <span class='ocr_line' id='line_1_35' title="bbox 453 28 851 45; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_147' title='bbox 453 29 566 45; x_wconf 91'>Representation</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 587 28 636 45; x_wconf 91'>(SSR),</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 656 29 714 45; x_wconf 92'>Density</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 732 28 779 41; x_wconf 78'>Based</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 797 28 851 45; x_wconf 78'>Spatial</span>
+     </span>
+     <span class='ocr_line' id='line_1_36' title="bbox 455 50 851 67; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_152' title='bbox 455 50 534 67; x_wconf 93'>Clustering</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 541 50 632 67; x_wconf 92'>(DBSCAN),</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 640 51 679 63; x_wconf 96'>Joint</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 687 50 773 67; x_wconf 95'>Complexity,</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 782 51 851 67; x_wconf 83'>Dynamic</span>
+     </span>
+     <span class='ocr_line' id='line_1_37' title="bbox 455 71 851 88; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_157' title='bbox 455 72 497 88; x_wconf 85'>Topic</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 503 71 551 84; x_wconf 96'>Model</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 558 71 615 88; x_wconf 93'>(DTM),</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 622 72 692 84; x_wconf 89'>K-Means</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 699 71 780 88; x_wconf 96'>Clustering,</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 788 72 851 84; x_wconf 95'>Extreme</span>
+     </span>
+     <span class='ocr_line' id='line_1_38' title="bbox 453 93 849 110; baseline 0.003 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_163' title='bbox 453 94 524 110; x_wconf 84'>Learning</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 543 93 609 106; x_wconf 83'>Machine</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 631 93 686 110; x_wconf 90'>(ELM),</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 708 94 786 106; x_wconf 90'>Document</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 806 94 849 108; x_wconf 96'>Pivot,</span>
+     </span>
+     <span class='ocr_line' id='line_1_39' title="bbox 453 114 850 131; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_168' title='bbox 453 115 535 131; x_wconf 94'>Dictionary</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 540 115 612 131; x_wconf 96'>Learning,</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 620 114 699 127; x_wconf 96'>Real-Time</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 705 114 793 127; x_wconf 96'>Framework</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 800 114 850 131; x_wconf 95'>(RTE),</span>
+     </span>
+     <span class='ocr_line' id='line_1_40' title="bbox 453 136 851 153; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_173' title='bbox 453 136 519 153; x_wconf 42'>Singular’</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 539 136 580 149; x_wconf 66'>Value</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 598 137 702 153; x_wconf 41'>Decmposition</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 722 136 775 153; x_wconf 92'>(SVD),</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 794 136 851 149; x_wconf 92'>Formal</span>
+     </span>
+     <span class='ocr_line' id='line_1_41' title="bbox 455 157 851 174; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_178' title='bbox 455 158 517 174; x_wconf 95'>Concept</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 529 157 594 174; x_wconf 95'>Analysis</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 609 157 661 174; x_wconf 96'>(FCA),</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 675 158 715 174; x_wconf 96'>Deep</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 729 157 777 174; x_wconf 96'>Belief</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 786 157 851 170; x_wconf 96'>Network</span>
+     </span>
+     <span class='ocr_line' id='line_1_42' title="bbox 454 178 851 195; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_184' title='bbox 454 178 509 195; x_wconf 91'>(DBN),</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 520 178 599 191; x_wconf 96'>Real-Time</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 610 182 637 191; x_wconf 93'>non</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 648 179 726 191; x_wconf 91'>Parametic</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 737 178 788 195; x_wconf 96'>(RTP),</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 800 178 851 191; x_wconf 96'>Global</span>
+     </span>
+     <span class='ocr_line' id='line_1_43' title="bbox 454 200 852 217; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_190' title='bbox 454 200 483 213; x_wconf 95'>and</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 496 200 540 213; x_wconf 95'>Local</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 556 201 597 217; x_wconf 94'>Topic</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 612 200 661 213; x_wconf 93'>Model</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 676 200 745 217; x_wconf 49'>(GLTM),</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 761 201 802 217; x_wconf 95'>Spam</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 817 201 852 213; x_wconf 95'>Post</span>
+     </span>
+     <span class='ocr_line' id='line_1_44' title="bbox 453 221 849 238; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_197' title='bbox 453 222 529 236; x_wconf 96'>Detection,</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 541 221 579 238; x_wconf 96'>High</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 592 221 638 238; x_wconf 89'>Utility</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 647 222 704 234; x_wconf 89'>Pattern</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 715 222 770 238; x_wconf 93'>Mining</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 780 221 849 238; x_wconf 91'>(HUPM),</span>
+     </span>
+     <span class='ocr_line' id='line_1_45' title="bbox 453 243 850 260; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_203' title='bbox 453 244 537 258; x_wconf 89'>BN-Grams,</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 546 244 588 260; x_wconf 95'>Topic</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 593 244 666 256; x_wconf 96'>Detection</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 673 244 713 260; x_wconf 95'>using</span>
+      <span class='ocrx_word' id='word_1_207' title='bbox 717 244 756 256; x_wconf 95'>AGF</span>
+      <span class='ocrx_word' id='word_1_208' title='bbox 761 243 815 260; x_wconf 93'>(TDA),</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 821 244 850 256; x_wconf 92'>FP-</span>
+     </span>
+     <span class='ocr_line' id='line_1_46' title="bbox 453 264 663 281; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_210' title='bbox 453 265 517 279; x_wconf 93'>‘Streams,</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 524 264 550 277; x_wconf 95'>dan</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 556 265 593 277; x_wconf 96'>Joint</span>
+      <span class='ocrx_word' id='word_1_213' title='bbox 603 254 663 287; x_wconf 95'>Ranking.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 452 286 853 604">
+     <span class='ocr_line' id='line_1_47' title="bbox 487 286 850 303; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_214' title='bbox 487 286 521 299; x_wconf 93'>Dari</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 526 286 568 299; x_wconf 93'>ke-39</span>
+      <span class='ocrx_word' id='word_1_216' title='bbox 573 286 609 303; x_wconf 93'>jenis</span>
+      <span class='ocrx_word' id='word_1_217' title='bbox 615 286 670 299; x_wconf 92'>metode</span>
+      <span class='ocrx_word' id='word_1_218' title='bbox 676 286 728 299; x_wconf 93'>deteksi</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 734 286 773 303; x_wconf 93'>topik</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 778 290 815 303; x_wconf 96'>yang</span>
+      <span class='ocrx_word' id='word_1_221' title='bbox 820 286 850 302; x_wconf 96'>ada,</span>
+     </span>
+     <span class='ocr_line' id='line_1_48' title="bbox 454 307 849 324; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_222' title='bbox 454 307 514 324; x_wconf 93'>terdapat</span>
+      <span class='ocrx_word' id='word_1_223' title='bbox 520 307 547 324; x_wconf 93'>tiga</span>
+      <span class='ocrx_word' id='word_1_224' title='bbox 553 307 608 320; x_wconf 92'>metode</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 614 311 651 324; x_wconf 96'>yang</span>
+      <span class='ocrx_word' id='word_1_226' title='bbox 656 307 703 324; x_wconf 96'>paling</span>
+      <span class='ocrx_word' id='word_1_227' title='bbox 710 307 762 324; x_wconf 93'>banyak</span>
+      <span class='ocrx_word' id='word_1_228' title='bbox 768 307 849 324; x_wconf 93'>digunakan.</span>
+     </span>
+     <span class='ocr_line' id='line_1_49' title="bbox 454 329 851 346; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_229' title='bbox 454 329 498 342; x_wconf 66'>Posisi</span>
+      <span class='ocrx_word' id='word_1_230' title='bbox 512 331 573 346; x_wconf 66'>pertama</span>
+      <span class='ocrx_word' id='word_1_231' title='bbox 587 329 624 342; x_wconf 86'>ialah</span>
+      <span class='ocrx_word' id='word_1_232' title='bbox 638 329 692 342; x_wconf 91'>metode</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 721 330 770 342; x_wconf 74'>Latent</span>
+      <span class='ocrx_word' id='word_1_234' title='bbox 783 329 851 342; x_wconf 94'>Dirichlet</span>
+     </span>
+     <span class='ocr_line' id='line_1_50' title="bbox 452 350 851 367; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_235' title='bbox 452 350 531 363; x_wconf 95'>Allocation</span>
+      <span class='ocrx_word' id='word_1_236' title='bbox 543 350 593 367; x_wconf 94'>(LDA)</span>
+      <span class='ocrx_word' id='word_1_237' title='bbox 604 354 640 367; x_wconf 92'>yang</span>
+      <span class='ocrx_word' id='word_1_238' title='bbox 651 350 729 367; x_wconf 90'>digunakan</span>
+      <span class='ocrx_word' id='word_1_239' title='bbox 740 350 772 363; x_wconf 95'>oleh</span>
+      <span class='ocrx_word' id='word_1_240' title='bbox 785 351 801 363; x_wconf 88'>12</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 811 350 851 367; x_wconf 88'>judul</span>
+     </span>
+     <span class='ocr_line' id='line_1_51' title="bbox 453 372 853 389; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_242' title='bbox 453 372 531 389; x_wconf 75'>penelitian.</span>
+      <span class='ocrx_word' id='word_1_243' title='bbox 538 373 638 389; x_wconf 82'>Penggunaaan</span>
+      <span class='ocrx_word' id='word_1_244' title='bbox 643 372 698 385; x_wconf 89'>metode</span>
+      <span class='ocrx_word' id='word_1_245' title='bbox 704 373 743 385; x_wconf 93'>LDA</span>
+      <span class='ocrx_word' id='word_1_246' title='bbox 749 372 796 385; x_wconf 86'>dinilai</span>
+      <span class='ocrx_word' id='word_1_247' title='bbox 802 372 853 385; x_wconf 88'>efektif</span>
+     </span>
+     <span class='ocr_line' id='line_1_52' title="bbox 454 394 851 411; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_248' title='bbox 454 394 481 407; x_wconf 94'>dan</span>
+      <span class='ocrx_word' id='word_1_249' title='bbox 494 394 534 411; x_wconf 87'>dapat</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 546 394 655 407; x_wconf 83'>meminimalisir</span>
+      <span class='ocrx_word' id='word_1_251' title='bbox 668 396 706 407; x_wconf 83'>suatu</span>
+      <span class='ocrx_word' id='word_1_252' title='bbox 719 394 793 407; x_wconf 85'>kesalahan</span>
+      <span class='ocrx_word' id='word_1_253' title='bbox 806 394 851 407; x_wconf 96'>dalam</span>
+     </span>
+     <span class='ocr_line' id='line_1_53' title="bbox 454 415 851 432; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_254' title='bbox 454 415 539 428; x_wconf 92'>mendeteksi</span>
+      <span class='ocrx_word' id='word_1_255' title='bbox 546 415 584 432; x_wconf 90'>topik</span>
+      <span class='ocrx_word' id='word_1_256' title='bbox 590 415 625 432; x_wconf 93'>pada</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 632 416 684 428; x_wconf 84'>fwitter.</span>
+      <span class='ocrx_word' id='word_1_258' title='bbox 692 415 749 428; x_wconf 92'>Metode</span>
+      <span class='ocrx_word' id='word_1_259' title='bbox 755 416 794 428; x_wconf 93'>LDA</span>
+      <span class='ocrx_word' id='word_1_260' title='bbox 801 415 851 428; x_wconf 63'>senditi</span>
+     </span>
+     <span class='ocr_line' id='line_1_54' title="bbox 454 436 851 453; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_261' title='bbox 454 436 497 449; x_wconf 92'>sudah</span>
+      <span class='ocrx_word' id='word_1_262' title='bbox 512 436 565 453; x_wconf 92'>banyak</span>
+      <span class='ocrx_word' id='word_1_263' title='bbox 578 436 612 449; x_wconf 92'>teori</span>
+      <span class='ocrx_word' id='word_1_264' title='bbox 626 436 653 449; x_wconf 93'>dan</span>
+      <span class='ocrx_word' id='word_1_265' title='bbox 666 436 740 453; x_wconf 90'>penelitian</span>
+      <span class='ocrx_word' id='word_1_266' title='bbox 753 436 801 449; x_wconf 92'>terkait</span>
+      <span class='ocrx_word' id='word_1_267' title='bbox 814 440 851 453; x_wconf 96'>yang</span>
+     </span>
+     <span class='ocr_line' id='line_1_55' title="bbox 454 458 850 475; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_268' title='bbox 454 458 512 471; x_wconf 92'>tersedia</span>
+      <span class='ocrx_word' id='word_1_269' title='bbox 521 462 566 471; x_wconf 92'>secara</span>
+      <span class='ocrx_word' id='word_1_270' title='bbox 575 462 627 474; x_wconf 89'>umum,</span>
+      <span class='ocrx_word' id='word_1_271' title='bbox 636 458 701 475; x_wconf 72'>sehingga</span>
+      <span class='ocrx_word' id='word_1_272' title='bbox 710 458 811 471; x_wconf 62'>memudahkan</span>
+      <span class='ocrx_word' id='word_1_273' title='bbox 818 462 850 475; x_wconf 96'>para</span>
+     </span>
+     <span class='ocr_line' id='line_1_56' title="bbox 453 479 850 496; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_274' title='bbox 453 479 510 496; x_wconf 91'>peneliti</span>
+      <span class='ocrx_word' id='word_1_275' title='bbox 528 479 573 492; x_wconf 86'>dalam</span>
+      <span class='ocrx_word' id='word_1_276' title='bbox 590 479 725 496; x_wconf 86'>menggunakannya.</span>
+      <span class='ocrx_word' id='word_1_277' title='bbox 744 479 788 492; x_wconf 62'>Posisi</span>
+      <span class='ocrx_word' id='word_1_278' title='bbox 806 479 850 492; x_wconf 62'>kedua</span>
+     </span>
+     <span class='ocr_line' id='line_1_57' title="bbox 454 501 852 518; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_279' title='bbox 454 501 514 518; x_wconf 92'>terdapat</span>
+      <span class='ocrx_word' id='word_1_280' title='bbox 520 501 575 514; x_wconf 89'>metode</span>
+      <span class='ocrx_word' id='word_1_281' title='bbox 582 502 620 514; x_wconf 92'>Term</span>
+      <span class='ocrx_word' id='word_1_282' title='bbox 626 502 768 518; x_wconf 91'>Frequency-Inverse</span>
+      <span class='ocrx_word' id='word_1_283' title='bbox 773 502 852 514; x_wconf 96'>Document</span>
+     </span>
+     <span class='ocr_line' id='line_1_58' title="bbox 453 522 851 539; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_284' title='bbox 453 523 534 539; x_wconf 93'>Frequency</span>
+      <span class='ocrx_word' id='word_1_285' title='bbox 543 522 613 539; x_wconf 88'>(TF-IDF)</span>
+      <span class='ocrx_word' id='word_1_286' title='bbox 622 526 658 539; x_wconf 93'>yang</span>
+      <span class='ocrx_word' id='word_1_287' title='bbox 667 522 745 539; x_wconf 90'>digunakan</span>
+      <span class='ocrx_word' id='word_1_288' title='bbox 754 522 785 535; x_wconf 93'>oleh</span>
+      <span class='ocrx_word' id='word_1_289' title='bbox 794 523 803 535; x_wconf 86'>9</span>
+      <span class='ocrx_word' id='word_1_290' title='bbox 811 522 851 539; x_wconf 86'>judul</span>
+     </span>
+     <span class='ocr_line' id='line_1_59' title="bbox 453 544 851 561; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_291' title='bbox 453 544 528 561; x_wconf 91'>penelitian</span>
+      <span class='ocrx_word' id='word_1_292' title='bbox 544 544 571 557; x_wconf 91'>dan</span>
+      <span class='ocrx_word' id='word_1_293' title='bbox 587 544 632 561; x_wconf 90'>ketiga</span>
+      <span class='ocrx_word' id='word_1_294' title='bbox 649 544 709 561; x_wconf 92'>terdapat</span>
+      <span class='ocrx_word' id='word_1_295' title='bbox 725 545 785 561; x_wconf 95'>Support</span>
+      <span class='ocrx_word' id='word_1_296' title='bbox 803 545 851 557; x_wconf 95'>Vector</span>
+     </span>
+     <span class='ocr_line' id='line_1_60' title="bbox 453 565 851 582; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_297' title='bbox 453 565 519 578; x_wconf 93'>Machine</span>
+      <span class='ocrx_word' id='word_1_298' title='bbox 534 565 586 582; x_wconf 96'>(SVM)</span>
+      <span class='ocrx_word' id='word_1_299' title='bbox 600 569 637 582; x_wconf 93'>yang</span>
+      <span class='ocrx_word' id='word_1_300' title='bbox 651 565 729 582; x_wconf 92'>digunakan</span>
+      <span class='ocrx_word' id='word_1_301' title='bbox 743 565 774 578; x_wconf 94'>oleh</span>
+      <span class='ocrx_word' id='word_1_302' title='bbox 790 566 798 578; x_wconf 93'>8</span>
+      <span class='ocrx_word' id='word_1_303' title='bbox 811 565 851 582; x_wconf 93'>judul</span>
+     </span>
+     <span class='ocr_line' id='line_1_61' title="bbox 453 587 531 604; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_304' title='bbox 453 587 531 604; x_wconf 82'>penelitian.</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 453 608 852 1054">
+     <span class='ocr_line' id='line_1_62' title="bbox 479 608 851 625; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_305' title='bbox 479 608 512 621; x_wconf 94'>Dari</span>
+      <span class='ocrx_word' id='word_1_306' title='bbox 524 609 542 621; x_wconf 88'>50</span>
+      <span class='ocrx_word' id='word_1_307' title='bbox 551 608 591 625; x_wconf 93'>judul</span>
+      <span class='ocrx_word' id='word_1_308' title='bbox 602 608 661 621; x_wconf 77'>literatur</span>
+      <span class='ocrx_word' id='word_1_309' title='bbox 672 612 708 625; x_wconf 82'>yang</span>
+      <span class='ocrx_word' id='word_1_310' title='bbox 719 608 749 624; x_wconf 93'>ada,</span>
+      <span class='ocrx_word' id='word_1_311' title='bbox 761 608 851 621; x_wconf 92'>berdasarkan</span>
+     </span>
+     <span class='ocr_line' id='line_1_63' title="bbox 454 630 851 647; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_312' title='bbox 454 630 506 647; x_wconf 92'>tingkat</span>
+      <span class='ocrx_word' id='word_1_313' title='bbox 518 630 598 647; x_wconf 87'>akurasinya</span>
+      <span class='ocrx_word' id='word_1_314' title='bbox 611 630 685 647; x_wconf 86'>penelitian</span>
+      <span class='ocrx_word' id='word_1_315' title='bbox 698 630 759 647; x_wconf 86'>berjudul</span>
+      <span class='ocrx_word' id='word_1_316' title='bbox 770 631 782 643; x_wconf 87'>4</span>
+      <span class='ocrx_word' id='word_1_317' title='bbox 796 630 851 643; x_wconf 87'>holistic</span>
+     </span>
+     <span class='ocr_line' id='line_1_64' title="bbox 453 651 851 668; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_318' title='bbox 453 652 503 668; x_wconf 95'>system</span>
+      <span class='ocrx_word' id='word_1_319' title='bbox 517 651 543 668; x_wconf 95'>for</span>
+      <span class='ocrx_word' id='word_1_320' title='bbox 560 651 592 664; x_wconf 94'>troll</span>
+      <span class='ocrx_word' id='word_1_321' title='bbox 609 651 677 664; x_wconf 94'>detection</span>
+      <span class='ocrx_word' id='word_1_322' title='bbox 695 655 713 664; x_wconf 83'>on</span>
+      <span class='ocrx_word' id='word_1_323' title='bbox 731 652 780 664; x_wconf 65'>twitter</span>
+      <span class='ocrx_word' id='word_1_324' title='bbox 797 651 851 668; x_wconf 65'>dengan</span>
+     </span>
+     <span class='ocr_line' id='line_1_65' title="bbox 454 672 851 689; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_325' title='bbox 454 672 559 689; x_wconf 90'>menggunakan</span>
+      <span class='ocrx_word' id='word_1_326' title='bbox 571 672 626 685; x_wconf 90'>metode</span>
+      <span class='ocrx_word' id='word_1_327' title='bbox 638 672 701 685; x_wconf 96'>Random</span>
+      <span class='ocrx_word' id='word_1_328' title='bbox 714 673 764 685; x_wconf 96'>Forest</span>
+      <span class='ocrx_word' id='word_1_329' title='bbox 776 672 810 689; x_wconf 96'>(RF)</span>
+      <span class='ocrx_word' id='word_1_330' title='bbox 824 672 851 685; x_wconf 96'>dan</span>
+     </span>
+     <span class='ocr_line' id='line_1_66' title="bbox 453 694 851 711; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_331' title='bbox 453 695 505 707; x_wconf 91'>Naives</span>
+      <span class='ocrx_word' id='word_1_332' title='bbox 516 695 561 711; x_wconf 93'>Bayes</span>
+      <span class='ocrx_word' id='word_1_333' title='bbox 572 694 655 711; x_wconf 91'>menempati</span>
+      <span class='ocrx_word' id='word_1_334' title='bbox 666 694 710 711; x_wconf 91'>posisi</span>
+      <span class='ocrx_word' id='word_1_335' title='bbox 722 694 785 711; x_wconf 91'>tertinggi</span>
+      <span class='ocrx_word' id='word_1_336' title='bbox 797 694 851 711; x_wconf 96'>dengan</span>
+     </span>
+     <span class='ocr_line' id='line_1_67' title="bbox 454 715 850 732; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_337' title='bbox 454 715 487 728; x_wconf 92'>nilai</span>
+      <span class='ocrx_word' id='word_1_338' title='bbox 497 715 550 728; x_wconf 90'>akurasi</span>
+      <span class='ocrx_word' id='word_1_339' title='bbox 561 715 615 728; x_wconf 90'>sebesar</span>
+      <span class='ocrx_word' id='word_1_340' title='bbox 625 716 677 731; x_wconf 90'>95,5%.</span>
+      <span class='ocrx_word' id='word_1_341' title='bbox 688 715 738 728; x_wconf 93'>Dalam</span>
+      <span class='ocrx_word' id='word_1_342' title='bbox 747 715 821 732; x_wconf 92'>penelitian</span>
+      <span class='ocrx_word' id='word_1_343' title='bbox 831 715 850 728; x_wconf 96'>ini</span>
+     </span>
+     <span class='ocr_line' id='line_1_68' title="bbox 454 737 851 754; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_344' title='bbox 454 737 490 750; x_wconf 93'>telah</span>
+      <span class='ocrx_word' id='word_1_345' title='bbox 496 737 594 750; x_wconf 72'>diidentifikasi</span>
+      <span class='ocrx_word' id='word_1_346' title='bbox 600 738 609 750; x_wconf 93'>6</span>
+      <span class='ocrx_word' id='word_1_347' title='bbox 614 737 689 754; x_wconf 93'>kelompok</span>
+      <span class='ocrx_word' id='word_1_348' title='bbox 695 737 730 753; x_wconf 83'>fitur,</span>
+      <span class='ocrx_word' id='word_1_349' title='bbox 736 737 851 754; x_wconf 83'>masing-masing</span>
+     </span>
+     <span class='ocr_line' id='line_1_69' title="bbox 455 758 850 775; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_350' title='bbox 455 758 544 771; x_wconf 88'>berdasarkan</span>
+      <span class='ocrx_word' id='word_1_351' title='bbox 560 758 616 771; x_wconf 88'>analisis</span>
+      <span class='ocrx_word' id='word_1_352' title='bbox 631 762 665 775; x_wconf 92'>gaya</span>
+      <span class='ocrx_word' id='word_1_353' title='bbox 681 758 757 775; x_wconf 41'>penulisan,</span>
+      <span class='ocrx_word' id='word_1_354' title='bbox 774 758 850 774; x_wconf 96'>sentiment,</span>
+     </span>
+     <span class='ocr_line' id='line_1_70' title="bbox 453 780 850 797; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_355' title='bbox 453 780 519 797; x_wconf 81'>perilaku,</span>
+      <span class='ocrx_word' id='word_1_356' title='bbox 528 780 592 793; x_wconf 81'>interaksi</span>
+      <span class='ocrx_word' id='word_1_357' title='bbox 601 780 647 796; x_wconf 92'>sosial,</span>
+      <span class='ocrx_word' id='word_1_358' title='bbox 655 780 701 793; x_wconf 93'>media</span>
+      <span class='ocrx_word' id='word_1_359' title='bbox 709 780 761 796; x_wconf 92'>terkait,</span>
+      <span class='ocrx_word' id='word_1_360' title='bbox 770 780 797 793; x_wconf 75'>dan</span>
+      <span class='ocrx_word' id='word_1_361' title='bbox 805 780 850 793; x_wconf 75'>waktu</span>
+     </span>
+     <span class='ocr_line' id='line_1_71' title="bbox 453 801 850 818; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_362' title='bbox 453 801 526 818; x_wconf 86'>publikasi.</span>
+      <span class='ocrx_word' id='word_1_363' title='bbox 542 801 581 814; x_wconf 83'>Hasil</span>
+      <span class='ocrx_word' id='word_1_364' title='bbox 596 801 670 818; x_wconf 83'>penelitian</span>
+      <span class='ocrx_word' id='word_1_365' title='bbox 685 801 787 818; x_wconf 81'>menunjukkan</span>
+      <span class='ocrx_word' id='word_1_366' title='bbox 803 801 850 814; x_wconf 81'>bahwa</span>
+     </span>
+     <span class='ocr_line' id='line_1_72' title="bbox 454 823 850 840; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_367' title='bbox 454 823 530 836; x_wconf 84'>Klarifikasi</span>
+      <span class='ocrx_word' id='word_1_368' title='bbox 541 823 605 836; x_wconf 88'>otomatis</span>
+      <span class='ocrx_word' id='word_1_369' title='bbox 616 823 656 840; x_wconf 93'>dapat</span>
+      <span class='ocrx_word' id='word_1_370' title='bbox 668 823 727 840; x_wconf 92'>berguna</span>
+      <span class='ocrx_word' id='word_1_371' title='bbox 739 823 785 836; x_wconf 89'>dalam</span>
+      <span class='ocrx_word' id='word_1_372' title='bbox 796 823 850 836; x_wconf 86'>seluruh</span>
+     </span>
+     <span class='ocr_line' id='line_1_73' title="bbox 453 844 851 861; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_373' title='bbox 453 848 501 861; x_wconf 92'>proses</span>
+      <span class='ocrx_word' id='word_1_374' title='bbox 512 844 596 857; x_wconf 91'>identifikasi</span>
+      <span class='ocrx_word' id='word_1_375' title='bbox 607 844 634 857; x_wconf 89'>dan</span>
+      <span class='ocrx_word' id='word_1_376' title='bbox 644 844 734 861; x_wconf 89'>pengelolaan</span>
+      <span class='ocrx_word' id='word_1_377' title='bbox 744 844 805 861; x_wconf 89'>perilaku</span>
+      <span class='ocrx_word' id='word_1_378' title='bbox 817 844 851 857; x_wconf 90'>anti-</span>
+     </span>
+     <span class='ocr_line' id='line_1_74' title="bbox 454 866 850 883; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_379' title='bbox 454 866 496 879; x_wconf 92'>sosial</span>
+      <span class='ocrx_word' id='word_1_380' title='bbox 508 866 554 879; x_wconf 93'>online</span>
+      <span class='ocrx_word' id='word_1_381' title='bbox 564 870 601 883; x_wconf 93'>yang</span>
+      <span class='ocrx_word' id='word_1_382' title='bbox 612 866 672 883; x_wconf 89'>terdapat</span>
+      <span class='ocrx_word' id='word_1_383' title='bbox 682 866 717 883; x_wconf 93'>pada</span>
+      <span class='ocrx_word' id='word_1_384' title='bbox 729 866 786 883; x_wconf 93'>aplikasi</span>
+      <span class='ocrx_word' id='word_1_385' title='bbox 798 867 850 879; x_wconf 92'>twitter.</span>
+     </span>
+     <span class='ocr_line' id='line_1_75' title="bbox 453 887 850 904; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_386' title='bbox 453 887 491 900; x_wconf 83'>Nilai</span>
+      <span class='ocrx_word' id='word_1_387' title='bbox 503 887 556 900; x_wconf 83'>akurasi</span>
+      <span class='ocrx_word' id='word_1_388' title='bbox 568 887 631 904; x_wconf 66'>tertinggi</span>
+      <span class='ocrx_word' id='word_1_389' title='bbox 642 887 696 904; x_wconf 73'>lainnya</span>
+      <span class='ocrx_word' id='word_1_390' title='bbox 709 887 757 900; x_wconf 91'>diikuti</span>
+      <span class='ocrx_word' id='word_1_391' title='bbox 769 887 801 900; x_wconf 92'>oleh</span>
+      <span class='ocrx_word' id='word_1_392' title='bbox 811 887 850 904; x_wconf 92'>judul</span>
+     </span>
+     <span class='ocr_line' id='line_1_76' title="bbox 453 908 850 925; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_393' title='bbox 453 908 577 925; x_wconf 92'>Exemplar-based</span>
+      <span class='ocrx_word' id='word_1_394' title='bbox 586 909 623 925; x_wconf 93'>topic</span>
+      <span class='ocrx_word' id='word_1_395' title='bbox 633 908 700 921; x_wconf 95'>detection</span>
+      <span class='ocrx_word' id='word_1_396' title='bbox 711 909 724 921; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_397' title='bbox 735 909 784 921; x_wconf 94'>twitter</span>
+      <span class='ocrx_word' id='word_1_398' title='bbox 792 909 850 921; x_wconf 95'>streams</span>
+     </span>
+     <span class='ocr_line' id='line_1_77' title="bbox 454 930 850 947; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_399' title='bbox 454 934 490 947; x_wconf 93'>yang</span>
+      <span class='ocrx_word' id='word_1_400' title='bbox 496 930 601 947; x_wconf 92'>menggunakan</span>
+      <span class='ocrx_word' id='word_1_401' title='bbox 606 930 661 943; x_wconf 93'>metode</span>
+      <span class='ocrx_word' id='word_1_402' title='bbox 668 931 709 946; x_wconf 92'>SVD,</span>
+      <span class='ocrx_word' id='word_1_403' title='bbox 715 931 771 946; x_wconf 92'>TFIDF,</span>
+      <span class='ocrx_word' id='word_1_404' title='bbox 780 920 811 953; x_wconf 93'>dan</span>
+      <span class='ocrx_word' id='word_1_405' title='bbox 818 920 855 953; x_wconf 91'>NMF</span>
+     </span>
+     <span class='ocr_line' id='line_1_78' title="bbox 454 951 850 968; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_406' title='bbox 454 951 508 968; x_wconf 93'>dengan</span>
+      <span class='ocrx_word' id='word_1_407' title='bbox 518 951 551 964; x_wconf 88'>nilai</span>
+      <span class='ocrx_word' id='word_1_408' title='bbox 562 951 615 964; x_wconf 92'>akurasi</span>
+      <span class='ocrx_word' id='word_1_409' title='bbox 626 952 664 964; x_wconf 92'>95%.</span>
+      <span class='ocrx_word' id='word_1_410' title='bbox 675 951 713 964; x_wconf 92'>Nilai</span>
+      <span class='ocrx_word' id='word_1_411' title='bbox 723 951 777 964; x_wconf 92'>akurasi</span>
+      <span class='ocrx_word' id='word_1_412' title='bbox 787 951 850 968; x_wconf 92'>tertinggi</span>
+     </span>
+     <span class='ocr_line' id='line_1_79' title="bbox 454 973 851 990; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_413' title='bbox 454 973 499 990; x_wconf 92'>ketiga</span>
+      <span class='ocrx_word' id='word_1_414' title='bbox 513 973 582 990; x_wconf 92'>ditempati</span>
+      <span class='ocrx_word' id='word_1_415' title='bbox 595 973 627 986; x_wconf 96'>oleh</span>
+      <span class='ocrx_word' id='word_1_416' title='bbox 638 973 678 990; x_wconf 96'>judul</span>
+      <span class='ocrx_word' id='word_1_417' title='bbox 690 974 765 990; x_wconf 96'>Detecting</span>
+      <span class='ocrx_word' id='word_1_418' title='bbox 776 973 851 986; x_wconf 96'>Malicious</span>
+     </span>
+     <span class='ocr_line' id='line_1_80' title="bbox 455 994 852 1011; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_419' title='bbox 455 995 505 1007; x_wconf 94'>Tweets</span>
+      <span class='ocrx_word' id='word_1_420' title='bbox 517 995 530 1007; x_wconf 94'>in</span>
+      <span class='ocrx_word' id='word_1_421' title='bbox 543 994 611 1011; x_wconf 95'>Trending</span>
+      <span class='ocrx_word' id='word_1_422' title='bbox 622 995 671 1011; x_wconf 95'>Topics</span>
+      <span class='ocrx_word' id='word_1_423' title='bbox 683 998 723 1011; x_wconf 96'>using</span>
+      <span class='ocrx_word' id='word_1_424' title='bbox 734 994 813 1011; x_wconf 94'>Clustering</span>
+      <span class='ocrx_word' id='word_1_425' title='bbox 822 994 852 1007; x_wconf 94'>and</span>
+     </span>
+     <span class='ocr_line' id='line_1_81' title="bbox 455 1016 850 1033; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_426' title='bbox 455 1016 557 1033; x_wconf 96'>Classification</span>
+      <span class='ocrx_word' id='word_1_427' title='bbox 565 1020 601 1033; x_wconf 93'>yang</span>
+      <span class='ocrx_word' id='word_1_428' title='bbox 608 1016 713 1033; x_wconf 91'>menggunakan</span>
+      <span class='ocrx_word' id='word_1_429' title='bbox 719 1016 774 1029; x_wconf 91'>metode</span>
+      <span class='ocrx_word' id='word_1_430' title='bbox 781 1017 850 1029; x_wconf 92'>K-Means</span>
+     </span>
+     <span class='ocr_line' id='line_1_82' title="bbox 454 1037 800 1054; baseline 0 -4; x_size 25.323801; x_descenders 5.5; x_ascenders 6.6079335">
+      <span class='ocrx_word' id='word_1_431' title='bbox 454 1037 481 1050; x_wconf 94'>dan</span>
+      <span class='ocrx_word' id='word_1_432' title='bbox 485 1038 525 1050; x_wconf 94'>ELM</span>
+      <span class='ocrx_word' id='word_1_433' title='bbox 530 1037 584 1054; x_wconf 93'>dengan</span>
+      <span class='ocrx_word' id='word_1_434' title='bbox 588 1037 640 1054; x_wconf 92'>tingkat</span>
+      <span class='ocrx_word' id='word_1_435' title='bbox 645 1037 698 1050; x_wconf 92'>akurasi</span>
+      <span class='ocrx_word' id='word_1_436' title='bbox 704 1037 758 1050; x_wconf 92'>sebesar</span>
+      <span class='ocrx_word' id='word_1_437' title='bbox 763 1038 800 1050; x_wconf 91'>92%.</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 454 1082 663 1098">
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 454 1082 663 1098">
+     <span class='ocr_line' id='line_1_83' title="bbox 454 1082 663 1098; baseline 0 -4; x_size 24.25; x_descenders 5.5; x_ascenders 6.25">
+      <span class='ocrx_word' id='word_1_438' title='bbox 454 1082 463 1094; x_wconf 67'>5</span>
+      <span class='ocrx_word' id='word_1_439' title='bbox 479 1082 575 1098; x_wconf 67'>Kesimpulan</span>
+      <span class='ocrx_word' id='word_1_440' title='bbox 580 1082 610 1094; x_wconf 96'>dan</span>
+      <span class='ocrx_word' id='word_1_441' title='bbox 616 1082 663 1094; x_wconf 96'>Saran</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_13' title="bbox 454 1125 851 1269">
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 454 1125 850 1162">
+     <span class='ocr_line' id='line_1_84' title="bbox 454 1125 577 1141; baseline 0 -4; x_size 25.492188; x_descenders 5.5; x_ascenders 6.6640625">
+      <span class='ocrx_word' id='word_1_442' title='bbox 454 1125 476 1137; x_wconf 93'>5.1</span>
+      <span class='ocrx_word' id='word_1_443' title='bbox 482 1125 577 1141; x_wconf 91'>Kesimpulan</span>
+     </span>
+     <span class='ocr_line' id='line_1_85' title="bbox 479 1145 850 1162; baseline 0 -4; x_size 25.492188; x_descenders 5.5; x_ascenders 6.6640625">
+      <span class='ocrx_word' id='word_1_444' title='bbox 479 1145 569 1162; x_wconf 88'>Kesimpulan</span>
+      <span class='ocrx_word' id='word_1_445' title='bbox 576 1149 612 1162; x_wconf 93'>yang</span>
+      <span class='ocrx_word' id='word_1_446' title='bbox 619 1145 689 1162; x_wconf 89'>diperoleh</span>
+      <span class='ocrx_word' id='word_1_447' title='bbox 697 1145 725 1158; x_wconf 93'>dari</span>
+      <span class='ocrx_word' id='word_1_448' title='bbox 731 1147 812 1162; x_wconf 89'>pemetaaan</span>
+      <span class='ocrx_word' id='word_1_449' title='bbox 818 1145 850 1158; x_wconf 88'>riset</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 454 1166 851 1183">
+     <span class='ocr_line' id='line_1_86' title="bbox 454 1166 851 1183; baseline 0 -4; x_size 25.492188; x_descenders 5.5; x_ascenders 6.6640625">
+      <span class='ocrx_word' id='word_1_450' title='bbox 454 1168 509 1183; x_wconf 93'>tentang</span>
+      <span class='ocrx_word' id='word_1_451' title='bbox 519 1166 571 1179; x_wconf 91'>deteksi</span>
+      <span class='ocrx_word' id='word_1_452' title='bbox 581 1166 620 1183; x_wconf 91'>topik</span>
+      <span class='ocrx_word' id='word_1_453' title='bbox 629 1166 664 1183; x_wconf 96'>pada</span>
+      <span class='ocrx_word' id='word_1_454' title='bbox 675 1167 724 1179; x_wconf 93'>twitter</span>
+      <span class='ocrx_word' id='word_1_455' title='bbox 734 1166 785 1179; x_wconf 91'>setelah</span>
+      <span class='ocrx_word' id='word_1_456' title='bbox 795 1166 851 1179; x_wconf 96'>melalui</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 454 1188 851 1205">
+     <span class='ocr_line' id='line_1_87' title="bbox 454 1188 851 1205; baseline 0 -4; x_size 25.492188; x_descenders 5.5; x_ascenders 6.6640625">
+      <span class='ocrx_word' id='word_1_457' title='bbox 454 1188 509 1201; x_wconf 90'>seluruh</span>
+      <span class='ocrx_word' id='word_1_458' title='bbox 518 1188 576 1205; x_wconf 92'>tahapan</span>
+      <span class='ocrx_word' id='word_1_459' title='bbox 585 1189 663 1205; x_wconf 96'>systematic</span>
+      <span class='ocrx_word' id='word_1_460' title='bbox 672 1188 742 1201; x_wconf 88'>literature</span>
+      <span class='ocrx_word' id='word_1_461' title='bbox 751 1189 801 1201; x_wconf 96'>review</span>
+      <span class='ocrx_word' id='word_1_462' title='bbox 810 1188 851 1205; x_wconf 96'>dapat</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_17' lang='eng' title="bbox 454 1209 828 1226">
+     <span class='ocr_line' id='line_1_88' title="bbox 454 1209 828 1226; baseline 0 -4; x_size 25.492188; x_descenders 5.5; x_ascenders 6.6640625">
+      <span class='ocrx_word' id='word_1_463' title='bbox 454 1209 530 1222; x_wconf 91'>dirincikan</span>
+      <span class='ocrx_word' id='word_1_464' title='bbox 535 1209 563 1222; x_wconf 90'>dari</span>
+      <span class='ocrx_word' id='word_1_465' title='bbox 567 1209 603 1222; x_wconf 90'>hasil</span>
+      <span class='ocrx_word' id='word_1_466' title='bbox 607 1209 682 1226; x_wconf 87'>penelitian</span>
+      <span class='ocrx_word' id='word_1_467' title='bbox 687 1209 742 1226; x_wconf 93'>sebagai</span>
+      <span class='ocrx_word' id='word_1_468' title='bbox 748 1209 800 1222; x_wconf 93'>berikut</span>
+      <span class='ocrx_word' id='word_1_469' title='bbox 805 1209 828 1222; x_wconf 95'>ini:</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_18' lang='eng' title="bbox 456 1231 850 1269">
+     <span class='ocr_line' id='line_1_89' title="bbox 456 1231 850 1248; baseline 0 -4; x_size 25.492188; x_descenders 5.5; x_ascenders 6.6640625">
+      <span class='ocrx_word' id='word_1_470' title='bbox 456 1231 469 1248; x_wconf 96'>1)</span>
+      <span class='ocrx_word' id='word_1_471' title='bbox 479 1231 512 1244; x_wconf 95'>Dari</span>
+      <span class='ocrx_word' id='word_1_472' title='bbox 525 1232 543 1244; x_wconf 74'>50</span>
+      <span class='ocrx_word' id='word_1_473' title='bbox 555 1231 614 1244; x_wconf 91'>literatur</span>
+      <span class='ocrx_word' id='word_1_474' title='bbox 626 1235 662 1248; x_wconf 96'>yang</span>
+      <span class='ocrx_word' id='word_1_475' title='bbox 675 1231 700 1244; x_wconf 93'>ada</span>
+      <span class='ocrx_word' id='word_1_476' title='bbox 713 1231 772 1248; x_wconf 92'>terdapat</span>
+      <span class='ocrx_word' id='word_1_477' title='bbox 785 1232 803 1244; x_wconf 86'>39</span>
+      <span class='ocrx_word' id='word_1_478' title='bbox 814 1231 850 1248; x_wconf 86'>jenis</span>
+     </span>
+     <span class='ocr_line' id='line_1_90' title="bbox 479 1252 775 1269; baseline 0 -4; x_size 25.492188; x_descenders 5.5; x_ascenders 6.6640625">
+      <span class='ocrx_word' id='word_1_479' title='bbox 479 1252 533 1265; x_wconf 90'>metode</span>
+      <span class='ocrx_word' id='word_1_480' title='bbox 538 1252 636 1269; x_wconf 91'>pendeteksian</span>
+      <span class='ocrx_word' id='word_1_481' title='bbox 641 1252 680 1269; x_wconf 92'>topik</span>
+      <span class='ocrx_word' id='word_1_482' title='bbox 683 1252 719 1269; x_wconf 96'>pada</span>
+      <span class='ocrx_word' id='word_1_483' title='bbox 724 1253 775 1265; x_wconf 96'>twitter.</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,61 @@
+Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
+Tabel 4.6 Hasil Pengujian Proses
+Pintu Stop
+Berdasarkan tabel 4.6 dapat
+disimpulkan, saat posisi lift arah
+naik (dari lantai 1 ke lantai 2 dan 3),
+maupun saat posisi lift arah turun
+(dari lantai 3 ke lantai 2 dan 1)
+adalah ketika lift berhenti atau stop,
+pintu akan membuka secara
+otomatis sampai dengan membuka
+penuh kemdian secara otomatis
+pintu lift akan berhenti. Setelah itu
+terdapat delay selama 3 detik
+sebelum pintu lift tersebut menutup
+kembali, kemudian secara otomatis
+akan berhenti. Melalui hasil
+pengujian tersebut dapat dikatakan
+bahwa proses sistem buka, tutup,
+dan berhenti pintu lift secara
+otomatis dapat bekerja dan berfungsi
+dengan baik dan benar, sesuai
+dengan yang diharapkan.
+KESIMPULAN DAN SARAN
+Kesimpulan
+Dari penelitian yang telah
+dilaksanakan pada perancangan
+prototype elevatormenggunakan
+Mikrokontroler Atmega 328P telah
+dilakukan pengujian alat,
+pengambilan data serta pembahasan,
+maka dapat diperoleh beberapa
+kesimpulan sebagai berikut :
+Pembuatan perancangan prototype
+elevator menggunakan
+mikrokontroler Atmega 328P
+dilakukan dalam tiga tahap, yaitu :
+1. Tahapan pertama membuat
+kerangk alift 3 lantai
+2. Tahapan kedua, membuat
+sangkar lift
+3. Tahapan ketiga adalah
+pembuatan sistem pengendali
+(controller).
+Setelah semua selesai
+dibuat, maka selanjutnya
+menggabungkan semua rangkaian
+atau sistem yang dibuat baik
+software maupun hardware,
+sehingga menjadi sebuah prototype
+sistem pengendali lift menggunakan
+mikrokontroler Atmega 328P,
+setelah itu dilakukan pengujian
+dengan cara menjalankan / uji coba
+lift, sehingga lift dapat bergerak naik
+atau turun mencapai lantai yang
+ingin dituju, dan proses yang terjadi
+pada kerja pintu lift dapat membuka
+dan menutup kembali secara
+otomatis. Dan semua sensor dapat
+Vol.4 No.3 September 2013 110

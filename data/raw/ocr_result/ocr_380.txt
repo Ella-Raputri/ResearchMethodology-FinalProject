@@ -1,0 +1,141 @@
+Jurnal Explore STMIK Mataram — Volume 8 No 1 Tahun 2018
+
+menggunakan diagram dan teks -_ teks
+pendukung. UML hanya _ berfungsi untuk
+melakukaan pemodelan. Jadi penggunaan UML
+tidak terbatas pada metodologi tertentu,
+meskipun pada _ kenyataannya UML paling
+banyak digunakan pada metodologi berorientasi
+objek(Rosa A.S & Shalahuddin, 2015). Unified
+
+Modeling Language (UML) terdiri atas dua
+
+diagram yaitu :
+
+a) Use Case merupakan pemodelan untuk
+kelakukan (bahavior) sistem informasi yang
+akan dibuat. Use Case mendeskripsikan
+sebuah interaksi antara satu atau lebih aktor
+dengan sistem informasi yang akan dibuat.
+Secara kasar, use case digunakan untuk
+mengetahui fungsi apa saja yang ada di
+dalam sebuah sistem informasi dan siapa saja
+yang berhak menggunakan fungsi — fungsi itu
+(Rosa A.S & Shalahuddin, 2015).
+
+b) Activity Diagram merupakan Administrator
+yang menentukan parameter penyusunan
+jurnal untuk mendapatkan data — data yang
+akan diproses dan disusun ke dalam bentuk
+antara objek di dalam proses penyusunan
+jurnal. Pada proses ini admin yang berperan
+sebagai actor mengisi parameter jurnal
+berdasarkan tanggal transaksi jurnal pada
+form. Form akan mengecek data jurnal sesuai
+dengan tanggal yang diinginkan ke session.
+Session di dalam proses ini bertugas untuk
+mengambil data - data yang dibutuhkan dari
+entity. Berikutnya form akan menampilkan
+jurnal yang terbentuk dari data — data yang
+diperoleh. Admin memiliki hak untuk
+melakukan proses posting atau penyimpanan
+jurnal (Rosa A.S & Shalahuddin, 2015).
+
+Flowchart
+
+Flowchart adalah simbol - simbol pekerjaan yang
+menunjukan bagan aliran proses yang saling
+terhubung. Jadi, setiap simbol flowchart
+melambangkan pekerjaan dan intruksinya (eWolf
+Community, 2011:16).
+
+Database
+
+Sistem basis data adalah sistem terkomputerisasi
+yang tujuan utamanya adalah memelihara data
+yang sudah diolah atau informasi dan membuat
+informasi tersedia saat dibutuhkan (Rossa dan
+
+M.Shalahuddin, 2015:43).
+
+a) Entity Relationship Diagram (ERD) Entity
+Relationship Diagram adalah diagram yang
+menggambarkan _ keterkaitan antar  tabel
+beserta dengan field - field di dalamnya pada
+
+ISSN: 2087-894X
+
+suatu database sistem (S. H. Pratama,
+
+Meilani, & Kamil, 2014)
+
+Terdapat tiga buah jenis_ relasi antar tabel
+
+didalam bagan ERD. Ketiga relasi tersebut
+
+yaitu (S. H. Pratama et al., 2014) :
+
+a. One to One (Satu ke Satu)
+
+b. One to many (Satu ke Banyak)
+
+c. Many to Many (Banyak ke Banyak)
+
+c) Normalisasi Proses normalisasi merupakan
+proses pengelompokan elemen data menjadi
+tabel — tabel yang menunjukan entitas dan
+relasinya. Proses ini selalu diuji pada
+beberapa kondisi. Apakah ada kesulitan pada
+saat menambah (insert), menghapus (delete),
+mengubah (update), atau membaca (retrieve)
+pada suatu database. Bila ada kesulitan pada
+pengujian tersebut maka relasi dapat
+dipecahkan dalam beberapa_tabel lagi
+(Sutabri, 2012).
+
+Tahapan normalisasi menurut (Latief, 2016)
+adalah sebagai berikut :
+
+a. Bentuk tidak normal
+
+b. Bentuk Normal pertama (1NF)
+
+c. Bentuk Normal kedua (2NF)
+
+d. Bentuk Normal ketiga (3NF).
+
+b
+
+aS
+
+Definisi Koperasi
+
+Badan usaha yang beranggotakan orang seorang
+atau badan hukum koperasi dengan
+melandaskan kegiatannya berdasarkan prinsip
+koperasi sekaligus sebagai gerakan ekonomi
+rakyat yang berdasarkan asas_ kekeluargaan.
+(Diunduh dari
+http://www.academia.edu/7434430/DEFINISI_ KO
+PERASI pada tanggal 3 Juli 2018).
+
+Perangkat lunak pengembangan system
+
+- XAMPP - Xampp adalah sebuah paket
+kumpulan sofware yang terdiri dari Apache,
+MySQL, PHPMyAdmin, PHP, Perl, Filezilla
+dan _lain-lain Xampp _ berfungsi untuk
+memudahkan __instalasi_ lingkungan PHP,
+dimana biasanya lingkungan pengembangan
+web memerlukan PHP, Apache, MySQL dan
+PHPMyAadmin serta software - Software yang
+terkait dengan pengembangan web (Apache
+Friends, 2017).
+
+- Notepad++ - Notepad++ adalah program
+aplikasi pengembang yang berguna untuk
+mengedit teks dan skrip kode pemrograman.
+Versi terbaru program ini adalah Notepad++
+v5.9, yang dirilis pada tanggal 06 April 2012.
+Software Notepad++ dibuat dan
+dikembangkan oleh Tim Notepad++.

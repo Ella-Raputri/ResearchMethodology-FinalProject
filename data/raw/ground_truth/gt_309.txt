@@ -1,0 +1,60 @@
+P-ISSN : 2303-3142 E-ISSN : 2548-8570 Vol.10 No 2 Tahun 2021
+¥ Anggaran pendidikan juga dikelola untuk
+peningkatan kualitas SDM, penambahan
+sarana guna peningkatan adaptasi
+teknologi, kegiatan-kegiatan produktivitas
+dengan pengetahuan ekonomi di era
+industri 4.0.
+¥ Adanya program pelatihan berupa seminar
+dan workshop guru dan tenaga
+kependidikan untuk meningkatkan kualitas
+Sumber Daya Manusia.
+¥ Ketersediaan vendor pengembangan
+aplikasi berbasis website dan mobile.
+¥ Pembelajaran jarak jauh karena situasi
+pandemi menyebabkan menurunnya
+semangat belajar peserta didik.
+¥ Adanya kejahatan di dunia maya (cyber
+crime).
+¥ Adanya kebijakan pemerintah terhadap
+kurikulum kerap berubah sewaktu-waktu.
+Prinsip arsitektur akan digunakan
+sebagai panduan dalam proses
+pengambilan keputusan rancangan
+arsitektur enterprise, menentukan struktur
+dan komposisi dari setiap komponen
+rancangan arsitektur, menentukan kriteria
+dalam memilih teknologi yang akan
+digunakan dan juga dalam merancang
+desain arsitektur dan implementasinya.
+Adapun prinsip yang akan digunakan
+sebagai acuan dalam perancangan
+arsitektur enterprise sistem informasi SMA
+Negeri 1 Singaraja yaitu : 1) Arsitektur yang
+dikembangkan tidak boleh bertentangan dan
+harus sesuai dengan tujuan, aktivitas, serta
+proses bisnis yang ada di SMA Negeri 1
+Singaraja; 2) Arsitektur yang dikembangkan
+harus memiliki keamanan; 3) Data dan
+informasi yang ada pada sistem informasi
+harus dilindungi dari akses pihak yang tidak
+memiliki kewenangan; 4) Memudahkan
+proses akses data; 5) Aplikasi yang
+dikembangkan harus terintegrasi; 6)
+Teknologi yang digunakan harus
+mendukung multi-platform; dan 7) Arsitektur
+yang dikembangkan harus mudah
+diperbaiki.
+Fase Visi Arsitektur
+Hasil identifikasi ruang lingkup dari
+target perancangan arsitektur enterprise
+sistem informasi diperoleh dengan cara
+memetakan apa saja aktivitas utama dan
+aktivitas pendukung yang ada di SMA Negeri
+1 Singaraja. Untuk dapat memetakan
+aktivitas utama dan aktivitas pendukung
+pada sekolah, dilakukan proses analisis
+value chain. Hasilnya digambarkan ke dalam
+bentuk value chain diagram (Gambar 3).
+Gambar 2. Value Chain SMA Negeri 1 Singaraja
+Jurnal Sains dan Teknologi | 321

@@ -1,0 +1,50 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : hlm. 1-12
+11
+hubungan jumlah lapis dan beban maksimum dengan model regresi polinominal orde 2,
+persamaannya adalah y = -0,0266x
+2 + 0,7326x + 2,6365 dengan nilai R2
+= 0,9974.
+4. Kesimpulan dan Saran
+Berdasarkan hasil perhitungan secara numerik dengan bantuan software Abaqus pada balok
+ferrogeoplymer dengan variasi 3,5,7,9,11 lapisan wiremesh dapat diambil kesimpulan sebagai
+berikut:
+1. Pada variasi 3 lapisan wiremesh balok ferrogeopolymer hasil eksperimen dan hasil
+perhitungan secara numerik mempunyai perbedaan sebesar 31,26%, variasi 5 lapisan
+wiremesh 0,46%, variasi 7 lapisan wiremesh 2,81% dan pada variasi 11 lapisan wiremesh
+5,64%.
+2. Semakin banyak jumlah lapisan semakin menambah kekuatan namun peningkatan kekuatan
+tidak signifikan.
+3. Model persamaan yang di hasilkan dari penelitian ini adalah regresi polinominal orde 2,
+persamaannya adalah y = -0,0266x
+2 + 0,7326x + 2,6365 dengan nilai R2
+= 0,9974.
+Dari hasil penelitian ini terdapat beberapa hal yang dapat dijadikan saran antara lain:
+1. Bagi peneliti selanjutnya, yang ingin melanjutkan penelitian mengenai ferro-geopolimer balok
+mortar berbahan dasar fly ash, disarankan untuk menambah variasi jumlah tulangan yang
+digunakan untuk mengetahui batas maksimum nilai kuat lentur yang dicapai pada masing-
+masing variasi lapisan wiremesh.
+2. Dikarenakan program abaqus tidak memiliki satuan awal yang dijadikan acuan dalam
+memodelkan elemen, maka perlu adanya konsisten dalam memasukan nilai parameter, sehingga
+pada saat running program, program tidak mengalami kegagalan dalam melakukan analisis.
+Ucapan terima kasih
+Penulis menyadari bahwa tanpa bimbingan, dorongan, dan bantuan dari berbagai pihak,
+penelitian ini tidak dapat terselesaikan. Oleh karena itu pada kesempatan ini penulis ingin
+menyampaikan ucapan terima kasih yang sebesar-besarnya kepada pihak pihak baik langsung
+maupun tidak langsung membimbing dan mengarahkan sehingga terselesaikan artikel ini.
+Daftar Pustaka
+CEB-FIP. (1990). Structural concrete. introduction- design proces- materials, Vol 1 hal 214-252.
+Lubalu, P. s. (2018). Study kuat lentur balok ferrogeopolymer yang di rawat dengan metode
+curing. Kupang: Jurusan Teknik Sipil, Fakultas Sains dan Teknik, Universitas Nusa
+Cendana.
+Simatupang, P. H. (2017). Uji eksperimen mortar ferrogeopolymer . Kupang: Researchgate.
+Simatupang, P. H. (2018). PENGARUH VARIASI PERHITUNGAN TEGANGAN DAN
+REGANGAN KOLOM BETON BERTULANG TERHADAP DAKTILITAS PENAMPANG
+TAKTERKEKANG. Kupang: Jurusan teknik sipil, fakultas sains dan teknik, universitas
+nusa cendana.
+Simatupang, P. H. (2018). Stress Intensity Factor of Concrete Elements In Mesoscopic Scale Using
+2D Model of Madina. Kupang : Researchgate.
+Simatupang, Partogi H. (2018). Saluran Irigasi Pracetak Ferrogeopolymer Untuk Mendukung
+Irigasi Lahan Kering Kepulaun di Provinsi NTT. Kupang: Kemenristekdikti
+112/UN15.19/LT/2018.
+Voyiadjis, G. Z., Taqieddin, Z. N., & Kattan, P. I. (2008). Int. J. Plast. Anisotropic Damage-
+Plasticity Model for Concrete, Vol.24, no.10, hal 1946-1965.

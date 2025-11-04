@@ -1,0 +1,102 @@
+Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+
+5. Declare Shape
+
+Simbol deklarasi digunakan untuk mendefinisikan variabel
+dan array. Apabila ada lebih dari satu variabel yang memiliki
+tipe data yang sama dapat mendeklarasikan sekaligus yaitu
+dengan memisahkan nama variabel dengan koma. Berikut
+gambar simbol declare
+
+Declare
+
+Gambar 7 Declare Shape
+
+6. Do Shape
+
+Do digunakan untuk perulangan. Perulangan Do  mirip
+dengan Perulangan While, perbedaannya adalah pengecekan
+ekspresi perulangannya ada di akhir dari perulangan, sehingga
+blok pernyataan dieksekusi sedikitnya sekali sebelum ekspresi
+diperiksa. Berikut gambar dari Do Shape
+
+Gambar 8 Do Shape
+
+7. For Shape
+
+Perulangan yang menaikkan variabel secara otomatis pada
+rentang nilai yang dapat ditentukan. Perulangan ini sama
+dengan while hanya saja jumlah perulangannya sudah
+ditentukan dengan memasukkan nilai awal dan nilai akhir
+
+perulangan. Berikut gambar for e.
+
+Gambar 9 For Shape
+8. While Shape
+While shape mengevaluasi ekspresi Boolean dan kemudian,
+jika benar, mengeksekusi blok pernyataan. Setelah pernyataan
+dieksekusi, Pernyataan Sementara memeriksa ulang ekspresi.
+Ketika ekspresi salah, perulangan akan berakhir.
+Berikut gambar dari while shape
+
+Gambar 10 While Shape
+9. If Shape
+If Shape memeriksa ekspresi Boolean dan kemudian
+mengeksekusi cabang benar atau salah berdasarkan hasilnya.
+Berikut gambar dari If shape. _
+
+If
+
+Gambar 11 If Shape
+10. Input Shape
+Pernyataan Input membaca nilai dari keyboard dan
+menyimpan hasilnya dalam variabel. Berikut gambar input
+shape. Berikut gambar Input Shape
+
+Input
+
+Gambar 12 Input Shape
+
+11. Output Shape
+Pernyataan Output mengevaluasi ekspresi dan kemudian
+menampilkan hasilnya di layar. Berikut gambar output shape.
+
+Output
+
+Gambar 13 Output Shape
+
+C. Cara menggunakan perangkat lunak flowgorithm
+
+Setelah proses download dan setup perangkat lunak
+flowgorithm sukses, maka flowgorithm siap untuk digunakan.
+Tampilan awal setelah program flowgorithm di buka akan
+tampak seperti gambar 14 di bawah ini
+
+Sa PWN ee SAR ETERS
+
+wre ESTES S|
+Gambar 14 Tampilan Awal Flowgorithm
+
+Pada gambar 14 tampak awal dan akhir dari flowchart sudah
+tersedia yaitu main dan end. Simbol awal dan akhir sebuah
+flowchart disebut terminal. Selanjutnya untuk dapat
+menuliskan flowchart dengan menggunakan flowgorithm klik
+pada garis antara main dan end, sehingga tampak seperti
+gambar 15 di bawah ini.
+
+Boos 6 eres
+Gambar 16 Tampilan pilihan shape
+
+Pada Gambar 16 di atas tampak piliha shape yang akan
+digunakan, sesuai dengan flowchart yang akan dibuat.
+
+D. Tipe Data pada Flowgorithm
+Tipe data yang tersedia pada flowgorithm lebih sederhana
+dibandingkan dengan bahasa pemrograman, berikut tipe data
+pada Flowgorithm.
+1. Integer
+Tipe data Integer adalah salah satu tipe yang paling unum
+digunakan dalam pemrograman. Tipe data integer dapat
+menyimpan bilangan bulat positif atau negatif, tetapi tidak
+
+p-ISSN: 2337-4055 e-ISSN: 2776-9267

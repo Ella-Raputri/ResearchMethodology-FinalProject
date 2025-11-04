@@ -1,0 +1,110 @@
+Jurnal Teknologi Elektro, Universitas Mercu
+
+ISSN : 2086-9479
+
+Tabel 4.2 Hasil pengujian
+
+rangakaian tombol
+
+“| TEKANAN TOMBOL PADA PUSH
+BUTTON
+
+KELUARAN KE PIN ARDUINO
+
+ex) | ek [apa] on] oe
+
+ae | par | ee | mor] par] ear] ea
+
+ef} of ol of of o| of Pes
+
+TP eye} eyoyo
+TTepTeteyoyo
+TPeofofe]olo
+TT T]PTeyoyo
+TTeytTepolo
+Tepe} typo] o
+vyeyeteytyo
+TTepeteyoya
+
+Masing-masing tombol yang ditekan
+memberikan logika 1, sehingga pada
+keluaran yang  terhubung’ ke
+mikrokontroller juga berlogika 1,
+dimana selanjutnya diteruskan untuk
+memberi perintah motor penggerak
+dan juga motor pintu.
+
+Pengujian Limit Switch
+
+Limit switch pada lat ini
+merupakan batasan pintu membuka
+secara penuh atau menutup secara
+penuh yang terpasang pada kedua
+sisi daun pintu lift,
+
+Tabel 4.3 Hasil pengujian
+
+rangakaian limit switch
+
+TEKANAN PADA LIMIT KELUARAN KE PIN
+SWITCH ARDUINO
+
+swet swor POY s Pays
+
+v 1 0
+0 1
+
+Melalui program dan hasil pengujian
+dapat disimpulkan jika pada saat
+motor pintu  bekerja = (pintu
+membuka) dan daun pintu lift
+mengenai limit switch open (logika
+1) maka pin 9 akan aktif (logika 1),
+yaitu motor pintu mati (pintu stop)
+
+yang artinya pintu sudah membuka
+secara penuh. Begitu juga pada saat
+motor pintu bekerja (pintu menutup)
+dan daun pintu mengenai limit
+switch close (logika 1) maka pin 8
+akan aktif (logika 1), yaitu motor
+pintu mati (pintu stop) yang artinya
+pintu sudah menutup secara penuh.
+Pengujian Sensor Lantai
+
+Sensor lantai diletakkan di
+setiap lantai, yang berfungsi untuk
+membaca pergerakan lift. Dimana
+saat lift melayani ke lantai yang
+dituju maka lift akan berhenti secara
+otomatis, dalam hal ini sensor lantai
+lah yang berperan untuk membuat
+lift (motor penggerak) berhenti.
+Tabel 4.4 Hasil pengujian
+
+rangakaian sensor lantai
+
+STATUS PADASENSOR KELUARAN KE PIN
+LANTAI ARDUINO
+
+sexitt| sexit2| sexirs | povao | poral | pova
+
+v 1 0 0
+
+v 0 1 0
+
+v 0 ) 1
+
+Berdasarkan program dan _hasil
+pengujian dapat disimpulkan jika
+pada saat motor penggerak bergerak
+naik ataupun turun sesuai dengan
+perintahnya ke lantai tertentu dan
+mengenai sensor lantai  tertentu
+(logika 1) sesuai dengan
+
+perintahnya, maka pin pada arduino
+
+Vol.4 No.3 September 2013
+
+108

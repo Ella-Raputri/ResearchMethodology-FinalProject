@@ -1,0 +1,54 @@
+212
+
+Hasil analisis dua sampel t-test pada pre-test dan post-test menyatakan jika nilai Sig. (2-
+tailed) 0,000 < 0,05. Ini menunjukkan bahwa Ho ditolak dan Hg diterima berdasarkan kriteria uji
+dua sampel t-test, yaitu nilai Sig. P < 0,05. Hasil menjelaskan bahwa terdapat ketidaksamaan yang
+signifikan dari skor rata-rata peserta didik pada skor pretest dan skor posttest. Didukung_hasil
+nilai pretest dan posttest dengan Uji N-Gain dengan hasil 0,62 dengan kegori sedang. Oleh sebab
+itu, ditarik kesimpulan bahwasannya media gambar berseri efektif untuk menaiikan keterampilan
+siswa untuk menulis narasi berbahasa jawa, baik sebelum maupun sesudah perlakuan.
+
+Kegiatan pembelajaran di kelas terlihat efektif sebelum dan setelah dilakukan pembelajaran
+menggunakan media. Sebelum menggunakan media gambar berseri diberikan, siswa
+kebingungan dalam merangkai kalimat dan tidak terlalu antusias dalam mengerjakan. Pada saat
+belum menggunakan media keadaan kelas sulit dikondisikan, karena siswa gaduh dan tidak
+terkondisikan. Namun, saat diberikan, siswa menjadi semangat dan aktif selama pembelajaran
+dan siswa lebih mudah dikondisikan. Ketika pembelajaran peserta didik menjadi lancar membuat
+cerita, dan bisa merangkai kalimat sesuai dengan imajinasinya. Hasil penelitian ditemukan bahwa
+menggunakan media gambar berseri memiliki dampak yang positif. Selain itu, penelitian dari
+Oktaviana (2020) menemukan bahwa menggunakan media gambar berseri dapat menolong siswa
+menyampaikan pemikirannya dengan kalimat. Terjadi peningkatan yang signifikan pada
+pembelajaran dengan media gambar berseri.
+
+KESIMPULAN DAN SARAN
+
+Nilai pretest dan posttest ketrampilan menulis narasi berbahasa jawa dipengaruhi secara
+signifikan dengan menggunakan media gambar berseri. Nilai pretest (sebelum perlakuan) lebih
+rendah daripada nilai posttest (setelah perlakuan). Nilai rata-rata posttest yaitu 82,42, dan nilai
+rata-rata pretest yaitu 55,97. Hal ini disebabkan oleh efek perlakuan yang dapat membantu siswa
+meningkatkan ketrampilan menulis mereka. Hasil analisis uji t-test pada pretest dan posttest
+menjelaskan bahwa nilai Sig. (2-tailed) = 0,000 < 0,05, yang menyatakan bahwa Ho ditolak dan
+H, diterima berdasarkan kriteria uji paired sample t-test bahwa nilai Sig. P < 0,05. Hasil
+menunjukkan bahwa terdapat ketidaksamaan dari skor rata-rata siswa di pre-test dan skor post-
+test. Didukung hasil nilai pretest dan posttest dengan Uji N-Gain dengan hasil 0,62 dengan kegori
+sedang. Sehingga disimpulkan media gambar berseri efektif digunakan di materi keterampilan
+menulis narasi berbahasa jawa peserta didik kelas III SDN Pati Wetan 01 Pati.
+
+Penggunaan media gambar berseri sangat cocok untuk mata pelajaran bahasa karena
+memungkinkan siswa untuk mengembangkan ide-ide melalui gambar yang telah disajikan. Ini
+juga memotivasi siswa untuk belajar, terutama tentang bahasa jawa. Perlu adanya penelitian
+tindak lanjut untuk mengembangkan penelitian yang dilakukan peneliti untuk menjadi lebih
+kreatif dan sesuai dengan kemajuan zaman dan desain media yang lebih baik.
+
+DAFTAR PUSTAKA
+
+Afisa, Z. R., Fajrie, N., & Pratiwi, I. A. (2023). PENGEMBANGAN MEDIA KOMIK EDUKASI
+BERBASIS KEARIFAN LOKAL UNTUK MENINGKATKAN HASIL BELAJAR
+KOGNITIF SISWA KELAS V MI PIM MUJAHIDIN. Pendas : Jurnal Ilmiah
+Pendidikan Dasar, 8, 3848-3861.
+https://journal.unpas.ac.id/index.php/pendas/article/view/8414
+
+Annisa, V., Fajrie, N., & Ahsin, M. N. (2021). Penerapan Model Problem Based Learning
+Berbantuan Media Kartu Gambar Ilustrasi Untuk Meningkatkan Pemahaman Konsep
+Siswa Kelas IV Sekolah Dasar. WASIS : Jurnal Ilmiah Pendidikan, 2, 1-8.
+https://jurnal.umk.ac.id/index.php/wasis/article/view/4951

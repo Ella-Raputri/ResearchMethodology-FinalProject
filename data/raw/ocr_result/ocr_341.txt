@@ -1,0 +1,67 @@
+JURNAL TEKNIK MESIN
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+
+Online: https://ejournal3 -undip.ac.id/index.php/jtm
+
+¥
+Studi Literatur
+
+¥v
+Penentuan Komponen Demo Kit & Skema Wiring Uji Gerak Az dan El
+
+¥v
+Membuat Desain Demo Kit
+
+¥
+Menyiapkan Alat dan Bahan
+
+¥
+Integrasi Komponen Elektronika
+dan Pembuatan Koding
+
+y
+Mengakses Sinyal Semua Sensor
+& Menggerakkan Aktuator
+
+¥
+Mengaktifkan Komunikasi
+Bluetooth
+
+=
+Pengujian Gerak pada Platform Statis
+
+¥
+Pengujian Gerak pada Platform Bergerak
+
+¥
+Analisis Data
+
+y
+
+Kesimpulan
+
+Gambar 5 Diagram alir penelitian
+
+3.2 Pemodelan
+
+Konsep pemodelan demo kit penjejak satelit, terdapat beberapa prinsip-prinsip dasar yang harus diperhatikan sehinga
+model yang kita desain sesuai dengan kebutuhan dan fungsi yang diinginkan. Langkah-langkah yang dilakukan dalam
+melakukan pemodelan demo kit penjejak satelit untuk satelit orbit rendah. Demo kit yang dirancang dalam tugas akhir ini
+adalah sebuah alat yang berguna untuk menjejak atau mengikuti pergerakan satelit yang sedang melintas, agar arah antena
+selalu menghadap ke arah satelit mengingat yang diikuti merupakan satelit orbit rendah yang memiliki kecepatan tinggi.
+Untuk kedepannya demo kit secara system akan digunakan untuk menjejak satelit, sehingga actuator azimuth dan elevasi akan
+diterapkan pada model antenna penjejak satelit. Untuk dasar pemahaman pembaca, terlebih dahulu akan dijelaskan bagaimana
+karakteristik satelit yang melintas di atas kita yang akan dituju.
+
+3.2.1 Satelit yang melintas
+
+Satelit merupakan sebuah objek yang dibuat oleh manusia kemudian diterbangkan dan mengorbit pada ketinggian
+terntentu. Satelit LEO merupakan yang terpopuler saat ini. Bagaimana menghubungkan komunikasi dengan nano satelit yang
+mengorbit pada ketinggian tertentu dari bumi, untuk itu perlu dan membutuhkan adanya ground station yang akurat untuk
+menjejaknya [9]. Selebihnya kualitas atau performa komunikasi tergantung pada ground station, dalam hal ini terhadap satelit
+[10]. Merujuk pada hal tersebut ground station maka perlu sebuah perangkat yang bernama antena penjejak satelit. Dengan
+adanya perangkat ini komunikasi dengan satelit dapat berjalan dengan lancar, namun untuk mencapai performa yang bagus
+terdapat beberapa hal yang harus dipertimbangkan. Satelit LEO yang mengorbit sama dengan arah bumi disebut direct orbit
+
+JTM (S-1) — Vol. 11, No. 2, April 2023:125-138 130

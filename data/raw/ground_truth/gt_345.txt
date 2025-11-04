@@ -1,0 +1,41 @@
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3.undip.ac.id/index.php/jtm
+Azimuth
+Azimuth (deg)
+400
+350
+300
+250
+200
+150
+100
+50
+0
+0 100 200 300 400 500 600 700 800
+Waktu ke (sekon)
+Gambar 9. Plot tracking satelit LAPAN A2 sudut azimuth terhadap Lab UPT Undip pada tanggal 8 November 2022 (waktu
+- azimuth).
+Azimuth Motor
+Azimuth (deg)
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+0 100 200 300 400 500 600 700 800
+Waktu ke (Sekon)
+Gambar 10. Plot tracking satelit LAPAN A2 sudut azimuth terhadap Lab UPT Undip pada tanggal 8 November 2022
+(waktu - azimuth).
+Dari data tersebut ada yang perlu diubah karena saat derajat azimuth melewati 360 derajat lanjut menjadi 0 derajat dan
+berlanjut hingga mendektai 60 derajat maka dengan demkian akan menimbulkan permasalahan bagi gerakan motor di sudu
+azimuth. Sehingga untuk mengakali masalah tersebut perlu menambahkan 360 derajat pada azimuth diatas 0 derajat.
+4.2 Perbandingan Gerakan Motor Azimuth Real dengan Sudut Azimuth n2yo.com GCS Lab UPT Undip
+Terhadap Satelit LAPAN A2
+Dari grafik gambar 11 menunjukkan perbandingan antara gerakan motor DC yang menggerakan azimuth dengan
+hasil tracking dari website n2yo.com
+JTM (S-1) Ð Vol. 11, No. 2, April 2023:125-138 134

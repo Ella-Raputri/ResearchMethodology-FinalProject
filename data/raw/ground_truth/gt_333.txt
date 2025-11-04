@@ -1,0 +1,46 @@
+28
+Rian Ariana Putra. Rancang Bangun Mesin Laser Engraving 2-D Berbasis ..................
+permasalahan, mesin dapat membuat gambar pada benda kerja sesuai dengan input yang
+diberikan pada antarmuka.
+3.2.2 Analisa hasil pengujian sistem kontrol dan fungsi laser
+Pada gambar 5. disajikan hasil pengujian sistem kontrol dan fungsi laser. Pengujian ini
+bertujuan untuk mengetahui kesesuaian fungsi laser pada sistem kontrol mesin laser
+engraving. Pengujian ini dilakukan dengan dua jenis benda kerja yaitu kayu, dengan
+parameter kecepatan gravir 1000 mm/min, daya laser 25% dan jarak laser head 20mm,
+serta material benda kerja logam yang dilapisi cat anodize, dengan parameter kecepatan
+gravir 70 mm/min, daya laser 100% dan jarak laser head 20 mm. Hasil yang didapat
+adalah laser dapat berfungsi dengan sebagaimana mestinya sesuai dengan perintah yang
+diberikan oleh sistem.
+3.2.3 Analisa hasil pengujian kinerja dengan parameter jarak laser head, daya
+laser dan kecepatan gravir
+Hasil pengujian dengan beberapa parameter uji ini disajikan pada gambar 6 dan gambar
+7. Benda kerja yang digunakan pada pengujian ini adalah kayu. Pada gambar 6
+ditampilkan hasil pengujian dengan parameter jarak laser head terhadap benda kerja.
+Hasil yang didapat adalah jarak laser head 20 mm menghasilkan gravir paling baik
+dibandingkan dengan jarak 30 mm dan 40 mm. Pada jarak 20 mm garis yang dihasilkan
+cukup jelas, stabil dengan ketebalan garis 1 mm dan menghasilkan gambar yang jelas.
+Pada jarak 30 mm garis yang dihasilkan jelas dengan ketebalan 1,8 mm, dapat dikatakan
+garis yang dihasilkan terlalu tebal karena garis input pada antarmuka diatur pada
+ketebalan 1 mm. Pada jarak 40 mm garis yang dihasilkan jelas namun cenderung tidak
+stabil. Garis yang dihasilkan memiliki ketebalan bervariasi dari 1,8 mm sampai dengan
+2,2 mm sehingga dapat dikatakan tidak sesuai dengan gambar yang diinput pada
+antarmuka.
+Pada gambar 7 ditampilkan hasil pengujian dengan parameter daya laser. Material yang
+diujikan adalah kayu dengan variasi daya laser yang digunakan adalah 25%, 50% dan
+100%. Hasil yang didapat pada pengujian ini adalah sebagai berikut:
+a. Pada daya lser 25% didapat hasil garis gravir yang stabil dengan ketebalan 1 mm.
+Tidak ditemukan kelebihan pembakaran yang dihasilkan, garis cenderung lebih
+terfokus ke satu titik sehingga gambar yang dihasilkan cukup jelas.
+b. Pada daya laser 50% hasil gravir yang didapat adalah garis yang terlalu tebal yaitu
+dengan kisar 1,3 Ğ 1,5 mm sedangkan input yang diberikan adalah garis dengan tebal
+1 mm. ditemukan pembakaran berlebih pada beberapa titik karena garis saling
+berhimpitan.
+c. Pada daya laser 100% hasil gravir yang didapat adalah garis yang terlalu tebal dengan
+ketebalan berkisar 1,5 Ğ 1,9 mm. Terjadi pembakaran berlebih terutama pada garis
+yang saling berhimpitan sehingga gambar yang dihasilkan cendenrung kurang jelas.
+3.2.4 Analisa hasil pengujian kepresisian
+Hasil pengujian kepresisian ditampilkan pada gambar 8. Pada pengujian ini digunakan
+material jenis kayu dengan parameter kecepatan gerak laser 1000mm/min, daya laser
+Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
+ISSN 2797-815X
+P-ISSN 2797-8745

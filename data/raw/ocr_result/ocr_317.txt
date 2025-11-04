@@ -1,0 +1,78 @@
+Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+
+Flowgorithm Sebagai Penunjang Pembelajaran
+Algoritma dan Pemrograman
+
+Ni Nyoman Emang Smrti !, I Putu Gd Sukenada Andisana”, Ni Kadek Dwi Trisna Rahayu? , Adnan‘, Pande Putu
+Ode Juliantara. KW°
+
+15 Jurusan Teknik Informatika STMIK Bandung Bali
+
+24 Jurusan Sistem Informasi STMIK Bandung Bali
+Jin. P.B Sudirman Blok C no. 7X Denpasar
+
+'smrtinyoman@stmikbandungbali.ac.id
+?sukenadaandisana@stmikbandungbali.ac.id
+
+3trisnarahayu@stmikbandungbali.ac.id
+4adnan@stmikbandungbali.ac.id
+Sodejuliantara@stmikbandungbali.ac.id
+
+Intisari— Perkembangan teknologi sangat pesat, banyaknya perangkat lunak yang memudahkan orang untuk belajar. Salah satunya
+belajar algoritma dan pemrograman yang mempelajari tahapan penyelesaian masalah yang efektif sehingga dapat diterjemahkan ke
+dalam Bahasa Pemrograman. Salah satu standard yang digunakan untuk menggambarkan algoritma adalah flowchart. Flowchart
+adalah diagram yang digunakan untuk menggambarkan secara rinci tahapan penyelesaian masalah. Dengan menggunakan gambar
+suatu tahapan masalah akan lebih mudah untuk dipahami. Banyak perangkat lunak yang memberikan kemudahan dalam
+menggambar flowchart salah satunya adalah Microsoft Visio. Manfaat dari Microsoft Visio adalah memudahkan orang dalam
+menggambar flowchart, akan tetapi apa yang telah digambarkan tidak bisa diketahui hasilnya secara langsung.
+
+Perangkat lunak yang memberikan kemudahan untuk membuat flowchart adalah Flowgorithm. Sebelum Flowgorithm Logika dan
+Algoritma adalah dasar dari Perangkat lunak ini Penggunaannya sangat mudah dan juga gratis, sehingga aplikasi ini banyak
+digunakan pemula dalam mempelajari algoritma. Flowchart yang dibuat dengan menggunakan flowgorithm langsung dapat
+dijalankan. Flowgorithm dapat secara interaktif mengkonversi flowchart ke lebih dari 18 bahasa. Ini termasuk: C#, C++, Java,
+JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic. NET. Tujuan dari karya tulis ini adalah memberikan alternatif mempelajari
+algoritma pemrograman sebelum mempelajari bahasa pemrograman dengan menggunakan aplikasi flowgorithm.
+
+Kata kunci— Aplikasi Flowgorithm, Flowchart, Algoritma, Bahasa Pemrograman, Logika Pemrograman
+
+Abstract— Technological developments are very fast, there is a lot of software that makes it easier for people to learn. One of them is
+learning algorithms and programming which studies the stages of effective problem solving so that it can be translated into
+Programming Language. One of the standards used to describe algorithms is a flowchart. A flowchart is a diagram used to describe
+in detail the stages of solving a problem. By using a picture of a stage of the problem it will be easier to understand. Many software
+programs that make it easy to draw flowcharts, one of which is Microsoft Visio. The benefit of Microsoft Visio is that it makes it
+easier for people to draw flowcharts, but what has been described cannot be known directly. Software that makes it easy to create
+flowcharts is Flowgorithm. Before Flowgorithm Logic and Algorithm is the basis of this software. Its use is very easy and also free, so
+this application is widely used by beginners in learning algorithms. Flowcharts created using flowgorithm can be run directly.
+Flowgorithm can interactively convert flowcharts to more than 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl,
+Python, Ruby, Swift, Visual Basic .NET. The purpose of this paper is to provide an alternative to learning programming algorithms
+before learning programming languages using the flowgorithm application.
+
+Keywords— Flowgorithm Application, Flowchart, Algorithm, Programming Language, Programming Logic
+
+Perkembangan teknologi sangat pesat, banyaknya perangkat
+
+L PENDAHULUAN lunak yang memudahkan orang untuk belajar. Salah satunya
+
+Algoritma dipelajari secara khusus pada rumpun ilmu
+komputer, karena algoritma menjadi dasar dari pemrograman.
+Definisi algoritma pada buku Introduction to Algorithm{1],
+algoritma adalah prosedur komputasi yang terdefinisi dengan
+baik yang mengambil beberapa nilai, atau kumpulan nilai,
+sebagai masukan dan menghasilkan beberapa nilai, atau
+kumpulan nilai sebagai keluaran. Dengan kata lain,
+memahami algoritma seperti membuat rute jalan untuk
+menuju suatu tujuan dengan lintasan yang terpendek dan
+tepat .
+
+belajar algoritma yang mempelajari tahapan penyelesaian
+masalah yang efektif sehingga dapat diterjemahkan ke dalam
+Bahasa Pemrograman. Salah satu standard yang digunakan
+untuk menggambarkan algoritma adalah flowchart. Flowchart
+adalah diagram yang digunakan untuk menggambarkan
+sebuah algoritma yang terstruktur dan mudah dipahami oleh
+orang lain[2]. Dengan menggunakan gambar suatu tahapan
+masalah akan lebih mudah untuk dipahami. Banyak perangkat
+lunak yang memberikan kemudahan dalam menggambar
+flowchart salah satunya adalah Microsoft Visio. Manfaat dari
+
+p-ISSN: 2337-4055 e-ISSN: 2776-9267

@@ -1,0 +1,126 @@
+P-ISSN : 2303-3142 E-ISSN : 2548-8570 Vol.10 No 2 Tahun 2021
+Fase Arsitektur Bisnis
+Pendefinisian area bisnis SMA Negeri
+1 Singaraja pada fase ini, mengacu kepada
+hasil analisa value chain SMA Negeri 1
+Singaraja (Gambar 2). Sehingga, proses
+bisnis yang ada terdiri atas proses bisnis
+utama dan proses bisnis pendukung.
+Proses bisnis utama terdiri 4 (empat)
+proses yaitu: 1) penerimaan peserta didik
+baru, 2) proses akademik, 3) ujian, dan 4)
+kelulusan. Proses bisnis pendukung terdiri
+atas 7 (tujuh) proses yaitu: 1) manajemen
+keuangan, 2) manajemen persuratan, 3)
+manajemen perpustakaan, 4) manajemen
+kesiswaan, 5) manajemen kepegawaian, 6)
+manajemen SI/TI, dan 7) manajemen sarana
+dan prasarana.
+Berdasarkan hasil analisi proses
+bisnis, maka arsitektur bisnis SMA Negeri 1
+Singaraja dapat dimodelkan seperti pada
+Gambar 3.
+Gambar 3. Model Arsitektur Bisnis
+Fase Sistem Informasi
+Fase ini terbagi menjadi dua fase yaitu
+fase arsitektur aplikasi dan fase arsitektur
+data. Pada fase arsitektur aplikasi terdapat
+beberapa rancangan aplikasi yang
+direkomendasikan. Pengajuan aplikasi ini
+ditelaah berdasarkan kebutuhan data untuk
+pengambilan keputusan di tiap fungsi bisnis,
+kebutuhan pertukaran informasi antar fungsi
+bisnis dan kebutuhan alat bantu pada
+masing-masing fungsi bisnis.
+Ada 14 (empat belas) aplikasi yang
+direkomendasikan, meliputi: 1) Sistem Daftar
+Ulang (SI
+_
+DU), yang digunakan untuk
+menampung data siswa ketika melakukan
+proses daftar ulang; 2) Sistem Jadwal Mata
+Pelajaran (SI
+_
+JADWAL), yang digunakan
+untuk menampung informasi jadwal mata
+pelajaran untuk guru dan siswa; 3) Sistem
+Presensi Kehadiran (SI
+_
+ABSEN), yang
+digunakan untuk membantu proses presensi
+kehadiran siswa saat pelajaran berlangsung
+di kelas; 4) Sistem Ujian (SI
+_
+UJI), yang
+digunakan untuk mengganti ujian yang
+selama ini paper-based menjadi paperless;
+5) Sistem Surat Keterangan Lulus (SI
+_
+SKL),
+yang digunakan untuk mencetak surat
+keterangan lulus (SKL); 6) Sistem Keuangan
+dan Akuntansi Sekolah (SI
+_
+KAS), yang
+digunakan untuk membantu pembukuan
+pengelolaan keuangan di sekolah; 7) Sistem
+Agenda Persuratan (SI
+_
+AGENDA), yang
+digunakan untuk mencatat agenda surat
+masuk, mencatat distribusi surat, dan
+mencatat penomoran surat keluar. 8) Sistem
+Perpustakaan (SI
+_
+PUS), yang digunakan
+untuk mencatat koleksi buku di
+perpustakaan serta mencatat transaksi
+peminjaman dan pengembalian buku oleh
+warga sekolah; 9) Sistem Informasi Siswa
+(SI
+_
+SIS), yang digunakan untuk
+mendokumentasikan data siswa; 10) Sistem
+Penerimaan Beasiswa (SI
+_
+BEA), yang
+digunakan untuk menampilkan informasi
+beasiswa dan melakukan pendaftaran
+beasiswa. 11) Sistem Pencatatan
+Pelanggaran Siswa (SI
+_
+LANGGAR), yang
+digunakan untuk mencatat pelanggaran
+aturan buku saku yang dilakukan oleh siswa;
+12) Sistem Pencatatan Alumni
+(SI
+_
+ALUMNI), yang digunakan untuk
+menampung data alumni; 13) Sistem
+Informasi Guru dan Pegawai (SI
+_
+GP), yang
+digunakan untuk mendokumentasikan data
+dan berkas yang dimiliki oleh guru dan
+pegawai; dan 14) Sistem Inventaris Barang
+(SI
+_
+IB), yang digunakan untuk
+mendokumentasikan penerimaan dan
+pengeluaran barang.
+Keseluruhan rancangan aplikasi yang
+direkomendasikan dapat dipetakan ke
+dalam model arsitektur bisnis (Gambar 3).
+Adapun hasil pemetaannya dapat dilihat
+pada Gambar 4.
+Arsitektur aplikasi dapat dimodelkan
+menggunakan landscape aplikasi yang
+tersaji dalam Gambar 5. Berdasarkan
+landscape aplikasi dapat dilihat bahwa
+website sekolah dapat diakses oleh umum.
+Kemudian sistem-sistem yang merupakan
+solusi aplikasi dibatasi oleh user
+management. User management pada
+landscape aplikasi ini berupa sebuah sistem
+Single Sign On (SSO) dimana user hanya
+Jurnal Sains dan Teknologi | 322

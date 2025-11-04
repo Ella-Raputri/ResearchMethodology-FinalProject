@@ -1,0 +1,42 @@
+Penerapan Diagram Sebab Akibat (Fishbone Diagram) pada Identifikasi Kerusakan Mekanisme Pengumpan dan
+Penyusuana Standard Operating Procedure Mesin Skrap
+
+baik untuk memastikan kelancaran proses. Sayangnya, mekanisme pengumpan sering
+mengalami kerusakan, yang mengakibatkan gangguan operasional mesin dan berkurangnya
+tingkat produktivitas serta peningkatan waktu downtime. Kerusakan ini dapat disebabkan oleh
+berbagai faktor yang melibatkan aspek teknis maupun operasional, sehingga diperlukan
+analisis menyeluruh untuk mengidentifikasi penyebab utamanya.
+
+Salah satu pendekatan yang efektif untuk menganalisis kerusakan adalah penggunaan
+Diagram Sebab Akibat, atau Fishbone Diagram. Metode ini pertama kali diperkenalkan oleh
+Kaoru Ishikawa pada tahun 1968 dan berfungsi untuk mengidentifikasi berbagai faktor yang
+berpotensi menjadi penyebab masalah dalam suatu sistem (Ishikawa, 1982). Fishbone diagram
+mengelompokkan penyebab masalah ke dalam kategori seperti manusia, mesin, metode,
+material, dan lingkungan, yang memungkinkan pemahaman lebih mendalam dan sistematis
+mengenai akar penyebab masalah (Juran & Godfrey, 1999). Penerapan diagram ini pada
+analisis kerusakan mekanisme pengumpan pada mesin skrap dapat memberikan wawasan lebih
+jelas dan membantu merumuskan solusi yang lebih tepat.
+
+Selain itu, untuk memastikan kelancaran operasional mesin skrap, perusahaan atau
+laboratorium harus memiliki Standar Operasional Prosedur (SOP) yang jelas dan terstruktur.
+SOP yang baik akan membantu operator dalam melakukan tugasnya dengan cara yang benar
+dan aman, sehingga mengurangi potensi kesalahan operasional yang bisa menyebabkan
+kerusakan pada mesin. Tanpa SOP yang efektif, kesalahan pengoperasian yang terjadi dapat
+berakibat pada penurunan kinerja mesin (Mohammad, 2015). Oleh karena itu, penyusunan SOP
+yang didasarkan pada hasil analisis Fishbone Diagram akan membantu meningkatkan
+keandalan mesin skrap serta mengurangi kerusakan pada mekanisme pengumpan.
+
+Dengan menerapkan untuk mengidentifikasi penyebab kerusakan dan mengembangkan
+SOP yang tepat, diharapkan dapat dicapai peningkatan produktivitas mesin skrap serta
+pengurangan downtime yang signifikan, baik di sektor industri maupun pendidikan.
+
+2. KAJIAN TEORITIS
+
+Pada proses sekrap mesin perkakas dengan gerakan utama lurus bolak-balik secara
+vertikal maupun horizontal. Gerak potong pahat pada benda kerja merupakan gerakan lurus
+translasi. Dalam hal ini benda kerja dalam keadaan diam dan pahat bergerak lurus translasi.
+Pada saat pahat melakukan gerak balik, benda kerja juga melakukan gerak umpan (feeding).
+Sehingga punggung pahat akan tersangkut pada benda kerja yang sedang bergerak noleh karena
+itu pemegang pahat berbentuk lonceng. Dalam dunia industri mesin sekrap digunakan untuk
+
+140 MARS - VOLUME 3 NOMOR 1, TAHUN 2025

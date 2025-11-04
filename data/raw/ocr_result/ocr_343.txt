@@ -1,0 +1,69 @@
+JURNAL TEKNIK MESIN
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3 -undip.ac.id/index.php/jtm
+
+3.3. Komponen Demo Kit dan Pembuatan Diagram Skematik Wiring
+
+Pembuatan diagram skematik & wiring komponen bertujuan untuk mempermudah dalam proses perangkaian
+komponen elektrik yang akan digunakan untuk demo kit. Pembuatan diagram skematik & wiring komponen ini disesuaikan
+dengan prinsip kerja alat dari sistem demo kit. Untuk menunjang berjalannya system demo kit terdapat komponen mekanik
+dan elektrik, sebagai berikut komponen yang digunakan:
+Papan dasar (dari acrylic)
+Mikro kontroler STM32F104C8T6 (dua buah)
+Bluetooth HM-10 (dua buah)
+Sensor IMU
+GPS (Global Positioning System)
+Driver Motor 556 (dua buah)
+Motor NEMA 23HS5628
+Power Supply
+Komponen elektrik dan mekanik tersebut yang digunakan untuk membuat sistem demo kit. Setelah mengatahui
+karakteristik masing-masing komponen, dilanjutkan membuat skematik sistem demo kit dari hulu ke hilir serta dilanjutkan
+dengan membuat wiring diagram. Skematik demo kit merupakan hal yang terpenting karena aktualisai dari konsep teori ke
+lapangan atau hardware, pada skematik komponen memuat informasi dari hulu ke hilir hingga mencapai fungsi sebuah system
+yang telah ditentukan diawal. Dari skematik tersebut juga sebagai dasar untuk membuat wiring komponen dan membuat
+papan PCB jika diperlukan. Berikut skematik system demo kit dapat dilihat pada gambar 6.
+
+VVVVVVVV
+
+Posisi Satelit >
+
+Power Supply
+Tegangen 12V dan 332A
+
+'STM32F103C8T6 for Azimuth STM32F103C8T6 for Elevation
+(curt Gerak
+Azimuth: Elevasi }
+¥
+Driver ae
+(meter J* “meter
+( |, ces _((stmsaruoacere | stwaarioacsre
+(saree J ge —{ammarnoe scr
+
+¥ pet a
+(weston 117 oeconth i
+
+GPs.
+
+Gambar 6. Diagram Skematik Sistem Demo Kit
+
+Pada diagram tersebut, terdapat dua bagian utama yaitu bagian mikro kontroler untuk azimuth dan elevasi. Langkah
+awalnya dengan mangambil data azimuth dan elevasi dari website n2yo.com karena web tersebut yang menyediakan dua data
+tersebut terhadap satelit secara real time dan beruntungnya website tersebut menyediakan data API sehingga bisa diakses data
+yang kita inginkan. Namun terbatas satu jam maksimal 3000 data, sehingga data terupdate setiap empat detik. Setelah kita
+membuat akun diweb tersebut, selanjutnya membuat aplikasi dengan software visual studio code dengan bahasa phyton untuk
+mengakses kode JASON (Java Script Object Notation). Aplikasi yang dibuat dengan visual studio code memiliki inputan data
+posisi latitude dan longitude atau lintang bujur kita atau data GPS (Global Positioning System), NORAD ID yang mana setiap
+satelit memilik data satelit memiliki nomor tersebut, dengan dua inputan tersebut aplikasi sudah mendapatkan data azimuth
+dan elevasi dari demo kit terhadap satelit. Setelah dijalankan aplikasi akan merekap data azimuth dan elevasi satelit terhadap
+kita, setelah kita cukup sesuai waktu yang kita inginkan selanjutnya disave data tersebut, format data yang dibuat aplikasi
+berupa csv (comma separated vision).
+
+Setelah dilakukan proses pembuatan diagram skematik komponen elektrik dari demo kit serta penjelasannya, maka
+selanjutnya dilakukan proses pembuatan diagram wiring komponen dengan menggunakan software Fritzing. Dengan wiring
+komponen akan mempermudah karena sebagai panduan dalam integrasi komponen elektrik, serta jika diperlukan akan dibuat
+panduan membuat jalur PCB. Proses pembuatan wiring ini akan disesuaikan dengan spesifikasi dari masing-masing
+komponen sensor IMU, GPS, driver motor, dan bluetooth untuk menentukan alokasi pin-pin yang digunakan pada mikro
+kontroler. Beikut wiring diagram sistem demo kit.
+
+JTM (S-1) — Vol. 11, No. 2, April 2023:125-138 132

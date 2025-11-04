@@ -1,0 +1,66 @@
+JURNAL TEKNIK MESIN
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3 -undip.ac.id/index.php/jtm
+
+1. Pendahuluan
+
+Perkembangan teknologi angkasa yang sangat cepat dan dinamis sehingga membuat berbagai negara berlomba-lomba
+untuk membuat teknologi kendaraan luar angkasa (Spacecraft). Sputnik-1 adalah satelit pertama dari bumi yang meluncur ke
+ruang angkasa pada tahun 1957 oleh Rusia. Satelit buatan adalah salah satu bukti perkembangan teknologi spacecraft yang
+sangat maju, satelit sendiri adalah objek luar angkasa yang mengorbit disekitar bumi yang diluncurkan dengan rocket dan
+ditempatkan pada orbit di sekitar bumi dengan misi tertentu. Teknologi satelit merupakan teknologi yang sangat penting,
+karena begitu banyaknya fungsi satelit yang digunakan untuk memenuhi kebutuhan informasi manusia seperti satelit
+penginderaan jarak jauh, satelit pemantau cuaca pemanatau cuaca, satelit komunikasi, satelit komunikasi, satelit navigasi,
+dan satelit militer. Satelit buatan berdasarkan ketinggian atau altitude dapat dibedakan menjadi satelit GEO (geostasionery
+Earth Orbit) dengan altitude kurang lebih 36.000 km, MEO (Medium Earh Orbit) dengan altitude 3.000 — 35.000 km, dan
+LEO (Low Earth Orbit) dengan ketinggian kurang dari 3.000 km dan dapat mengelilingi bumi sebanyak 12-16 kali dalam
+sehari.
+
+Negara Indonesia sebagai negara berkembang sangat membutuhkan peranan dan perkembangan teknologi satelit ini.
+Indonesia yang memiliki wilayah negara yang sangat luas berbentuk kepulauan (archipelago state) yang artinya terhubung
+oleh lautan, dan sebagaian besar berbatasan dengan negara lain adalah lautan. Sehingga akan lebih optimal jika dibantu
+dengan teknologi satelit. LAPAN (Lembaga Penerbangan dan Antariksa Nasional) sebagai salah satu lembaga yang
+melakukan penelitian tentang satelit telah meluncurkan satelit LEO diantaranya LAPAN-TUBSAT, LAPAN A-2, LAPAN
+A-3, dengan melibatkan pihak akademisi seperti dosen dan mahasiswa diharapkan Indonesia nantinya mampu menjadi bangsa
+yang mandiri dari teknologi satelit. Dalam teknologi satelit, tidak cukup jika hanya melakukan peluncuran saja dan
+membangun stasiun di bumi saja, 2 tetapi juga dapat berkomunikasi antara stasiun bumi bergerak (SBB) berupa antena
+penjejak satelit dengan satelit. Komunikasi antara satelit dan SBB perlu teknologi yang bernama antena, antena sebagai media
+penerima gelombang radio. Prinsip dasar antena harus mampu bergerak (tracking) mengikuti arah gerak dari pergerakan
+satelit sehingga diharapkan dapat berkomunikasi antara antena penjejak satelit dengan satelit secara optimal. Oleh sebab itu
+diperlukan pendukung penggerak antena berupa rotator agar antena berfungsi dengan baik. Pada tugas akhir ini adalah
+mensimulasikan, membuat model, dan manganalisis antena penjejak satelit yang dapat menjejak satelit LEO (Low Earth
+Orbit) dengan sistem auto tracking. Dengan menggunakan microcontroller, GPS sebagai input lokasi antena secara realtime,
+rotator untuk gerak antenna pada sumbu horizontal (azimuth) dan sumbu vertikal (elevasi) terhadap satelit yang ditracking,
+serta pendukung untuk stasiun bumi bergerak lainnya agar tetap optimal.
+
+2. Dasar Teori
+2.1 Pengertian Satelit
+
+Satelit adalah suatu benda yang mengorbit benda lain yang memiliki volume lebih besar dibanding benda yang
+mengorbit dengan periode revolusi dan rotasi tertentu. Ada dua jenis satelit yakni satelit alam dan satelit buatan. Satelit alami
+adalah benda-benda luar angkasa bukan buatan manusia yang mengorbit sebuah planet atau benda lain yang lebih besar
+daripada ukuran planet tersebut, sebagai contoh misalnya Bulan adalah satelit alami Bumi yang mana Bulan memiliki diameter
+lebih kecil disbanding Bumi dan Bulan berevolusi mengitari Bumi. Begitu juga dengan Bumi merupakan satelit dari Matahari
+karena Bumi memiliki diameter lebih kecil dibanding dengan Matahari serta Bumi juga mengorbit mengitari Matahari.
+Sedangkan satelit buatan merupakan salah satu bukti perkembangan teknologi spacecraft yang sangat maju, satelit buatan
+adalah objek luar angkasa yang mengorbit disekitar bumi pada ketinggian tertentu diluncurkan dengan menggunakan rocket
+dan ditempatkan pada orbit di sekitar bumi dengan misi tertentu. Satelit memiliki peranan yang sangat penting dalam
+menyumbang kemajuan teknologi yang dibutuhkan oleh manusia, terutama dalam layanan informasi. Berdasarkan misinya
+satelit buatan memiliki misi diaantaranya misi militer, remote sensing, satelit komunikasi, astronomi, navigasi, pengamatan
+cuaca, dan mitigasi bencara [1]. Sebegitu pentingnya satelit buatan jika dilihat dari misinya, di Negara Indonesia yang
+merupakan kepulauan (Archipellago State) seperti yang disebutkan satelit buatan merupakan teknologi informasi yang hampir
+disetiap negara membutuhkannya, mulai dari manfaatnya dalam hal informasi seperti komunikasi, cuaca dan lingkungan,
+keamanan dan batas wilayah hingga bencana alam [2].
+
+2.2. Satelit LAPAN A-2
+
+Satelit LAPAN-A2/LAPAN-ORARI adalah satelit generasi kedua buatan Lembaga Penerbangan dan Antariksa
+Nasional (LAPAN). Satelit ini merupakan lanjutan dari satelit pertama, yaitu satelit LAPAN-A1/LAPAN-TUBSAT. Satelit
+LAPAN-A2/LAPAN-ORARI tujuan penggunaan utama dari satelit ini adalah untuk mitigasi bencana. Satelit LAPAN-
+A2/LAPAN-ORARI diluncurkan pada 28 13 September 2015 dari Sriharikota, India. Satelit LAPAN A-2 yang memiliki
+orbit eqyatorial ini dielangkapi dengan aplikasi VR (voice repeater). Yang mana VR ini memiliki fungsi untuk transmisi
+repeater, di mana gelombang sinyal radioakan Kembali ditransmisikan dalam mode amatir radio komunikasi (Darsono &
+dkk, 2019).
+
+JTM (S-1) — Vol. 11, No. 2, April 2023:125-138 126

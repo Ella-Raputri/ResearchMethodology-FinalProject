@@ -1,0 +1,61 @@
+Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
+dengan menggunakan tenaga non
+mekanik. Elevator penumpang
+pertama dipasang oleh Otis
+Arduino Uno
+Arduino UNO adalah
+sebuah board mikrokontroler yang
+didasarkan pada ATmega328.
+Arduino UNO mempunyai 14 pin
+digital input/output (6 di antaranya
+dapat digunakan sebagai output
+PWM), 6 input analog, sebuah
+osilator Kristal 16 MHz, sebuah
+koneksi USB, sebuah power jack,
+sebuah ICSP header, dan sebuat
+tombol reset. Arduino UNO memuat
+semua yang dibutuhkan untuk
+menunjang mikrokontroler, mudah
+menghubungkannya ke sebuah
+computer dengan sebuah kabel USB
+atau mensuplainya dengan sebuah
+adaptor AC ke DC atau
+menggunakan baterai untuk
+memulainya.
+Gambar 2.1 Arduino Uno
+Driver Motor (Motor Shield L298)
+L298 adalah komponen elektronik
+yang dipergunakan untuk
+mengontrol arah putaran motor DC.
+Satu buah L298 bisa dipergunakan
+untuk mengontrol dua buah motor
+DC. Selain bisa dipergunakan untuk
+mengontrol arah putaran motor DC,
+L298 ini pun bisa dipergunakan
+sebagai driver motor Stepper
+bipolar.
+IC driver L298 memiliki
+kemampuan menggerakkan motor
+DC sampai arus 2A dan tegangan
+maksimum 40 volt DC untuk satu
+kanalnya. Pin enable A dan B untuk
+mengendalikan jalan atau kecepatan
+motor, pin input 1 sampai 4
+digunakan untuk mengendalikan
+arah putaran. Pin output pada IC
+L298 13 dihubungkan kemotor DC
+yang sebelumnya melalui dioda
+yang disusun secara H-bridge.
+Pengaturan kecepatan motor
+digunakan teknik PWM (pulse width
+modulation) yang diinputkan dari
+mikrokontroler melalui pin Enable.
+PWM untuk kecepatan rotasi yang
+bervariasi level highnya.
+Motor DC
+Prinsip Kerja Motor DC
+Motor DC adalah suatu
+perangkat yang digunakan untuk
+menghasilkan daya mekanis berupa
+putaran dengan masukan berupa
+Vol.4 No.3 September 2013 102

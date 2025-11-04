@@ -1,0 +1,133 @@
+Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+
+daripada mahasiswa
+konvensional.
+
+Paper seminar Pengenalan Algoritma Pemrograman Melalui
+Simulasi Robot di Seminar Nasional Informatika [11],
+dikatakan dengan menggunakan metode simulasi robot
+diharapkan dapat menumbuhkan minat programmer terhadap
+pemrograman. Karena dengan visualisasi secara langsung
+akan memicu para pengguna untuk bisa selalu mencoba-coba
+dengan metode yang bermacam-macam.
+
+Artikel jurnal Memahami Algoritma Pemrograman (Analisis
+Pembelajaran dalam Implementasi Software) di Jurnal
+Teknologi Pendidikan (Teknodik) [12], dikatakan bahwa
+melalui Pembelajaran Algoritma Pemrograman diharapkan
+dapat menemukan dan _ merekonstruksi konsep-konsep
+logika pemrograman atau pengetahuan pemograman formal.
+Selanjutnya diberi kesempatan menerapkan konsep-konsep
+logika pemrograman untuk memecahkan masalah-masalah
+sehari-hari atau masalah dalam bidang lain. Dengan kata lain,
+pembelajaran algoritma | pemograman berorientasi pada
+logika pengalaman sehari-hari, dan menerapkan algoritma
+pemrograman dalam kehidupan  sehari-hari, sehingga
+mahasiswa belajar dengan bermakna
+
+yang memperoleh pembelajaran
+
+Ul. HASIL DAN PEMBAHASAN
+
+A. Cara Download Flowgorithm
+
+Flowgorithm dapat di download pada situs flowgorithm[3]
+Setelah halaman web flowgorithm terbuka akan terlihat
+seperti pada gambar 1 di bawah ini.
+
+Windows 64-bit
+
+a Moose
+
+Windows 32-bit (older
+
+ta eon 2 Mow Schmes. >
+
+=
+
+eT cee |
+
+Gambar 1. Halaman Web Flowgorithm
+
+Langkah berikutnya sebagai berikut:
+
+1. Klik menu download.
+
+2. Pilih sesuai dengan sistem operasi yang digunakan,
+kemudian download.
+
+3. Apabila sudah sukses download seperti terlihat pada
+gambar 2 di bawah ini, kemudian lanjutkan dengan
+setup.
+
+4. Selanjutnya klik next.
+
+5. Dilanjutkan dengan pilih J Agree, kemudian tekan next.
+
+58
+
+a xo x6 + °
+
+Windows 64
+
+rt
+Windows 32
+
+Wom
+
+Macintosh &
+
+aot | f
+1 “Os
+
+es@nceasr
+
+Ce ea ee
+
+Gambar 2 Proses Setup
+
+B. Simbol-simbol pada flowgorithm (shapes)
+
+Simbol-simbol yang digunakan pada flowgorithm, sama
+dengan simbol-simbol yang digunakan pada flowchart.
+Berikut simbol-simbol yang digunakan pada flowgorithm
+1. Assignment Shape
+
+Simbol Assignment digunakan untuk menyimpan hasil
+perhitungan ke dalam sebuah variabel. Ini adalah salah
+satu tugas paling umum yang ditemukan dalam program.
+Berikut gambar Assignment Shape
+
+Assign
+
+Gambar 3 Assignment
+
+2. Breakpoint Shape
+Breakpoint Shape menghentikan eksekusi program. Ini
+berguna baik untuk program debugging dan untuk
+demonstrasi. Sebagian besar aplikasi pengembangan
+perangkat lunak profesional memiliki beberapa bentuk
+breakpoint. Berikut gambar breakpoin shape.
+
+@ Breakpoint
+
+Gambar 4 Breakpoint Shape
+
+3. Call Shape
+Pernyataan Panggilan mentransfer kontrol ke suatu fungsi.
+Informasi yang diteruskan ke fungsi disebut 'argumen'.
+Berikut gambar call shape.
+
+Call
+
+Gambar 5 Call Shape
+
+4. Comment Shape
+
+Komentar tidak memengaruhi cara program berjalan. Call
+shape digunakan untuk memasukkan dokumentasi. Berikut
+gambar comment shape
+
+Gambar 6 Comment Shape
+
+p-ISSN: 2337-4055 e-ISSN: 2776-9267

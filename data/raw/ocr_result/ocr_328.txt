@@ -1,0 +1,56 @@
+Jurnal FUSE-Teknik Elektro 23
+| Vol. 2 | No. 1 | Halaman 21-30 [Juni] [2022]
+
+2. Komponen elektronik pada mesin memiliki fungsi beragam sesuai dengan
+kebutuhan pada mesin yaitu: Cronos CNC Board yang berfungsi sebagai papan
+sirkuit utama yang menghubungkan driver aktuator dengan mikrokontroler, motor
+stepper bipolar yang berfungsi sebagai komponen penggerak sumbu x dan y pada
+mesin, modul laser 15 watt yang berfungsi sebagai aktuator laser, mikrokontroller
+Arduino Uno sebagai penerjemah G-Code menjadi aktuasi dan kabel penghubung
+setiap perangkat elektronik.
+
+3. Komponen perangkat lunak terdiri dari jua jenis yaitu: perangkat lunak
+LaserGRBL sebagai interpreter gambar digital menjadi perintah G-Code
+sekaligus antarmuka pada mesin; dan firmware laserGRBL yang diunduh ke
+Arduino Uno agar dapat mengeksekusi susunan perintah G-Code dari perangkat
+lunak laserGRBL.
+
+2.3 Diagram Blok Mesin Laser Engraving
+
+Mesin laser engraving ini dirancang dengan sistem siklus open loop sehingga tidak
+terdapat penggunaan sensor pada mesin sebagai kendali umpan balik pada sistem.
+
+DIAGRAM BLOK SISTEM
+
+INPUT i PROSES it OUTPUT
+
+Driver Stepper Bipolar
+Motor = Stepper Motor
+(A4988 Shield) (Sumbu x & y)
+
+GAMBAR INTERPRETER \°SOde(
+ipg, .png (PC/Laptop, Micocontroller
+.bmp) LaserGRBL) (Arduino UNO)
+
+Laser Module
+
+Gambar 1. Diagram Blok Mesin Laser Engraving
+
+Mesin bekerja dengan perintah masukan berupa gambar digital (.png, .jpg) dua dimensi
+yang diberikan pengguna melalui perangkat lunak LaserGRBL. LaserGRBL kemudian
+akan menginterpretasi gambar menjadi rangkaian perintah blok G-Code untuk dikirmkan
+kepada Arduino melalui protokol serial (USB). Mikrokontroler kemudian mengubah blok
+perintah G-Code menjadi aktuasi gerakan interpolasi dan pembakaran menggunakan laser
+pada permukaan benda kerja. Proses pengerjaan bergantung pada banyaknya urutan
+perintah blok G-Code yang dikirim oleh perangkat lunak LaserGRBL. Proses pengerjaan
+berakhir apabila seluruh perintah blok G-Code selesai dieksekusi.
+
+2.4 Flowchart Perancangan Mesin Laser Engraving 2-D
+
+Tahapan yang dilakukan pada perancangan mesin laser engraving 2-D_ berbasis
+mikrokontroler Arduino uno adalah sebagaimana diperlihatkan pada gambar 2.
+
+Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
+
+ISSN 2797-815X
+P-ISSN 2797-8745

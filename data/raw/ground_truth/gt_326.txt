@@ -1,0 +1,46 @@
+Jurnal FUSE Ð Teknik Elektro
+|Vol. 2 | No. 1 | Halaman 21 Ð 30 | [Juni][2022]
+Rancang Bangun Mesin Laser Engraving 2-D Berbasis Mikrokontroler
+Arduino Uno
+Rian Ariana Putra1
+, Ade Rukmana2
+, Akhmad Fauzi Ikhsan3
+1Jurusan Teknik Elektro, Fakultas Teknik Universitas Garut, Jl. Jati 42-B, Garut, 44151
+2Jurusan Teknik Elektro, Fakultas Teknik Universitas Garut, Jl. Jati 42-B, Garut, 44151
+3Jurusan Teknik Elektro, Fakultas Teknik Universitas Garut, Jl. Jati 42-B, Garut, 44151
+Korespondensi: r.arianaputra@gmail.com
+ARTICLE HISTORY
+Received:03-06-2022 Revised:19-06-2022 Accepointed:19-06-2022
+Abstrak
+Mesin laser engraving merupakan salah satu mesin yang memiliki fungsi sebagai
+penggores pada permukaan benda kerja dengan memanfaatkan penggunaan laser. Mesin
+laser engraving ini memiliki cara kerja yang sama dengan mesin CNC (Computer
+Numerical Control) yang menggunakan perintah G-Code. Mesin ini dirancang sebagai
+salah satu alternatif pembelajaran CNC dan pemenuhan kebutuhan produksi. Perancangan
+mesin ini menggunakan metode R&D dengan model prototyping. Mesin dirancang untuk
+dapat bekerja dengan perangkat lunak LaserGRBL yang mendeskripsikan perintah G-Code
+dari gambar dua dimensi. Hasil pengujian mesin dapat mengerjakan proses gravir pada dua
+jenis material benda kerja, yaitu kayu dengan parameter kecepatan gravir 1000 mm/menit
+dan daya laser 25% dan logam yang dilapisi cat anodize dengan parameter kecepatan gravir
+200 mm/menit dan daya laser 100% untuk
+mendapatkan hasil gravir paling optimal.
+Kata kunci: Arduino; G-Code; Laser Engraving.
+Design and Build an Arduino Uno Microcontroller based 2-D Laser
+Engraving Machine
+Abstract
+Laser engraving machine is a machine that has a function as an etching on the surface of
+the workpiece by utilizing the use of a laser. This laser engraving machine has the same
+way of working as a CNC (Computer Numerical Control) machine that uses the G-Code
+command. This machine is designed as an alternative to CNC learning and fulfills
+production needs. The design of this machine uses the R&D method with a prototyping
+model. The machine is designed to work with the LaserGRBL software which describes G-
+Code commands from two-dimensional images. The test results of the machine can work
+on the engraving process on two types of workpiece materials, namely wood with an
+engraving speed parameter of 1000 mm/minute and a laser power of 25% and anodized
+paint coated metal with an engraving speed parameter of 200 mm/minute and a laser power
+of 100% for get the most optimal engraving results.
+Key words: arduino; G-Code; Laser Engraving
+Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
+21
+ISSN 2797-815X
+P-ISSN 2797-8745

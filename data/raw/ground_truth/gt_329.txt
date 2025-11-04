@@ -1,0 +1,12 @@
+24
+Rian Ariana Putra. Rancang Bangun Mesin Laser Engraving 2-D Berbasis ..................
+Gambar 2. Diagram alir perancangan
+Mesin laser engraving ini bekerja dengan mekanisme dua sumbu penggerak dan sistem
+kendali mesin gravir laser menggunakan mikrokontroler. Jenis kendali mesin gravir laser
+pada perancangan ini adalah loop terbuka. Dengan menggunakan mikrokontroler Arduino
+uno sebagai penerjemah G-Code menjadi pulsa yang dikirim ke modul laser dan driver
+motor stepper. Diagram skematik mesin ditunjukan pada gambar 3.
+Gambar 3. Skematik rangkaian mesin laser engraving
+Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
+ISSN 2797-815X
+P-ISSN 2797-8745

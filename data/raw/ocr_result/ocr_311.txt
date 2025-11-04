@@ -1,0 +1,88 @@
+P-ISSN : 2303-3142 _E-ISSN : 2548-8570
+
+Vol.10 No 2 Tahun 2021
+
+perlu melakukan proses autentifikasi sekali
+saja untuk dapat mengakses sistem-sistem
+yang ada. SSO ini yang mengatur seorang
+user yang sudah login dapat mengakses
+aplikasi apa saja. Semua sistem tersebut
+terintegrasi satu dengan lainnya melalui web
+service. Network security berfungsi untuk
+menghindari adanya tindak cyber crime
+berupa pencurian data dan pengaksesan
+data oleh pihak yang tidak berwenang.
+
+me | [|
+
+| KL
+‘]} »|[ sus |__| [Si_sKt
+PEL Lg
+
+Proses Bisnis Inti
+
+Gambar 4. Pemetaan Rancangan Aplikasi
+
+WEBSITE SEKOLAH
+5 (=
+= WEB SERVICE gs
+a 3
+g -
+3 sipu | siJaDwaL| SLABSEN | Si_UJI SI_SKL 2
+= F3
+Fa =
+ae SILKAS SI_LAGENDA SI_PUS SL_SIS SI_LBEA Ge
+es > s
+SI_LLANGGAR ‘SI_ALUMN! SILGP sLIB
+
+Gambar 5. Landscape Aplikasi
+
+Pada fase arsitektur data,
+diidentifikasi terdapat 25 (dua puluh lima)
+entitas yang terlibat untuk mendukung
+kebutuhan data dari aplikasi yang
+direkomendasikan serta digambarkan ke
+dalam sebuah class diagram (Gambar 6).
+Semua entitas data ini saling terhubung satu
+sama lain.
+
+Fase Arsitektur Teknologi
+
+Analisis kesenjangan arsitektur
+teknologi didapatkan dari menelaah kondisi
+arsitektur teknologi terkini, © kemudian
+diberikan solusi sehingga dapat mencapai
+target arsitektur teknologi di masa depan.
+Hasil analisis kesenjangan §arsitektur
+teknologi tersaji dalam Tabel 2.
+
+Barang
+Koleksi_Bacaan Pemeliharaan
+1 _|
+»|_Transaksi_Perpustakaan i
+>>|
+Inventaris
+Alumni kK Surat_Keluar
+Pegawai
+|_|
+—
+Nilai_Transkrip
+Status_Kelulusan Neraca_Saldo
+Pelanggaran Disposisi
+Surat_Masuk 1
+
+\<—_ >|
+|
+
+fF i
+
+Beasiswa siswa History_Kelas Kelas Jadwal Laporan_Keuangan
+>| <——_ t—>
+el
+- ry x
+Calon_Siswa Jalur_Penerimaan Presensi Guru Transaksi_Keuangan
+| L
+
+Gambar 6. Class Diagram
+
+Jurnal Sains dan Teknologi | 323

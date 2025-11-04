@@ -1,0 +1,34 @@
+e-ISSN : 3031-8742, dan p-ISSN : 3031-8750, Hal. 139-151
+mengerjakan bidang-bidang yang rata, cembung, cekung, beratur, pada posisi mendatar, tegak,
+maupun miring (Widarto, 2008).
+Menurut Rochim (1993:179) proses pengerjaan logam dengan mesin sekrap akan terjadi
+peristiwa tumbukan antara pahat dan benda kerja, yaitu pada saat bertemunya pahat dengan
+benda kerja. Tumbukan ini akan menimbulkan beban impact pada pahat dan benda kerja.
+Dengan adanya gaya potong yang terjadi pada saat pahat dan benda kerja bereaksi yang
+diteruskan pada bagian-bagian tertentu mesin sekrap akan mengakibatkan adanya kelenturan.
+Meskipun kelenturan ini kecil tetapi sudah cukup untuk menjadi penyebab terjadinya kesalahan
+geometri produk maupun sumber getaran yang dapat memperpendek umur pahat dan
+mempengaruhi kualitas produk. Hermawan (1990:83) menyatakan bahwa faktor yang
+mempengaruhi getaran pada mesin sekrap yaitu semakin keras benda kerja maka akan
+menimbulkan getaran yang tinggi, selain itu juga kecepatan potong dan tebal geram.
+Pada penelitian akan dilakukan analisis tentang kerusakan dan upaya perbaikan pada
+mekanisme pengumpan mesin skrap. Dalam hal ini analisis meliputi: sebab-sebab kerusakan
+yang terjadi pada mesin skrap, berikut upaya cara perbaikan khususnya pada menaknisme
+pengumpan mesin skrap. Menurut Mulyadi (2009:18) dalam mencapai kualitas pada proses
+pengerjaan mesin adalah adanya getaran pahat dan benda kerja pada saat proses pemotongan
+berlangsung atau dikenal dengan istilah chatter. Akibat dari terjadinya chatter dapat
+mempengaruhi permukaan hasil pemotongan, umur pahat, dan kebisingan.
+Cause effect diagrams atau diagram sebab akibat menggambarkan hubungan
+denganfactor faktor penyebabanya, tujuan dari pembuatan diagram ini untuk mengetahui
+penjebab terjadinya kecacatan sehingga nantinya dapat mengambil keputusan yang tepat dalam
+melakukan perbaikan pada menurut Atmaja (2023:244)
+3. METODE PENELITIAN
+Sumber data pada penlitian ini berupa data primer dan data skunder yang dikumpul,
+meliputi :
+1. Data primer
+Data primer merupakan data yang diperoleh dari hasil penelitian secara langsung,
+dalam hal ini data yang didapat dari pengujian awal sampai pengujian akhir, baik
+analisa hasil laboratorium meliputi pristiwa-peristiwa yang terjadi selama dilapangan.
+Data yang di maksud meliputi : Fungsi komponen, data kegagalan, data penyebab
+kegagalan, dan data efek kegagalan
+2. Data sekunder

@@ -1,0 +1,35 @@
+e-ISSN : 3031-8742, dan p-ISSN : 3031-8750, Hal. 139-151
+
+perlu diperbaharui, petunjuk mesin kurang detail, perlu direvisi, kualitas material mekanisme
+pengumpan yang sesuai dengan cara kerja mekanisme penggerak pemakanan, penetuan
+putaran mesin harus dilakukan dengan perhitungan yang benar, perancangan ulang untuk
+melakukan perbaikan batang penggerak mekanisme pemakanan pada mesin Skrap. Untuk
+mengetahui kemampuan batang penggerak mekanisme penggerak pemakanan pada mesin
+Skrap, teknik pencekaman harus sesuai panduan (pemotongan memanjang atau melintang). dan
+pengasahan pahat perlu diperhatikan sudut penyayatan, sudut bebas sesuai dengan dasar-dasar
+pahat otogonal. Standard Operating Procedure (SOP) Skrap berisi: pencekaman benda kerja,
+
+pencekaman alat potong, proses sekrap, dan proses penyekrapan
+
+DAFTAR REFERENSI
+
+D.A.S. P. Atmaja, Purbawati, and M. Yusup, (2023), “Penerapan Metode Seven Tools Dalam
+Pengendalian Kualitas Produk,” J. Ilm. Sist. Inf. dan Ilmu Komput., vol. 3, no. 3, pp.
+238-246.
+
+Ishikawa, K. (1982). Introduction to Quality Control. 3rd ed. Tokyo: Kaoru Ishikawa
+Publishing.
+
+Juran, J. M., & Godfrey, A. B. (1999). Juran’s Quality Handbook. 5th ed. New York: McGraw-
+Hill.
+
+Mohammad, M. (2015). Development of Standard Operating Procedure (SOP) for
+Maintenance Operations. Journal of Manufacturing Processes, 17(4), 126-135.
+
+Mulyadi, S. 2009. “Getaran Paksa 2 DOF dari Pahat Drill Menggunakan Program Matlab”
+Jurnal Rotor Universitas Jember. Vol 2 (2): 18-23.
+
+Rochim, T. 1993. Teori dan Teknologi Proses Permesinan.Bandung: Teknik Mesin FTI- ITB.
+
+Widarto.2008. Teknik Pemesinan Buku Jilid 2 Untuk SMK. Jakarta: Direktorat Pembinaan
+Sekolah Menengah Kejuruan.

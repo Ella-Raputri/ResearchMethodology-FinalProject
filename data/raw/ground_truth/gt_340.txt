@@ -1,0 +1,29 @@
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3.undip.ac.id/index.php/jtm
+dari sisi perangkat keras (hardware) maupun perangkat lunak (software) dan mampu difungsikan sebagai produk akhir.
+Struktur serta antarmuka arduino yang sederhana memberi kemudahan pengguna dalam memahami parameter seperti konsep
+sensor atau penerapan sensor elektronik yang tidak selalu bisa diamati secara langsung. Dengan system yang open-source dan
+mudah digunakan membuat Arduino memiliki jumlah pemakai yang sangat banyak sehingga tersedia pustaka kode program
+(code library) maupun modul elektronika pendukung (hardware support modules) dalam jumlah yang sangat banyak dan bisa
+dikatakan lengkap. Hal ini memudahkan para pemula untuk mengenal dunia mikrokontroler. Namun dalam tugas akhir ini,
+penelitian kali ini menggunakan mikrokontroller STM32 yang mana memiliki spec di atas Arduino dengan transfer data
+mencapa 32 bps (Bit Per Second) dan masih banyak lainnya keunggulan dibanding dengan Arduino, selain kecepatan data
+harga dari mikrokontroller STM32 lebih murah, clockspeed yang lebih tinggi dibanding Arduino yaitu memiliki 72 MHz.
+Namun untuk mikrokontroller yang satu ini harus ada beberapa langkah yang harus dikerjakan untuk mengakses lewat
+software Arduino Idle. Untuk koding programnya bisa menggunakan instalasi software Arduino Idle dengan menambahkan
+library ke dalam software tersebut atau dengan software kyle. Untuk pertama kalinya, STM32 perlu penghubung untuk
+mengupload koding dengan menggunakan ST-link atau USB to TTL Converter kedua device tersebut merupakan perangkat
+yang harus tersedia karena untuk pertama upload harus menggunakan salah satu dari kedua perangkat tersebut. Setelah
+terhubung dengan software Arduino Idle kita bisa mengupload koding namun belum bisa melakukan serial monitor, agar bisa
+melakukan serial monitor perlu menginstal bootloader pada STM32 mrnggunakan software Kyle. Berikut merupakan gmabar
+hardware dari STM32F103C8T6 Black Pill yang digunakan dalam penelitian ini.
+Gambar 4. STM32F103C8T6 Black Pill
+STM32F103C8T6 blackpill sebagai mikrokontroller utama dalam penelitian ini memiliki keunggulan disbanding dengan
+mikrokontroller lain dikelasnya, salah satunya adalah memili kecepatan transfer data yang tinggi
+3. Metodologi Penelitian
+3.1 Flow Chart Penelitian
+Diagram alir merupakan bagian terpenting dalam suatu penelitian ilmiah pengerjaan tugas akhir. Dengan adanya
+diagram alir atau disebut juga dengan flowchart pada sebuah penelitian, maka akan memudahkan pembaca untuk
+mempermudah dalam memahami alur dari proses penelitian tersebut. Metode penelitian yang digunakan pada penelitian dapat
+dilihat pada diagram alir pada gambar 5 merupakan proses yang dilaksanakan penelitian tugas akhir ini.
+JTM (S-1) Ð Vol. 11, No. 2, April 2023:125-138 129
