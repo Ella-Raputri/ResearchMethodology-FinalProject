@@ -1,0 +1,118 @@
+meningkatkan sistem ketertelusuran yang ada melalui
+penyimpanan data secara permanen. Berikutnya
+penelitian (Xiong et al., 2020) telah melakukan
+pembahasan mengenai aspek teori dan aplikatif dari
+implementasi blockchain pada kasus rantai pasok
+makanan, asuransi produk pertanian, konsep
+pertanian cerdas dan transaksi produk pertanian.
+Ulasan mendalam mengenai teknik yang digunakan
+untuk penerapan blockchain dalam pertanian dibahas
+oleh (Lin et al., 2020). Pembahasannya meliputi
+elemen teknis (struktur data, kriptografi, konsensus),
+aplikasi, platform serta smart contract. Penelitian
+tersebut juga mengusulkan penerapan blockchain
+pasca pandemi Covid-19. Ulasan terkait penggunaan
+blockchain untuk keamanan pangan dibahas pada
+penelitian (Wang & Yang, 2020). Pembahasan
+meliputi permasalahan yang mungkin muncul dalam
+implementasi blockchain seperti infrastuktur, biaya
+serta regulasi.
+
+Berdasarkan penelitian studi literatur di atas,
+belum ditemukan studi literatur__ mengenai
+implementasi blockchain dan kecerdasan buatan
+secara bersamaan di bidang pertanian. Mayoritas
+penelitian studi literatur yang ada berupa kajian dari
+implementasi kedua teknologi tersebut  secara
+terpisah dan studi mengenai konsep kedua teknologi
+tersebut di bidang pertanian. Berbeda dengan hal
+tersebut artikel ini menyajikan kajian_literatur
+mengenai penerapan integrasi teknologi blockchain
+dan kecerdasan buatan serta memberikan_potensi
+pengembangan riset sesuai kondisi di Indonesia.
+Kontribusi artikel terletak pada posisi riset terkini
+serta usulan riset ke depan mengenai penerapan kedua
+teknologi tersebut di bidang pertanian, Tujuan artikel
+ilmiah ini adalah meninjau penerapan teknologi
+blockchain dan kecerdasan buatan pada pertanian
+serta melihat peluang penerapan kedua teknologi
+tersebut secara bersama-sama pada bidang pertanian.
+Originalitas riset berupa studi literatur menggunakan
+SLR dan text mining dalam tema blockchain dan
+kecerdasan buatan di bidang pertanian. Struktur
+penulisan artikel ini secara berurut  meliputi
+pendahuluan, penelitian sebelumnya, metodologi,
+hasil dan pembahasan serta kesimpulan.
+
+2. METODE PENELITIAN
+
+Penelitian ini menggunakan Systematic
+Literature Review (SLR) dengan text mining untuk
+analisa deskriptif, SLR digunakan untuk memberikan
+gambaran yang komprehensif terkait topik penelitian
+(Xiao & “Watson, 2019). Text mining digunakan
+untuk memberikan gambaran umum artikel yang
+terkumpul berdasarkan kata-kata yang ada di seluruh
+artikel (O’Mara-Eves et al., 2015). Dalam studi
+literatur ini, proses text mining digunakan untuk
+memperkuat hasil yang diperoleh dari SLR. Proses
+SLR dengan text mining yang digunakan dalam studi
+ini merupakan pengembangan proses SLR (Xiao &
+Watson, 2019). Secara rinci proses tersebut dapat
+dilihat dalam Gambar 1.
+
+Formulasi Masalsh
+
+Perencanaan I pengembangan Protokol Review
+
+Pelaksanaan
+
+Pelaporan | [ taporan
+
+Gambar I. Proses SLR dengan Text Mining
+
+2.1. Proses Perencanaan
+
+Pedoman yang digunakan dalam proses
+pencarian dan proses klasifikasi artikel secara umum
+adalah sebagai berikut :
+
+(1) kata kunci pencarian yang digunakan meliputi
+blockchain, blockchain ai, blockchain artificial
+intelligence dan blockchain agriculture.
+
+(2) Artikel terbaru (2016 - 2020) bereputasi dan
+terindeks.
+
+(3) Proses pengelompokan  dilakukan dengan
+mengklasifikasikan artikel dalam subtopik. Jika
+terdapat 1 artikel ilmiah dengan subtopik lebih
+dari 1, maka akan dipilih satu subtopik yang
+dominan.
+
+2.2. Proses Pelaksanaan
+
+Statistika deskriptif digunakan untuk melihat
+gambaran mengenai posisi penelitian blockchain dan
+kecerdasan buatan dalam pertanian. Hasil artikel yang
+terkumpul disajikan dalam bentuk diagram dan grafik
+untuk mempermudah proses analisis.
+
+Text mining dalam tahap ini digunakan untuk
+memberikan deskripsi penelitan blockchain dan
+kecerdasan buatan dalam pertanian. Proses text
+mining menggunakan software NVIVO 12 terhadap
+jurnal yang memiliki kesesuaian dengan topik
+penelitian. Hasil text mining berupa word of cloud dan
+pohon clustering.
+
+Proses sintesa dilakukan berdasarkan_hasil
+analisa deskriptif. Dalam tahap ini dilakukan
+pembahasan mengenai kontribusi artikel terhadap
+bidang pertanian serta  kendala-kendala yang
+ditemukan. Pengembangan usulan riset _ terkait
+penerapan blockchain dan kecerdasan buatan dalam
+pertanian disusun dengan mempertimbangkan hasil
+studi literatur dan juga berdasarkan kondisi pertanian
+yang ada di Indonesia.
+

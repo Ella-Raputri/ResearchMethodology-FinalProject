@@ -1,0 +1,121 @@
+ChatGPT sangat efektif untuk proses pengeditan;
+pemformatan dan pengeditan bahasa, menulis ulang
+kalimat yang sangat rumit menjadi lebih jelas cara, dan
+bahkan meringkas seluruh teks secara berurutan untuk
+menulis abstrak yang cocok, layak menggunakan ini
+pendekatan, meskipun hasilnya tidak —_selalu
+memuaskan, tapi mereka pasti_ menghemat waktu.
+ChatGPT baru-baru ini diminta untuk menyiapkan
+ringkasan debit reguler [5], tetapi kualitas konten belum
+dievaluasi secara khusus.
+
+Evaluasi terstruktur untuk menentukan kualitas output
+belum dilakukan. Proses penulisan yang lebih rumit,
+seperti lematis review dan meta-analisis,
+membutuhkan intervensi manusia dan ChatGPT
+mungkin berguna terutama untuk pengeditan. Aplikasi
+potensial kecerdasan buatan di masa depan ada di
+otomatis pembuatan gambar, tabel, dan elemen visual
+lainnya naskah, yang dapat membantu dalam meringkas
+data. Unsur-unsur ini penting untuk kejelasan dan
+pemahaman naskah, tetapi mereka sering memakan
+waktu untuk membuat.
+
+Yang terpenting, proses penulisan sebuah karya ilmiah
+membutuhkan, untuk saat ini, bimbingan dan
+pengawasan peneliti manusia yang ahli di bidangnya
+untuk memastikan akurasi, koherensi, dan kredibilitas
+konten sebelum digunakan atau diserahkan untuk
+publikasi. Chatbots dapat membantu —_tetapi
+membutuhkan masukan peneliti, dan input yang tidak
+memadai akan menyebabkan hasil yang tidak memadai.
+Untuk alasan ini, chatbots dan AI pada umumnya tidak
+boleh menggantikan keahlian, penilaian, kepribadian,
+dan pada akhirnya tanggung jawab.
+
+2.3. Perbandingan Chatbot dengan Manusia
+
+Sebagai Al, ChatGPT memiliki keunggulan unggul
+dalam hal cepat memahami informasi secara mendalam
+dan menghubungkan bukti untuk mencapai kesimpulan,
+dibandingkan dengan manusia yang memiliki
+keterbatasan dalam kemampuannya membaca berbagai
+literatur yang komprehensif dan membedakan
+hubungan antara potongan-potongan informasi_ yang
+tampaknya terpisah. Selain itu, mungkin sulit untuk
+mengenali apakah sebuah makalah ditulis oleh chatbot
+atau manusia [6], karena chatbot menggunakan teknik
+canggih, seperti pemrosesan bahasa alami (NLP) dan
+pembelajaran mesin, untuk menghasilkan teks yang
+mirip dengan teks manusia. menulis. Untuk mendeteksi
+penulis adalah tugas yang kompleks dan membutuhkan
+pembacaan kritis yang menyeluruh untuk mencapai
+suatu. kesimpulan. Namun, beberapa_ karakteristik
+mungkin mengungkapkan bahwa sebuah makalah
+ditulis oleh chatbot, seperti kurangnya nuansa, gaya,
+atau orisinalitas, yang memungkinkan identifikasi oleh
+detektor keluaran AI dan peninjau manusia yang skeptis
+[7]. Menariknya, ciri-ciri penulisan yang sama dapat
+ditemukan dalam teks yang ditulis dalam bahasa yang
+bukan bahasa ibu seseorang. Dengan berfokus pada
+
+ciri-ciri ini, pendeteksi plagiarisme kecerdasan buatan
+dapat mengidentifikasi makalah berbahasa Inggris non-
+asli sebagai teks yang dihasilkan kecerdasan buatan.
+Akan menarik untuk menemukan sensibilitas alat ini
+dalam mendeteksi penulis teks yang ditulis oleh kedua
+kelompok ini.
+
+Namun demikian, teks yang dihasilkan  chatbot
+mungkin tidak memiliki frasa halus dan pilihan kata
+yang mungkin digunakan oleh penulis manusia untuk
+menyampaikan makna atau nada tertentu. Mungkin
+juga tidak jelas dan mengandung ketidakkonsistenan
+yang tidak akan ada dalam makalah yang ditulis
+manusia. Sebaliknya, jika makalah__tersebut
+mengandung tingkat kesalahan struktural dan tata
+bahasa yang tinggi, hal itu mungkin menunjukkan
+bahwa itu ditulis oleh manusia (tetapi tidak boleh
+sebaliknya). Terakhir, jika makalah membahas topik
+yang sangat spesifik dan sangat teknis, kecil
+kemungkinan chatbot dapat menghasilkan teks seperti
+itu, Karena memerlukan pemahaman yang mendalam
+tentang topik tersebut dan kemampuan untuk
+menghasilkan analisis dan kesimpulan ilmiah.
+
+2.4. Pertimbangan Etis
+
+Kekhawatiran etis juga bisa membatasi penggunaan
+chatbots ini untuk penulisan ilmiah [8]. Proses
+memperoleh pengetahuan dari orang lain dan menulis
+artikel baru atau ulasan  melibatkan manusia
+menggabungkan apa yang telah mereka pelajari dari
+orang lain dan ide-ide mereka. Wajar bagi manusia
+untuk mengulangi temuan, pernyataan, dan karya tulis
+orang lain, dan dengan demikian mendekati melakukan
+plagiarisme dengan menyajikan ide tanpa referensi
+yang tepat ke penulis aslinya. Sistem AI atau ChatGPT
+dapat melakukan plagiarisme berdasarkan definisi ini,
+tetapi juga dapat diprogram untuk menghindari
+penyalinan orang lain dengan mengulang karya mereka
+dengan cara yang mirip dengan yang dilakukan penulis
+manusia. Namun, menggunakan program untuk
+merumuskan ulang kalimat dan tulisan untuk
+mengurangi persentase plagiarisme (yaitu, meminta
+perangkat lunak untuk menulis ulang bagian yang
+ditulis oleh penulis lain dengan kata yang berbeda) tidak
+dapat dianggap dapat diterima dalam penelitian ilmiah.
+Jika kita mendefinisikan “plagiarisme” hanya sebagai
+tindakan menyalin karya orang lain, hanya mengulangi
+apa yang tertulis, terlepas dari metode yang digunakan,
+dan tanpa menambahkan sesuatu yang bersifat pribadi,
+itu adalah pelanggaran integritas akademik. Untuk itu,
+editor jurnal harus menggunakan program untuk
+mendeteksi konten tertulis menggunakan AI untuk
+mendeteksi plagiarisme dengan lebih baik. Kedua,
+kurangnya pemikiran manusia yang ahli dan kritis di
+balik karya ilmiah (yang merupakan dasar dari metode
+ilmiah) dapat menyebabkan risiko melanggengkan atau
+memperkuat bias dan ketidakakuratan data yang ada,
+memberikan hasil yang tidak adil dan menghambat
+

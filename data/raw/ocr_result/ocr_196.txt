@@ -1,0 +1,41 @@
+UMEM harus mampu beradaptasi dengan teknologi informasi di era digital ini, Apalagi
+perbedaan arah prilaku konsumen yang semakin mengadopsi teknologi digital dalam
+kehidupan sehari-hari mereka. Mereka melakukan pencarian produk dan layanan secara online,
+berbelanja melalui platform e-commerce, dan berkomunikasi melalui media sosial. Dengan
+begitu UMKM dapat mencakupakses pasar yang lebih luas lagi, dan lebih efisiensi dalam
+kegiatan Oprasional dan peningkatan layanan pelanggan.
+
+Teknologi informasi memiliki manfaat yang cukup signifikan terhadap pertumbuhan
+UMEM yang diharapkan mampu membangun efisiensi dan produktifitas serta kreaktivitas
+dalam menjalankan bisnis.informasi adalah teknologi yang tidak hanya pada teknologi
+komputer (perangkat keras dan perangkat lunak) yang akan digunakan untuk memproses dan
+menyimpan informasi, melainkan mencakup teknologi komunikasi untuk mengirim atau
+menyebarluaskan informasi (Martin:1999).
+
+Teknologi informasi yang dapat digunakan oleh UMKM salah satunya adalah
+pemanfaatan Artificial Intelligence (AI). AI adalah cabang dari ilmu komputer yang mengkaji
+pengembangan sistem yang mampu belajar dan beradaptasi. Penerapan AI, Teknologi
+informasi terhadap UMKM membentuk ikatan yang mampu mendukung pertumbuhan bisnis
+UMEM di era digital yang maju sangat pesat.
+
+Berdasarkan latar belakang di atas penulis ingin mengulas topik mengenai pemanfaatan
+AI atau kecerdasan buatan dalam pengembangan UMKM yang dapat digunakan untuk
+meningkatkan produktivitas, efisiensi, dan inovasi dalam bisnis UMKM.
+
+KAJIAN TEORITIS
+
+Bagian ini menguraikan teori-teori relevan yang mendasari topik penelitian dan
+memberikan ulasan tentang beberapa penelitian sebelumnya yang relevan dan memberikan
+acuan serta landasan bagi penelitian ini dilakukan. Jika ada hipotesis, bisa dinyatakan tidak
+tersurat dan tidak harus dalam kalimat tanya.
+
+A. UMKM
+
+Ada beberapa defenisi mengenai usaha,mikro, kecil, dan menengah. Berikut beberapa
+defenisi UMKM menurut beberapa ahli dan instansi:
+
+Menurut Undang-Undang No. 20 tahun 2008 tentang usaha mikro, kecil, dan menengah
+adalah usaha ekonomi produktif yang berdiri sendiri, yang dilakukan oleh orang perorangan
+atau badan usaha yang bukan merupakan anak perusahaan atau bukan cabang perusahaan yang
+dimiliki, dikuasai, atau menjadi bagian baik langsung maupun tidak langsung dari usaha
+menengah atau usaha besar yang memenuhi kriteria sebagai berikut:

@@ -1,0 +1,51 @@
+dipersonalisasi. Harus ada pedoman etika yang jelas dan sistem pengambilan data yang kuat untuk
+mengelola dan melindungi informasi pribadi siswa. Penggunaan teknik AI dalam sistem
+pendidikan harus mempertimbangkan norma dan aspek etika penggunaan teknologi yang
+bertanggung jawab. Selain itu, penerapan teknologi informasi di lembaga pendidikan Islam harus
+didukung oleh penilaian otentik untuk mengamati perkembangan siswa dan hasil pembelajaran.
+Menyeimbangkan penggunaan data siswa untuk personalisasi dengan hati-hati dalam mengelola
+dan melindungi informasi pribadi sangat penting. Oleh karena itu, perlu memiliki pendekatan yang
+hati-hati dan memastikan bahwa pedoman etika berlaku ketika menggunakan teknologi AI dalam
+pendidikan Islam.
+
+Penting bagi praktisi dan peneliti di bidang pendidikan Islam untuk menjelajahi potensi
+platform berbasis AI dan mengatasi tantangan untuk meningkatkan kualitas pembelajaran agama.
+Artikel ini bertujuan untuk mengeksplorasi pemanfaatan platform edukasi berbasis kecerdasan
+buatan dalam konteks pendidikan Islam. Konsep-konsep utama, manfaat, tantangan, dan peluang
+terkait dengan penggunaan teknologi AI dalam meningkatkan kualitas pembelajaran agama akan
+diuraikan dalam artikel ini. Harapannya, tulisan ini akan memberikan wawasan yang berharga bagi
+praktisi dan peneliti di bidang pendidikan Islam.
+
+PEMBAHASAN
+
+Pemanfaatan AI dalam Pembelajaran Islam
+
+Dalam konteks pemanfaatan platform edukasi berbasis kecerdasan buatan dalam pendidikan
+Islam, terdapat sejumlah manfaat yang signifikan yang dapat diidentifikasi. Berbagai cara
+pemanfaatan kecerdasan buatan (AI) dalam pembelajaran Islam, di antaranya:
+
+1. Personalisasi Pembelajaran
+Sistem AI dapat digunakan untuk menganalisis profil siswa secara individu, termasuk
+tingkat pemahaman, preferensi belajar, dan kebutuhan khusus. Berdasarkan analisis ini,
+konten pembelajaran dapat disesuaikan secara otomatis untuk memenuhi kebutuhan setiap
+siswa, memungkinkan pengalaman pembelajaran yang lebih efektif dan menarik.
+
+2. Penilaian Otomatis
+Teknologi AI dapat digunakan untuk membuat algoritma penilaian otomatis, yang mampu
+mengevaluasi jawaban siswa dalam berbagai format, mulai dari pilihan ganda hingga esai®.
+Hal ini membantu mengurangi beban kerja guru dalam menilai pekerjaan siswa dan
+memberikan umpan balik secara cepat kepada siswa.
+
+3. Asisten Virtual
+Sistem AI dapat diimplementasikan sebagai asisten virtual untuk membantu siswa dalam
+menjawab pertanyaan atau memberikan informasi tentang konsep-konsep dalam Islam.
+Asisten virtual dapat diakses melalui platform pembelajaran online atau aplikasi seluler,
+memberikan akses yang mudah dan cepat bagi siswa yang membutuhkan bantuan
+tambahan 7.
+
+§ Sariyanti Astutik, Andharini Dwi Cahyani, dan Mochammad Kautsar Sophan, “SISTEM PENILAIAN ESAI
+OTOMATIS PADA E-LEARNING DENGAN ALGORITMA WINNOWING,” Jurnal Informatika 12, no. 2 (1
+Januari 2014), https://doi.org/10.9744/informatika. 12.2.47-52.
+
+7 Danny Manongga et al., “Dampak Kecerdasan Buatan Bagi Pendidikan,” ADI Bisnis Digital Interdisiplin
+Jurnal 3, no. 2 (8 November 2022): 41-55, https://doi.org/10.34306/abdi.v3i2.792.

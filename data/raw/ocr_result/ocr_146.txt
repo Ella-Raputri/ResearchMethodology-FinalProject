@@ -1,0 +1,48 @@
+Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak
+Pada Dunia Pendidikan
+
+Ahmad Abdul Rochim
+Prodi Pendidikan Guru Sekolah Dasar, Institut Pangeran Dharma Kusuma Indramayu
+ahmadabdulrochim@gmail.com
+
+Abstrak: Perkembangan teknologi telah mengubah banyak aspek kehidupan, salah satunya dunia
+pendidikan. Perubahan signifikan yang terjadi adalah munculnya kecerdasan buatan, yang telah
+menjadi bagian integral dari proses belajar mengajar. Artikel ini bertujuan untuk menggali
+pemahaman tentang kecerdasan buatan serta risiko yang terkait dengannya dalam konteks pendidikan.
+Pendekatan yang digunakan adalah melalui studi literatur dengan menganalisis artikel ilmiah yang
+relevan. Data yang terkumpul dianalisis untuk membahas dampak ketergantungan penggunaan
+kecerdasan buatan dalam pendidikan. Peneltian ini berlokasi di SMA PUI Gegesik, hasil penelitian
+menunjukkan bahwa terdapat beberapa risiko yang terkait dengan ketergantungan penggunaan
+kecerdasan buatan dalam pendidikan, termasuk potensi kesalahan dan ketidakakuratan dalam sistem
+kecerdasan buatan, masalah moral, dan dampak psikologis. Artikel ini juga mengusulkan beberapa
+tindakan pengunaan secara bijak kecerdasan buatan untuk mengatasi risiko-risiko tersebut. Artikel ini
+bertujuan memberikan pemahaman yang lebih baik tentang penggunaan kecerdasan buatan dalam
+pendidikan dan menawarkan panduan mengenai cara menghadapi risiko-risiko yang mungkin timbul.
+
+Kata kunci: kecerdesan buatan; risiko; tantangan; penggunaan bijak; pendidikan
+
+Abstract: The development of technology has changed many aspects of life, one of which is
+education. A significant change is the emergence of artificial intelligence, which has become an
+integral part of the teaching and learning process. This article aims to explore the understanding of
+artificial intelligence and the risks associated with it in the context of education. The approach used is
+through a literature study by analyzing relevant scientific articles. The data collected is analyzed to
+discuss the impact of the dependent use of artificial intelligence in education. This research is located
+at PUI Gegesik High School. The results show that there are several risks associated with the
+dependent use of artificial intelligence in education, including potential errors and inaccuracies in
+artificial intelligence systems, moral issues, and psychological impacts. The article also proposes
+some measures for wise use of artificial intelligence to overcome these risks. This article aims to
+provide a better understanding of the use of artificial intelligence in education and offer guidance on
+how to deal with the risks that may arise.
+
+Keywords: artificial intelligence; risk; challenge; wise use; education
+
+PENDAHULUAN
+
+Perkembangan teknologi saat ini berlangsung dengan cepat, terutama sejak pandemi
+Covid-19 merebak. Kondisi ini telah mendorong masyarakat global, termasuk Indonesia,
+untuk memanfaatkan teknologi dalam berbagai aspek kehidupan (Pakpahan, 2021).
+Pemanfaatan teknologi pada era ini telah menghadirkan perubahan signifikan dalam dunia
+pendidikan dengan munculnya konsep transformasi pendidikan 5.0. Konsep ini melibatkan
+pemanfaatan kecerdasan buatan, /nternet of Things, big data, dan teknologi lainnya, yang
+mana pemanfaatan kecerdasan buatan ini telah mengubah cara manusia berinteraksi dan
+bekerja. Kemajuan dalam teknologi kecerdasan buatan yang terhubung dengan Internet of

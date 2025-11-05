@@ -1,0 +1,61 @@
+Pendidikan Pancasila Sebagai Kerangka Etika
+Dalam Penggunaan Kecerdasan Buatan
+
+Nathaniel Steave Harjanto', Fatma Ulfatun Najicha*
+'Fakultas Teknologi Informasi & Sains Data Universitas Sebelas Maret
+2Fakultas Hukum Universitas Sebelas Maret
+E-mail: nathanielsteave@student-uns.ac id"; fatmanajicha law@staffuns.ac.id*
+
+Abstract
+
+Pancasila is the philosophical basis of the Indonesian state which has deep ethical values. In the context of
+astificial intelligence (Al) innovation, Pancasila education can act as an important ethical framework. This
+article discusses how Pancasila education can be used as an ethical foundation in the development and
+implementation of AI. The discussion includes understanding the values of Pancasila, how these values can be
+applied in AI, and the positive impacts that can be produced in terms of ethics, morals and social matters. Apart
+from that, this article also highlights the challenges that may arise in integrating Pancasila values _into AI
+and the solutions that can be taken to overcome these challenges. The result of using Pancasila as an ethical
+framework in artificial intelligence innovation is to create AI that is more humane, fair, and has a positive
+impact on Indonesian society and the world in general. This article provides a comprehensive view of the role of
+Pancasila education in steering Al in a more ethical and beneficial direction.
+
+Keywords: Pancasila, Ethics, Artificial Intelligence, AI
+
+Abstrak
+Pancasila adalah dasar filosofis negara Indonesia yang memiliki nilai-nilai etika yang mendalam. Dalam konteks
+penggunaan kecerdasan buatan (Al), pendidikan Pancasila dapat berperan sebagai kerangka etika yang penting.
+Artikel ini membahas bagaimana pendidikan Pancasila dapat digunakan sebagai landasan etika dalam
+pengembangan dan implementasi Al. Pembahasan meliputi pemahaman nilai-nilai Pancasila, bagaimana nilai-
+nilai ini dapat diterapkan dalam AI, dan dampak positif yang dapat dihasilkan dalam hal etika, moral, dan sosial
+Selain itu, artikel ini juga menyoroti tantangan yang mungkin timbul dalam mengintegrasikan nilai-nilai
+Pancasila ke dalam AI dan solusi yang dapat diambil untuk mengatasi tantangan tersebut. Hasil dari penggunaan
+Pancasila sebagai kerangka etika dalam penggunaan kecerdasan buatan adalah menciptakan AI yang lebih
+manusiawi, adil, dan berdampak positif bagi masyarakat Indonesia dan dunia pada umumnya. Artikel ini
+menyediakan pandangan yang komprehensif tentang peran pendidikan Pancasila dalam mengarahkan Al ke arah
+yang lebih etis dan bermanfaat.
+
+Kata-kata kunci: Pancasila, Etika, Kecerdasan Buatan, AI
+
+PENDAHULUAN
+
+Pengembangan dan penggunaan kecerdasan buatan (AI atau Artificial Intelligence) telah
+membawa dampak yang signifikan dalam dunia teknologi moder. Teknologi AI senditi memiliki
+potensi besar untuk meningkatkan efisiensi, produktivitas, dan kualitas hidup manusia di berbagai
+bidang kehidupan seperti keschatan, pendidikan, keuangan, dan lain-lain, Namun, seiring dengan
+Kemajuan teknologi AI yang semakin pesat ini, muncul berbagai pertanyaan mengenai etika dalam
+pengembangan serta penggunaan teknologi Al ini. Penggunaan teknologi AI yang kurang etis dapat
+menimbulkan beberapa dampak buruk yang dapat merugikan masyarakat.
+
+Di Indonesia sendiri, Pancasila merupakan landasan yang membentuk nilai-nilai moral dan
+sosial yang mendasari kehidupan bermasyarakat. Nilai-nilai seperti kemanusiaan, persatuan, keadilan
+sosial yang tercermin dalam Pancasila, memiliki potensi dalam membentuk etika dalam penggunaan
+teknologi AI. Pancasila, sebagai pedoman yang mendasarkan nilai-nilai tersebut pada generasi muda,
+dapat menjadi kerangka etika yang kuat dalam melakukan inovasi pada keberlanjutan teknologi AI.
+Sebagai sebuah negara dengan pertumbuhan teknologi yang pesat dan aktif, Indonesia perlu
+menggunakan nilai-nilai Pancasila sebagai kerangka dalam membentuk etika dalam menggunakan
+dan melakukan inovasi pada teknologi AI.
+
+Meskipun terdapat potensi integrasi nilai-nilai Pancasila dalam teknologi Al, tetapi
+pemahaman yang mendalam tentang bagaimana hal ini dapat diwujudkan masih terbatas. Oleh karena
+itu, makalah ini bertujuan untuk menyelidiki peran penting Pancasila dalam membentuk etika dalam
+penggunaan kecerdasan buatan. Melalui pemahaman yang lebih dalam tentang apa itu kecerdasan

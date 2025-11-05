@@ -1,0 +1,43 @@
+Untuk meringkas, mengonsepkan literasi AI dengan pertimbangan yang
+berpusat pada manusia sangat penting untuk membangun masyarakat inklusif
+
+di masa depan.
+
+KESIMPULAN
+
+Dalam ulasan ini, berbagai definisi literasi AI diperhatikan. Pendekatan
+paling umum untuk mendefinisikan literasi AI adalah dengan mendasarkan
+pada berbagai jenis 'literasii yang baru-baru ini diterapkan untuk
+mendefinisikan keahlian dalam berbagai disiplin ilmu. Dalam ulasan kami,
+sebagian besar peneliti menganjurkan bahwa alih-alih hanya mengetahui cara
+menggunakan aplikasi AI, pelajar harus ditanamkan dengan konsep AI yang
+mendasari untuk karir masa depan mereka, serta masalah etika aplikasi AI
+untuk menjadi warga negara yang bertanggung jawab. Karena literasi AI
+adalah bidang yang muncul sehingga ada kekurangan jurnal yang diterbitkan
+di bidang ini, beberapa keterbatasan ditemukan dalam ulasan ini. Pencarian
+kata kunci membatasi ruang lingkup kekhususan domain dalam konteks AI
+tanpa berfokus pada subbidang AI lainnya seperti pembelajaran mesin,
+jaringan saraf, dll. Beberapa penulis merancang intervensi dan program
+pembelajaran untuk membahas cara mendorong literasi AI dalam studi mereka
+tanpa mendefinisikannya secara eksplisit. Meskipun kami percaya ada
+kumpulan studi yang lebih besar mengenai pengembangan literasi AI, mereka
+mungkin tidak sepenuhnya ditangkap untuk menghindari salah tafsir konsep
+yang mendasarinya dalam literasi AI. Selain itu, studi masa depan diperlukan
+untuk menguji cara yang efektif untuk mendorong literasi AI siswa, kriteria
+penilaiannya, dan masalah etika. Kami berharap ulasan ini akan menginspirasi
+para sarjana, pendidik, dan pejabat pemerintah untuk memulai diskusi tentang
+cara mendefinisikan, menerapkan, dan mengevaluasi literasi AI di masa depan.
+
+DAFTAR PUSTAKA
+
+Ahmad, MA, Teredesai, A., & Eckert, C. (2020, Januari). Keadilan, akuntabilitas,
+transparansi dalam skala AI: Pelajaran dari program nasional.
+DiProsiding Konferensi Keadilan, Akuntabilitas, dan Transparansi
+2020(hal.690-690).
+
+Baker, T., Smith, L., dan Anissa, N. (2019).Pendidikan-AI-Tion Di-boot ulang?
+Menjelajahi Masa Depan Kecerdasan Buatan di Sekolah dan Perguruan
+Tinggi(London: Nesta). Tersedia online di:
+
+https:/ / www.nesta.org.uk/report/education-rebooted.
+

@@ -1,0 +1,117 @@
+blockchain for Al dan sisanya masuk dalam konsep
+Al for Blockchain.
+
+Konsep blockchain for AI dalam bidang
+pertanian diinisialisasi melalui penelitian (Munir,
+Bajwa & Cheema, 2019) dengan menggunakan
+blockchain dan logika fuzzy pada Smart Watering
+‘System (SWS). Penelitian (Dakshayini & Balaji
+Prabhu, 2020) telah membuat sistem penunjang
+keputusan berbasis big data dalam sistem blockchain.
+Penelitian (Khan, Byun & Park, 2020) telah
+menggunakan data dalam teknologi blockchain-IOT
+untuk memprediksi penjualan produk  pertanian
+menggunakan pendekatan deep learning. Ketiga
+penelitian tersebut memanfaatkan blockchain sebagai
+media untuk menyimpan data secara aman serta
+memanfaatkan data yang ada dengan pendekatan
+kecerdasan buatan.
+
+Konsep Al for blockchain ditemukan pada tiga
+penelitian berikut. Penelitian (Awan et al., 2020)
+menggunakan Emergent Routing Scheme untuk
+meningkatkan kinerja sistem blockchain — IOT untuk
+smart agriculture. Penelitian (Mao et al., 2020)
+menggunakan model analytic hierarchy process
+(AHP) untuk meningkatkan kinerja dalam proses
+konsensus blockchain dalam kasus produk teh. Kedua
+penelitian tersebut memanfaatkan kecerdasan buatan
+untuk meningkatkan kinerja blockchain yang
+
+diterapkan dalam kasus pertanian. Berbeda dengan
+hal di atas, penelitian (Yadav et al, 2020)
+menggunakan pendekatan fuzzy untuk mengevaluasi
+sistem blockchain yang telah berjalan dalam sistem
+manajemen rantai pasok pertanian.
+
+Dari berbagai penelitian tersebut di atas
+membuktikan bahwa penggabungan  kecerdasan
+buatan dan blockchain merupakan hal yang mungkin
+dilakukan. Konsep blockchain for AI maupun Al for
+blockchain keduanya dapat diimplementasikan secara
+bersamaan pada  bidang pertanian. Penelitian
+blockchain dan Al dalam pertanian masih didominasi
+oleh komunitas peneliti Asia yakni India (33%),
+Pakistan (33%), China (14%) dan Korea (14%).
+
+Tantangan penelitian ke depan berdasarkan
+hasil studi literatur secara ringkas disampaikan
+sebagai berikut:
+
+(1) Penggunaan sistem blockchain oleh seluruh
+pemangku kepentingan yang terlibat dalam
+
+rantai pasok pertanian.
+(2) Peningkatan proses bisnis sistem.
+(3) Peningkatan eran pemerintah dan
+
+kepercayaan antar pemangku kepentingan.
+(4) Integrasi teknologi blockchain, kecerdasan
+buatan, IOT dan big data di bidang pertanian.
+
+PEMERINTAH
+
+PETANI
+
+¥ Ad ¥
+
+LUMBUNG |. Bay
+
+<a Ef} ee EF] ee Ey o
+
+RETAILER
+
+DISTRIBUSI KONSUMEN
+
+[a a
+BLOCKCHAIN
+
+Kecerdasan Buatan
+
+Aue
+as
+
+PSII
+
+Gambar 7. Usulan Pengembangan Riset Blockchain dan Al untuk komoditas Padi di Indonesia
+
+3.4, Usulan Pengembangan
+
+Berdasarkan tantangan _perelitian yang
+ditemukan dan dengan mempertimbangkan kondisi
+pertanian di Indonesia, maka diusulkan suatu sistem
+yang merupakan salah satu penerapan AI dan
+blockchain di bidang pertanian. Pemilihan
+implementasi pada menajemen rantai pasok
+dikarenakan dominasi penelitian yang telah tersedia.
+Gambar 7 merupakan ilustrasi integrasi AI dan
+blockchain di pertanian. Iustrasi tersebut merupakan
+pengembangan dari model (Kumar & Iyengar, 2018)
+dalam komoditas beras. Beberapa fitur kecerdasan
+buatan yang dapat ditambahkan meliputi prediksi
+
+harga (Vohra, Pandey & Khatri, 2019) dan prediksi
+hasil panen (Liakos et al., 2018). Perangkat IOT juga
+dapat ditambahkan dalam sistem tersebut berupa
+sensor dan perangkat penunjang lainnya. Model
+prediksi dapat diperoleh dari data base dalam sistem
+blockchain yang kemudian dipelajari berdasarkan
+konsep kecerdasan buatan. Hasil pembelajaran
+berupa prediksi disampaikan kepada seluruh aktor
+yang membutuhkan. Seluruh data yang tersimpan
+akan menjadi big data dan mendorong untuk
+diterapkannya manajemen big data dalam sistem
+blockchain (Karafiloski, 2017).
+
+Dalam kasus rantai pasok pertanian di
+Indonesia, seringkali ditemukan perantara (broker!

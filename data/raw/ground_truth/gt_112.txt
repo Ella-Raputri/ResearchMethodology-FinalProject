@@ -1,0 +1,20 @@
+Dibandingkan dengan beberapa bidang lain seperti matematika atau fisika yang
+telah ada selama berabad-abad, (Artificial Intelligence/AI) relatif masih bayi.
+Selama beberapa dekade terakhir, (Artificial Intelligence/AI) telah menghasilkan
+beberapa produk spektakuler seperti mobil self-driving dan robot cerdas yang dapat
+berjalan. Berdasarkan arah yang kita tuju, cukup jelas bahwa mencapai kecerdasan
+akan berdampak besar pada kehidupan kita di tahun-tahun mendatang [1, 2, 6].
+AI tidak sertamerta dapat menggantikan peran manusia dalam industri, tetapi
+peran AI sebagai pendukung kinerja SDM, oleh karena itu perlunya pengembangan
+kopentensi oleh SDM yaitu kopentensi yang tidak dapat dilakukan oleh AI. Salah
+satunya yaitu meningkatkan soft skill SDM,
+2.2. Case Based Reasoning (CBR)
+Metode yang digunakan dalam pengembangan kecerdasan buatan adalah
+berdasarkan sebuah kerangka kerja (framework). Kerangka kerja yang
+dikembangkan dikenal dengan Case Based Reasoning (CBR). Kerangka kerja CBR
+ini bekerja dengan membandingankan kasus baru dengan kasus lama. Hasil
+perbandingan dihitung menggunakan similaritas persamaan dari kasus baru dengan
+kasus yang lama. Dengan demikian, CBR dikenal dengan sistem yang mencari
+kesamaan menggunakan algoritma similaritas untuk menghitung seberapa
+akuratnya tingkat kemiripan kasus [8][9]. Siklus kerja CBR diperlihatkan pada
+Gambar 2. 

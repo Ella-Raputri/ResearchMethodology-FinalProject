@@ -1,0 +1,120 @@
+terkait dengan topik dan pertanyaan penelitian
+yang spesifik[24]
+
+Dalam artikel ini, peneliti_ menganalisis
+berbagai studi terdahulu, dan hasil analisis
+tersebut disajikan dalam bentuk tabel untuk
+mempermudah — pemahaman —_ mengenai
+penggunaan teknologi kecerdasan buatan
+dalam personalisasi_ pembelajaran online
+Penelitian ini termasuk dalam jenis Systematic
+Literature Review (SLR). Tahapan yang
+dilakukan meliput:
+
+a. Merumuskan Research Question (RQ)
+b. Mencari literatur yang relevan
+
+c. Melakukan tinjauan
+
+d. Menganalisis temuan
+
+Penulis mengumpulkan artikel relevan dan
+mengulasnya dari berbagai sumber seperti
+Google Scholar. Pencarian data dilakukan
+melalui beberapa situs web dengan
+menggunakan kata kunci “penggunaan
+teknologi _kecerdasan  buatan dalam
+personalisasi pembelajaran online’. Sebelum
+melakukan tinjauan atau ulasan__terhadap
+artikel-artikel yang diperoleh, penulis terlebih
+dahulu. mempersiapkan Research Question.
+Research Question untuk penelitian ini adalah:
+
+RQ1: Apa saja teknologi kecerdasan buatan
+(Al) yang paling umum digunakan dalam
+personalisasi pembelajaran online?
+
+RQ2: Apa dampak penggunaan Al dalam
+personalisasi pembelajaran online terhadap
+keterlibatan dan hasil belajar siswa?
+
+Analisis dalam penelitian ini bertujuan
+untuk melihat apakah ada dampak dari
+penggunaan teknologi kecerdasan  buatan
+dalam personalisasi pembelajaran online.
+
+4. HASIL DAN PEMBAHASAN
+
+Berdasarkan pencarian artikel penelitian
+sebelumnya, ditemukan beberapa artikel yang
+terkait dengan  penggunaan __teknologi
+kecerdasan buatan dalam __personalisasi
+pembelajaran online. Dari tinjauan_literatur
+yang dilakukan, terdapat 10 artikel yang
+relevan mengenai penggunaan _teknologi
+kecerdasan buatan dalam _personalisasi
+pembelajaran online. Artikel-artikel ini akan
+dianalisis secara mendalam untuk memahami
+tren, efektivitas, dan tantangan yang dihadapi
+dalam implementasinya serta _ bagaimana
+mereka berkontribusi_ pada — peningkatan
+pengalaman belajar.
+
+Gambar 1. Pencarian jural mengguakan google scholar
+
+Beberapa data yang diperoleh dari
+tinjauan literatur. mengenai — penggunaan
+teknologi _kecerdasan — buatan dalam
+personalisasi pembelajaran online disajikan
+dalam tabel berikut
+
+No Hasil
+
+1 judul: Peran artificial inteligence (ai) untuk
+‘mendukung pembelajaran di masa pandemi covid-
+19. Hasil: Al memfasilitasi pergeseran ini dengan
+memungkinkan —pendidikan — jarak —_jauh,
+memungkinkan siswa untuk mengakses materi
+pembelajaran dan berinteraksi dengan guru dari
+‘mana saja, sehingga memastikan kesinambungan
+dalam Pendidikan, Al dapat beradaptasi dengan
+kecepatan dan gaya belajar yang berbeda,
+memberikan pengalaman pendidikan yang
+dipersonalisasi_ yang mengakomodasi_ kekuatan
+individu, apakah itu anaiitis atau kreatif, Al
+‘membantu. membuat pendidikan lebih mudah
+diakses dan tidak terlalu mengintimi
+dalam konteks pembelajaran jarak jauh.
+
+2 Judul: Peran artifical yence dalam proses
+pembelajaran mahasiswa di universitas negeri
+‘Surabaya. Hasil: sekitar 53% responden menilai
+dampak Al pada pembelajaran mereka dan akses
+ke materi kursus secara positif, memberikan skor 4
+dan 5, Al memiliki potensi signifkan untuk
+‘meningkatkan kualitas pendidikan, Al dapat
+‘meningkatkan pembelajaran, sangat penting untuk
+menjaga interaksi_ dan pengawasan  manusia
+dalam proses pendidikan
+
+3 Judu: Artificial Intelligence: Solusi Pembelajaran
+Era Digital 5.0, Hasil: Artificial Intelligence (Al)
+berperan penting sebagai solusi dalam era digital
+5.0, dengan manfaat utama dalam meningkatkan
+pengajaran dan pembelajaran serta mendukung
+inovasi dalam implementasi Pendidikan, Al juga
+mendukung —akses —pendidikan—_ melalui
+pembelajaran jarak jauh, eleaming, dan
+pengembangan kurikulum, Al menyediakan umpan
+balik secara real-time dan dapat digunakan untuk
+pengajaran yang lebih interaktif serta pengelolaan
+data dan administrasi pendidikan, serta membantu
+‘meringankan beban kerja guru dalam proses
+pembelajaran.
+
+4 Juduk ~Manfaat_ ‘Kecerdasan _buatan untuk
+pendidikan. Hasil: Al memungkinkan penyesuaian
+pembelajaran sesuai dengan kebutuhan individu
+siswa, Al mendukung metode pengajaran yang
+fieksibel_dan dapat disesuaikan dengan _gaya
+

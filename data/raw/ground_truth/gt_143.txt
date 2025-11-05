@@ -1,0 +1,109 @@
+pertumbuhan ilmiah. Apapun kegunaan AI, kami 
+percaya bahwa kehadiran seorang ahli di bidangnya 
+dalam melakukan kegiatan ilmiah dan penulisan 
+merupakan landasan yang diperlukan bahkan untuk 
+menjamin kualitas karya. Ketiga, pengembangan alat 
+AI yang luar biasa dapat menyebabkan peningkatan 
+jumlah publikasi yang signifikan dari beberapa peneliti, 
+tetapi tidak disertai dengan peningkatan nyata dalam 
+pengalamannya di bidang tersebut. Oleh karena itu, 
+masalah etika dapat muncul terkait perekrutan 
+profesional oleh institusi akademik yang menilai 
+jumlah publikasi daripada kualitasnya. Keempat, 
+apakah ChatGPT harus disebutkan dalam penulis 
+naskah yang ditulis menggunakan pendekatan ini masih 
+belum ditentukan secara memadai. Terakhir, jika saat 
+ini ChatGPT dan layanan chatbot lainnya gratis, tidak 
+ada jaminan bahwa mereka tidak akan membayar di 
+masa mendatang. Pemberlakuan biaya untuk 
+mengakses chatbots ini dapat menyebabkan perbedaan 
+lebih lanjut antara negara berpenghasilan tinggi dan 
+rendah (serta antara profesional yang lebih junior 
+hingga profesional yang lebih tua), untuk produksi 
+ilmiah, yang mengakibatkan fasilitasi yang tidak adil 
+bagi negara-negara tersebut dengan konsekuensi yang 
+tidak dapat diprediksi. 
+2.5. Pembuatan Abstrak 
+Pembuatan abstrak dengan model bahasa besar seperti 
+ChatGPT adalah alat yang ampuh untuk membuat 
+abstrak ilmiah yang dapat dibaca, meskipun 
+menyertakan data yang dihasilkan. Abstrak yang 
+dihasilkan tidak selalu memperingatkan model 
+pendeteksian plagiarisme, karena teks dibuat lagi, tetapi 
+seringkali dapat dideteksi menggunakan model 
+pendeteksian kecerdasan buatan, dan terkadang 
+diidentifikasi oleh seseorang. Teks yang dihasilkan 
+dapat membantu meringankan beban penulisan dengan 
+memberikan garis besar untuk diedit oleh seorang 
+ilmuwan, tetapi membutuhkan tinjauan yang cermat 
+untuk akurasi faktual. Penggunaan optimal dan batasan 
+etis dari tulisan yang dihasilkan kecerdasan buatan 
+masih harus ditentukan seiring berkembangnya diskusi 
+dalam komunitas ilmiah. 
+Teknologi ChatGPT dapat digunakan dengan cara yang 
+etis dan tidak etis. Mengingat kemampuannya untuk 
+menghasilkan abstrak dengan angka yang dapat 
+dipercaya, itu dapat digunakan oleh organisasi seperti 
+pabrik kertas untuk sepenuhnya memalsukan 
+penelitian. Di sisi lain, teknologi dapat digunakan 
+bersama dengan pengetahuan ilmiah peneliti sendiri 
+sebagai alat untuk mengurangi beban penulisan dan 
+pemformatan. Ini dapat digunakan oleh para ilmuwan 
+yang menerbitkan dalam bahasa yang bukan bahasa ibu 
+mereka, untuk meningkatkan pemerataan. Namun, 
+model kecerdasan buatan telah terbukti sangat sensitif 
+terhadap bias dalam data pelatihan [9] , dan data lebih 
+lanjut diperlukan untuk menentukan potensi bias yang 
+diabadikan oleh ChatGPT terutama mengingat 
+prasangka terbuka yang muncul dari model generasi 
+bahasa sebelumnya [10]. 
+3. Hasil dan Pembahasan 
+3.1. Hasil 
+ChatGPT memiliki potensi untuk merampingkan proses 
+penulisan dan peninjauan, penting bagi peninjau dan 
+editor untuk menyadari potensi tantangan dan jebakan 
+yang mungkin mereka hadapi.Selanjutnya diperlukan 
+batas kemungkinan penggunaan manfaat aplikasi ini 
+alat harus diperjelas. 
+Penting bagi peninjau dan editor untuk tetap waspada 
+dalam memastikan bahwa penggunaan alat ini tidak 
+membahayakan integritas ilmiah artikel yang mereka 
+ulas. Salah satu masalah potensial yang mungkin 
+muncul saat menggunakan alat kecerdasan buatan 
+adalah risiko kesalahan atau bias yang dimasukkan ke 
+dalam teks. Meskipun algoritma kecerdasan buatan 
+dirancang agar objektif, algoritme tersebut mungkin 
+masih dipengaruhi oleh data yang digunakan untuk 
+melatihnya, atau oleh bias manusia yang mendesainnya. 
+Oleh karena itu, penting bagi peninjau dan editor untuk 
+memeriksa dengan cermat artikel yang mereka ulas 
+untuk setiap kesalahan atau bias yang mungkin 
+disebabkan oleh alat kecerdasan buatan. 
+Secara keseluruhan, penggunaan alat kecerdasan buatan 
+kemungkinan besar akan berdampak signifikan pada 
+cara artikel ilmiah ditulis dan ditinjau di tahun-tahun 
+mendatang. Sementara alat-alat ini memiliki potensi 
+untuk sangat merampingkan proses, penting bagi 
+peninjau dan editor untuk tetap waspada dalam 
+memastikan bahwa standar ilmiah jurnal dipertahankan. 
+Dengan menyadari potensi tantangan dan jebakan yang 
+mungkin mereka hadapi, peninjau dan editor dapat 
+membantu memastikan bahwa penggunaan alat 
+kecerdasan buatan meningkatkan, bukan mengurangi, 
+integritas ilmiah makalah yang mereka ulas. 
+3.2. Pembahasan 
+Penggunaan teknologi digital telah dirasakan 
+manfaatnya pada beberapa tahun terakhir [11]. 
+Tantangan yang mungkin muncul saat menggunakan 
+alat kecerdasan buatan untuk menulis dan meninjau 
+karya ilmiah adalah potensi alat ini digunakan untuk 
+memanipulasi atau mendistorsi catatan ilmiah. Sangat 
+dimungkinkan peneliti yang menggunakan alat 
+kecerdasan buatan untuk membuat artikel palsu atau 
+memanipulasi hasil eksperimen. Untuk mencegah 
+penyalahgunaan tersebut, penting bagi peninjau dan 
+editor untuk menyadari potensi penyalahgunaan alat 
+kecerdasan buatan dan mengambil langkah-langkah 
+untuk memastikan integritas catatan ilmiah. 
+ChatGPT adalah chatbot yang diluncurkan oleh 
+OpenAI (San Francisco, CA) pada November 2022

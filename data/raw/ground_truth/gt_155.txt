@@ -1,0 +1,40 @@
+Coursera, sebuah platform pembelajaran daring, yang memanfaatkan sistem evaluasi
+otomatis berbasis AI dalam menilai pekerjaan peserta didik untuk beberapa kursus
+pemrograman.
+Hal tersebut telah diterapkan Ibu Widia selaku wakkurikulum di SMA PUI Gegesik
+mengatakan “…saat pembelajaran daring, pas waktu corona, semua kegiatan belajar
+mengajarkan melalui daring, kami mengalami kewalahan dalam menilai hasil kerja siswa,
+untungnya ada AI yang dapat otomatis menilai pekerjaan siswa, tahun kemarin pake
+Coursera…” (Hasil wawancara).
+Penggunaan Bijak Kecerdasan Buatan Dalam Pendidikan
+Penggunaan kecerdasan buatan (AI) dengan bijak sangat penting untuk mengurangi
+risiko dan memaksimalkan manfaatnya. Ada beberapa langkah yang dapat diambil untuk
+memastikan penggunaan kecerdasan buatan yang bijak, seperti memastikan keakuratan dan
+ketiadaan bias dalam teks yang dihasilkan oleh kecerdasan buatan, menghindari penggunaan
+kecerdasan buatan untuk tujuan yang tidak etis, dan mempertimbangkan implikasi sosial dan
+etis dari penggunaan kecerdasan buatan.
+Penggunaan kecerdasan buatan dalam bidang pendidikan dapat memberikan berbagai
+manfaat bagi para pelajar dan pendidik. Dalam proses pembelajaran, kecerdasan buatan dapat
+digunakan untuk menyajikan penjelasan yang lebih mudah dipahami oleh siswa. Selain itu,
+kecerdasan buatan juga dapat memberikan rekomendasi pembelajaran yang disesuaikan
+dengan kebutuhan masing-masing siswa.Dengan demikian, penggunaan kecerdasan buatan
+(AI) dapat mempercepat dan meningkatkan efektivitas pembelajaran.
+Namun, dalam penggunaan kecerdasan buatan, penting bagi pengguna untuk
+memastikan bahwa penggunaannya dilakukan dengan tepat dan bijak. Salah satu cara untuk
+memastikan penggunaan yang tepat adalah dengan memahami batasan kemampuan
+kecerdasan buatan. Meskipun kecerdasan buatan memiliki kemampuan yang sangat baik
+dalam menghasilkan teks, kecerdasan buatan tidak dapat menggantikan interaksi manusia
+dalam pengambilan keputusan yang kompleks. Oleh karena itu, pengguna harus
+menggunakan kecerdasan buatan hanya sebagai alat bantu dan tetap mengandalkan penilaian
+manusia untuk keputusan yang penting.
+Hal tersebut telah diterapkan di SMA PUI Gegesik yang dapat dijadikan pembelajaran
+dalam menggunakan AI dengan bijak, sebagaiman yang diutarakan Ibu Lela selaku kepala
+sekolah SMA PUI Gegesik “…Dari adanya kasus corona tahun kemarin, kami disini belajar
+bagaimana menggunakan AI, yang mana awalnya kami enggan untuk menggunakan AI,
+tetapi karena keterpaksaan kondisi, akhirnya kami menggunakan AI. Dan sampai sekarang
+kami masih menggunakan AI, misalnya dalam pelaksanaan ujian kami menggunakan
+Google Form dalam membagikan soal dan siswa mengerjakan soal dapat menggunakan Hp,
+dan akan tahu hasilnya siapa yang menyontek dan hanya diberikan satu kesempatan untuk
+mengakses soal ujian. Praktik demikianlah yang harus dicontoh oleh sekolah lain dalam
+menggunakan AI, harapanya siswa dapat belajar bahwa penggunaan AI dapat meningkatkan
+skill mereka...” (Hasil wawancara)

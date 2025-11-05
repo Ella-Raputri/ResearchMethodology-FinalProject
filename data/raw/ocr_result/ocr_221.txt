@@ -1,0 +1,52 @@
+Burgsteiner, H., Kandlhofer, M., & Steinbauer, G. (2016, Maret). Irobot:
+Mengajarkan dasar-dasar kecerdasan buatan di tingkat tinggi sekolah.
+DiProsiding Konferensi AAI tentang Kecerdasan Buatan(Jil. 30, No. 1).
+
+Chai, CS, Wang, X., & Xu, C. (2020a). Sebuah teori diperpanjang dari perilaku
+terencana untuk pemodelan sekolah menengah Cina niat siswa untuk
+mempelajari Artificial Intelligence. Matematika,8(11), 2089.
+
+Chai, CS, Lin, PY, Jong, MSY, Dai, Y., Chiu, TK, & Huang, B. (2020b, Agustus).
+Faktor-Faktor yang Mempengaruhi Siswa Niat Perilaku untuk
+Melanjutkan Pembelajaran  Kecerdasan Buatan. DiSimposium
+Internasional Teknologi Pendidikan (ISET) 2020(hal. 147-150). IEEE.
+
+Dai, Y., Chai, CS, Lin, PY, Jong, MSY, Guo, Y., & Qin, J. (2020). Mempromosikan
+kesejahteraan siswa dengan mengembangkan kesiapan untuk era
+kecerdasan buatan.Keberlanjutan, 12(16), 6597.
+
+Druga, S., Vu, ST, Likhith, E., & Qiu, T. (2019). Literasi AI inklusif untuk anak-
+anak di seluruh dunia. DiProsiding FabLearn 2019(hal. 104-111).
+
+Ertmer, PA, & Ottenbreit-Leftwich, AT (2010). Perubahan teknologi guru:
+Bagaimana pengetahuan, kepercayaan diri, kepercayaan, dan budaya
+memotong.Jurnal Penelitian Teknologi dalam Pendidikan,42(3), 255-284.
+
+Fourtané, S. (2020, Agustus). Etika AI: Manfaat dan Risiko Sistem Kecerdasan
+Buatan.Rekayasa Menarik. Diperoleh dari
+https:/ /interestingengineering.com/ethics-of-ai-benefits-and-risks-of-
+artificial-intelligence-systems
+
+Genlott, AA, & Grénlund, . (2013). Meningkatkan kemampuan literasi melalui
+pembelajaran membaca dengan menulis: Metode iWTR disajikan dan
+diuji.Komputer & pendidikan,67, 98-104.
+
+Ghallab, M. (2019). AI yang bertanggung jawab: persyaratan dan
+tantangan.Perspektif AI, 1(1), 1-7.
+
+Gong, X., Tang, Y., Liu, X., Jing, S., Cui, W., Liang, J., & Wang, TA (2020,
+Oktober). Pendidikan Kecerdasan Buatan K-9 di Qingdao: Masalah,
+Tantangan, dan Saran. DiKonferensi Internasional IEEE 2020 tentang
+Jaringan, Penginderaan, dan Kontrol (ICNSC)(hal. 1-6). IEEE.
+
+Hagendorff, T. (2020). Etika etika AI: Evaluasi pedoman.Pikiran dan Mesin,
+30(1), 99-120.
+
+Han, X., Hu, F., Xiong, G., Liu, X., Gong, X., Niu, X., .. & Wang, X. (2018).
+Desain Kurikulum AI+ untuk SD dan Sekolah Menengah di Qingdao.
+DiKongres Otomasi China (CAC) 2018(hal. 4135-4140). IEEE.
+
+How, ML, & Hung, WLD (2019). Mendidik pemikiran AI dalam sains,
+teknologi, teknik, seni, dan matematika (STEAM) pendidikan.IImu
+Pendidikan,9(3), 184.
+

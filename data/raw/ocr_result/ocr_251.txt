@@ -1,0 +1,95 @@
+[8]
+
+[9]
+[10
+
+(ll
+
+[2
+
+[13
+
+4
+
+[is
+
+[6
+
+[7
+
+[is
+
+[19
+
+[20
+
+(21
+
+[22
+
+[23
+
+[24
+
+C. M. Christensen, T. Bartman, and D. Van Bever, "The Hard Truth About
+Business Model Innovation," MIT Sloan Management Review, vol. 58, no. 1, pp.
+31-40, Fall 2016.
+
+R. D. Arvey and D. A. Harrison, "Motivation to Volunteer: A Functional
+Analysis," Psychological Bulletin, vol. 84, no. 4, pp. 485-504, Jul. 2017.
+
+M. W. Carter, "The Role of Artificial Intelligence in Digital Marketing
+Strategies," Marketing Science, vol. 32, no. 3, pp. 290-301, Mar. 2021.
+
+K. P. Murphy, "Machine Learning: A Probabilistic Perspective," JEEE
+Transactions on Neural Networks and Learning Systems, vol. 33, no. 5, pp. 867-
+869, May 2012.
+
+E. Brynjolfsson and A. McAfee, "The Second Machine Age: Work, Progress, and
+Prosperity in a Time of Brilliant Technologies," Journal of Economic
+Perspectives, vol. 29, no. 3, pp. 3-30, Summer 2015.
+
+T. H. Davenport and R. Ronanki, "Artificial Intelligence for the Real World,"
+Harvard Business Review, vol. 96, no. 1, pp. 108-116, Jan.-Feb. 2018.
+
+A. L. Porter and S. W. Cunningham, "Tech Mining: Exploiting New Technologies
+for Competitive Advantage," Research Technology Management, vol. 48, no. 2,
+pp. 26-35, Mar.-Apr. 2017.
+
+B. Marr, "How Artificial Intelligence Is Changing Marketing," Forbes Magazine,
+vol. 189, no. 4, pp. 34-41, Apr. 2020.
+
+S. Choi, M. Lee, and J. J. Park, "Al-driven Market Analysis and its Implications
+for Digital Marketing," Journal of Business Research, vol. 94, pp. 299-308, Jan.
+2018.
+
+M. H. Huang and R. T. Rust, "A Strategic Framework for Artificial Intelligence
+in Marketing," Journal of the Academy of Marketing Science, vol. 48, no. 1, pp.
+30-50, Jan. 2020.
+
+V. Kumar, B. Rajan, and A. Venkatesan, "AJ-Powered Personalization in Digital
+Marketing," Journal of Marketing Research, vol. 56, no. 2, pp. 234-250, Apr.
+2019.
+
+M. H. Jarrahi, "Artificial Intelligence and the Future of Work: Human-Al
+Symbiosis in Organizational Decision Making," Business Horizons, vol. 61, no.
+4, pp. 577-586, Jul.-Aug. 2018.
+
+C. Prentice, J. Weaven, and B. D. Wong, "AI and Machine Learning in Customer
+Service: Implications for Service Quality," Journal of Service Management, vol.
+31, no. 2, pp. 327-346, 2020.
+
+L. Van Esch, M. Arli, and J. M. W. Northey, "AI-Enabled Customer Service: The
+Role of Chatbots in Digital Marketing," Journal of Retailing and Consumer
+Services, vol. 50, pp. 78-87, May 2019.
+
+T. H. Davenport, R. G. Harris, and S. Shapiro, "Automating Business Processes
+with Al: Opportunities and Challenges," MIT Sloan Management Review, vol.
+60, no. 4, pp. 23-31, Summer 2018.
+
+S. J. Berman and L. Kesterson-Townes, "The Impact of AI on Business Strategy
+and Operations," IBM Journal of Research and Development, vol. 63, no. 4/5, pp.
+2:1-2:14, Jul. 2019.
+
+X. Li, L. Xu, and Y. Liu, "Al-Driven Innovation in Digital Entrepreneurship,"
+Technovation, vol. 95, pp. 102093, Apr. 2020.

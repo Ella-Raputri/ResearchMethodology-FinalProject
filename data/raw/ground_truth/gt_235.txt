@@ -1,0 +1,36 @@
+ Hasil dan Pembahasan 
+Hampir semua perpustakaan pasti menggunakan teknologi informasi dalam melakukan kegiatan yang 
+ada di perpustakaan, dari hal kecil misalnya hanya untuk mengolah data perpustakaan yang 
+menggunakan software pengolah kata maupun spreadsheet seperti Microsoft Word dan Microsoft Excel 
+saja sudah merupakan salah satu penerapan teknologi informasi. Banyak cabang ilmu komputer yang 
+dapat digunakan di perpustakaan salah satunya adalah kecerdasan buatan. Kecerdasan buatan bukan 
+hanya robot saja yang dibicarakan, akan tetapi banyak hal, beberapa bidangnya sudah dijelaskan pada 
+poin 2.2.  
+Untuk mengenal beberapa bidang kecerdasan buatan yang dapat dimanfaatkan pada perpustakaan, maka 
+dapat dilihat beberapa contoh berikut ini: 
+a. Pengolah Bahasa Alami 
+Pengolah bahasa alami pada perpustakaan dapat dimanfaatkan untuk menterjemahkan koleksi yang 
+berbahasa asing menjadi bahasa Indonesia misalnya. 
+b. Visi Komputer 
+Konsep visi komputer yang menggunakan kamera untuk menangkap objek dan mengidentifikasinya 
+dapat dimanfaatkan untuk melakukan pengukuran dimensi buku secara otomatis. Misalnya 
+meletakkan buku dengan posisi tertentu, lalu kamera menangkap objek tersebut. Dengan bantuan 
+kecerdasan buatan, dari hasil tangkapan kamera tersebut dapat diketahui panjang, lebar, dan 
+ketebalan sebuah buku. 
+c. Pengenalan Percakapan 
+Dalam pengenalan percakapan ini perpustakaan dapat memanfaatkannya untuk menginputkan 
+bahan pustaka dengan menggunakan perintah suara. Misal menyebutkan judul yang panjang dengan 
+hanya menggunakan perintah suara, atau mencetak katalog buku menggunakan perintah suara. 
+d. Robotika 
+Konsep robotika ini adalah konsep yang paling familiar dengan manusia. Untuk penggunaan robot 
+dalam dunia perpustakaan bisa dimanfaatkan sebagai robot yang dapat mengambilkan koleksi bahan 
+pustaka di suatu tempat, dengan bantuan nomor rak, letak rak, dsb, maka robot dapat diinstruksikan 
+untuk mengambilkan sebuah koleksi perpustakaan.  
+e. 
+Sistem Pakar 
+Dengan menggunakan sistem pakar, dapat dibuat sebuah sistem layaknya seorang pakar 
+perpustakaan. Pakar perpustakaan adalah pustakawan, karena pustakawan menyimpan banyak 
+informasi mengenai perpustakaan baik secara teori maupun dalam praktiknya. Untuk penerapan 
+sistem pakar ini misalnya dibuat beberapa pertanyaan yang nantinya hasil dari pertanyaan tersebut 
+dapat dijadikan saran untuk mengambil suatu keputusan. Hasil ini bisa berupa saran buku yang 
+nantinya akan dipinjam oleh pemustaka, dll.

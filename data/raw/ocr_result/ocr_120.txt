@@ -1,0 +1,123 @@
+Subtema
+
+‘Objek
+
+No Sitasi a er 7 i Deskripsi Singkat
+5 Dakshayini & Balaji Prabhu, . Sistem Penunjang Keputusan berbasis big data dalam
+2020) sistem blockchain
+46 (Khan, Byun & Park, 2020) oe ‘Model RNN untuk prediksi penjualan produk pertanian
+dalam sistem blockchain
+47 (Yadav et al., 2020) oe Penggunaan fuzzy untuk evaluasi kinerja blockchain
+48 (Kasten, 2020) . ° ‘Studi Literatur implementasi blockchain di pertanian
+49° (Awan et al., 2020) oe Peningkatan kinerja blockchuin melalui perutean
+protokol dalam sistem IOT-Blockchain pertanian
+50 (Mao et al., 2020) . ‘© Peningkatan kinerja konsensus blockchain dalam kasus
+ketelusuran produk teh menggunakan AHP
+51 (Hang, Ullah & Kim, 2020) . @  Penggunaan blockchain untuk data base produk
+perikanan
+52 (Lin et al., 2020) . . Ulasan mengenai teknik dan aplikasi blockchain dalam
+pertanian
+53. (Putri, Hariadi & Wibawa, . © Penggunaan blockchain dalam menunjang manajemen
+2020) rantai pasok produk cabai di Indonesia
+54 (Demestichas et al, 2020) . Ulasan mengenai sistem penelusuran produk pertanian
+‘menggunakan blockchain
+55. (Wang & Yang, 2020) . Ulasan mengenai keamanan produk agrifood
+‘menggunakan blockchain.
+56 (Li, Wang & Li, 2020) . . Analisis keberlanjutan sistem blockchain dalam
+pertanian
+37 (Chen, Li & Li, 2020) . . Ulasan mengenai digital agricultural democratization
+‘menggunakan blockchain
+
+58 (Zhang, Cao& Dong, 2020)
+
+Ulasan penerapan, teknik serta tantangan riset mengenai
+blockchain dan IOT dalam pertanian,
+
+Keterangan :a: Survey, b: SCM, ¢:IOT, d: DB, e: Al, f: Agriculture, g : agrifood ,h : produk spesifik pertanian
+
+Berdasarkan Tabel 1 serta Gambar 2 sampai Gambar
+5, dapat terlihat bahwa dominasi penelitian terkait
+blockchain di pertanian adalah sebagai berikut:
+
+(1) Publikasi tertinggi ada di tahun 2020, meskipun
+publikasi baru sampai bulan Agustus 2020.
+Penggunaan blockchain pada bidang pertanian
+menunjukan peningkatan yang diikuti pula
+peningkatan riset blockchain dan Al pada 2019
+dan 2020.
+
+(2) Mayoritas publikasi mengenai blockchain di
+pertanian berfokus pada topik supply chain
+management (SCM) (38%) dan ulasan
+mengenai teknologi blockchain (36%)
+
+(3) Mayoritas publikasi (79%) membahas produk
+pertanian secara umum. Secara spesifik produk
+pertanian yang telah diulas sebanyak 14%
+meliputi komoditas padi, kedelai, kakao, cabai,
+susu dan produk perikanan.
+
+(4) Asia masih memiliki dominasi tertinggi (78%)
+dalam hal lokasi_penelitian —penerapan
+Blockchain, Negara dengan jumlah penelitian
+tertinggi adalah India (28%), China (22%) dan
+Spanyol (8%). Terdapat 2 penelitian dengan
+lokasi penelitian di Indonesia yang berfokus
+
+pada komoditas cabai dan kakao.
+(5) Publikasi terkait blockchain dan AI sebanyak
+20% dengan rincian 10% —_berupa
+
+implementasinya dalam bidang pertanian dan
+10% berupa ulasan, rekomendasi dan tantangan
+riset dari integrasi tersebut di bidang pertanian.
+
+Hasil analisa deskriptif berdasarkan text mining
+dari seluruh artikel blockchain dan kecerdasan buatan
+disajikan dalam Gambar 6. Pada Gambar 6(a),
+dominasi kata-kata yang muncul adalah blockchain,
+data, IOT, Al, aplications, technology, system,
+
+information, network dan learning Hubungan kata-
+kata ini membentuk suatu cluster yang
+dalam pohon pada Gambar 6(b). Dalam pohon
+tersebut aplications, blockchain, Al dan IOT berada
+dalam sebuah cluster. Konsep blockchain, Al dan
+IOT dalam artikel-artikel yang ada secara umum
+merepresentasikan tantangan penelitian di masa
+depan. Kata technology, system, information, network
+learning dan data muncul pada cluster lain. Hal ini
+menunjukan kata-kata tersebut dekat dengan aplikasi
+blockchain, 1OT dan Al.
+
+classification
+
+intelligence,,
+
+feararee Cha
+
+networksjigorithmg
+
+svstepslearnings «
+
+managemeatinformal 10 Ey
+eg network,
+
+e
+
+3
+performanednodelS Dood 23
+a
+
+technology
+system
+data
+network
+information
+learnang
+ot
+applications:
+blockchasn
+ai
+
+Gambar 6. (a) Word of Cloud; (b) Hasil clustering dalam tree

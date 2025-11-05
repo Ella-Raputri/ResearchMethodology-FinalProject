@@ -1,0 +1,27 @@
+ Berdasarkan hasil klasifikasi, terdapat 12
+artikel terkait blockchain dan kecerdasan buatan di
+pertanian dengan rincian 6 paper berupa implmentasi
+serta 6 paper berupa ulasan (survey). Ulasan
+mengenai 12 artikel ilmiah tersebut disajikan pada
+Tabel 2.
+Perpaduan blockchain dan kecerdasan buatan
+dapat meningkatkan keamanan dan kepercayaan dari
+suatu sistem cerdas atau dapat pula meningkatkan
+kinerja sistem blockchain secara cerdas Hal ini
+merupakan bagian dari konsep blockchain for AI
+maupun AI for blockchain. konsep blockchain for AI
+adalah penggunaan blockchain untuk mendukung
+keamanan data dari sistem AI, sedangkan konsep AI
+for blockchain merupakan penggunaan AI untuk
+dapat meningkatkan kinerja blockchain (Salah et al.,
+2018). Penelitian (Salah et al., 2018) kemudian
+menjadi rujukan untuk pengembangan konsep
+blockchain dan kecerdasan buatan termasuk dalam
+bidang pertanian.
+Posisi riset blockchain dan kecerdasan buatan
+dalam pertanian dapat dilihat pada Gambar 2 dan
+Gambar 3. Dari Gambar 2 terlihat peningkatan
+publikasi dari riset blockchain dan kecerdasan buatan
+dari 1 buah publikasi di tahun 2019 menjadi 5 buah di
+tahun 2020 dengan total sebanyak 6 buah publikasi.
+Dari total tersebut 3 artikel masuk dalam konsep

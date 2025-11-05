@@ -1,0 +1,46 @@
+adalah penterjemahan bahasa manusia satu ke bahasa manusia yang lainnya. Pengolahan bahasa alami
+biasanya berbentuk software penterjemah, di dalamnya terdapat banyak kosakata yang tersimpan,
+menganalisis kata yang akan diterjemahkan, dan kemudian mencocokkan dengan tata bahasa yang benar
+sehingga mengeluarkan output berupa terjemahan dari kata atau kalimat tersebut.
+
+2.3.2 Visi Komputer
+
+Visi komputer adalah suatu bidang kecerdasan buatan yang berkaitan dengan pengenalan terhadap suatu
+objek dan kemudian digunakan untuk pengambilan keputusan. Konsep pada visi komputer adalah
+komputer dilengkapi dengan kamera video. Kamera menangkap gambar dan mengolah menjadi isyarat-
+isyarat digital dan menempatkannya dalam penyimpanan. Selanjutnya, program kecerdasan buatan akan
+melakukan analisis terhadap data gambar yang sudah ada dalam penyimpanan tadi. Program inilah yang
+dapat mendeteksi keberadaan objek-objek yang terdapat pada gambar. Program seperti ini biasanya
+menggunakan pengolahan citra (image processing), yaitu suatu bidang ilmu komputer yang
+berhubungan dengan pengolahan gambar untuk kepentingan seperti penjernihan gambar, pemerolehan
+tepi benda, dan pemampatan gambar. Setelah mendapatkan data yang diinginkan seperti pemerolehan
+tepi benda misalnya, maka dapat dimanfaatkan untuk menganalisa apakah bentuk gambar sesuai atau
+tidak. Hal ini dapat dimanfaatkan perusahaan untuk mengecek apakah suatu benda tersebut mengalami
+cacat atau tidak.
+
+2.3.3 Pengenalan Percakapan
+
+Pengenalan percakapan (voice/speech recognition) adalah suatu proses yang memungkinkan komputer
+dapat mengenali suara. Kecerdasan buatan jenis ini dapat dimanfaatkan sebagai sarana pengetikan
+otomatis melalui suara manusia. User atau pengguna hanya berbicara, kemudian melalui aplikasi yang
+di dalamnya terdapat voice/speech recognition maka komputer dapat mengenali suara tersebut dan
+mengetikkannya ke dalam layar monitor.
+
+2.3.4 Robotika
+
+Robotika adalah studi yang berhubungan dengan pembuatan robot. Saat ini robot dapat digunakan di
+berbagai bidang, misalnya sebagai pengganti chef di rumah makan. Dengan penambahan kecerdasan
+buatan di dalamnya robot dapat menjadi pengganti manusia yang scolah-olah dapat berpikir.
+
+2.3.5 Sistem Pakar
+
+Menurut Horn dalam Kadir dan Terra (2003) Sistem pakar adalah sistem yang meniru kepakaran
+(keahlian) seseorang dalam bidang tertentu dalam menyelesaikan suatu permasalahan. Sistem pakar juga
+disebut sistem berbasis pengetahuan (knowledge-based system). Namun, sebenarnya sistem pakar
+hanyalah salah satu macam sistem yang berbasis pengetahuan.
+
+2.3.6 Logika Kabur
+
+Logika kabur (fuzzy logic) adalah suatu teknik yang digunakan untuk menangani ketidakpastian pada
+masalah- masalah yang memiliki banyak jawaban. Teknik ini pertama kali dikembangkan oleh Lotfi A
+Zadeh pada tahun 1965. Fuzzy logic biasanya digunakan untuk menangani pemikiran yang tidak pasti,

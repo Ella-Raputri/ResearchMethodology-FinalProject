@@ -1,0 +1,39 @@
+komprehensif. Contoh: Turnitin, sebuah platform penilaian dan deteksi plagiarisme,
+yaitu untuk memeriksa kesamaan dan kesalahan dalam pekerjaan tulis peserta didik.
+6. Analisis Data Pendidikan
+Kecerdasan buatan (AI) dapat menganalisis data besar tentang hasil tes, perilaku
+peserta didik, dan faktor lain yang dapat mempengaruhi pembelajaran. Analisis ini
+dapat membantu pendidik dan pembuat kebijakan untuk memahami tren,
+mengidentifikasi masalah potensial, dan menentukan strategi pembelajaran yang
+lebih efektif untuk diterapkan kepada peseta didik. Contoh: Edmodo, sebuah platform
+pembelajaran daring, menggunakan analisis data berbasis AI untuk memberikan
+informasi tentang perkembangan belajar peserta didik kepada pendidik dan orang tua.
+7. Evaluasi Otomatis
+Dengan menggunakan algoritma pembelajaran mesin, kecerdasan buatan (AI)
+dapat mengevaluasi dan memberikan umpan balik dari hasil pekerjaan peserta didik
+secara otomatis. Hal ini sangat membantu dan menghemat waktu pendidik, sehingga
+peserta didik dapat mengetahui hasil evaluasinya dengan cepat. Contoh: Coursera,
+sebuah platform pembelajaran daring, menggunakan sistem evaluasi otomatis
+berbasis AI untuk menilai pekerjaan peserta didik dalam beberapa kursus
+pemrograman.
+IV. Kesimpulan
+Pemanfaatan kecerdasan buatan (AI) dalam Pembelajaran Mandiri sangat
+membantu peserta didik dalam meningkatkan kemampuan dan pengetahuannya,
+serta pendidik akan terbantukan dalam kegiatan pembelajaran. Pemanfaat teknologi
+kecerdasan buatan (AI) dalam mendukung pembelajaran tidak berarti menggantikan
+peran pendidik. Karena, peran penting dari pendidik itu adalah mengajar, mendidik
+dan melatih untuk membangun keterampilan, pengetahuan dan akhlak peserta didik.
+Oleh sebab itu, pemanfaatan kecerdaan buatan (AI) dalam pembelajaran mandiri,
+perlu adanya peran orangtua dan pendidik dalam membekali, mengawasi dan
+mengevaluasi peserta didik dalam penggunaannya. Agar mereka dapat
+memanfaatkannya secara bijak dan efektif.
+V. Daftar Pustaka
+Hakim, Lukman. Peranan Kecerdasan Buatan (Artificial Intelligence) dalam
+Pendidikan. https://ppg.kemdikbud.go.id/news/peranan-kecerdasan-buatanartificial-intelligence-dalam-pendidikan. (diakses. 01 Juli 2023)
+Karyadi, B. (2020). Pengaruh Metode Pembelajaran Computer Assisted Instruction
+(CAI) dan Ekspositori Serta Kemandirian Terhadap Hasil Belajar Keahlian
+Komputer dan Pengelolaan Informasi (KKPI). Jurnal Teknologi Pendidikan, 16-
+27.
+Rizky, M., & Subiyakto, A. (2022). Pemanfaatan Artificial Intelligence dalam
+Menghadapi Pademi Covid-19: Systematic Literatur Riview. Jurnal Sistem
+Cerdas, 46-52.

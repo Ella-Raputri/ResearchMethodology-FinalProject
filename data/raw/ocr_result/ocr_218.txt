@@ -1,0 +1,42 @@
+mengevaluasi literasi AI siswa K-12, salah satu komponen penting adalah
+mempromosikan niat mereka untuk belajar dan memiliki pengetahuan dasar
+tentang AI. Sembilan studi menilai perolehan pengetahuan K-12 dan
+mahasiswa melalui diskusi kelompok dan tes sebelum dan sesudah
+pengetahuan (misalnya, Apa karakteristik pencarian mendalam-pertama?), dan
+kemampuan yang dirasakan siswa (misalnya, Bagaimana Anda menilai
+pengetahuan Anda tentang algoritma pencarian?) (Kandlhofer dkk, 2016; Wan
+dkk, 2020). Selain kuesioner yang dilaporkan sendiri, penelitian ini menilai
+keluaran siswa yang menggunakan artefak seperti program komputer,
+dokumentasi dan presentasi eksperimen mereka. Lima peneliti juga
+mengumpulkan data kualitatif dengan mengambil gambar, catatan lapangan
+selama mengajar, dan mewawancarai siswa untuk memahami motivasi,
+harapan, dan pembelajaran mereka. Druga (2019) merekam interaksi siswa
+dengan agen AI melalui observasi lapangan dan mengadopsi kuesioner
+persepsi Al tiga atribut untuk mengevaluasi bagaimana 102 anak (7-12 tahun)
+berinteraksi dan merasakan agen AI mereka dalam pelajaran mereka.
+
+3 atribut ini mengukur apakah agen lebih pintar, jujur, dan
+memahaminya. Tiga studi membahas aspek lain seperti kepercayaan diri dalam
+menggunakan AI, motivasi, AI untuk kebaikan masyarakat. Dalam studi lain,
+Chai dkk (2020a) mengukur literasi AI sebagai persepsi siswa tentang
+pengetahuan dan keterampilan mereka menggunakan teknologi AI, dan
+merancang dan mengelola instrumen kepada 545 siswa (usia 13-18) dengan 7
+aspek. Dai dkk. (2020) selanjutnya memasukkan 'relevansi' sebagai aspek
+kedelapan yang dikaitkan dengan literasi Al. Mereka menganggap literasi AI
+sebagai landasan pengetahuan yang memberi siswa persepsi tentang teknologi
+Al.
+
+RQ 4. Apa saja masalah etika dalam domain literasi AI?
+
+Karena AI memainkan peran penting dalam pengambilan keputusan
+sehari-hari, AI yang disalahgunakan atau dirancang dengan buruk dapat
+menyebabkan kerugian yang tidak dapat diperbaiki bagi manusia dan
+masyarakat (Fourtané, 2020). Imuwan dan insinyur yang peduli dengan AI
+seperti Elon Musk menjelaskan kengerian yang mungkin ditimbulkan oleh
+teknologi AI di masa depan pada umat manusia dalam beberapa dekade
+mendatang (Johnson, 2019). Namun, hanya setengah dari studi dalam tinjauan
+ini yang menyebutkan pertimbangan yang berpusat pada manusia dan
+mengangkat perhatian untuk mendidik warga negara untuk menjadi
+bertanggung jawab secara sosial (Ahmad dkk, 2020). Gong dkk. (2020)
+menemukan bahwa siswa kurang memperhatikan masalah etika seperti bias
+dalam AI dan tanggung jawab hukum (8%), dan kekayaan intelektual (9%).

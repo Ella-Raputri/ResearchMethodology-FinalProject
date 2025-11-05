@@ -1,0 +1,53 @@
+OPTIMALISASI TEMU KEMBALI INFORMASI DENGAN TEKNOLOGI
+KECERDASAN BUATAN DI PERPUSTAKAAN
+
+Kartika Puspita Sari
+
+Interdiciplinary Islamic Studies, Universitas Islam Negeri (UIN) Sunan Kalijaga Yogyakarta
+Email: puspitakartika5616@gmail.com
+
+Anis Masruri
+
+Universitas Islam Negeri Sunan Kalijaga Yogyakarta
+Email: anis.masruri@uin-suka.ac.id
+
+Desfiana Ramdhani Rosalia
+
+Interdiciplinary Islamic Studies, Universitas Islam Negeri (UIN) Sunan Kalijaga Yogyakarta
+Email: desfianramdhani@gmail.com
+
+—__ SC stract
+Received : 16 October 2023 The purpose of this research is to describe how information retrieval using
+Revised: 18 October 2023 artificial intelligence in STIPRAM Yogyakarta library is optimal because
+Accepted : 25 October 2023 artificial intelligence (Al) technology has been widely used in libraries to
+
+por oe 4 , i , i
+optimize information retrieval and improve user experience. This research
+
+method is descriptive and qualitative, and uses observation and interview
+techniques. The results of this study indicate that artificial intelligence in
+the STIPRAM library is very influential for users so that it can help users
+and librarians in conducting research and work more easily because
+information retrieval in the STIPRAM library can work optimally.
+Keywords: Artificial Intelligenc, Information Retrieval, Library
+
+PENDAHULUAN
+Teknologi kecerdasan buatan (4/) semakin banyak digunakan di perpustakaan untuk
+
+mengoptimalkan pengambilan informasi dan meningkatkan pengalaman pengguna. AI dapat
+digunakan untuk mengembangkan mesin pencari cerdas yang dapat dengan cepat dan akurat
+mengambil informasi relevan dari database besar. Perkembangan teknologi informasi dan
+komunikasi (TIK) telah mengubah cara sumber daya perpustakaan diakses dan digunakan,
+kecerdasan buatan (AI) telah menjadi alat yang ampuh untuk membantu mengoptimalkan
+pengambilan informasi di perpustakaan dan meningkatkan pengalaman pengguna.
+Algoritme yang didukung AI meningkatkan efisiensi dan akurasi pencarian informasi.
+Dengan menganalisis sejumlah besar data dan perilaku pengguna, sistem AI dapat
+menghasilkan hasil pencarian yang lebih relevan, membantu mahasiswa dan peneliti dengan
+
+cepat dan efisien menemukan sumber daya yang mereka butuhkan.
+
+Algoritme AI dapat menganalisis preferensi pengguna, riwayat penelusuran, dan
+minat akademis untuk memberikan rekomendasi yang dipersonalisasi untuk buku, artikel,
+dan makalah penelitian. Pendekatan yang dipersonalisasi ini memungkinkan peneliti untuk
+
+menemukan sumber daya baru dan mengeksplorasi topik yang mungkin belum pernah

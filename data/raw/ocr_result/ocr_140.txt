@@ -1,0 +1,49 @@
+Manfaat Kecerdasan Buatan ChatGPT Untuk Membantu Penulisan I!miah
+The Benefits of ChatGPT Artificial Intelligence To Help Scientific Writing
+
+Zen Munawar', Herru Soerjono’, Novianti Indah Putri*, Hernawati*, Andina Dwijayanti>
+'2Prodi Manajemen Informatika, Politeknik LP3I
+3Prodi Teknik Informatika, Fakultas IImu Komputer dan Sistem Informasi, Universitas Kebangsaan Republik Indonesia
+“Prodi Teknik Informatika, Fakultas Informatika dan IImu Komputer, Universitas Nurtanio
+$Prodi Administrasi Bisnis, Politeknik LP3I
+'munawarzen @ gmail.com, “herrusoerjono2022@ gmail.com, *noviantiindahputri2021 @ gmail.com,
+4dienhernawati @ gmail.com, andinadwijayanti @plb.ac.id
+
+Abstract
+
+Scientific writing is an activity that requires clarity, precision, and caution, because the nature of this activity requires research,
+analysis, and synthesis of information from several literatures. This study aims to use the benefits of Chatbot artificial
+intelligence in scientific writing. ChatGPT is a chatbot, developed by OpenAl, that uses the Generative Pre-trained
+Transformer (GPT) language model to respond and respond to natural language, with ChatGPT being able to complete writing
+and understand academic publications. These chatbots in particular can be useful tools in scientific writing, assisting
+researchers and scientists in organizing materials, creating early drafts, and/or certifying. Chatbots have many uses in
+scientific writing, including hypothesis generation, literature frameworks, problem solving, paraphrasing and summaries,
+editing, and selecting journals. However Chatbots should never be used as a substitute for human judgment and the results
+should always be reviewed by experts before being used in decision making or any important application. In addition, several
+ethical issues have arisen regarding the use of this tool, such as the risk of plagiarism and inaccuracies, as well as the potential
+imbalance in accessibility between developing and developed countries, if using the software is paid for. The result of this
+research is that ChatGPT has the potential to streamline the authoring and protection process, it is important for reviewers
+and editors to be aware of the potential challenges. Although already using artificial intelligence as a tool, it is necessary to
+continue to assess the scientific accuracy, validity and originality of each manuscript carefully.
+
+Keywords: artificial intelligence; scientific writing; machine learning; deep learning; chatbots
+
+Abstrak
+
+Penulisan ilmiah merupakan kegiatan yang membutuhkan kejelasan, ketelitian, dan kehati-hatian, karena alam kegiatan
+tersebut perlu melakukan penelitian, analisis, dan sintesis informasi dari beberapa literatur. Penelitian ini bertujuan
+menggunakan manfaat kecerdasan buatan Chatbot dalam penulisan ilmiah. ChatGPT merupakan chatbot, yang dikembangkan
+oleh OpenAl, menggunakan model bahasa Generative Pre-trained Transformer (GPT) untuk memahami dan merespons
+masukan bahasa alami, dengan ChatGPT dapat menyederhanakan penulisan dan penerbitan akademis. Chatbot ini secara
+Khusus bisa alat yang berguna dalam penulisan ilmiah, membantu peneliti dan ilmuwan dalam mengatur materi, membuat draf
+awal, dan/atau mengoreksi. Chatbot memiliki banyak kegunaan dalam penulisan ilmiah aantara lain pembuatan hipotesis,
+tinjauan literatur, pemecahan masalah, parafrase dan ringkasan, pengeditan, dan pemilihan jurnal. Namun demikian Chatbot
+tidak boleh digunakan sebagai pengganti penilaian manusia dan hasilnya harus selalu ditinjau oleh para ahli sebelum digunakan
+dalam pengambilan keputusan atau aplikasi penting apa pun. Selain itu, beberapa masalah etika muncul tentang penggunaan
+alat ini, seperti risiko plagiarisme dan ketidakakuratan, serta potensi ketidakseimbangan dalam aksesibilitasnya antara negara
+berkembang dan negara maju, jika menggunakan perangkat lunak tersebut berbayar. Hasil dari penelitian ini adalah ChatGPT
+memiliki potensi untuk merampingkan proses penulisan dan peninjauan, penting bagi peninjau dan editor untuk menyadari
+potensi tantangan. Meskipun sudah menggunakan kecerdasan buatan sebagai alat bantu namun perlu terus menilai keakuratan
+ilmiah, validitas, dan orisinalitas setiap naskah dengan hati-hati.
+
+Kata kunci: kecerdasan buatan; penulisan ilmiah; penerbitan; pembelajaran mesin; pembelajaran mendalam; chatbots

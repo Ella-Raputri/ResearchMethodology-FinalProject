@@ -1,0 +1,31 @@
+teknologi AI dapat dioptimalkan lebih lanjut di perpustakaan dengan tetap berpegang pada
+prinsip-prinsip etika dan privasi.
+KERANGKA TEORI
+Temu Kembali Informasi
+Proses pemulihan informasi memerlukan berbagai proses yang terkait dengan
+representasi, penyimpanan, pencarian, dan pengambilan informasi yang berkaitan dengan
+kebutuhan informasi pengguna. Informasi ini, yang dinyatakan dalam bentuk kueri, dicari
+sesuai dengan pernyataan (Basuki, 1991) bahwa pengambilan informasi itu sendiri adalah
+upaya yang bertujuan untuk memberikan dan memberikan informasi kepada pengguna.
+Tujuan dari umpan balik informasi adalah untuk menyediakan pengguna dengan informasi
+sebagai tanggapan atas permintaan atau berdasarkan kebutuhan spesifik mereka. Masuk akal
+bahwa pengguna mungkin mengalami kesulitan dalam menemukan buku atau informasi
+yang diinginkan; oleh karena itu, dengan bantuan alat pencarian dan peninjauan kembali,
+mereka dapat mengakses informasi yang diperlukan.
+Pencarian informasi mengacu pada proses menawarkan dan memberikan informasi
+untuk disimpan dan diakses oleh pengguna. Kegiatan yang terkait dengan temu kembali
+informasi terletak di antara entitas yang bertanggung jawab untuk menyediakan dokumen
+atau data dan distribusi informasi yang dibutuhkan oleh pengguna (Pendit, 2007) Karena
+pengguna layanan sangat bergantung pada temu balik informasi, maka sangat penting untuk
+merancang kegiatan temu balik informasi dengan tujuan untuk memudahkan pengguna
+dalam menemukan informasi yang dibutuhkan. Kegiatan temu kembali informasi di dalam
+perpustakaan mencakup identifikasi dan pengambilan dokumen dari koleksi yang tersimpan,
+sebagai reaksi terhadap permintaan informasi tertentu. Kerangka kerja temu kembali
+informasi memiliki nilai yang signifikan dan merupakan komponen penting dalam
+perpustakaan, karena ketiadaan kerangka kerja ini akan menyebabkan pengguna menghadapi
+tantangan saat mencoba mengakses sumber daya informasi yang tersedia di perpustakaan.
+Kecerdasan Buatan (AI)
+Kecerdasan buatan diperkenalkan pada tahun 1956; namun, AI telah menjadi sangat
+terkenal di era sekarang ini karena pertumbuhan data yang eksponensial, pengembangan
+algoritme yang canggih, dan kemajuan dalam daya komputasi dan kemampuan penyimpanan.
+Selama tahap awal penelitian AI pada tahun 1950-an, berbagai aspek seperti teknik 

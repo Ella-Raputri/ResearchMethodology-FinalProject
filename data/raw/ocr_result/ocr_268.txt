@@ -1,0 +1,104 @@
+independen masing-masing adalah 87% (152 dari
+175 pemindaian) dan 92% (239 dari 259
+pemindaian), dengan area di bawah kurva
+karakteristik operasi penerima 0,95 (95%) CI: 0,93,
+0,97) dan ada beberapa penelitian lainnya yang
+akan kami bahasa pada bab hasil dan pembahasan
+dibawah [4].
+
+Penelitian ini dianggap penting mengingat
+peningkatan jumlah publikasi tentang COVID-19
+dan pemanfaatan AI, terutama Deep Learning,
+dalam pendeteksian COVID-19. Oleh karena itu,
+tujuan utama dari penelitian ini adalah untuk
+mengeksplorasi literatur yang ada untuk
+memahami apakah pemanfaatan Artificial
+Intelligence (AI) dalam pendeteksian COVID-19
+menggunakan citra hasil CT Scan dapat efektif dan
+berfungsi dengan baik [5].
+
+2. PENELITIAN YANG TERKAIT
+
+Berikut adalah sebagian penelitian terkait
+yang digunakan: (Sumber : data pencarian teratas)
+a. Deep transfer learning artificial intelligence
+accurately stages COVID-19 lung disease
+severity on portable chest radiographs.
+Penulis : Jocelyn Zhu, Beiyi Shen, Almas
+Abbasi, Mahsa Hoshmand-Kochi, Haifang
+Li, Tim Q. Duong. Hasil penelitian : Dalam
+penelitian ini, dilakukan penggunaan
+Convolutional Neural Network (CNN) untuk
+memprediksi tingkat keparahan penyakit
+paru-paru. Data yang digunakan dibagi
+menjadi 80% sebagai data pelatihan dan
+20% sebagai data uji. Dilakukan analisis
+korelasi antara skor prediksi AI dan
+interpretasi radiologi. Perbandingan juga
+dilakukan antara pendekatan  deep-
+tradisional dan deep-transfer. Hasil
+penelitian menunjukkan bahwa skor opasitas
+rata-rata adalah 2,52 (rentang: 0-6) dengan
+deviasi standar 0,25 (9,9%). Sedangkan skor
+luas geografis rata-rata adalah 3,42 (rentang:
+0-8) dengan deviasi standar 0,57 (16,7%).
+Kesepakatan antara penilai menghasilkan
+Fleiss' Kappa sebesar 0,45 untuk skor
+opasitas dan 0,71 untuk skor tingkat
+keparahan. Skor prediksi AI menunjukkan
+korelasi yang tinggi dengan skor radiologi,
+dengan model terbaik menghasilkan
+Koefisien korelasi (R2) sebesar 0,90
+(rentang: 0,73-0,90 untuk pendekatan deep-
+
+tradisional dan 0,83-0,90 untuk transfer
+learning) dan rata-rata kesalahan absolut
+sebesar 8,5% (rentang: 17,2-21,0% dan
+8,5%-15,5% masing-masing). Oleh karena
+itu, penelitian ini menyimpulkan bahwa
+Deep-learning CNN dapat dengan akurat
+memprediksi tingkat keparahan penyakit
+pada rontgen dada portabel untuk infeksi
+paru-paru COVID-19 (Zhu et al., 2020). \
+
+A Deep Learning System to Screen Novel
+Coronavirus Disease 2019 Pneumonia
+Penulis : Xiaowei Xu dkk. Hasil Penelitian :
+Sebanyak 618 sampel CT dikumpulkan
+dalam penelitian ini: 219 sampel berasal dari
+110 pasien COVID-19 (dengan rata-rata usia
+50 tahun: 63 pasien laki-laki (57,3%)); 224
+sampel berasal dari 224 pasien dengan
+infeksi saluran pernapasan akut yang
+diinduksi oleh virus influenza (IAVP)
+(dengan rata-rata usia 61 tahun: 156 pasien
+laki-laki (69,6%)); dan 175 sampel berasal
+dari 175 kasus sehat (dengan rata-rata usia
+39 tahun; 97 pasien laki-laki (55,4%)).
+Semua sampel CT dikumpulkan dari tiga
+rumah sakit yang ditunjuk sebagai rumah
+sakit COVID-19 di Provinsi Zhejiang,
+China. Pertama, daerah yang mencurigakan
+terinfeksi diidentifikasi melalui segmentasi
+citra CT paru menggunakan model Deep
+Learning 3D. Gambar yang tersegmentasi
+kemudian dikelompokkan menjadi
+kelompok COVID-19, IAVP, dan tidak
+relevan dengan infeksi (ITI), serta diberi
+skor kepercayaan yang sesuai, menggunakan
+model klasifikasi perhatian lokasi. Akhirnya,
+jenis  infeksi dan skor kepercayaan
+keseluruhan untuk setiap kasus CT dihitung
+menggunakan fungsi Noisy-OR Bayesian.
+Hasil dari eksperimen menggunakan dataset
+benchmark menunjukkan bahwa_tingkat
+akurasi keseluruhan adalah 86,7% dari
+semua kasus CT yang dianalisis. Deep
+Learning yang digunakan dalam penelitian
+ini terbukti efektif dalam skrining awal
+pasien COVID-19 dan menjanjikan sebagai
+metode diagnostik tambahan untuk dokter
+klinis di garis depan (Xu et al., 2020).
+Using Artificial Intelligence to Detect
+COVID-19 and Community-acquired
+Pneumonia Based on Pulmonary CT:

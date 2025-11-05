@@ -1,0 +1,48 @@
+mengambil judul penelitian “Kecerdasan Buatan: Resiko, Tantangan Dan Penggunaan Bijak
+Pada Dunia Pendidikan”.
+
+Dan pembeda penelitian yang akan dilakukan dengan penelitian terdahulu, diantaranya;
+Pertama, penelitian oleh Aidah Novianti Putri dan Moh. Abdul Kholiq Hasan yang berjudul
+“Penerapan Kecerdasan Buatan sebagai Media Pembelajaran Bahasa Arab di Era Society 5.0”
+hasil penelitiannya menjelaskan bahwa kecerdasan buatan (Artificial Intelligence/Al) dapat
+diterapkan sebagai media pembelajaran bahasa Arab di era society 5.0 seperti membantu
+mengatasi keterbatasan manusia sebagai pengajar dalam proses pembelajaran dan sebagai
+media pembelajaran, seperti: Jntelligent Tutoring System (ITS), Voice Assistant, Personalized
+Learning, Virtual Mentor, Smart Content, Automatic Assessment, dan Game Edukasi (Putri,
+2023). Perbedaannya penelitian ini hanya berfokus pada pemanfaatan AI pada proses
+pembelejaran, sedangkan penelitian yang akan diteliti berfokus pada resiko, tantangan dan
+penggunaan bijak kecerdasan buatan dalam pendidikan.
+
+Kedua, penelitian oleh Nisrina Hikmawati, Moh. Imam Sufiyanto, dan Jamilah yang
+berjudul “Konsep Dan Implementasi Kecerdasan Buatan (4rtificial Intelligence) Dalam
+Manajemen Kurikulum SD/MI” hasil penelitiannya menjelaskan apabila konsep manajemen
+kurikulum sekolah dasar berbasis Artificial Intelligence, maka dalam pembelajaran, teknologi
+Artificial Intelligence dapat berperan sebagai Sistem Tutor, Jntelligent Tutee, alat/media
+pembelajaran, dan Panduan membuat kebijakan kurikulum dan pendidikan (Hikmawati,
+2023). Perbedaannya penelitian ini hanya menjelaskan manfaat penggunaan AI pada
+pembelaran di sekolah. sedangkan penelitian yang akan diteliti berfokus pada resiko,
+tantangan dan penggunaan bijak kecerdasan buatan dalam pendidikan.
+
+Ketiga, penelitian oleh Yohannes Marryono Jamun yang berjudul “Dampak Teknologi
+Terhadap Pendidikan” hasil penelitiannya menjelaskan bahwa dampak negatif teknologi
+terhadap pendidikan yaitu terjadinya perubahan perilaku, etika, norma, aturan, atau moral
+kehidupan yang bertentangan dengan etika, norma, aturan, dan moral kehidupan (Jamun,
+2018). Perbedaannya penelitian ini hanya menjelaskan dampak negatif teknologi pada
+pendidikan. sedangkan penelitian yang akan diteliti berfokus pada resiko, tantangan dan
+penggunaan bijak kecerdasan buatan dalam pendidikan.
+
+Keempat, penelitian oleh Sudarsi Lestari yang berjudul “Peran Teknologi Dalam
+Pendidikan Di Era Globalisasi” hasil penelitiannya menjelaskan bahwa teknologi dapat
+diimplementasikan dalam pendidikan contohnya dalam media pembelajaran, alat
+administratif, dan sumber belajar. Dampak positifnya adalah lebih efisien dalam masalah
+waktu, biaya, logistik dan masalah kelembagaan lainnya. Sedangkan dampak negatifnya
+adalah teknologi dapat merubah kehidupan sosial (Lestari, 2018). Perbedaannya penelitian ini
+hanya menjelaskan penerapan teknologi dalam pendidikan, dampak negatif dan positif
+teknologi pada pendidikan. sedangkan penelitian yang akan diteliti berfokus pada resiko,
+tantangan dan penggunaan bijak kecerdasan buatan dalam pendidikan.
+
+Kelima, penelitian oleh M. Husaini yang berjudul “Pemanfaatan Teknologi Informasi
+Dalam Bidang Pendidikan (E-Education)” hasil penelitiannya menjelaskan internet layanan
+informasi dapat menjadi sebagai sumber belajar, media belajar yang dapat dipelajari sesuai
+dengan kecepatan belajar peserta didik. Media belajar tidak terbatas pada huruf dan gambar
+melainkan dapat dikombinasikan dengan grafik, animasi, video, audio secara bersama-sama

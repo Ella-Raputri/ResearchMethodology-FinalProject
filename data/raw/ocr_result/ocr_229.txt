@@ -1,0 +1,77 @@
+[10] Yang, S., Tian, H., Sun, L,, & Yu, X. (2019, June). From one-size-fits-all teaching to adaptive learning:
+the crisis and solution of education in the era of Al. In Journal of Physics: Conference Series (Vol. 1237,
+No. 4, p. 042039). 10P Publishing.
+
+[11] Dai, C. P., & Ke, F. (2022). Educational applications of artificial intelligence in simulation-based
+learning: A systematic mapping review. Computers and Education: Artificial Intelligence, 3, 100087.
+
+[12] Tapalova, 0., & Zhiyenbayeva, N. (2022). Artificial intelligence in education: AIEd for personalised
+learning pathways. Electronic Journal of e-Learning, 20(5), 639-653.
+
+[13] Igbokwe, I. C. (2023). Application of artificial intelligence (AI) in educational
+management. International Journal of Scientific and Research Publications, 13(3), 300-307.
+
+[14] Shoaib, M., Sayed, N., Singh, J., Shafi, J., Khan, S,, & Ali, F. (2024), AI student success predictor:
+Enhancing personalized learning in campus management systems.Computers in Human
+Behavior, 158, 108301.
+
+[15] Alam, A. (2023). Harnessing the Power of Al to Create Intelligent Tutoring Systems for Enhanced
+Classroom Experience and Improved Learning Outcomes. In Intelligent Communication Technologies
+and Virtual Mobile Networks (pp. 571-591). Singapore: Springer Nature Singapore.
+
+[16] Hooda, M., Rana, C., Dahiya, 0., Rizwan, A. & Hossain, M. S. (2022). Artificial intelligence for
+assessment and feedback to enhance student success in higher education. Mathematical Problems in
+Engineering, 2022(1), 5215722.
+
+[17] Sundari, E. (2024). Transformasi Pembelajaran Di Era Digital: Mengintegrasikan Teknologi Dalam
+Pendidikan Modern. Sindoro: Cendikia Pendidikan, 4(5), 25-35.
+
+[18] Ramadani, F.R. F. (2023). Studi Literatur; Analisis Tujuan Pendidikan Terhadap Kurikulum Merdeka
+Belajar Dalam Menghadapi Tantangan Pendidikan Era Revolusi Industri 4.0. Pendas: Jurnal Ilmiah
+Pendidikan Dasar, 8(1), 321-332.
+
+[19] Tedre, M,, Toivonen, T,, Kahila, J., Vartiainen, H., Valtonen, T., Jormanainen, L,, & Pears, A. (2021).
+Teaching machine learning in K-12 classroom: Pedagogical and technological trajectories for
+artificial intelligence education. IEEE access, 9, 110558-110572.
+
+[20] Trisantosa, I. N., SIP, M. T., Dewi Kurniasih, S. I. P., & Hubeis, I. H.M. (2022). Pelayanan Publik Berbasis
+Digital. Deepublish.
+
+[21] Huang, L. (2023). Ethics of artificial intelligence in education: Student privacy and data
+protection. Science Insights Education Frontiers, 16(2), 2577-2587.
+
+[22] Varona, D., & Suérez, J. L. (2022). Discrimination, bias, fairness, and trustworthy Al. Applied
+Sciences, 12(12), 5826.
+
+[23] Chan, C. K. Y. (2023). A comprehensive Al policy education framework for university teaching and
+learning. International journal of educational technology in higher education, 20(1), 38.
+
+[24] Rusten, E, & Hudson, H. (2002). Infrastructure: Hardware, networking, software, and
+connectivity. Technologies For Education Potentials, Parameters, and Prospects, 6, 76-93.
+
+[25] Osetskyi, V, Vitrenko, A., Tatomyr, I,, Bilan, S., & Hirnyk, Y. (2020). Artificial intelligence application
+in education: Financial implications and prospects. Financial and credit activity problems of theory
+and practice, 2(33), 574-584.
+
+[26] Lakshmi, A. J., Kumar, A, Kumar, M. S., Patel, S. 1, Naik, S. L,, & Ramesh, J. V. N. (2023). Artificial
+intelligence in steering the digital transformation of collaborative technical education. The Journal
+of High Technology Management Research, 34(2), 100467.
+
+[27] Miao, F., Holmes, W., Huang, R., & Zhang, H. (2021). AI and education: A guidance for policymakers.
+UNESCO Publishing.
+
+[28] Ng, D. T. K, Leung, J. K. L, Chu, K. W. S, & Qiao, M. S. (2021). Al literacy: Definition, teaching,
+evaluation and ethical issues. Proceedings of the Association for Information Science and
+Technology, 58(1), 504-509.
+
+Penulis
+
+Budi Hartono merupakan praktisi teknologi informati di Solusi Pintar Indonesia, PT.
+Amartaraya Solusi Utama di Jakarta, Indonesia. Ia adalah alumni dari program sarjana
+di Teknik Fisika dan program magister di Teknik Informatika, Institut Teknologi
+Bandung (ITB). la memiliki pengetahuan dan keablian yang luas dalam pengembangan
+teknologi, dan telah memberikan konsultasi serta berkontribusi dalam pengembangan
+teknologi di berbagai perusahaan. Ia telah terlibat dalam proyek-proyek penting yang
+melibatkan implementasi dan pengembangan solusi teknologi informasi. (email:
+mybdhart@solusipintar.com).
+

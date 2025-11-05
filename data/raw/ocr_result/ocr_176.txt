@@ -1,0 +1,154 @@
+yang memadai untuk mendukung penerapan
+Al, termasuk perangkat keras dan lunak yang
+diperlukan. Selain itu, penting untuk melakukan
+Uji coba dan evaluasi secara berkala terhadap
+sistem Al guna memastikan efektivitasnya
+dalam meningkatkan pengalaman belajar serta
+mengidentifikasi area yang membutuhkan
+perbaikan. Juga disarankan untuk mendorong
+penelitian lebih lanjut untuk mengeksplorasi
+potensi dan tantangan tambahan yang
+berkaitan dengan penggunaan Al dalam
+pendidikan online, serta untuk menemukan
+praktik terbaik dan inovasi terbaru
+
+6. DAFTAR PUSTAKA
+
+[1] E. Suryokta, W. Taruklimbong, and H
+Sihotang, “Peluang dan Tantangan
+Penggunaan Al (Artificial Intelligence)
+dalam Pembelajaran Kimia,” J.
+
+Pendidik. Tambusai, vol. 7, no. 3, pp.
+26745-26757, 2023.
+[2] D. R. Rochmawati, |. Arya, and A
+
+Zakariyya, “Manfaat Kecerdasan Buatan
+Untuk Pendidikan,” J. Teknol. Komput.
+dan Inform., vol. 2, no. 1, pp. 124-134,
+2023, doi: 10.59820/tekomin.v2i1.163.
+[3] M. P. Dr. Abd. Mukhid, DESAIN
+
+TEKNOLOGI DAN INOVASI
+PEMBELAJARAN. 2023
+[4] F. Yustiasari Liriwati, “Transformasi
+
+Kurikulum; Kecerdasan Buatan untuk
+Membangun Pendidikan yang Relevan
+di Masa Depan,” J. IHSAN J. Pendidik.
+Islam, vol. 1, no. 2, pp. 62-71, 2023,
+doi: 10.61104/ihsan.v1i2.61
+
+[5] A. J.E. Oktavianus, L. Naibaho, and D
+A. Rantung, “Pemanfaatan Artificial
+Intelligence pada Pembelajaran dan
+Asesmen di Era Digitalisasi,” vol. 05, no.
+2, pp. 473-486, 2023
+
+[6] D. B. Gleneagles, F. Larasyifa, and R
+Fawaiz, “Peran Teknologi Kecerdasan
+Buatan (Al) dalam — Meningkatkan
+Efisiensi Proses Belajar_— dan
+Pembelajaran,” J. lim. Multidisipline, vol.
+2, no. 5, pp. 107-116, 2024, [Online]
+Available:
+https://doi.org/10.5281/zenodo. 1136458
+0
+
+[7] B. Subagiya, “Eksplorasi_Penelitian
+Pendidikan Agama Islam melalui Kajian
+Literatur: Pemahaman konseptual dan
+Aplikasi Praktis,” Ta’dibuna J. Pendidik.
+Islam, vol. 12, no. 3, pp. 304-318, 2023,
+doi: 10.32832/tadibuna.v12i3. 13829.
+
+[8] V.A Putri, K. Carissa, A. Sotyawardani,
+and R. A. Rafael, “Peran Artificial
+
+[9]
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+Intelligence dalam Proses Pembelajaran
+Mahasiswa di Universitas Negeri
+Surabaya,” Pros. Semin. Nas., pp. 615—
+630, 2023
+
+D. Ade Bayu Saputra, Peran Al dalam
+Dunia Pendidikan. 2023.
+
+R. Anggraini, A. Paramansyah, T. H
+Fata, and L. Judijanto, “Peran Artificial
+Intelligences Sebagai Alat Bantu Dalam
+Meningkatkan Keterampilan Menulis
+Mahasiswa Pendidikan Agama Islam Di
+Era Disruptif,” vol. 4, pp. 5206-5216,
+2024
+
+J. Penelitian and |. Riset, “Privasi Dan
+Etika Dalam Manajemen Sumber Daya
+Manusia Digital,” vol. 1, no. 6, 2023.
+
+F. Z. Amika and T. Sulistyowati,
+“Pendekatan _Berkeadilan dalam
+Pembangunan Masyarakat: Studi
+Literatur Komprehensif,” vol. 4, pp. 957—
+972, 2024
+
+E. Suhartono, “Systematic Literatur
+Review (SLR ): Metode , Manfaat , Dan
+Tantangan Leaming Analytics Dengan
+Metode Data Mining di Dunia
+Pendidikan Tinggi,” J. lm. INFOKAM,
+vol. 13, no. 1, pp. 73-86, 2017, [Online]
+Available:
+http://amikjtc.com/jurnal/index.php/jural
+Jarticle/view/123
+
+RS. Tumip,  “PENINGKATAN
+LITERAS| DIGITAL DI KALANGAN
+PELAJAR:  PENGENALAN DAN
+PRAKTIK PENGGUNAAN TEKNOLOGI
+PENDIDIKAN  Abstrak,” J. Rev.
+Pendidik. dan Pengajaran, vol. 6, no. 4,
+pp. 2302-2310, 2023.
+
+D. A_N. D. Sosial, “BUATAN DALAM
+SISTEM _INFORMASI: — TINJAUAN
+LITERATUR TENTANG APLIKASI ,
+ETIKA ,’ vol. 6, pp. 1163-1169, 2023.
+
+K. Marlin ef al, “Manfaat dan Tantangan
+Penggunaan Artificial Intelligences (Al)
+Chat GPTTerhadap Proses Pendidikan
+Etika dan KompetensiMahasiswa Di
+Perguruan Tinggi,” Innov. J. Soc. Sci
+Res., vol. 3, no. 6, pp. 5192-5201,
+2023
+
+A. Hafiz, A. Mu, and A. Amirrachman,
+“Pengembangan Media Pembelajaran
+Agama Islam Berbasis Kecerdasan
+Buatan: Perspektif Pendidikan Agama
+Islam,” vol. 5, no. 1, pp. 56-63, 2024,
+doi: 10.37274/mauriduna v5it.1070
+
+J. G. Z. Mambu et al, "Pemanfaatan
+Teknologi Artificial Intelligence (Al)
+Dalam _Menghadapi__—_‘Tantangan
+Mengajar Guru di Era Digital,” J. Educ.,

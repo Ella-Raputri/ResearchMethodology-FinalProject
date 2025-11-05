@@ -1,0 +1,129 @@
+pendidikan yang lebih adaptif dan inklusif.
+
+2. TINJAUAN PUSTAKA
+
+Kecerdasan buatan (Al) telah berkembang
+pesat dan mulai diterapkan dalam berbagai
+sektor, termasuk pendidikan[16]._ Dalam
+konteks pembelajaran online, Al menawarkan
+potensi besar untuk personalisasi pengalaman
+belajar. Literatur menunjukkan bahwa Al dapat
+mengadaptasi materi ajar sesuai dengan
+kebutuhan individu, memberikan umpan balik
+secara real-time, dan mengoptimalkan proses
+belajar_untuk ‘meningkatkan hasil _belajar
+siswa[17].
+
+Personalisasi pembelajaran merujuk pada
+penyesuaian materi ajar dan metode
+pengajaran agar sesuai dengan kebutuhan dan
+preferensi_ masing-masing siswa. Penelitian
+oleh [Fahrina  YustiasariLiriwati, 2023]
+menjelaskan bahwa personalisasi_ dapat
+meningkatkan motivasi dan keterlibatan siswa,
+serta memungkinkan pendekatan yang lebih
+efektif dalam menangani perbedaan dalam
+gaya belajar dan kecepatan belajar[4]
+
+Teknologi Al memainkan peran penting
+dalam pembelajaran adaptif, yaitu sistem yang
+menyesuaikan materi ajar berdasarkan kinerja
+siswa. Sebuah kajian oleh [Joupy G. Z
+Mambu, 2023] menjelaskan bahwa algoritma
+Al, seperti pembelajaran mesin dan analisis
+data besar, dapat menganalisis interaksi siswa
+dan menyesuaikan konten secara otomatis
+untuk meningkatkan efektivitas
+pembelajaran[18]
+
+Sistem rekomendasi berbasis Al sering
+digunakan dalam pembelajaran online untuk
+memberikan saran materi belajar yang relevan.
+Menurut [Luh Putu Ary Sri Tjahyanti, 2022],
+sistem ini menggunakan data tentang aktivitas
+dan preferensi siswa untuk merekomendasikan
+konten yang  sesuai, membantu — siswa
+menemukan materi yang paling sesuai dengan
+kebutuhan mereka[19].
+
+Al memungkinkan analisis data yang
+cepat dan akurat untuk memberikan umpan
+balik real-time kepada siswa. Penelitian oleh
+[Robert Tanduk Apriadi, 2023] menunjukkan
+bahwa umpan balik segera membantu siswa
+memperbaiki kesalahan secara cepat dan
+meningkatkan pemahaman mereka terhadap
+materi, yang berkontribusi pada peningkatan
+hasil belajar[20]
+
+Sistem Manajemen Pembelajaran (LMS)
+yang mengintegrasikan Al dapat menawarkan
+fitur tambahan seperti analisis kinerja siswa
+dan rekomendasi materi. Kajian oleh [Lely Nur
+Hidayah Syafitr, 2024] menunjukkan bahwa
+integrasi Al dalam LMS membantu pendidik
+
+dalam mengelola kelas secara lebih efektif dan
+mendukung pengalaman belajar yang lebih
+personal[21]
+
+Meskipun manfaatnya besar, penerapan
+Al dalam pendidikan juga menghadapi
+berbagai_tantangan. Literatur menunjukkan
+bahwa beberapa kendala meliputi_ masalah
+privasi data, kebutuhan akan data yang
+berkualitas tinggi, dan keterbatasan dalam
+algoritma Al. Penelitian oleh [Khairul Marlin,
+2023] membahas berbagai tantangan ini dan
+potensi solusi untuk mengatasinya[16].
+
+Beberapa kasus studi telah menunjukkan
+implementasi_ Al yang _sukses_ dalam
+personalisasi pembelajaran. Studi oleh [Velda
+Aurelia Putri, 2023] menggambarkan contoh
+aplikasi Al dalam platform pembelajaran online
+yang telah berhasil meningkatkan keterlibatan
+dan hasil belajar_siswa melalui pendekatan
+personalisasi yang lebih canggih[8]
+
+Perbandingan antara penggunaan Al
+dalam pembelajaran online dan metode
+pembelajaran tradisional menunjukkan bahwa
+Al dapat menawarkan keunggulan dalam hal
+adaptabilitas dan responsivitas. Penelitian oleh
+[Minta Ito Simamora, 2023] __ mengkaji
+perbedaan ini dan mengevaluasi dampak Al
+
+tethadap pengalaman —_belajar__—siswa
+dibandingkan dengan metode
+konvensional[22].
+
+Penelitian dan pengembangan masa
+depan dalam penggunaan Al _untuk
+personalisasi pembelajaran online diprediksi
+akan terus berkembang. Literatur terbaru
+menunjukkan bahwa tren akan bergerak
+menuju penggunaan Al yang lebih canggih,
+dengan fokus pada peningkatan pengalaman
+belajar siswa dan integrasi teknologi baru untuk
+mencapai hasil yang lebih baik.
+
+3. METODOLOGI PENELITIAN
+
+Metodologi yang — diterapkan dalam
+penelitian ini adalah Systematic Literature
+Review (SLR). Tinjauan literatur_ merupakan
+jenis penelitian yang melibatkan pengumpulan
+dan ulasan data dari sumber-sumber seperti
+artikel jurnal, buku relevan, dan sumber lain
+untuk — mengumpulkan —informasi_ yang
+diperlukan, yang kemudian akan  dianalisis
+lebih lanjut{7]
+
+Studi ini menerapkan metode yang dikenal
+sebagai Systematic Literature Review (SLR).
+Metodologi ini ~—digunakan untuk
+mengintegrasikan atau menganalisis penelitian
+yang ada mengenai topik tertentu[23]. SLR
+bertujuan untuk menganalisis, mengidentifikasi,
+menyelidiki, dan mengevaluasi _penelitian

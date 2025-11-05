@@ -1,0 +1,37 @@
+Original Research
+
+PEMANFAATAN KECERDASAN BUATAN (Artificial Intelligence)
+DALAM TELEMEDICINE:DARI PERSPEKTIF PROFESIONAL KESEHATAN
+
+Rita Komalasari*
+*|Imu Kesehatan Masyarakat, Fakultas Kedokteran, YARSI University, Jakarta, Indonesia
+Korespondensi: alamat E-mail rita.komalasari161@gmail.com
+
+Abstrak
+
+Selama beberapa dekade terakhir, penalaran berbasis bukti dapat digunakan untuk mengembangkan
+desain sistem perawatan kesehatan, yang mengikuti logika diagnostik dibawah prinsip-prinsip Evidence
+Based Medicine (EBM).Untuk pertama kalinya, makalah ini bertujuan untuk mendiskusikan tentang
+potensi Peran Kecerdasan Buatan (KB) dalam Telemedicine: Dari Perspektif Profesional Kesehatan. Terkait
+metode studi literatur, kata kunci kecerdasan buatan awalnya digunakan selama periode pencarian artikel
+ini. Pencarian mencakup masalah telemedicine dalam tinjauan penalaran berbasis Bukti yang lengkap dan
+relevan. Hasil penelitian menunjukan bahwa Kecerdasan Buatan dalam industri medis dapat secara efektif
+meningkatkan kualitas, efektivitas, dan efisiensi pelayanan rumah sakit. Kesimpulan dari makalah ini
+menambah pemahaman yang lebih baik tentang bagaimana Al memengaruhi kesehatan dan efektivitas
+pelayanan medis.
+
+Kata kunci: Kecerdasan Buatan (KB), industri medis, meningkatkan kualitas, pelayanan rumah sakit.
+
+Abstract
+
+Over the past few decades, evidence-based reasoning has been used to develop health care system
+designs, which follow diagnostic logic under the principles of Evidence Based Medicine (EBM) and Health
+Care System (HCS). For the first time, this paper aims to discuss the potential role of Artificial Intelligence
+(Al) in telemedicine: Regarding literature study methods, the keyword artificial intelligence was originally
+used during this article's search period. The search includes telemedicine problems in a comprehensive
+and relevant Evidence-based reasoning review. Research results show that Artificial Intelligence (Al) in the
+medical industry can effectively improve the quality, effectiveness, and efficiency of hospital services. The
+conclusions of this paper add to a better understanding of how Al affects the health and effectiveness of
+medical services.
+
+Key words: Artificial Intelligence (Al), medical industry, improve the quality, of hospital services.

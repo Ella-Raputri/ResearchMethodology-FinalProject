@@ -1,0 +1,33 @@
+Menurut (Schatz, 1997) Pustakawan yang telah terlatih mampu berkolaborasi dengan
+layanan online untuk akses ke materi khusus dan mengirimkan laporan kepada para peneliti
+yang meminta, meskipun layanan informasi spesifik telah lama menggunakan jaringan
+komunikasi publik. Namun, dengan munculnya internet, pencarian literatur menjadi tersedia
+secara langsung bagi berbagai ilmuan. Dengan menganalisis pola penggunaan, algoritme AI
+dapat memberikan wawasan tentang penggunaan sumber daya, sehingga perpustakaan dapat
+mengoptimalkan koleksinya, mengalokasikan anggaran secara lebih efektif, dan mengatur
+penyesuaian layanan untuk memenuhi kebutuhan pengguna. Secara keseluruhan, AI
+mengubah perpustakaan akademik dengan meningkatkan pencarian informasi, memberikan
+rekomendasi yang dipersonalisasi, mengoptimalkan manajemen sumber daya, meningkatkan
+pengalaman pengguna, memungkinkan pengambilan keputusan berdasarkan data, dan
+mendukung kolaborasi dan berbagi pengetahuan.
+Penelitian terdahulu terkait pembahasan yang sama dengan penelitian peneliti seperti
+yang ditulis oleh (Dewi, 2020) Ada beberapa domain dalam ranah kecerdasan buatan yang
+dapat digunakan secara efektif di perpustakaan. Masing-masing domain ini memiliki potensi
+untuk diimplementasikan di perpustakaan. Implementasi domain semacam itu pasti akan
+berdampak pada persepsi perpustakaan, karena implementasi kecerdasan buatan saat ini
+dalam perpustakaan masih relatif jarang. Dalam aplikasi khusus ini, pustakawan mengambil
+peran sebagai penghasut dan fasilitator wacana untuk pakar teknologi informasi, sehingga
+memungkinkan realisasi perpustakaan melalui penggabungan kecerdasan buatan. Dengan
+menggunakan kecerdasan buatan dalam jangka waktu sekarang, perpustakaan tidak
+diragukan lagi akan muncul sebagai pelopor dalam domain literasi kecerdasan buatan.
+Penelitian serupa dengan penelitian ini juga ditulis oleh (Aliwijaya & Suyono, 2023)
+Teknologi AI memiliki potensi untuk meningkatkan layanan perpustakaan dan memenuhi
+permintaan pengguna. Penerapannya dapat mempercepat proses pencarian dan pengambilan
+informasi bagi pengguna sekaligus menawarkan rekomendasi koleksi perpustakaan yang
+relevan. Studi ini mengungkapkan banyak contoh integrasi AI di perpustakaan, baik yang
+sudah diterapkan maupun yang belum, yang akan membentuk masa depan perpustakaan. Hal
+ini mencakup adopsi realitas virtual, chatbots, sistem pengenalan suara, robotika, dan sistem
+analitik. Selain itu, dokumentasi aplikasi AI di domain lain memberikan peluang untuk
+diterapkan di perpustakaan. Konsep yang diusulkan mengeksplorasi bagaimana AI dapat
+berkolaborasi dengan pustakawan untuk memberikan layanan yang lebih unggul dan lebih
+efisien kepada pengguna.

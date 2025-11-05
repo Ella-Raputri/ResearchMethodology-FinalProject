@@ -1,0 +1,126 @@
+4. PENDAHULUAN
+
+Dalam era digital yang — semakin
+berkembang, teknologi kecerdasan buatan (Al)
+telah menjadi salah satu faktor utama yang
+mendorong inovasi di berbagai _sektor,
+termasuk pendidikan[1]. Penggunaan Al dalam
+personalisasi pembelajaran online _ telah
+mendapatkan perhatian yang signifikan,
+mengingat potensi besar teknologi ini untuk
+meningkatkan pengalaman belajar dan_hasil
+akademis[2]. Pembelajaran online, yang telah
+menjadi alternatif penting untuk pendidikan
+konvensional, menawarkan fleksibilitas dan
+aksesibilitas, namun sering kali menghadapi
+tantangan  terkait penyesuaian materi ajar
+dengan kebutuhan individu siswa[3]. Di sinilah
+peran Al menjadi sangat relevan
+
+Personalisasi  pembelajaran —_ online
+berfokus pada penyesuaian pengalaman
+belajar untuk memenuhi kebutuhan dan
+preferensi_masing-masing  siswa[4]. Dalam
+konteks ini, Al menyediakan alat dan teknik
+yang memungkinkan adaptasi materi ajar
+secara real-time berdasarkan analisis data
+perilaku dan kinerja siswa. Teknologi ini
+berpotensi mengatasi masalah
+ketidakmerataan dalam —pendidikan dan
+membantu  setiap siswa mencapai_potensi
+penuhnya. Oleh karena itu, penting untuk
+memahami bagaimana Al digunakan dalam
+personalisasi pembelajaran dan apa
+dampaknya terhadap hasil belajar{5]
+
+Literature review ini bertujuan untuk
+mengeksplorasi dan menganalisis berbagai
+penelitian yang telah dilakukan mengenai
+penggunaan teknologi Al dalam personalisasi
+pembelajaran_ online[6]._ Dengan _mengkaji
+studi-studi terkini dan relevan, artikel ini akan
+memberikan gambaran komprehensif tentang
+bagaimana Al diterapkan dalam konteks
+pendidikan, termasuk manfaat, tantangan, dan
+tren terbaru. Tujuan utama dari tinjauan
+literatur ini adalah untuk mengidentifikasi pola-
+pola utama, kekuatan, dan kekurangan dari
+berbagai pendekatan yang telah digunakan{7]
+
+Penelitian tentang Al dalam pembelajaran
+online sering kali mencakup berbagai teknologi
+dan metode, termasuk pembelajaran_ mesin,
+analitik data besar, dan algoritma adaptif[8]
+Teknologi-teknologi. ini berfungsi untuk
+mengumpulkan dan menganalisis data siswa,
+memberikan umpan balik yang tepat waktu,
+dan menyesuaikan materi ajar _untuk
+mencocokkan kemampuan dan minat siswa[9]
+Dengan demikian, Al dapat menciptakan
+pengalaman belajar yang lebih terpersonalisasi
+dan efisien[10]
+
+Namun, meskipun potensi Al dalam
+personalisasi pembelajaran sangat besar,
+terdapat sejumlah tantangan yang perlu diatasi
+Misalnya, masalah terkait privasi_ dan
+keamanan data siswa, kualitas data yang
+digunakan untuk pelatinan model Al, serta
+keberagaman dan inklusivitas dalam algoritma
+yang dikembangkan{11]. Tinjauan literatur ini
+akan membahas isu-isu  tersebut serta
+bagaimana berbagai studi telah menangani dan
+menyarankan solusi untuk tantangan-tantangan
+inif2].
+
+Literature review ini juga akan mencakup
+tinjauan terhadap studi kasus dan aplikasi
+nyata dari teknologi Al dalam  lingkungan
+pendidikan online[13]. Dengan mengidentifikasi
+contoh-contoh konkret di mana Al telah
+berhasil diterapkan, artikel ini bertujuan untuk
+memberikan wawasan praktis dan inspirasi
+bagi pengembang dan pendidik yang tertarik
+untuk mengintegrasikan Al ke dalam sistem
+pembelajaran mereka
+
+Melalui analisis kritis terhadap penelitian-
+penelitian sebelumnya, artikel ini akan
+membahas bagaimana Al dapat mengubah
+paradigma — pembelajaran online dan
+meningkatkan  kualitas pendidikan  secara
+keseluruhan[14]. Tinjauan ini dinarapkan dapat
+memberikan panduan bagi pengembangan
+lebih lanjut dan implementasi teknologi Al
+dalam konteks pendidikan.
+
+Dalam rangka untuk — memberikan
+pemahaman yang menyeluruh tentang
+penggunaan Al dalam _personalisasi
+
+pembelajaran online, artikel ini akan mencakup
+berbagai perspektif, termasuk teori-teori dasar
+tentang kecerdasan buatan, —metodologi
+penelitian yang digunakan dalam studi-studi
+terkait, dan implikasi_ praktis dari temuan-
+temuan yang ada
+
+Secara keseluruhan, tinjauan literatur ini
+bertujuan untuk — memberikan _kontribusi
+signifikan terhadap — pemahaman — dan
+penerapan teknologi Al dalam pendidikan
+online[15]. Dengan mengidentifikasi tren,
+manfaat, dan tantangan yang terkait, artikel ini
+akan menjadi sumber informasi yang berharga
+bagi peneliti, pengembang teknologi, dan
+pendidik yang ingin memanfaatkan Al untuk
+meningkatkan pengalaman belajar.
+
+Akhirnya, dengan fokus pada _hasil
+penelitian dan rekomendasi yang dihasilkan
+dari tinjauan ini, diharapkan artikel ini dapat
+memberikan arahan yang jelas_—_ bagi
+pengembangan masa depan dan penggunaan
+Al dalam personalisasi pembelajaran_ online
+Penelitian lebih lanjut dan inovasi dalam bidang
+ini akan terus menjadi kunci untuk mencapai

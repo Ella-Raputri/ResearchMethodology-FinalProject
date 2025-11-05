@@ -1,0 +1,108 @@
+membahas batasan Al, seperti basis pengetahuan yang
+terbatas, bias dalam data pelatihan, dan rentan
+terhadap halusinasi, di mana Al bisa menghasilkan
+informasi yang salah atau tidak akurat.
+
+Tahap kedua pelatihan adalah pemaparan
+contoh tools Al dalam pendidikan seperti Chat GPT,
+Microsoft Copilot, Google Gemini, Limewere,
+Slidesgo,Magic Slides, wepik, Plerplexity, Youchat, dan
+Quizizz. Penjelasan mengenai tiga Al utama seperti
+ChatGPT, Copilot, dan Google Gemini memberikan
+berbagai_manfaat dalam konteks pendidikan dan
+penggunaan teknologi secara umum. Ketiga Al
+tersebut, yaitu ChatGPT, Copilot, dan Google Gemini,
+tidak saling mengungguli satu sama lain, melainkan
+saling melengkapi untuk memberikan solusi yang lebih
+komprehensif dan efektif di berbagai aspek
+pendidikan dan penggunaan teknologi.
+
+Cara penggunaan Al tepat dan jitu dimulai
+dengan menekankan  praktik penulisan prompt
+perintah dengan metode SCRIBE. Metode SCRIBE
+memiliki kepanjangan  yaitu specify, context,
+responsibility, instruction, banter, dan terakhir
+evaluation. Butir pertama dari SCRIBE adalah specify,
+yang berarti bahwa prompt harus ditulis dengan detail
+dan tepat. Butir context memastikan bahwa latar
+belakang informasi diinformasikan untuk pemahaman
+yang lebih baik. Butir responsibility memberikan peran
+kepada Al melalui pernyataan dalam prompt. Butir
+instruction memberikan perintah yang jelas tentang
+apa yang diinginkan dari Al dan apa yang harus
+dikerjakan oleh Al. Butir banter artinya memberikan
+umpan balik kepada mesin Al dalam berbagai bentuk
+seperti mengklik tombol suka atau tidak suka dengan
+jawaban mesin, atau menuliskan umpan balik berupa
+teks pada masukan prompt. Butir evaluasi bermakna
+pengguna perlu mencermati pengaruh penggunaan
+kalimat pada prompt dengan hasil yang didapat
+sehingga dapat memperbaiki cara menulis prompt
+untuk memperoleh hasil sesuai ekspektasi.
+
+Selanjutnya peserta mencoba menyelesaikan
+studi kasus  yaitu membuat draft Rencana
+Pembelajaran Studi, modul ajar, dan pembuatan quiz
+sesuai dengan jurusan  masing-masing dengan
+menggunakan metode SCRIBE yang sudah dijelaskan.
+Khusus untuk quiz peserta bisa menggunakan tool Al
+lain bernama Quizziz. Pada setiap sesi materi, salah
+satu dari penulis menyampaikan materi ke peserta,
+sedangkan yang lain membantu peserta _ketika
+menemui kesulitan. Materi diberikan tidak hanya satu
+arah tapi langsung dua arah jadi peserta dapat
+langsung bertanya ketika mendapat kesulitan.
+
+Tahap ketiga pelatihan adalah praktik di mana
+peserta diminta mencoba langsung tools Al yang telah
+dibahas. Praktik membuat gambar dilakukan oleh
+peserta menggunakan aplikasi Limeware di mana
+dalam penggunaannya peserta dapat masuk (login) ke.
+dalam sistem menggunakan akun Google. Praktik
+
+mengembangkan slide presentasi__ dilakukan
+menggunakan aplikasi SlidesGo dan Wepik.
+
+Penggunaan Al untuk penulisan artikel semal
+populer, dengan ChatGPT menjadi salah satu alat
+utama yang digunakan. ChatGPT, yang dikembangkan
+oleh OpenAl, memanfaatkan teknologi kecerdasan
+buatan untuk membantu penulis dalam berbagai
+aspek penulisan artikel. Alat ini mampu menghasilkan
+‘teks yang koheren dan informatif berdasarkan prompt
+atau topik yang diberikan, sehingga mempercepat
+proses penulisan. Selain itu, ChatGPT dapat
+membantu dalam melakukan riset awal, memberikan
+saran tentang struktur artikel, dan memperbaiki tata
+bahasa serta gaya penulisan. ChatGPT tidak hanya
+meningkatkan efisiensi penulis tetapi juga membantu
+menghasilkan artikel yang sesuai dengan kebutuhan.
+
+Tahap keempat pelatihan adalah evaluasi.
+Peserta diminta mengisi kuesioner dan memberikan
+komentar terhadap jalannya pelatihan. Hail
+kuesioner menunjukkan pandangan positif peserta
+terhadap pelatihan. Dari 24 peserta yang hadir, 22
+orang menyatakan puas dengan pelatihan yang
+diberikan, atau setara dengan 91,67%. Para peserta
+tidak hanya mengungkapkan rasa puas tetapi juga
+mengharapkan adanya pelatihan serupa yang
+dilaksanakan secara rutin di masa mendatang. Hal ini
+menunjukkan bahwa pelatihan Al for Education
+mampu memenuhi ekspektasi peserta dan berpeluang
+memberikan nilai tambah dalam hasil kerja peserta.
+
+Tim pelatihan melakukan evaluasi komprehensif
+berdasarkan komentar yang telah diisi oleh peserta.
+Evaluasi ini mencakup analisis umpan balik tentang
+materi pelatihan, metode penyampaian, dan manfaat
+yang dirasakan oleh peserta. Berdasarkan_hasil
+evaluasi, tim menyusun rekomendasi untuk perbaikan
+dan pengembangan pelatihan di masa mendatang.
+Tindak lanjut yang direncanakan meliputi peningkatan
+kualitas materi, penyesuaian metode pengajaran agar
+lebih interaktif, dan penjadwalan pelatihan rutin untuk
+memastikan kontinuitas peningkatan kompetensi
+dosen,
+
+Gambar 2. Foto kegiatan pelatihan

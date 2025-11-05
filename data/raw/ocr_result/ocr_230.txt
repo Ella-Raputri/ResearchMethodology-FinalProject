@@ -1,0 +1,48 @@
+Kecerdasan Buatan sebagai Konsep Baru pada Perpustakaan
+
+Athanasia Octaviani Puspita Dewi!
+
+!Program Studi Ilmu Perpustakaan, Fakultas Iimu Budaya, Universitas Diponegoro,
+JI. Prof, Soedarto, SH, Kampus Undip Tembalang, Semarang, Indonesia
+
+*) Korespondensi: athanasiadewi@lecturer.undip.ac.id
+
+Abstract
+
+[Title: Artificial Intelligence as a New Concept in Libraries] This article discusses artificial intelligence in
+libraries and some examples of its application in libraries. The results of this study, there are several parts of
+artificial intelligence that can be applied in libraries. Each of these sections has the opportunity to be applied
+in the library. This application will affect the image of the library because currently libraries rarely to apply
+artificial intelligence. Librarians act as initiators and discussion partners for information technology experts
+to create libraries by applying artificial intelligence in them. By applying artificial intelligence at this time, it
+will be a pioneer of libraries that are literate in artificial intelligence.
+
+Keywords: artificial intelligence; information technology; library
+Abstrak
+
+Artikel ini membahas tentang kecerdasan buatan dalam perpustakaan dan beberapa contoh penerapannya
+dalam perpustakaan. Hasil dari penelitian ini adalah terdapat beberapa bidang dalam kecerdasan buatan yang
+dapat diterapkan di perpustakaan, Masing-masing dari bidang tersebut mempunyai peluang untuk diterapkan
+di perpustakaan, Penerapan ini akan berpengaruh pada citra perpustakaan karena pada jaman sckarang ini
+masih jarang perpustakaan yang menerapkan kecerdasan buatan. Dalam pemanfaatan ini, pustakawan
+bertindak sebagai inisiator dan teman diskusi bagi ahli teknologi informasi untuk mewujudkan perpustakaan
+dengan menerapkan kecerdasan buatan di dalamnya. Dengan menerapkan kecerdasan buatan pada masa ini
+tentunya perpustakaan akan menjadi pelopor perpustakaan yang melek akan kecerdasan buatan.
+
+Kata kunci: kecerdasan buatan; teknologi informasi; perpustakaan
+
+1. Pendahuluan
+
+Teknologi informasi dapat diterapkan dalam berbagai bidang, termasuk pada penerapan di perpustakaan.
+Dalam penerapannya di perpustakaan pun teknologi informasi dapat dilihat dari penggunaan software
+dan hardwarenya. Contoh penggunaan software dalam dunia perpustakaan di antaranya adalah dengan
+memanfaatkannya sebagai pembantu pengolah informasi seperti dimanfaatkan dalam sistem otomasi
+perpustakaan. Sedangkan contoh penggunaan hardware di perpustakaan misalnya adalah pemanfaatan
+teknologi komputer, printer, scanner, barcode scanner, Radio Frequency Identification (RFID), dan
+lain sebagainya. Beberapa software dan hardware ini biasanya dimanfaatkan untuk otomasi
+perpustakaan yang di dalamnya untuk melakukan pengolahan bahan pustaka, pembuatan katalog,
+pengolahan keanggotaan, pembuatan kartu anggota, memudahkan dalam peminjaman dan
+pengembalian bahan pustaka, melakukan pencarian bahan pustaka, dan melakukan pelaporan.
+Kecerdasan buatan atau Artificial Inteligent (AI) adalah salah satu cabang ilmu komputer yang
+dapat dimanfaatkan dalam berbagai bidang, termasuk perpustakaan. Banyak orang menganggap bahwa
+kecerdasan buatan identik dengan robotika, padahal kecerdasan buatan memiliki banyak bidang di
