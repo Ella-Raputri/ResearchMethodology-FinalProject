@@ -4,3 +4,4 @@ yolo/yolo_model1
 __pycache__
 DocLayNet_core
 DocLayNet_core.zip
+finetuned_yolo_last
