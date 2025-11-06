@@ -1,1 +1,6 @@
 testenv
+runs
+yolo/yolo_model1
+__pycache__
+DocLayNet_core
+DocLayNet_core.zip
