@@ -1,0 +1,32 @@
+Gambar 1.3
+
+WNMF terutama digunakan sebagai wadah untuk gambar vektor dan mendukung data gambar raster .
+Selain itu, mendukung data gambar 16-bit yang dapat diskalakan dan output pada definisi yang lebih
+tinggi, yang sangat berguna saat memodifikasi gambar dalam editor gambar dan mencetak gambar
+berkualitas tinggi.
+
+Format WME menyimpan data gambar dalam serangkaian struktur rekaman metafile. Masing-masing
+record ini menyimpan perintah menggambar, definisi objek, dan pengaturan konfigurasi.
+
+WMF sudah umum di tahun 1990-an, terutama di aplikasi Windows, seperti Microsoft Word,
+Publisher, dan PowerPoint. Namun, karena keterbatasan data 16-bit dan ketergantungan perangkat,
+Microsoft mengganti WMF dengan format Enhanced Windows Metafile ( EMF ) pada tahun 1992
+ketika merilis Windows NT 3.1.
+
+Editor gambar mungkin masih menyimpan gambar vektor sebagai file WMF dan EMF. Namun, format
+Scalable Vector Graphics ( SVG ) dan Encapsulated PostScript ( .EPS ) sebagian besar telah
+menggantikan format tersebut.
+
+SOAL LATIHAN
+
+Jelaskan kelebihan dan kekurangan bentuk obyek vector dan bitmap!
+Sebutkan dan jelaskan keluaran format dari obyek vector!
+
+Sebutkan dan jelaskan keluaran format dari obyek bitmap!
+
+awn p
+
+Sebutkan format file yang dapat di akses atau dibaca baik bentuk obyek Vector mapun
+obyek bitmap!
+
+5. Sebutkan 3 aplikasi yang mampu mengolah obyek dalam bentuk Vector !

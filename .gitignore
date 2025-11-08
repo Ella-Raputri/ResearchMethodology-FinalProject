@@ -5,3 +5,5 @@ __pycache__
 DocLayNet_core
 DocLayNet_core.zip
 finetuned_yolo_last
+labeled_data
+mt5-env

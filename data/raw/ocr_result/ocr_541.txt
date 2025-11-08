@@ -1,0 +1,38 @@
+3. Mengatur RAM yang akan digunakan untuk komputer virtual. Klik
+“Next” untuk melanjutkan.
+
+Bae Oe BED ome
+a =
+
+_ a —
+
+Memory size
+Sgt the event of meery Gat n megabyte tobe soca oh et
+
+4. Pada tahap ini klik “Create” untuk membuat harddisk virtual pada
+mesin virtual komputer.
+
+VM VirtualBox Manager (Cee)
+
+x B swoiots
+
+——— ole
+
+0
+
+a om —
+vad »
+
+{yeuneed amare complex starage setup youcan ap step and make he
+nbagent emacs serge cree He macire betes
+
+‘Thereconnanded eof the ard dks 20.00 68.
+Do notadéa vets do
+
+© cates went hard doom
+Ue an ening vesthard ke
+
+5. Selanjutnya pilih tipe berkas untuk harddisk virtual baru, umumnya
+yang digunakan adalah VDI. Klik “Next” untuk melanjutkan.
+
+BEE chon Ajar Aplikasi Komputer
