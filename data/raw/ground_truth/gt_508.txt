@@ -1,0 +1,16 @@
+Komputer mempunyai beberapa karakteristik:
+1. Alat elektronik. 
+2. Dapat menerima input data. 
+3. Dapat mengolah data. 
+4. Dapat memberikan informasi. 
+5. Menggunakan suatu program yang tersimpan di memori komputer (‘stored program). 
+6. Dapat menyimpan program dan hasil pengolahan 
+7. Bekerja secara otomatis
+
+Sejarah Singkat Komputer 
+Dalam perkembangannya, komputer telah mengalami suatu evolusi yang sangat berarti bagi peradaban manusia, berikut adalah sejarah singkat mengenai komputer: 
+
+Komputer Generasi Pertama 1940-1956
+Gambar komputer generasi Pertama
+
+Perangkat komputer yang pertama ternyata dikembangkan untuk desain pesawat dan peluru kendali. komputer generasi pertama menggunakan tabung hampa udara sebagai sirkuit dan drum magnetik untuk memori.

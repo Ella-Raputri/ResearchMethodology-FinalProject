@@ -1,0 +1,15 @@
+menciptakan catatan untuk diri sendiri.  Kita dapat merujuk ke catatan tersebut saat Kita memberikan presentasi Kita.
+
+7. Status Bar, Tabs, Buttons Lihat, dan Lainnya
+Gambar tampilan lembaran kerja Microsoft PowerPoint 2010 dengan penanda letak fitur
+a. Status Bar
+b. Garis Besar Tab
+c. Slides Tab 
+d. Lihat Buttons 
+e. Zoom 
+f. Vertikal & Horizontal Bar Splitter 
+g. Minimalkan Button 
+h. Maksimalkan / Tombol Restore 
+i. Close Button
+
+Status bar yang umumnya muncul di bagian bawah jendela. Status bar akan menampilkan jumlah slide yang sedang ditampilkan, jumlah slide, dan nama desain template digunakan atau nama belakang. Menampilkan tab Outline teks yang terdapat dalam presentasi Kita.  Slides tab menampilkan thumbnail dari semua slide Kita. Kita klik thumbnail untuk melihat slide dalam Slide pane. 

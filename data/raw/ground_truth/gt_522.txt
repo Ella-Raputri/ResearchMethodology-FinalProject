@@ -1,0 +1,11 @@
+perintah atau untuk mengakses menu dan kotak dialog.  Kita juga dapat menemukan sebuah peluncur kotak dialog di pojok kanan bawah kelompok.  Ketika Kita mengklik peluncur kotak dialog, kotak dialog membuat perintah tambahan yang tersedia. 
+
+5. Penggaris
+Gambar fitur Penggaris
+Penggaris adalah panduan vertikal dan horisontal.  
+Kita menggunakan mereka untuk menentukan di mana Kita ingin menempatkan obyek.  Jika penggaris tidak muncul di jendela PowerPoint Kita: Klik tab View. 
+Klik ruler di Tampilkan / Sembunyikan grup. Para penggaris muncul.
+
+6. Slides, penampung, dan Catatan 
+Ket. (1) Slide; (2) Placeholders;(3) Notes
+Slide muncul di tengah jendela.  Kita menciptakan pada slide presentasi Kita.   Penampung terus objek dalam slide Kita.  Kita dapat menggunakan penampung untuk menahan teks, clip art, grafik, dan banyak lagi.  Kita dapat menggunakan catatan daerah untuk

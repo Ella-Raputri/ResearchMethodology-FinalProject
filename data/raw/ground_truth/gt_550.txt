@@ -1,0 +1,5 @@
+Gambar tampilan layar BIOS
+6. Silakan klik menu Boot di atas kemudian atur agar Removable Devices menjadi urutan paling atas. untuk merubah urutannya dengan menggunakan tombol +/- pada keyboard, atau sesuaikan dengan petunjuk yang ada pada taskbar BIOS pada bagian Change Values 
+7. Setelah Removable devices berada di urutan teratas, pilih menu Exit dan silakan Save. 
+8. Komputer atau laptop anda akan kembali restart, tunggu saja sampai muncul jendela seperti di bawah ini. Pada sesi ini mouse anda sudah berfungsi.
+Gambar tahap awal penginstalan Windows (pemilihan bahasa)

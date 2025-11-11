@@ -1,0 +1,9 @@
+Gambar layar Microsoft PowerPoint untuk tombol Save
+Kita mungkin harus menggunakan fitur Save As bila Kita perlu menyimpan presentasi dengan nama yang lain atau menyimpannya untuk PowerPoint versi sebelumnya. Untuk menggunakan fitur Save As:
+Klik Tombol ‘Microsoft File’ > Klik ‘Save As’ > Ketik nama untuk Presentasi Dalam kotak Simpan. 
+Gambar layar Microsoft PowerPoint untuk tombol Save As
+
+Penambahan Slides 
+Ada beberapa pilihan bila Kita ingin menambahkan slide baru ke dalam presentasi: Office Themes, Duplicate Selected Slide, atau Reuse Slides. 
+1. Untuk membuat slide baru dari Office Themes: 
+Pilih slide SEBELUM segera di mana Kita ingin slide baru

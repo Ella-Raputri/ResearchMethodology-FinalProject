@@ -1,0 +1,5 @@
+3. Mengatur RAM yang akan digunakan untuk komputer virtual. Klik “Next” untuk melanjutkan. 
+Gambar pengaturan RAM untuk virtual machine di virtualbox
+4. Pada tahap ini klik “Create” untuk membuat harddisk virtual pada mesin virtual komputer. 
+Gambar pembuatan harddisk virtual untuk virtual machine di virtualbox
+5. Selanjutnya pilih tipe berkas untuk harddisk virtual baru, umumnya yang digunakan adalah VDI. Klik “Next” untuk melanjutkan.

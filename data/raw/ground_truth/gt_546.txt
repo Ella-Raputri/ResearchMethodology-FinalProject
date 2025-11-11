@@ -1,0 +1,5 @@
+14. Pada jendela License terms, centang pada kolom “ I accept….” Kemudian klik “Next” 
+Gambar jendela License terms pada penginstallan Windows 10
+15. Pilih “Custom: Install Windows only (advanced). 
+Gambar pemilihan menu “Custom: Install Windows only
+16. Pada tahap ini, adalah pembagian partisi sesuai dengan yang diinginkan. Klik “Next” jika sudah selesai.

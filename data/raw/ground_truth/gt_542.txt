@@ -1,0 +1,4 @@
+Gambar create virtual harddisk di virtualbox
+6. Pilih “Dinamicly allocated”. Lalu klik “Next”. 
+Gambar pemilihan menu “Dinamicly allocated” untuk virtual harddisk
+7. Aturlah besarnya lokasi dan ukuran berkas yang akan dipakai. Di sini kita gunakan sesuai yang direkomendasikan yakni 25.00 GB. Pilih “Create” untuk melanjutkan.

@@ -1,0 +1,12 @@
+Menjalankan dari Start 
+1. Klik tombol Start 
+2. Pilih All Programs 
+3. Pilih Microsoft Office 
+4. Pilih dan klik Microsoft Ofice Word 
+
+Gambar dari layar awal Windows 10
+
+Akses MS Word dari Start > Programs Atau Menggunakan icon Microsoft Word terdapat pada Desktop
+
+Gambar icon Microsoft Word 2010 di Desktop
+Setelah tereksekusi maka aplikasi MS Word akan dijalankan dan menampilkan lingkungan kerja sebagai berikut:

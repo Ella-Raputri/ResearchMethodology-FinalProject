@@ -1,0 +1,8 @@
+Klik tombol ‘New Slide’ pada tab Home 
+Klik slide yang sesuai pilihan Kita 
+Gambar tombol New Slides
+
+2. Untuk membuat slide sebagai duplikat dari slide dalam presentasi: 
+Pilih slide untuk menduplikasi 
+Klik tombol ‘New Slide’ pada tab Home > Klik ‘Duplicate Selected Slides’
+Gambar pilihan ketika mengklik new slides
