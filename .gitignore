@@ -3,8 +3,10 @@ runs
 yolo/yolo_model1
 __pycache__
 DocLayNet_core
+DocLayNet_filtered
 DocLayNet_core.zip
 finetuned_yolo_last
+finetuned_yolo_doclaynet
 labeled_data
 mt5-env
 dictionary
