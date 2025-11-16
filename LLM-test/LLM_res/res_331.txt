@@ -1,0 +1,34 @@
+26
+Rian Ariana Putra. Rancang Bangun Mesin Laser Engraving 2-D Berbasis
+
+Pengujian kinerja dengan parameter daya laser dilakukan dengan cara membuat gambar dengan hasil yang dapat dilihat pada gambar 7, dengan kecepatan gerak 1000 mm/min, jarak laser head 20 mm dan daya laser yang bervariasi dari 25 - 100 %.
+
+25% 50% 100%
+Garis yang dihasilkan Garis yang dihasilkan Garis yang dihasilkan
+stabil dan cukup baik terlalu tebal terlalu tebal
+
+Gambar 7. Hasil pengujian daya laser
+
+3.1.4 Pengujian kepresisian
+
+Pengujian kepresisian ukuran engraving dilakukan dengan cara membuat berbagai geometri dengan ukuran input tertentu dengan hasil yang dapat dilihat pada gambar 8, dengan kecepatan gerak 1000 mm/min, daya laser 25 % dan jarak laser head 20 mm.
+
+Persegi ukuran 30x30 mm Persegi ukuran 20x20 mm Persegi ukuran 10x10 mm
+
+(a) (b) (c)
+Lingkaran d= 30 mm Lingkaran d = 20 mm Lingkaran d= 10 mm
+(d) (e) (f)
+
+Gambar 8. Hasil pengujian kepresisian ukuran engraving
+
+Gambar 8.a, input persegi ukuran 30x30 cm dan hasil persegi dengan ukuran 30x30 mm,
+Gambar 8.b, input persegi ukuran 20x20 cm dan hasil persegi dengan ukuran 20x20 mm,
+Gambar 8.c, input persegi ukuran 10x10 cm dan hasil persegi dengan ukuran 10x10 mm,
+Gambar 8.d, input lingkaran diameter 30 mm dan hasil lingkaran diameter 30 mm,
+Gambar 8.e, input lingkaran diameter 20 mm dan hasil lingkaran diameter 20 mm,
+Gambar 8.f, input lingkaran diameter 10 mm dan hasil lingkaran diameter 10 mm,
+
+Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
+
+ISSN 2797-815X
+P-ISSN 2797-8745

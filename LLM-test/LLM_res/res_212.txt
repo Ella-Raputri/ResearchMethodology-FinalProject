@@ -1,0 +1,23 @@
+DAFTAR REFERENSI
+
+Abdelraheem, A. A. E., Hussaien, A. M., Mohammed, M. A. A., & Elbokhari, Y. A. E. (2021). The effect of information technology on the quality of accounting information. Accounting, 7(1), 191-196. doi: 10.5267/j.ac.2020.9.017.
+
+Afroze, D., & Aulad, A. (2020). Perception of Professional Accountants about the Application of Artificial Intelligence (AI) in the Auditing Industry of Bangladesh. Journal of Social Economics Research, 7(2), 51-61. doi: 10.18488/journal.35.2020.72.51.61.
+
+Brennan, B., Baccala, M., & Flynn, M. (2017). Artificial intelligence comes to financial statement audits. [online] CFO. Available at: http://ww2.cfo.com/auditing/2017/02/artificial-intelligence-audits/ [Accessed 15 Apr. 2017].
+
+Elliot, V. H., Paananen, M., & Staron, M. (2019). Artificial Intelligence for Decision-Makers. Journal of Emerging Technologies in Accounting, 17(1), 51-55. doi: 10.2308/jeta-52666.
+
+Moffitt, K. C., Rozario, A. M., & Vasarhelyi, M. A. (2018). Robotic process automation for auditing. J. Emerg. Technol. Account., 15(1), 1-10. doi: 10.2308/jeta-10589.
+
+Munoko, I., Brown-Liburd, H. L., & Vasarhelyi, M. (2020). The Ethical Implications of Using Artificial Intelligence in Auditing. J. Bus. Ethics, 167(2), 209-234. doi: 10.1007/s10551-019-04407-1.
+
+Omoteso, K. (2012). The application of artificial intelligence in auditing: Looking back to the future. Expert Syst. Appl., 39(9), 8490-8495. doi: 10.1016/j.eswa.2012.01.098.
+
+Raphael, J. (2015). How Artificial Intelligence can Boost Audit Quality. [online] CFO. Available at: http://ww2.cfo.com/auditing/2015/06/artificial-intelligence-can-boost-audit-quality/ [Accessed 16 Apr. 2017].
+
+Singh, S., & Sukhvinder, S. (2010). Artificial Intelligence. International Journal of Computer Applications, 6, 21-211. Available at: http://www.ijcaonline.org/volume6/number6/pxc3871413.pdf [Accessed 16 Apr. 2017].
+
+Soeprajitno, R. R. W. N. (2019). Potensi Artificial Intelligence (Ai) Menerbitkan Opini Auditor ? J. Ris. Akunt. Dan Bisnis Airlangga, 4(1), 560-573. doi: 10.31093/jraba.v4i1.142.
+
+Willington, B. (2016). Can artificial intelligence replace an auditor? Accru. [online] Accru. Available at: http://www.accru.com/2016/08/can-artificial-intelligence-replace-an-auditor/ [Accessed 16 Apr. 2017].

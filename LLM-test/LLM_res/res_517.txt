@@ -1,0 +1,14 @@
+Android dengan logo uniknya yaitu Robot Ijo sebetulnya sudah ada sejak lama, namun semenjak tahun 2009 perkembangan Android melesat dengan cepat.
+
+Mobile OS dari Google ini memberikan kebebasan yang sangat luas untuk para developer dan terintegrasi penuh dengan teknologi Google.
+
+Aplikasi-aplikasi yang tersedia untuk Android juga sudah banyak sekali sehingga pengguna Android mempunyai banyak variasi dalam menggunakan aplikasi di Android.
+
+Jelaskan Cara Kerja Sistem Operasi?
+
+Pengguna
+Aplikasi
+Sistem Operasi
+Perangkat Keras
+
+Frizka Fitriana, S.Kom, M.Kom.

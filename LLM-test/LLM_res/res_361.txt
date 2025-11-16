@@ -1,0 +1,32 @@
+Jurnal Teknologi Elektro, Universitas Mercu
+
+ISSN : 2086-9479
+
+Vol.4 No.3 September 2013
+
+103
+
+tegangan yang dihasilkan dari sumber tegangan DC. Putaran pada motor DC didapat dari dorongan medan magnet yang dihasilkan penghantar yang dialiri arus DC. Penghantar ini biasanya berupa lilitan kawat tembaga yang ditempatkan pada bagian motor yang berputar. Bagian ini dikenal dengan istilah jangkar atau armature.
+
+(a) (b)
+Gambar 2.3 (a) Bagian-bagian Motor DC. (b) Bentuk Motor DC
+
+Sensor Reed Switch
+
+Reed Switch adalah saklar listrik yang dioperasikan dengan medan magnet. Ini terdiri dari sepasang kontak pada tubuh logam besi dalam tertutup rapat kaca amplop. Kontak dapat menutup dan membuka ketika medan magnet diterapkan.
+
+Gambar 2.4 Sensor Reed Switch
+
+Tombol Push On
+
+Tombol push-on adalah tombol yang digunakan untuk mengontrol kondisi on atau off suatu rangkaian listrik. Tombol push-on memiliki tipe kontak NO (Normally Open) dengan prinsip kerja tombol tekan adalah kerja sesaat, maksudnya jika tombol kita tekan sesaat maka akan kembali pada posisi semula (hanya memicu Vcc sesaat).
+
+Gambar 2.5 Tombol push button
+
+Limit Switch
+
+Umumnya limit switch adalah sebuah saklar atau pembatas yang digunakan untuk mengetahui ada tidaknya suatu obyek di lokasi tertentu. Limit switch akan aktif jika mendapatkan sentuhan atau tekanan dari suatu benda fisik.
+
+Aplikasi Program Arduino IDE (Integrated Development Environtment).
+
+Untuk memulai program Arduino (untuk melakukan apa yang kita inginkan) kita menggunakan IDE Arduino (Integrated Development Environtment). IDE Arduino adalah

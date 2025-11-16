@@ -1,0 +1,15 @@
+Langkah-Langkah Instalasi Windows 10 Menggunakan VirtualBox
+
+1. Buka terlebih dahulu VirtualBox yang sudah terinstall. Kemudian tekan shortcut Ctrl+N untuk membuat komputer virtual.
+
+Welcome to Virtwaloxt
+
+Ratan age eee rane nan anc Se
+
+a nn
+
+g
+
+2. Di sini kita diharuskan untuk menamai komputer virtual yang akan kita buat. Dan menyesuaikan tipe juga versi file ISO yang kita miliki. Karena kita akan menginstall Windows 10, maka pada kolom tipe pilihlah Microsoft Windows. Klik Next untuk melanjutkan.
+
+Frizka Fitriana, S.Kom, M.Kom.

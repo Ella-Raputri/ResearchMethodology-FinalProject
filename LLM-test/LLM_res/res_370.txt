@@ -1,0 +1,10 @@
+Jurnal Teknologi Elektro, Universitas Mercu
+ISSN : 2086-9479
+Vol.4 No.3 September 2013
+112
+
+Pemrogramannya dengan Bahasa C pada WinAVR. Bandung : Informatika.
+
+7. Arduino. 2014. Examples. http://arduino.cc/en/Tutorial/HomePage. 5 Januari 2014.
+
+8. Oomlout. 2014. ARDX. http://www.oomlout.com/a/products/ardx/. 25 Maret 2014.

@@ -1,0 +1,32 @@
+Misalkan pengelompokan umur yang dikatakan muda, menengah, dan tua diklasifikasikan pada sebuah diagram.
+
+2.3.7 Jaringan Syaraf
+
+Jaringan saraf (neural network), kadang disebut artificial neural network (ANN) atau komputasi saraf (neural computing), adalah suatu bidang kecerdasan buatan yang meniru pola pemrosesan dalam otak manusia yang berbasiskan pada pengenalan pola.
+
+2.3.8 Algoritma Genetika
+
+Algoritma genetika adalah suatu pendekatan yang meniru kemampuan makhluk hidup dalam beradaptasi dengan lingkungan sehingga terbentuk proses evolusi untuk mengatasi masalah dengan lebih baik.
+
+2.3.9 Sistem AI Hibrida
+
+Sistem AI hibrida atau terkadang dinamakan sistem cerdas hibrida (hybrid intelligent system) yaitu sistem yang menggabungkan beberapa teknologi kecerdasan buatan untuk memanfaatkan atau memadukan keunggulan masing-masing teknologi.
+
+2.3.10 Agen Cerdas
+
+Russel dan Peter (1995: 31) mendefinisikan agen sebagai segala sesuatu yang dapat dipandang menangkap lingkungannya melalui sensor dan bertindak terhadap lingkungan melalui efektor. Sensor adalah bagian yang merangsang tindakan agen, sedangkan efektor adalah bagian yang digunakan oleh agen untuk melakukan tindakan. Jika dikaitkan dengan agen manusia, yang dimaksud dengan sensor antara lain adalah mata dan telinga, sedangkan efektor antara lain berupa tangan, lengan, dan mulut.
+
+2
+
+Found a few places within 24 miles
+
+Plan your day
+
+Check your flight status, make a dinner reservation, check when your movie starts, and find a coffee stop along
+
+Gambar 3. Contoh Penerapan Agen Cerdas pada Google Assistant
+(assistant.google.com/platforms/phones/)
+
+3. Metode Penelitian
+
+Metode penelitian yang digunakan dalam penelitian ini adalah kualitatif deskriptif. Penelitian dilakukan dengan cara mengumpulkan informasi dari berbagai sumber, kemudian menelaah layanan perpustakaan yang dapat memanfaatkan kecerdasan buatan dan dijelaskan secara deskriptif.

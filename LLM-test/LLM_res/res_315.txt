@@ -1,0 +1,40 @@
+P-ISSN : 2303-3142 E-ISSN : 2548-8570
+Vol.10 No 2 Tahun 2021
+
+Tabel 7. Roadmap Implementasi
+Komponen Tahun ke-
+SI_SIS 1
+SI_DU 1
+SI_KAS 1-2
+SI_UJI
+SI_JADWAL
+SI_ABSEN
+SI_SKL
+SI_IB
+SI_PUS
+SI_BEA
+SI_LANGGAR
+SI_AGENDA
+SI_ALUMNI
+Infrastruktur Jaringan
+Hardware dan Software
+
+Pengujian
+
+Selama proses FGD diperoleh masukan-masukan dari peserta FGD yang terdiri dari Kepala Sekolah, Wakil Kepala Sekolah Bidang Akademik, Wakil Kepala Sekolah Bidang Kesiswaan, Wakil Kepala Sekolah Bidang Humas, Wakil Kepala Sekolah Bidang Sarana dan Prasarana, Kepala Tim Pengembang Informatika dan Kepala Tata Usaha. Selama proses FGD juga dapat dilihat tingkat antusias yang tinggi terhadap pengembangan sistem informasi di lingkungan SMA Negeri 1 Singaraja.
+
+Dari pengujian ini diperoleh hasil bahwa rekomendasi peneliti diterima dengan baik oleh peserta dan diharapkan dapat direalisasikan. Sedangkan hambatan yang akan ditemui ketika mengimplementasikan sistem informasi ini adalah pada proses mengubah kebiasaan para guru, pegawai dan siswa yang telah sekian lama mengandalkan pekerjaan secara manual. Serta faktor usia pada guru dan pegawai juga akan menjadi faktor penghambat.
+
+SIMPULAN
+
+Berdasarkan hasil penelitian yang telah dijelaskan sesuai dengan tahapan-tahapan penelitian, maka dapat diambil kesimpulan sebagai berikut:
+
+1. Pengelolaan pada SMA Negeri 1 Singaraja telah berhasil dianalisis berdasarkan TOGAF ADM menggunakan teknik value chain. Berdasarkan hasil penelitian diketahui bahwa aktivitas utama pada SMA Negeri 1 Singaraja meliputi penerimaan peserta didik baru, proses akademik, ujian, dan kelulusan. Untuk aktivitas pendukung pada SMA Negeri 1 Singaraja meliputi manajemen keuangan, manajemen persuratan, manajemen perpustakaan, manajemen kesiswaan, manajemen kepegawaian, manajemen si/ti, serta manajemen sarana dan prasarana.
+
+2. Perancangan arsitektur enterprise sistem informasi di SMA Negeri 1 Singaraja dilakukan menggunakan 7 fase dari framework TOGAF ADM, yaitu fase persiapan (preliminary), visi arsitektur, arsitektur bisnis, arsitektur sistem informasi yang terdiri atas arsitektur aplikasi dan arsitektur data, arsitektur teknologi, peluang dan solusi serta rencana migrasi.
+
+3. Penelitian ini menghasilkan rekomendasi aplikasi berbasis sistem informasi yang meliputi SI Daftar Ulang, SI Jadwal Mata Pelajaran, SI Presensi Kehadiran, SI Ujian, SI Surat Keterangan Lulus, SI Keuangan dan Akuntansi Sekolah, SI Agenda Surat, SI Perpustakaan, SI Siswa, SI Penerimaan Beasiswa, SI Pelanggaran, SI Alumni, SI Guru dan Pegawai, dan SI Inventaris Barang.
+
+4. Dalam pelaksanaan Focus Grup Discussion telah dijelaskan dan dipaparkan hasil daripada penelitian ini hingga menciptakan rekomendasi kemajuan sistem teknologi informasi serta pengelolaan lembaga dengan memanfaatkan sistem informasi. Hasil dari penelitian ini mendapatkan antusias yang tinggi dari para peserta yang terdiri dari Kepala Sekolah, Wakil Kepala Sekolah Bidang Akademik, Wakil Kepala Sekolah Bidang Kesiswaan, Wakil Kepala Sekolah Bidang Humas, Wakil Kepala Sekolah Bidang Sarana dan Prasarana, Kepala Tim Pengembang Informatika dan Kepala Tata Usaha. Dari pelaksanaan FGD ini diperoleh hasil bahwa rekomendasi peneliti diterima dengan baik oleh peserta dan diharapkan dapat direalisasikan. Sedangkan hambatan yang akan ditemui ketika mengimplementasikan sistem informasi
+
+Jurnal Sains dan Teknologi | 327

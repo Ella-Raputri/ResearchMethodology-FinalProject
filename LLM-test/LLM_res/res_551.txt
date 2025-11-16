@@ -1,0 +1,26 @@
+Pada bagian Time and Currency Format, silakan pilih Indonesia.
+Pada bagian Keyboard or input method, biarkan apa adanya, tidak usah diganti.
+
+Klik Next yang ada di bawah sebelah kanan.
+
+Kemudian klik Install now untuk melanjutkan.
+
+Muncul halaman lisensi, beri tanda centang pada I accept the license terms atau klik skip.
+
+Akan muncul jendela pilihan tipe install, Upgrade atau Custom.
+
+Windows Setup
+
+Which type of installation do you want?
+
+Help me decide
+
+Atur Partisi untuk memilih penginstalan sistem sesuai dengan keinginan.
+
+a. Jika memilih Upgrade, maka Windows lama akan diganti dengan Windows baru dengan tanpa menghapus semua program aplikasi, file dokumen, data dan juga virus jika ada.
+
+b. Jika memilih Custom, dengan memformat drive C, maka semua program aplikasi, file dokumen, data dan semua yang tersimpan di Local disk (C:) termasuk virus akan musnah. Dan Windows jadi benar-benar baru belum ada tambahan aplikasi apapun.
+
+c. Jika memilih Custom tanpa melakukan format drive C, maka folder Document, Picture, Video, Music dan folder Download akan tersimpan sementara dalam folder Windows Old. Jadi nantinya di drive C, akan ada dua folder Windows, yaitu Windows Old yang tidak aktif dan Windows yang baru diinstall (aktif).
+
+Belajar Aplikasi Komputer

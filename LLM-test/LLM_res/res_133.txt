@@ -1,0 +1,13 @@
+Pencarian dan Katalog
+
+Kecerdasan buatan dapat dimanfaatkan untuk meningkatkan pencarian dan katalogisasi koleksi perpustakaan. Sistem pencarian cerdas menggunakan algoritma AI untuk menawarkan pengguna hasil pencarian yang lebih relevan, sehingga memfasilitasi pengambilan yang dipercepat dari materi yang diinginkan. Pemanfaatan kecerdasan buatan dalam bidang pencarian dan pengorganisasian membantu para pelanggan perpustakaan dalam mempercepat dan merampingkan proses pencarian materi yang mereka butuhkan. Selain itu, hal ini juga memfasilitasi perpustakaan dalam meningkatkan kendali mereka atas koleksi mereka dan memberikan pengalaman yang lebih baik bagi para pengguna.
+
+Peneliti mewawancarai pustakawan terkait sumber daya informasi dan penggunaan AI di perpustakaan, dan pustakawan dengan senang hati menjelaskan terkait kegunaan AI yang ada di perpustakaan.
+
+"Sebenarnya perpustakaan STIPRAM sendiri sudah memiliki pencarian katalog secara cepat dengan menggunakan OPAC kak," (Pustakawan, Pencarian cepat, 2023).
+
+OPAC menurut (Murrel, 2023) ialah alat pencarian untuk mencari buku, majalah dan media lainnya yang ada di perpustakaan. Secara umum, penting untuk dicatat bahwa OPAC tidak termasuk dalam payung kecerdasan buatan (AI). OPAC, sebagai sistem perangkat lunak, bertindak sebagai perantara untuk mengakses database katalog perpustakaan. Namun demikian, perpustakaan tertentu telah mengambil inisiatif untuk memasukkan teknologi kecerdasan buatan ke dalam OPAC dengan tujuan meningkatkan kemampuan pencarian dan menawarkan rekomendasi yang dipersonalisasi kepada pengguna.
+
+"Saya mulai bekerja di sini di opac itu memang langsung sudah ada rekomendasi buku untuk para pemustaka sih kak, soalnya yang mengatur itu semua teknisi sehingga dari opac-nya sudah terotomatis," (Pustakawan, Pencarian cepat, 2023).
+
+Sebagai ilustrasi, perpustakaan tertentu telah berhasil menerapkan algoritma rekomendasi berbasis AI dalam OPAC mereka, sehingga membantu pengguna dalam menemukan buku yang selaras dengan minat individu pengguna. Meskipun mungkin benar bahwa OPAC sendiri tidak termasuk dalam ranah AI, perpustakaan memiliki kemampuan untuk memanfaatkan teknologi kecerdasan buatan untuk meningkatkan layanan pencarian dan katalog mereka, yang pada akhirnya memberi pemustaka pengalaman yang lebih efisien dan relevan. Katalog akses publik online (OPAC) yang

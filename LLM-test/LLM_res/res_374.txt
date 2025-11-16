@@ -1,0 +1,52 @@
+VOL. 8 No. 4 Juni 2022
+P-ISSN : 2460-2108
+E-ISSN : 2620-5181
+
+INFOTECH: JOURNAL OF TECHNOLOGY INFORMATION
+
+DOI: https://doi.org/10.37365/jti.v8i1.127
+
+Manfaat yang dapat diperoleh dari data visualization ini, salah satu manfaat yang didapatkan yaitu mempermudah komunikasi antar pemegang kepentingan atau pengambil keputusan. Data Visualization akan memberikan data-data yang dibutuhkan dalam kepentingan bisnis yang dijalankan. Para pengambil keputusan yang bertugas di dalam perusahaan akan mudah melihat dan mengerti data-data perusahaan berdasarkan kategori-kategori yang dimilikinya.
+
+Data Visualization menyajikan data yang sudah diolah, dan bukan dalam tulisan mentah, sehingga orang awam tidak akan kesulitan untuk memahami dan mengetahui maksudnya.
+
+Metode data visualization yang baik diperlukan proses yang tepat, dan berikut adalah proses dari pemvisualisasian data. Berikut adalah proses visualisasi data (Fry, 2008):
+
+1. Acquire, pada proses ini data dikumpulkan dari berbagai sumber, baik dari internet maupun dari file penyimpanan.
+
+2. Parse, pada proses ini dilakukan pemberian struktur data dan pesan ke dalam data yang diolah.
+
+3. Filter, pada proses ini dilakukan pemilihan data dengan menghapus data yang tidak sesuai dengan tujuan awal.
+
+4. Mine, pada proses ini dilakukan analisis data mining sesuai tujuan awal. Proses ini bersifat pilihan.
+
+5. Represent, pada proses ini data dibuat ke dalam bentuk elemen visual berupa bagan, grafik, dan peta.
+
+6. Refine, pada proses ini elemen visual diberikan grafik dasar dengan berbagai visual encoding. Proses ini bersifat pilihan.
+
+7. Interact, pada proses ini grafik statis menjadi grafik dinamis. Proses ini juga bersifat pilihan.
+
+Acquire > Parse
+Filter > Mine
+Represent > Refine
+Interact
+
+Sumber : (Evaristus Didik Madyatmadja et al., 2022)
+Gambar 5. Metode Visualisasi Data
+
+Tableau
+
+Tableau adalah sistem grafis untuk melakukan eksplorasi ad-hoc dan analisis kumpulan data pelanggan. Ini adalah kelanjutan komersial proyek penelitian Polaris dan selama beberapa tahun terakhir telah menjadi komponen kuat dari tumpukan BI di banyak Organisasi (Association For Computing Machinery (ACM Digital), 2011).
+
+Tableau dapat digunakan untuk membuat peta tematik (seperti GIS), untuk memanipulasi data (seperti Excel), untuk buat plot seri waktu (seperti FRED), dan untuk membuat infografis (seperti Infografis).
+
+Namun, keunggulan komparatif Tableau adalah menggunakan beberapa kumpulan data besar untuk membuat bagan di dasbor interaktif tempat pengguna dapat menelusuri paling detail untuk mengidentifikasi pola dalam data. Tableau juga memiliki antarmuka drag-and-drop yang ramah pengguna. Untuk sarjana yang mencari pasar kerja, visualisasi data adalah keterampilan yang diminati di lapangan analitik data (Batt et al., 2020).
+
+Sumber : (Evaristus Didik Madyatmadja et al., 2022)
+Gambar 6. Panduan Worksheet Tableau
+
+HASIL DAN PEMBAHASAN
+
+Data visualisasi yang dipakai adalah data yang menggunakan Microsoft Excel. Data tersebut adalah data tentang klasifikasi kriminal yang terjadi di Indonesia di tahun 2019 berdasarkan dari data BPS. Gambar 7 menunjukkan data tentang klasifikasi kriminal di setiap provinsi di Indonesia. Data ini akan dimasukan ke Tableau yang nantinya akan diubah menjadi visualisasi data.
+
+No.105/E/KPT/2022, 7 April 2022. Diterbitkan oleh LPPM STMIK Widuri

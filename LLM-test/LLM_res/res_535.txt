@@ -1,0 +1,22 @@
+File
+Home
+Insert
+Save
+Save As
+Open
+Close
+Print
+Save & Send
+Help
+Options
+Exit
+
+Menyimpan Lembar Kerja (File)
+
+Cara melakukan penyimpanan file pada MS-Excel, langkah-langkah untuk menyimpan dan memberi nama file:
+
+1. Klik menu File, pilih Save As. Jika mouse tidak berfungsi gunakan Alt + F + A, atau jika dokumen belum pernah disimpan sebelumnya gunakan saja Ctrl + S.
+
+2. Tentukan tempat file disimpan, pilih Save in (Alt + i) dan tentukan di mana file dokumen akan disimpan.
+
+Bees Soon Ajar Aplikasi Komputer

@@ -1,0 +1,46 @@
+Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+
+“Ype Misnach
+
+Gambar 25 Type Mismatch
+
+3. Incomplete Statement
+Error Incomplete Statement akan muncul, bila perintah yang dituliskan dalam flowchart tidak lengkap. Berikut contoh kasus error incomplete statement terlihat pada gambar 26
+
+Gambar 26 Error Incomplete Statement
+
+Error incomplete statement yang terlihat pada gambar 26, karena pada shape assign tidak ada perintah yang dituliskan.
+
+I. Konversi ke Bahasa Pemrograman
+
+Flowgorithm juga menyediakan konversi ke lebih dari 20 bahasa pemrograman termasuk C#, C++, Java, JavaScript, Lua, Perl, Python, Ruby, Swift, Visual Basic.NET. Berikut contoh flowchart yang digambar menggunakan flowgorithm dan dikonversi ke Bahasa C++. Flowchart ini menginputkan sembarang bilangan dan outputnya genap atau ganjil sesuai dengan bilangan yang diinputkan.
+
+( Main )
+Integer bilangan
+
+String keterangan
+
+Input bilangan
+
+< bilanganmod2=0 >
+
+False True
+
+Keterangan = "Ganjil” keterangan = "Genap”
+
+Output keterangan
+
+( End )
+
+Gambar 27 Flowchart menentukan bilangan genap dan ganjil
+
+Hasil konversi flowchart pada gambar 27 ke bahasa C++ dapat dilihat pada gambar 28
+
+Gambar 29 Hasil konversi ke bahasa pemrograman C++
+
+IV. KESIMPULAN
+
+Dari hasil kajian Pustaka, flowgorithm sangat membantu pemula dalam belajar algoritma dan pemrograman, khususnya pada materi flowchart, kemudahan tersebut adalah sebagai berikut:
+
+63
+p-ISSN: 2337-4055 e-ISSN: 2776-9267

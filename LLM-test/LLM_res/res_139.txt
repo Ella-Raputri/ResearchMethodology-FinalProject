@@ -1,0 +1,19 @@
+memperoleh manfaat dari pencarian yang lebih cepat dan lebih relevan. Pengenalan algoritme AI telah merevolusi pengalaman pengguna, merampingkan proses pencarian sumber daya yang relevan. Peningkatan ini merupakan bukti nyata dari pengaruh konstruktif sistem AI dalam meningkatkan pemanfaatan koleksi perpustakaan secara optimal. Akibatnya, perpustakaan STIPRAM mengalami peningkatan jumlah pengguna yang mencari informasi. Melihat perkembangan ini, studi penelitian ini menganjurkan perpustakaan untuk terus meningkatkan kualitas layanan mereka dengan menerapkan AI secara etis dan menahan diri untuk tidak menggunakan teknologi tersebut secara berlebihan. Dengan memahami secara menyeluruh perjalanan ini, kami berharap artikel ini dapat menjadi sumber inspirasi dan panduan bagi perpustakaan lain yang mungkin sedang mempertimbangkan untuk menerapkan teknologi AI. Hal ini pada akhirnya akan berkontribusi dalam meningkatkan kualitas layanan mereka dan mendukung peran perpustakaan sebagai mitra intelektual dalam bidang pembelajaran dan penelitian.
+
+DAFTAR PUSTAKA
+
+Aliwijaya, A., & Suyono, H. C. (2023). Peluang Implementasi Artificial Intelligence di Perpustakaan: Kajian Literatur. Info Bibliotheca : Jurnal Perpustakaan dan Ilmu Informasi, 1-17. doi:10.24036/ib.v4i2.397
+
+Amalia, R. A. (2019, Maret 19). Pemanfaatan teknologi informasi di perpustakaan digital dalam menghadapi tantangan era revolusi industri 4.0. Diambil kembali dari Dinas Kearsipan dan Perpustakaan: https://dkpus.babelprov.go.id/content/pemanfaatan-teknologi-informasi-di-perpustakaan-digital-dalam-menghadapi-tantangan-era
+
+Aminah, S., & Roikan. (2019). Pengantar Metode Penelitian Kualitatif Ilmu Politik. Kencana.
+
+Artificial Intelegen Definitions. (2020, November 9). Diambil kembali dari HAI : https://hai.stanford.edu/sites/default/files/2020-09/AI-Definitions-HAI.pdf
+
+Basuki, S. (1991). Pengantar Ilmu Perpustakaan. Jakarta: Gramedia Pustaka Utama.
+
+Dewi, A. O. (2020). Kecerdasan Buatan sebagai Konsep Baru pada Perpustakaan. ANUVA, 4(4), 454-460. Dipetik oktober 14, 2023, dari http://ejournal.undip.ac.id/index.php/anuva
+
+Dewi, A. O. (2020). Kecerdasan Buatan sebagai Konsep Baru pada Perpustakaan. ANUVA, 4, 2598-3040. Diambil kembali dari http://ejournal.undip.ac.id/index.php/anuva
+
+Evan Devara, E. G., Rijanandi, T., Riyanto, R. B., & Adhinata, F. D. (2021). Pengembangan Teknologi Rekomendasi Kecerdasan Buatan yang Digunakan pada Perpustakaan.

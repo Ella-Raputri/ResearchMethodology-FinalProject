@@ -1,0 +1,68 @@
+JURNAL TEKNIK MESIN
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3-undip.ac.id/index.php/jtm
+
+Perbandingan Elevasi & Gerakan Motor
+
+25
+20
+15
+
+10
+
+Elevasi (deg)
+
+0 200 400 600 800 1000
+Waktu ke (sekon)
+
+Gambar 18. Perbandingan Elevasi Motor DC dengan tracking n2yo.com satelit LAPAN A2 terhadap Lab UPT Undip pada
+tanggal 16 Januari 2023 (waktu - elevasi).
+
+Dari data gambar 4.7 didapatkan perbedaan hasil dari azimuth motor DC dengan tracking yang dilakukan
+pada n2yo.com selama 810 detik berdasarkan pengamatan visual data gerakan motor didapatkan maksimal error sebesar 3
+derajat dari gerakan motor terhadap setpoint yang dituju sesuai dengan tracking website n2yo.com
+
+5. Kesimpulan
+
+Berdasarkan hasil penelitian yang telah dilakukan maka dapat diambil beberapa kesimpulan, diantaranya adalah
+sebagai berikut, telah dibuat model simulasi dari GCS (Ground Control System) terhadap objek yang dituju dengan demo kit.
+Pada penelitian ini telah dibuat instalasi demo kit dari GCS penjejak drone yang bisa bekerja dengan baik dan masih
+menggunakan open loop sistem. Dalam mentracking satelit LAPAN 2 perbandingan hasil gerakan motor DC dengan website
+n2yo.com pada hasil pengujian terdapat error maksimal pada azimuth sebesar 5 derajat dan elevasi sebesar 3 derajat.
+
+Daftar Pustaka
+
+[1] Velayudhan, S. (2017). A Low, Cost Portable Ground Station to Track and Communicate with Satellites in VHF Band.
+Rochester, NY: Rochester Institute of Technology.
+
+[2] Krisnabayu, M. Y., & Nurhadi, H. (2012). RANCANG BANGUN ROTATOR ELEVASI SATELIT NANO UNTUK
+PORTABLE GROUND STATION. TUGAS AKHIR JURUSAN TEKNIK MESIN FTIITS, 1.
+
+[3] Huang, Y. (2012). Cubesat Ground Station Implementation and Demonstration. CRANFIELD UNIVERSITY.
+
+[4] Cakaj, S. (2009). Practical Horizon Plane and Communication Duration for Low Earth Orbiting (LEO) Satellite Ground
+Stations . WSEAS TRANSACTIONS on COMMUNICATIONS, 373-383.
+
+[5] Anggara, R. S., Wijanto, H., & Dkk. (2014). Automated Ground Station with Customized Rotator for Antenna Pointing
+using Compass Sensor. JEEE International Conference on Electrical Engineering and Computer Science, 59-64.
+
+[6] Papathanassiou, A., & P.T., M. (2000). Antenna Pointing Algorithms for Non-Geostationary Satellite based UMTS
+Systems. IEEE, 849-853.
+
+[7] Didactic, F. (2011). Introduction Satellite Orbits, Coverage and Antenna Alignment. Cannada.
+
+[8] Sidharta, H. (2009). RANCANG BANGUN PERANGKAT LUNAK SISTEM AUTO TRACKING SATELLITE ANTENA
+MOBILE. DEPOK: UNIVERSITAS INDONESIA.
+
+[9] Winter, E., Dahl, J., Nordling, K., Praks, J., Kiviluoma, P., & Kuosmanen, P. (2012). DEVELOPMENT OF TRACKING
+SYSTEM FOR SATELLITE GROUND STATION. 8th International DAAAM Baltic Conference. Tallinn, Estonia:
+INDUSTRIAL ENGINEERING.
+
+[10] Cakaj, S. (2009). Rain Attenuation Impact on Performance of Satellite Ground Stations for Low Earth Orbiting (LEO)
+Satellites in Europe.
+
+[11] Nugroho, G., & Dectaviansyah, D. (31 July 2018). Design, Manufacture and performance analysis of an automatic
+antenna tracker for an unmanned aerial vehicle (UAV). MEV Journal, 32-40.
+
+JTM (S-1) — Vol. 11, No. 2, April 2023:125-138 138

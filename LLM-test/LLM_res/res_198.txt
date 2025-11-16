@@ -1,0 +1,15 @@
+Seperangkat alat yang membantu Anda bekerja dengan informasi dan melakukan tugas-tugas yang berhubungan dengan pemrosesan informasi. Menurut Oxford English Dictionary (OED), biasanya hardware, software dan jaringan dalam telekomunikasi termasuk dalam konteks bisnis atau usaha.
+
+Teknologi informasi memiliki banyak jenis, beberapa di antaranya seperti Perangkat Penyimpanan Data (Data Storage Devices). Ini termasuk hard drive, SSD (Solid State Drive), server, jaringan, internet, Perangkat Lunak Aplikasi (Application Software). Jenis di atas adalah sebagian kecil dari jenis teknologi informasi yang ada. Ada banyak lagi sesuai dengan perkembangan IT dan terus memberikan inovasi dan kemajuan dalam berbagai sektor kehidupan dan industri.
+
+C. Artificial Intelligence (AI)
+
+Artificial Intelligence (AI) masuk ke dalam jenis teknologi informasi (TI). AI adalah salah satu cabang dari TI yang mengkhususkan diri dalam pengembangan sistem dan algoritma yang memungkinkan komputer dan mesin untuk melakukan tugas yang biasanya memerlukan kecerdasan manusia. Ini termasuk kemampuan AI untuk belajar dari data, memahami bahasa alami, mengenali pola, dan mengambil keputusan.
+
+Kecerdasan Buatan (AI) merupakan sebuah studi tentang bagaimana membuat komputer melakukan hal-hal yang pada saat ini dapat dilakukan lebih baik oleh manusia (Rich and Knight, 1991).
+
+AI juga berperan penting dalam Sistem Informasi Manajemen (SIM). Sistem Informasi Manajemen (SIM) adalah suatu sistem yang dirancang untuk membantu organisasi atau perusahaan dalam mengumpulkan, mengelola, menyimpan, mengolah, dan menyediakan informasi yang relevan bagi proses pengambilan keputusan manajemen. SIM dirancang untuk membantu manajer dan pemimpin organisasi dalam mengelola sumber daya dan operasi bisnis secara lebih efisien dan efektif.
+
+Dalam era Big Data, penggunaan SIM semakin kompleks dan meluas. Kehadiran SIM AI membuat proses pengambilan keputusan semakin akurat dan cepat. SIM AI menggabungkan teknologi AI (Artificial intelligence) dengan konsep dasar SIM, sehingga dapat memproses data dalam jumlah besar dan kompleks dengan lebih efisien dan akurat. Jenis-jenis AI diantaranya:
+
+1. Berdasarkan Fungsinya:

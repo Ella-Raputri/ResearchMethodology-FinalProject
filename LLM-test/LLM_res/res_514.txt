@@ -1,0 +1,19 @@
+Disk Operating System dipakai pada media penyimpan disk, baik disket maupun harddisk.
+2. Beberapa produk DOS sampai saat ini adalah:
+DOS 1.0
+DOS 2.0
+DOS 3.0: DOS 3.1, DOS 3.2 dan DOS 3.3
+DOS 4.0
+DOS 5.0
+DOS 6.0
+
+FreeDOS
+
+FREEDOS_c9S
+is OE4F=1988
+
+Windows
+
+Windows adalah salah satu software sistem operasi yang dikeluarkan oleh perusahaan Microsoft Inc. Microsoft Windows adalah software sistem informasi yang paling populer untuk para pengguna PC. Tampilan Windows yang user friendly membuatnya menjadi pilihan utama.
+
+Belajar Aplikasi Komputer

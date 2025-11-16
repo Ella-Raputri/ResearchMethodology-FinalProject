@@ -1,0 +1,37 @@
+disarankan. Ada beberapa keterbatasan dalam studi pustaka ini. Pertama, karena keterbatasan sumber daya dan waktu, rincian penggunaan teori penalaran pembuktian dalam kedokteran berbasis bukti, seperti pedoman dan aturan untuk diagnosis dan perawatan, tidak disediakan. Keterbatasan ini dapat menjadi arah penelitian di masa depan, memperluas penelitian yang akan berkontribusi untuk meningkatkan layanan kesehatan inklusif melalui pemanfaatan kecerdasan buatan (AI).
+
+DAFTAR PUSTAKA
+
+1. Kamal SA, Shafiq M, Kakria P. Investigating acceptance of telemedicine services through an extended technology acceptance model (TAM). Technology in Society. 2020 Feb;60:101212.
+
+2. Shiferaw F, Zolfo M. The role of information communication technology (ICT) towards universal health coverage: the first steps of a telemedicine project in Ethiopia. Global health action. 2012 Dec 1;5(1):15638.
+
+3. Kidholm K, Ekeland AG, Jensen LK, Rasmussen J, Pedersen CD, Bowes A, Flottorp SA, Bech M. A model for assessment of telemedicine applications: mast. International journal of technology assessment in health care. 2012 Jan;28(1):44-51.
+
+4. Oh JY, Park YT, Jo EC, Kim SM. Current status and progress of telemedicine in Korea and other countries. Healthcare Informatics Research. 2015 Oct 31;21(4):239-43.
+
+5. Dodoo JE, Al-Samarraie H, Alzahrani AI. Telemedicine use in Sub-Saharan Africa: Barriers and policy recommendations for Covid-19 and beyond. International Journal of Medical Informatics. 2021 Jul 1;151:104467.
+
+6. AlSamarraie H, Ghazal S, Alzahrani AI, Moody L. Telemedicine in Middle Eastern countries: Progress, barriers, and policy recommendations. International journal of medical informatics. 2020 Sep 1;141:104232.
+
+7. Moreira MW. Performance Evaluation of Smart Decision Support Systems on Healthcare.
+
+8. Rundo L, Pirrone R, Vitabile S, Sala E, Gambino O. Recent advances of HCI in decision-making tasks for optimized clinical workflows and precision medicine. Journal of biomedical informatics. 2020 Aug 1;108:103479.
+
+9. Rahardja U, Hidayanto AN, Hariguna T, Aini Q. Design framework on tertiary education system in Indonesia using blockchain technology. In2019 7th International Conference on Cyber and IT Service Management (CITSM) 2019 Nov 6 (Vol. 7, pp. 1-4). IEEE.
+
+10. Chitturu S, Lin DY, Sneader K, Tonby O, Woetzel J. Artificial intelligence and Southeast Asia’s future. Singapore Summit. 2017 Sep.
+
+11. Bhattacharya S, Maddikunta PK, Pham QV, Gadekallu TR, Chowdhary CL, Alazab M, Piran MJ. Deep learning and medical image processing for coronavirus (COVID-19) pandemic: A survey. Sustainable cities and society. 2021 Feb 1;65:102589.
+
+12. Gashi M, Vukovi M, Jekic N, Thalmann S, Holzinger A, Jean-Quartier C, Jeanquartier F. State-of-the-Art Explainability Methods with Focus on Visual Analytics Showcased by Glioma Classification. BioMedinformatics. 2022 Jan 19;2(1):139-58.
+
+13. Salahuddin T, Qidwai U. Computational methods for automated analysis of corneal nerve images: Lessons learned from retinal fundus image analysis. Computers in Biology and Medicine. 2020 Apr 1;119:103666.
+
+14. Auner GW, Koya SK, Huang C, Broadbent B, Trexler M, Auner Z, Elias A, Mehne KC, Brusatori MA. Applications of Raman spectroscopy in cancer diagnosis. Cancer and Metastasis Reviews. 2018 Dec;37(4):691-717.
+
+15. Meera R, Anandhan P. A Review On Automatic Detection of Brain Tumor Using Computer Aided Diagnosis System Through MRI. EAI Endorsed Transactions on Energy Web. 2018;5(20).
+
+16. Shanthakumar P, Ganesh Kumar P. Computer aided brain tumor detection system using watershed segmentation techniques. International Journal of Imaging Systems and Technology. 2015 Dec;25(4):297-301.
+
+17. Arunkumar N, Mohammed MA, Mostafa SA, Ibrahim DA, Rodrigues JJ, de Albuquerque VH. Fully automatic model-based segmentation and classification approach for MRI brain tumor using artificial neural.

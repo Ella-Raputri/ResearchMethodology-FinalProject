@@ -1,0 +1,76 @@
+Jurnal Teknologi Elektro, Universitas Mercu
+
+ISSN : 2086-9479
+
+akan aktif (logika 1), yaitu motor
+penggerak akan berhenti (stop).
+
+Hasil Pengujian Secara
+Keseluruhan
+
+Pengujian Proses Lift Naik
+Pengujian proses naik ini adalah
+untuk mengetahui apakah kerja
+sistem lift saat naik dapat berfungsi
+dengan baik atau tidak. Pada proses
+ini diuji dengan cara mengaktifkan
+tombol-tombol yang terletak di luar
+ataupun di dalam lift.
+
+Gambar 4.1 Proses lift saat naik
+
+Berdasarkan proses lift saat naik
+seperti yang terlihat pada gambar
+4.1, maka didapatkan hasil pengujian
+pada proses lift naik ini seperti yang
+terlihat pada tabel 4.5.
+
+Tabel 4.5 Hasil Pengujian Proses
+Lift Naik
+
+| Lantai | Tombol | Ruang | Aksi |
+|---|---|---|---|
+| 1 | Naik | Luar | Proses Lift Naik ke Lantai 2 |
+| 1 | Naik | Luar | Proses Lift Naik ke Lantai 2 |
+| 1 | Naik | Luar | Proses Lift Naik ke Lantai 3 |
+| 1 | Naik | Luar | Proses Lift Naik ke Lantai 3 |
+| 1 | Naik | Dalam | Proses Lift Stop (Kinerja Pintu) |
+| 5 | 1 | Naik | Dalam | Proses Lift Stop (Kinerja Pintu) |
+| 5 | 1 | Naik | Luar | Proses Lift Naik ke Lantai 3 |
+| 5 | 1 | Naik | Luar | Proses Lift Naik ke Lantai 3 |
+
+Pada gambar 4.5 terlihat posisi lift
+sedang berada di lantai 1, dan jika
+ditekan tombol call atau tujuan
+lantai 2 (tombol luar ataupun tombol
+dalam lift) maka motor penggerak
+sangkar lift aktif sehingga lift naik
+setelah sensor lantai 2 aktif. Saat lift
+mengenai sensor di lantai 2 maka
+motor penggerak sangkar lift akan
+mati (lift berhenti) dan kemudian
+terjadi proses buka dan tutup pintu.
+Begitu juga dengan kerja tombol-
+tombol lainnya.
+
+Pengujian Sistem Buka, Tutup,
+Berhenti Pintu Lift Secara
+Otomatis
+
+Proses pengujian ini adalah
+dimana pintu lift dapat bekerja
+secara otomatis tanpa menggunakan
+tombol buka tutup (DR-OP dan DR-
+CL) pintu yang ada. Pada proses ini
+setiap lift berhenti di salah satu
+lantai, maka pintu secara otomatis
+membuka kemudian berhenti, lalu
+terdapat waktu tunggu, setelah itu
+pintu menutup kembali secara
+otomatis. Hasil pengujian proses
+stop pada tiap-tiap lantai terlihat
+pada tabel di bawah 4.6.
+
+Vol.4 No.3 September 2013
+
+109

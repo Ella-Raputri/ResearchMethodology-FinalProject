@@ -1,0 +1,64 @@
+Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+
+Microsoft Visio memudahkan orang dalam menggambar flowchart, akan tetapi apa yang telah digambarkan tidak bisa diketahui hasilnya secara langsung, hanya memudahkan dalam menggambar. Perangkat lunak yang dapat digunakan untuk menggambar flowchart sekaligus dapat dijalankan sehingga dapat diketahui apakah flowchart yang digambarkan sudah benar adalah Flowgorithm. Perangkat lunak Flowgorithm dapat di-download secara gratis pada situs Flowgorithm.org. Flowgorithm menampilkan hal-hal berikut: mudah memahami output; dapat menghasilkan kode secara interaktif; mendukung rekursi, Joop, array dan flexible expression.
+
+Ketika belajar algoritma khususnya menggambar flowchart, kesulitan yang dihadapi adalah apakah gambar flowchart yang dibuat itu sudah benar? Apakah output yang dihasilkan sudah sesuai dengan yang diharapkan? Dari permasalahan yang dihadapi tersebut maka dalam karya tulis ini diperkenalkan perangkat lunak Flowgorithm.
+
+I. METODOLOGI PENELITIAN
+
+Metode dalam penelitian ini adalah kajian pustaka serta berdasarkan penelitian terdahulu yang membahas tentang strategi dalam mempelajari algoritma.
+
+Pada buku Dasar Logika [4], definisi algoritma adalah sekumpulan langkah rinci yang ditujukan untuk komputer dalam menyelesaikan suatu masalah.
+
+Algoritma dibuat pada tahapan perancangan program. Algoritma memiliki peranan penting untuk menghubungkan antara keluaran yang dikehendaki dan masukan-masukan yang tersedia.
+
+Karakteristik algoritma pada buku The Art of Computer Programming: [5], yaitu:
+
+1. Finiteness (Keterbatasan): Algoritma harus berakhir setelah melakukan sejumlah langkah proses.
+
+2. Definiteness (Kepastian): Setiap langkah algoritma harus didefinisikan dengan tepat dan tidak menimbulkan makna ganda.
+
+3. Input (Masukan): Sebuah algoritma memiliki nol atau lebih masukan (input) yang diberikan kepada algoritma sebelum dijalankan.
+
+4. Output (Keluaran): Setiap algoritma memberikan satu atau beberapa hasil keluaran.
+
+5. Effectiveness (Efektivitas): Langkah-langkah algoritma dikerjakan dalam waktu yang “wajar”. Menurut
+
+Pada Buku Algoritma dan Pemrograman [6], sebuah algoritma dapat dibangun dari tiga buah struktur dasar, yaitu struktur runtunan (sequence), struktur pemilihan (selection) dan struktur pengulangan (repetition). Runtunan terdiri satu atau lebih instruksi yang dikerjakan secara berurutan dengan urutannya dalam algoritma. Pemilihannya itu instruksi yang dikerjakan berdasarkan kondisi tertentu atau syarat tertentu dimana suatu kondisi atau syarat tersebut dapat bernilai benar atau salah. Instruksi akan dilaksanakan manakala kondisi atau syarat bernilai benar, dan suatu instruksi tidak akan dikerjakan apabila kondisi atau syarat tidak terpenuhi. Pengulangan merupakan pengulangan sejumlah aksi yang sama sebanyak jumlah yang ditentukan atau kondisi yang diinginkan.
+
+Pada buku Fundamentals of System Analysis [7] definisi Flowchart adalah bagan yang menunjukkan alir di dalam program atau prosedur sistem secara logika. Bagan alir digunakan terutama untuk alat bantu komunikasi dan untuk dokumentasi.
+
+Menurut Jogiyanto [8] Ada lima macam bagan alir yaitu:
+
+1. Bagan alir sistem (system flowchart)
+
+2. Bagan alir dokumen (document flowchart)
+
+3. Bagan alir skematik (schematic flowchart)
+
+4. Bagan alir program (program flowchart)
+
+5. Bagan alir proses (process flowchart)
+
+Flowchart yang akan dibahas dalam penelitian ini adalah program flowchart. Bagan alir program (program flowchart) merupakan bagan yang menjelaskan secara rinci langkah-langkah dari proses program. Bagan alir program dibuat dari derivikasi bagan alir sistem. Bagan alir program dibuat dengan menggunakan simbol-simbol berikut ini:
+
+SIMBOL PROGRAM FLOWCHART
+
+| SIMBOL | KETERANGAN |
+|---|---|
+| (Simbol Input/Output) | Simbol digunakan untuk mewakili input/output data |
+| (Simbol Proses) | Simbol proses digunakan untuk mewakili suatu proses |
+| (Simbol garis alir (flow lines symbol)) | Digunakan untuk menunjukan arus dari proses |
+| (Simbol penghubung (connector symbol)) | Digunakan untuk menunjukkan sambungan dari bagan alir yang terputus di halaman yang masih sama atau di halaman yang berbeda |
+| (Simbol keputusan (decision)) | Digunakan untuk suatu penyeleksian kondisi di dalam program |
+| (Simbol Proses Terdefinisi (predefined process symbol)) | Digunakan untuk menunjukkan suatu operasi yang rinciannya ditunjukkan di tempat lain |
+| (Simbol persiapan (preparation symbol)) | Digunakan untuk memberi nilai awal suatu besaran |
+| (Simbol Titik Terminal (terminal point symbol)) | Digunakan untuk menunjukkan awal dan akhir dari suatu proses |
+
+Artikel jurnal Pembelajaran Dasar Algoritma dan Pemrograman Menggunakan El-Goritma Berbasis Web di Jurnal Teknik Mesin [9] Pengertian algoritma adalah susunan yang logis dan sistematis untuk memecahkan suatu masalah atau untuk mencapai tujuan tertentu. Dalam dunia komputer, algoritma sangat berperan penting dalam pembangunan suatu software. Dalam dunia sehari-hari, mungkin tanpa kita sadari algoritma telah masuk dalam kehidupan kita.
+
+Artikel jurnal Pengaruh Penerapan Algoritma terhadap Pembelajaran Pemrograman Komputer di jurnal Inovasi Pendidikan Matematika (INDIKTIKA) [10], disimpulkan bahwa hasil belajar mahasiswa setelah diterapkan algoritma dalam setiap penyelesaian pemrograman lebih baik.
+
+57
+
+p-ISSN: 2337-4055 e-ISSN: 2776-9267

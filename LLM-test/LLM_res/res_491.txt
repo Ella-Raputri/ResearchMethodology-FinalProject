@@ -1,0 +1,41 @@
+Keragaman Jenis Khamir Penghasil Etanol yang Diisolasi dari Makanan Fermentasi
+
+Candida glabrata Y15Kr110 (—ESS— 1.40
+
+Pichia kudriavzevii Y15Kr109 WH 0.16
+
+Candida glabrata Y15Kr108 (=== 1.00
+Saccharomyces cerevisiae Y15Kr107 NS | 3.32
+
+Pichia kudriavzevii Y15Kr106 @@B— 0.31
+Pichia kudriavzevii Y15Kr105 WBA 0.21
+
+Torulaspora delbrueckii Y15Kr101 —__.s2— 1.63
+Torulaspora delbrueckii Y15Kr103 (ss 1.29
+
+Saccharomycopsis fibuligera Y15Kr102 Ht 0.07
+Candida zeylanoides Y15Kr098 0.00
+Candida zeylanoides Y15Kr097_ 0.00
+
+Kodamaea ohmeri Y15Kr096 @@EEEE— 0.61
+
+Saccharomycopsis fibuligera Y15Kr095 ft 0.07
+
+Torulaspora globosa Y15Kr094 (UMMM 1 0.92
+Saccharomyces cerevisiae Y15Kr093 (rs 0.50
+
+0.00 1.00 1.50 2.00 2.50 3.00 3.50 4.00
+
+PERSENTASE VOLUME ETANOL (%V/V)
+
+Gambar 1. Variasi persentase volume etanol yang dihasilkan isolat khamir makanan fermentasi pada media dengan kadar glukosa 10% selama masa inkubasi 72 jam.
+
+PEMBAHASAN
+
+Isolasi dan identifikasi khamir pada makanan fermentasi menunjukkan keanekaragaman khamir yang berperan dalam proses fermentasi makanan. Sampel makanan fermentasi yang diisolasi dengan modifikasi metode dasar berpengaruh terhadap jenis khamir yang terisolasi. Seperti metode isolasi dengan pengayaan dapat membantu meningkatkan kemampuan khamir dalam mencapai tujuan yang diinginkan seperti bioetanol (Steensels et al. 2014). Khamir secara umum dapat hidup pada substrat yang memiliki kandungan C dan N tinggi atau hanya C yang lebih tinggi (Kurtzman et al. 2011). Pada sampel terasi, khamir tidak terisolasi dari dua metode isolasi yang dilakukan sedangkan sampel cincalok terisolasi 2 isolat yang teridentifikasi C. zeylanoides. Terasi adalah olahan ikan dan udang yang utamanya difermentasi oleh bakteri proteolitik halofilik pada kadar garam tinggi (Surono & Harsono 1994; Kobayashi et al. 2003). Demikian dengan jenis khamir yang terisolasi pada cincalok atau semacam olahan udang tersebut umum ditemukan pada makanan yang berisi daging (Fleet 2011). Hasil isolasi sampel pada tapai singkong dan ketan selaras dengan hasil penelitian sebelumnya oleh Saono et al. (1974); Ardhana & Fleet (1989); Kuriyama et al. (1997); dan Schwan et al. (2007).
+
+Ragi merupakan nama starter yang sering digunakan di Indonesia. Pada sampel ragi tidak dilakukan metode isolasi langsung karena sudah dilakukan pada penelitian sebelumnya. Melalui metode pengayaan diisolasi Saccharomycopsis fibuligera dan T. delbrueckii. Hasil tersebut menggambarkan jenis khamir pada starter makanan fermentasi di Indonesia relatif bervariasi saat dikomparasi dengan penelitian sebelumnya. Umumnya starter makanan fermentasi di Indonesia terdapat Saccharomycopsis fibuligera (Kuriyama et al. 1997; Aidoo et al. 2006). Saono et al. (1974) melaporkan ragi yang diperjualbelikan pada pasar tradisional di Indonesia jenis khamirnya seperti Candida guilliermondii, Candida humicola, C. japonica, C. parapsilopsis, C. pelliculosa, C. solani; Kuriyama et al. (1997) Sm. fibuligera, P. anomala; dan Barus & Steffysia (2013) P. kudriavsevii, P. Jadini, disisi lain, Limtong et al. (2005) mengungkapkan starter minuman beralkohol tradisional di Thailand “loog pang” terdapat jenis khamir yaitu Saccharomycopsis fibuligera, P. anomala, P. kudriavzevii, P. burtonii, P. fabianii, S. cerevisiae, Candida rhagii, C. glabrata, T. globosa, dan T. delbrueckii. Variasi pada komposisi jenis khamir setiap starter sangat menentukan karakteristik makanan dan minuman fermentasi.
+
+Sebagian besar khamir yang terisolasi pada makanan fermentasi melakukan aktivitas fermentasi dengan menghasilkan persentase etanol yang bervariasi. Jenis khamir yang mampu menghasilkan
+
+65

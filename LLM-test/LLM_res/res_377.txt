@@ -1,0 +1,45 @@
+INFOTECH: JOURNAL OF TECHNOLOGY INFORMATION
+
+DOI: https://doi.org/10.37365/jti.v8i1.127
+
+VOL. 8 No. 4 Juni 2022
+P-ISSN : 2460-2108
+E-ISSN : 2620-5184
+
+Tindakan kriminalitas masih banyak terjadi di Indonesia, dengan berbagai klasifikasi kriminalitas yang sudah dibuat, maka penerapan data visualization yang dibuat, pihak kepolisian dapat lebih mudah dalam memahami, meneliti dan mengambil keputusan terhadap tindakan kriminalitas di setiap daerah yang terjadi di Indonesia agar terjadinya peningkatan keamanan berdasarkan klasifikasi kriminal di setiap daerah tersebut.
+
+DAFTAR PUSTAKA
+
+Araka, E., Maina, E., Gitonga, R., & Oboko, R. (2019). A Conceptual Model for Measuring and Supporting Self-Regulated Learning using Educational Data Mining on Learning Management Systems. 2019 IST-Africa Week Conference, IST-Africa 2019, May. https://doi.org/10.23919/ISTAFRICA.2019.8764852
+
+Arif, M. (2021). Tugas dan Fungsi Kepolisian dalam Perannya sebagai Penegak Hukum Menurut Undang-Undang Nomor 2 Tahun 2002 tentang Kepolisian. Al ‘Adl: Jurnal Hukum, 13(1), 91-101. https://www.neliti.com/id/publications/146200/tugas-dan-fungsi-kepolisian-dalam-perannya-sebagai-penegak-hukum-menurut-undang
+
+Association For Cumputing Machinery (ACM Digital). (2011). An Analytic Data Engine for Visualization in Tableau. https://dl.acm.org/doi/abs/10.1145/1989323.1989449?casa_token=Icrobsprvgiaaaaa%3Aznzea-qnezofg94q-6svcqzz-pyb-sk8yysrufmdx3iypkvzldgw1rh1caxffon7hublkrazlkal
+
+Batt, S., Grealis, T., Harmon, O., & Tomolonis, P. (2020). Learning Tableau: A data visualization tool. Journal of Economic Education, 51(3-4), 317-328. https://doi.org/10.1080/00220485.2020.1804503
+
+Berengueres, J., Sandell, M., & Fenwick, A. (2546). Data Visualization and Storytelling. May.
+
+BPS-Statistics-Indonesia. (2021). Statistik-kriminal-2020. https://www.bps.go.id/publication/2020/11/17/0f2dfc46761281f68f11afb1/statistik-kriminal-2020.html
+
+BPS - Statistics Indonesia. (2021). Badan Pusat Statistik. https://www.bps.go.id/menu/1/informasi-umum.html#mastermenutab1
+
+Denandra, I. B. K. (2012). Kedudukan Dan Fungsi Kepolisian Dalam Struktur Organisasi Negara Republik Indonesia. Lex Crimen, 1(4), 41-59.
+
+DosenSosiologi.Com. (2018). Pengertian Kriminalitas. https://dosensosiologi.com/pengertian-kriminalitas
+
+Evaristus Didik Madyatmadja, Muhammad Nuha Ridho, Adhyaksa Rizky Pratama, Miftahul Fajri, L. N. (2022). Penerapan Visualisasi Data Terhadap Klasifikasi Tindak Kriminal Di Indonesia. https://doi.org/https://doi.org/10.37365/jti-v8i1.127
+
+Fry, B. (2008). Visualizing Data, O’reilly Media. CA 954752.
+
+KJRI Frankfur. (2016). Pendidikan & Budaya, Sekilas tentang Indonesia. https://www.indonesia-frankfurt.de/pendidikan-budaya/sekilas-tentang-budaya-indonesia/
+
+Tableau.com. (2017). Data Visualization Beginner’s Guide: A Definition, Examples, And Learning Resources. https://www.tableau.com/learn/articles/data-visualization
+
+Tolan, C. A., Mingkid, E., & Kalesaran, E. R. (2017). Peranan Komunikasi Dalam Membangun Citra Polisi Republik Indonesia (POLRI) Pada Masyarakat (Studi Pada Masyarakat Kelurahan Kleak, Kecamatan Malalayang, Kota Manado). E-Journal “Acta Diurna,” V1), 1-12. https://ejournal.unsrat.ac.id/index.php/actadiurnakomunikasi/article/view/15477
+
+Umar Otokiti, A. (2022). Digital Health and Healthcare Quality: A Primer on the Evolving 4th Industrial Revolution. Contemporary Topics in Patient Safety - Volume 1, October. https://doi.org/10.5772/intechopen.94054
+
+Akreditasi Peringkat 4 (Sinta 4) Berdasarkan Keputusan Dirjen Pendidikan Tinggi, Riset, dan Teknologi Kemendikbud
+
+No.105/E/KPT/2022, 7 April 2022. Diterbitkan oleh LPPM STMIK Widuri

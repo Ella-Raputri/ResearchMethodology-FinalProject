@@ -1,0 +1,21 @@
+dukungan satu sama lain untuk menyelesaikan pekerjaan bersama. Keempat, kondisi emosional, dalam hal ini lingkungan kelas harus disusun dengan teliti untuk menciptakan kenyamanan bagi peserta didik, dan metode pembelajaran yang inovatif dan menarik, sehingga dapat memperkuat keyakinan peserta didik akan kemampuan diri.
+
+Hal tersebut telah diterapkan Bapak Anton selaku guru ekonomi di SMA PUI Gegesik mengatakan, "...saya pas memberikan tugas kepada siswa, ketika siswa mengerjakan sendiri tanpa menggunakan AI saya memberikan hadiah, kemudian menjadikannya contoh yang baik yang patut ditiru..." (Hasil wawancara).
+
+Peluang Kecerdasan Buatan Dalam Kegiatan Pembelajaran Peserta Didik dan Pendidik
+Dari tantangan yang telah disebutkan di atas, para pakar menyatakan bahwa tidak terbantahkan, kecerdasan buatan telah berperan membantu pendidik dan peserta didik dalam proses pembelajaran di institusi pendidikan, baik itu secara individu maupun dalam kelompok. Berikut di bawah ini peluang yang ditawarkan kecerdasan buatan bagi peserta didik dan pendidik dalam proses belajar (Lin et al., 2021);
+a. Pembelajaran Adaptif
+
+Sistem pembelajaran adaptif memiliki kemampuan untuk merancang rencana pembelajaran yang disesuaikan dengan kebutuhan dan tingkat pemahaman individu dari peserta didik. Materi pembelajaran dan tingkat kesulitan dapat disesuaikan secara otomatis berdasarkan perkembangan belajar peserta didik. Sebagai contoh, platform pembelajaran Bahasa berbasis web interaktif seperti Duolingo menggunakan teknologi kecerdasan buatan untuk menyesuaikan konten pembelajaran dan latihan sesuai dengan kemampuan bahasa masing-masing pengguna.
+
+Hal tersebut telah diterapkan Ibu Eli selaku guru bahasa inggris di SMA PUI Gegesik mengatakan, "...sesekali saya pernah menggunakan AI dalam pembelajaran seperti Duolingo, itu bagus untuk pembelajaran siswa, karena ada tingkatan dalam pengerjaan soalnya..." (Hasil wawancara).
+
+b. Pembelajaran Berbasis Permainan
+
+Kecerdasan buatan (AI) dapat digunakan untuk menciptakan pengalaman pembelajaran berbasis permainan (Games) yang menarik dan interaktif. Dengan menganalisis tingkah laku dan perkembangan peserta didik selama mereka bermain game pembelajaran, AI dapat menyesuaikan tingkat kesulitan dan tantangan agar sesuai dengan kemampuan peserta didik. Sebagai contoh, Kahoot, sebuah platform pembelajaran interaktif berbasis permainan, menyajikan pertanyaan dan pilihan jawaban yang disesuaikan dengan kemampuan pengguna.
+
+Hal tersebut telah diterapkan Bapak Wildan selaku guru PAI di SMA PUI Gegesik mengatakan, "...waktu pembelajaran terasa bosan, atau materi sekiranya dapat dijadikan permainan, saya selalu menerapkannya saat pembelajaran, harapannya siswa tidak bosan saat belajar, dan dapat menangkap materi yang diajarkan..." (Hasil wawancara).
+
+c. Evaluasi
+
+Dengan menggunakan Algoritma Machine Learning, kecerdasan buatan (AI) dapat mengevaluasi dan memberikan umpan balik terhadap hasil pekerjaan peserta didik secara otomatis. Ini memberikan keuntungan signifikan dalam menghemat waktu pendidik, sehingga peserta didik dapat segera mengetahui hasil evaluasi mereka. Sebagai contoh,

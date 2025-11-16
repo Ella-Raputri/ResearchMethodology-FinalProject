@@ -1,0 +1,45 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : hlm. 1-12
+
+Gambar 5 Hasil analisis pengaruh ukuran mesh
+
+Berdasarkan hasil analisis, ukuran mesh yang cocok digunakan pada penelitian ini adalah ukuran mesh 27 mm.
+
+3.2. Pengaruh parameter besar sudut dilatasi pada hasil studi parametrik
+
+Pada analisis ini dicoba besar sudut dilatasi yang mendekati hasil eksperimen. Ukuran besar sudut dilatasi yang digunakan 10, 20, 30, 35, 40 dan 50° yang hasilnya dapat dilihat pada Gambar 6.
+
+Grafik dilatasi
+
+hasil eksperimen
+—10
+—20
+—30
+—35
+—40
+—50
+
+Gambar 6 Hasil analisis pengaruh sudut dilatasi
+
+Berdasarkan hasil analisis, ukuran besar sudut dilatasi yang cocok digunakan pada penelitian ini adalah ukuran 35°.
+
+3.3. Pengaruh parameter K pada hasil studi parametrik
+
+Pada analisis ini dicoba besar parameter K yang mendekati hasil eksperimen. Besar parameter K yang digunakan 0,2 , 0,3 , 0,4, 0,5 , 0,6 dan 0,7 yang hasilnya dapat dilihat pada Gambar 7.
+
+Grafik Nilai K
+
+hasil eksperimen
+—K02
+—K03
+—K04
+—K05
+—K06
+—K07
+
+Gambar 7 Hasil analisis pengaruh parameter K
+
+Berdasarkan hasil analisis, parameter K yang cocok digunakan pada penelitian ini adalah parameter K dengan nilai 0,6.
+
+3.4. Pengaruh koefisien n pada model persamaan tegangan-regangan Tarik
+
+Pada analisis ini dicoba besar koefisien n pada model persamaan tegangan-regangan tarik yang mendekati hasil eksperimen. Besar koefisien n yang digunakan 0,4, 0,5, 0,75, dan 1 yang hasilnya dapat dilihat pada Gambar 8.

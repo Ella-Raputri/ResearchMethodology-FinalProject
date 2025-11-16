@@ -1,0 +1,64 @@
+Jurnal Explore STMIK Mataram — Volume 8 No 1 Tahun 2018
+
+anggota, petugas, transaksi (simpanan, penarikan), laporan, dan menu admin.
+Berikut adalah arsitektur program yang dibuat:
+
+LOGIN
+
+BERANDA — DATA TRANSAKSI LOGOUT
+
+SIMPANAN
+
+PENARIKAN
+
+Gambar 5. Arsitektur Program
+
+4. IMPLEMENTASI SISTEM DAN HASIL
+
+A. Halaman Beranda
+
+Halaman beranda adalah halaman yang pertama muncul setelah berhasil login ke dalam sistem. Halaman ini dilengkapi dengan tulisan-tulisan yang terdiri dari tentang koperasi, sejarah koperasi, visi-misi koperasi, dan galeri. Halaman beranda memiliki menu utama yang terdiri dari data anggota, data petugas, transaksi simpanan, transaksi penarikan, dan data laporan harian maupun per periode. Jika login sebagai petugas maka tampilan halaman beranda pada menu utama bagian data petugas tidak ditampilkan, jika login sebagai admin maka menu utama bagian data petugas akan ditampilkan pada menu utama.
+
+KSP “HARAPAN BERSAMA”
+
+ISSN: 2087-894X
+
+B. Halaman Laporan
+
+Laporan sistem terdiri dari beberapa jenis laporan yang akan dicetak oleh sistem, seperti:
+- Cetak Laporan Harian Peranggota
+- Cetak Laporan Harian Keseluruhan
+- Cetak Laporan Harian
+- Cetak Laporan Perperiode
+
+KOPERASI SIMPAN PINJAM “HARAPAN BERSAMA”
+Jl. Jend. Yani No.15 - Kelurahan Sandubaya
+Kecamatan Selong Kabupaten Lombok Timur
+
+160a/BH/PAD/DKP.08,05/IV/2004
+
+Hp.08175706144 Kode Pos 83655
+
+LAPORAN TRANSAKSI PENARIKAN KOPERASI
+HARIAN 20180623
+
+No Anggota Nama Anggota No Petugas Tanggal Penarikan Jumlah Penarikan
+(Data Penarikan)
+
+LAPORAN TRANSAKSI SIMPANAN KOPERASI
+HARIAN 2018-0628
+
+No Anggota Nama Anggota No Petugas Tanggal Simpanan Jumlah Simpanan
+(Data Simpanan)
+Suma Simpanan: (jumlah)
+
+Jumlah saldo keseluruhan (simpanan-penarikan): (jumlah)
+
+Gambar 7. Halaman Laporan
+
+C. Flowchart Program
+Pada gambar 8. Berikut adalah flowchart program untuk melakukan transaksi simpanan pada KSP Harapan Bersama.
+
+Gambar 6. Halaman Beranda
+
+Gambar 8. Flowchart Transaksi

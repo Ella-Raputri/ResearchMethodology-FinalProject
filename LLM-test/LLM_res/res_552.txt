@@ -1,0 +1,11 @@
+Drive yang akan kita install yaitu drive C yang telah diberi nama Windows 10, jadi silakan klik pada Drive 0 Partition 2: Windows 10, kemudian klik Format.
+
+Jika keluar jendela notifikasi Windows setup, klik saja Yes.
+
+Tunggu beberapa saat, jika tombol Next yang ada di bawah kanan sudah aktif berarti proses format drive C telah selesai. Klik saja tombol Next tersebut.
+
+Memulai proses transfer dan instalasi secara otomatis.
+
+Setelah semua instalasi selesai maka komputer Anda akan melakukan restart otomatis. Perhatikan baik-baik, begitu komputer Anda restart, segera cabut flashdisk bootable dari USB komputer Anda, dan biarkan Windows instalasi Windows berjalan sendiri.
+
+Frizka Fitriana, S.Kom., M.Kom.

@@ -1,0 +1,19 @@
+Pendahuluan
+
+Era teknologi saat ini, perkembangan teknologi yang digunakan manusia sudah sangat modern. Hal ini dapat dirasakan dengan kegunaannya yang memberikan kemudahan dan memenuhi kebutuhan manusia. Teknologi modern yang digunakan saat ini berkembang, yaitu *artificial intelligence* (AI), robot, dan *internet of things* (IoT). Selain digunakan untuk manufaktur, otomotif, kesehatan, dan finansial, juga dalam mendukung pembelajaran.
+
+Dalam dunia pendidikan, adanya kemajuan teknologi, terutama pada kemajuan teknologi informasi dan komunikasi (TIK), dapat mendukung dalam pembelajaran, baik pembelajaran di sekolah maupun pembelajaran mandiri. TIK mendorong perubahan peradaban manusia, dari era industri menjadi era informasi. TIK yang terus berkembang seiring dengan kecerdasan dan kreativitas manusia memberikan landasan dalam pengembangan dan penerapan kecerdasan buatan.
+
+Kecerdasan buatan atau lebih dikenal dengan *artificial intelligence* (AI) adalah program komputer yang dirancang dan dibangun untuk dapat meniru kecerdasan manusia, termasuk kemampuan pengambilan keputusan, logika, dan karakteristik kecerdasan lainnya.
+
+Kecerdasan buatan (AI) ini juga merupakan cabang ilmu komputer yang berfokus kepada pengembangan sistem komputer yang mampu melakukan tugas layaknya manusia. Tujuan utama dari kecerdasan buatan adalah membuat mesin yang dapat belajar, memahami, merencanakan, dan beradaptasi sehingga dapat menyelesaikan tugas-tugas secara mandiri.
+
+Seorang ilmuwan komputer, yaitu Professor John McCarthy, diketahui sebagai tokoh yang memperkenalkan konsep kecerdasan buatan (AI) pada tahun 1956.
+
+Kecerdasan buatan mencakup berbagai teknik dan pendekatan, di antaranya: sistem pakar (*expert system*), visi komputer (*computer vision*), pembelajaran mesin (*machine learning*), pengolahan bahasa alami (*natural language processing*), dan *fuzzy logic*, serta kombinasi dari beberapa metode tersebut.
+
+Kemajuan teknologi dan algoritma yang terus berlanjut, saat ini kecerdasan buatan semakin berkembang dan memiliki aplikasi dalam berbagai sektor, di antaranya otomotif, finansial, kesehatan, juga pendidikan terutama dalam pembelajaran. Penggunaan atau pemanfaat kecerdasan buatan dalam pembelajaran mandiri pastinya perlu adanya kemandirian dari pengguna atau peserta didik itu sendiri.
+
+Kemandirian merupakan sikap sadar seseorang dalam melakukan sesuatu sesuai dengan kehendaknya sendiri dan dapat mempertanggungjawabkan perbuatan yang dilakukannya. Peserta didik dapat dikatakan memiliki kemandirian ketika mampu menyelesaikan tugas belajarnya di sekolah maupun di lingkungan luar sekolah tanpa adanya pengaruh dari orang lain.
+
+Pembelajaran mandiri adalah proses belajar peserta didik yang dilakukannya baik di dalam sekolah maupun di luar lingkungan sekolah dengan cara membaca.

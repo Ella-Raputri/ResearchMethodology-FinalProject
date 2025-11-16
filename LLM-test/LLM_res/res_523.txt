@@ -1,0 +1,28 @@
+menciptakan catatan untuk diri sendiri. Kita dapat merujuk ke catatan tersebut saat kita memberikan presentasi kita.
+
+7. Status Bar, Tabs, Buttons, Lihat, dan Lainnya
+
+Click to add title
+
+Click to add notes
+
+Status Bar
+
+Garis Besar Tab
+
+Slides Tab
+
+Lihat Buttons
+
+Zoom
+
+Vertikal & Horizontal Bar Splitter
+Minimalkan Button
+Maksimalkan / Tombol Restore
+Close Button
+
+Status bar yang umumnya muncul di bagian bawah jendela. Status bar akan menampilkan jumlah slide yang sedang ditampilkan, jumlah slide, dan nama desain template yang digunakan atau nama belakang.
+Menampilkan tab Outline teks yang terdapat dalam presentasi kita.
+Slides tab menampilkan thumbnail dari semua slide kita. Kita klik thumbnail untuk melihat slide dalam Slide pane.
+
+Frizka Fitriana, S.Kom, M.Kom.

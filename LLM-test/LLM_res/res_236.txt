@@ -1,0 +1,19 @@
+Contoh:
+Sistem Pakar: Bahan pustaka bidang apa yang Anda sukai?
+Pemakai: Teknologi informasi
+Sistem Pakar: Bahan pustaka bidang teknologi informasi apakah yang ingin Anda cari?
+Pemakai: Pemrograman
+Sistem Pakar: Bahasa pemrograman apa yang ingin Anda ketahui?
+Pemakai: Java
+Sistem Pakar: (Lalu sistem pakar ini merekomendasikan beberapa judul buku tentang pemrograman Java)
+
+f. Jaringan Saraf
+Jaringan saraf untuk pemanfaatan perpustakaan dapat digunakan sebagai penemuan pola peminjaman buku pada pemustaka.
+
+g. Agen Cerdas
+Agen cerdas dapat dimanfaatkan sebagai pemandu dalam menggunakan Online Public Access Catalog (OPAC) atau menciptakan OPAC assistant yang nantinya dapat dengan mudah melakukan pencarian mandiri tanpa bertanya kepada pustakawan dan hanya berinteraksi dengan agen OPAC tersebut.
+
+Banyak sekali contoh penerapan kecerdasan buatan dapat digunakan di perpustakaan. Sebenarnya jika memang dapat diterapkan, pasti dapat meningkatkan citra perpustakaan itu sendiri. Karena jika dilihat perpustakaan di Indonesia sekarang ini masih belum banyak yang menerapkan adanya kecerdasan buatan. Untuk menerapkan kecerdasan buatan di perpustakaan, pustakawan dapat bekerja sama dengan ahli teknologi informasi. Mereka dapat berdiskusi kecerdasan buatan apa yang cocok diterapkan di sebuah perpustakaan, atau akankah ingin dibuat berdasarkan kemauan atau kebutuhan yang dipaparkan oleh pustakawan. Perlu diingat juga bahwa untuk menerapkan suatu teknologi baru membutuhkan dana yang cukup, dan membutuhkan adaptasi dari pustakawan dan pemustaka dalam penggunaannya.
+
+5. Simpulan
+Kecerdasan buatan adalah cabang ilmu komputer yang membahas tentang penangkapan, pemodelan, dan penyimpanan kecerdasan manusia ke dalam sebuah teknologi informasi yang dapat dimanfaatkan untuk pengambilan keputusan. Kecerdasan buatan ini memiliki banyak sekali bidang, seperti pengolahan bahasa alami, visi komputer, pengenalan percakapan, robotika, sistem pakar, logika kabur, jaringan saraf, algoritma genetika, sistem AI Hibrida, dan agen cerdas. Untuk penerapan pada perpustakaan bisa memilih satu atau beberapa gabungan dari bidang-bidang tersebut. Semuanya itu disesuaikan dengan kebutuhan user yang dalam hal ini adalah pustakawan dan pemustaka. Sedangkan peran pustakawan dalam penerapan ini

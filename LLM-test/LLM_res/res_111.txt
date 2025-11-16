@@ -1,0 +1,17 @@
+Teknologi digital [1]. Era transformasi digital mengubah kondisi bisnis dan kondisi sosial sehingga mengharuskan perusahaan atau organisasi serta masyarakat dapat beradaptasi dengan perkembangan teknologi agar tetap relevan dan tidak ketinggalan.
+
+Salah satu bidang teknologi yang menjadi penyumbang utama dalam transformasi digital adalah bidang Kecerdasan Buatan (Artificial Intelligence). Kecerdasan buatan merupakan pengembangan dan integrasi dari bidang elektronika, ilmu komputer dan matematika. Secara sederhana, sistem dengan kecerdasan buatan dapat melakukan pekerjaan seperti yang dilakukan oleh manusia, seperti berpikir, mengambil keputusan, melakukan klasifikasi terhadap suatu keadaan atau mengestimasi keadaan di masa yang akan datang [2].
+
+Lebih dari 20 tahun sejak dikembangkan untuk pertama kalinya, kecerdasan buatan ini telah berevolusi dengan sangat cepat. Berbagai aspek dan sisi kehidupan sudah menjadi bagian yang tidak terpisahkan. Beberapa sisi kehidupan yang telah diisi dengan kecerdasan buatan, antara lain: industri, ekonomi, pendidikan, sosial bahkan hingga kedokteran dan kesehatan [3]. Perkiraannya, semua sisi kehidupan kemanusiaan akan menjadi bagian yang tidak terpisahkan dengan kecerdasan buatan [4].
+
+Namun, hingga saat ini, belum ada kerangka kerja mengenai kecerdasan buatan yang standar [5]. Sehingga, setiap peneliti mengembangkan kerangka kerja kecerdasan buatan masing-masing. Tulisan ini mencoba menawarkan sebuah kerangka kerja kecerdasan buatan yang berasaskan kepada Case Based Reasoning (CBR). Harapannya, dengan berlandaskan CBR pengembangan teknologi kecerdasan buatan akan lebih baik lagi.
+
+2. METODE
+
+2.1. Pengertian Kecerdasan Buatan
+
+Ensiklopedia Britannica mendefinisikan kecerdasan buatan (Artificial Intelligence/AI) sebagai cabang ilmu komputer yang dalam merepresentasikan pengetahuan lebih banyak menggunakan bentuk simbol-simbol daripada bilangan, dan memproses informasi berdasarkan metode heuristik atau berdasarkan sejumlah aturan [6] [7]. AI tidak serta merta dapat menggantikan peran manusia dalam industri, tetapi peran AI sebagai pendukung kinerja SDM, oleh karena itu perlunya pengembangan kompetensi oleh SDM yaitu kompetensi yang tidak dapat dilakukan oleh AI. Salah satunya yaitu meningkatkan soft skill SDM.
+
+Mengapa kita perlu belajar kecerdasan buatan (Artificial Intelligence/AI)? (Artificial Intelligence/AI) memiliki kemampuan untuk mempengaruhi setiap aspek kehidupan kita. Bidang (Artificial Intelligence/AI) mencoba memahami pola dan perilaku entitas. Dengan (Artificial Intelligence/AI), kami ingin membangun sistem pintar dan memahami konsep kecerdasan juga. Sistem cerdas yang kami bangun sangat berguna untuk mengetahui bagaimana sistem kecerdasan seperti otak kita membangun sistem kecerdasan lain [1][2].
+
+Untuk dapat memahami lebih lanjut mengenai kecerdasan buatan (Artificial Intelligence/AI)? (Artificial Intelligence/AI) dengan cara melihat proses informasi di dalam otak manusia. Hal ini diperlihatkan pada Gambar 1.

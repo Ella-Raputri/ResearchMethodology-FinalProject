@@ -1,0 +1,33 @@
+Jurnal Teknologi Elektro, Universitas Mercu Buana
+
+ISSN : 2086-9479
+
+bekerja dengan semestinya, maka dapat diketahui hasil kerja sistem lift 3 lantai menggunakan Mikrokontroler Arduino Atmega 328P bekerja sesuai dengan keinginan.
+
+Saran
+
+Untuk pengembangan lebih lanjut dimasa mendatang peneliti menyarankan beberapa hal, antara lain :
+
+1. Menambahkan pin out pada mikrokontroller agar perangkat-perangkat yang terpasang pada lift dapat dibuat secara real (nyata) sesuai dengan lift sesungguhnya. Karena keterbatasan pin out pada Arduino Atmega 328P, sehingga menjadikan alat ini menjadi terbatas pada perangkat-perangkatnya.
+
+2. Dengan begitu apabila terdapat banyak pin out pada mikrokontroller, maka perangkat lainnya seperti sensor pintu, buzzer, indikator lift dan lain sebagainya dapat terpasang.
+
+3. Perbaikan atau perapihan pada struktur kerangka lift dan juga sistem mekanik yang ada, sehingga menjadikan alat ini menjadi alat yang baik dan rapih.
+
+DAFTAR PUSTAKA
+
+1. Andrianto, Heri. 2008. Pemrograman Mikrokontroler AVR ATMega16 Menggunakan Bahasa C (Codevision AVR). Bandung : Informatika.
+
+2. Ardiwinoto. 2008. Mikrokontroler AVR ATMega 8/32/8535 & Pemrogramannya Dengan Bahasa C WINAVR. Bandung : Informatika.
+
+3. Budiharto, Widodo. 2005. Perancangan Sistem dan Aplikasi Mikrokontroler. Jakarta : PT. Alex Media Komputindo.
+
+4. Kadir, Abdul. 2013. Panduan Praktis Mempelajari Aplikasi Mikrokontroller dan Pemrograman Arduino. Yogyakarta : Andi.
+
+5. Lukman, Ardiansyah, Nendi. 2010. Line Follower Robot Peniup Lilin Berlengan Satu Berbasis Microcontroller ATMEGA106. Jakarta : Universitas Mercu Buana.
+
+6. Winoto, Ardi. 2008. Mikrokontroler AVR ATmega 8/16/32/8535 dan
+
+Vol.4 No.3 September 2013
+
+111

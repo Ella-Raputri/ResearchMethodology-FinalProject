@@ -1,0 +1,39 @@
+P-ISSN : 2303-3142 E-ISSN : 2548-8570
+
+Vol.10 No 2 Tahun 2021
+
+Pengembang Informatika bertujuan untuk menggali informasi mengenai kondisi terkini SI/TI di SMA Negeri 1 Singaraja. Observasi difokuskan pada dua objek pengamatan yaitu pengamatan SI/TI dan pengamatan pengguna. Pengamatan terhadap SI/TI meliputi fitur, input/output, basis sistem informasi (desktop based atau web based), topologi jaringan dan proses bisnis sistem informasi. Sedangkan pengamatan terhadap pengelola dan pengguna meliputi alur kerja penggunaan sistem, SOP dan uraian tugas.
+
+Studi Literatur
+
+Pengumpulan Data
+
+TOGAF ADM
+
+Arsitektur Bisnis
+
+Arsitektur Sistem Informasi
+
+Arsitektur Data Arsitektur Aplikasi
+
+Arsitektur Teknologi
+
+Peluang dan Solusi
+
+Gambar 1. Prosedur Penelitian
+
+Tahap ketiga merupakan tahapan yang mengacu pada TOGAF ADM dimulai dari fase persiapan. Fase ini bertujuan untuk menentukan bagaimana arsitektur enterprise akan dirancang dan diimplementasikan. Beberapa proses yang dilakukan pada fase ini meliputi analisis lingkungan bisnis menggunakan metode SWOT, serta identifikasi prinsip arsitektur.
+
+Pada fase berikutnya yaitu visi arsitektur terdapat proses identifikasi ruang lingkup dari target perancangan arsitektur enterprise sistem informasi dengan cara memetakan apa saja aktivitas utama dan aktivitas pendukung yang ada di SMA Negeri 1 Singaraja. Metode analisa yang digunakan pada fase ini adalah value chain.
+
+Selanjutnya, pada fase arsitektur bisnis dilakukan analisa terhadap proses bisnis menggunakan diagram value chain sebagai acuan. Proses bisnis yang telah dianalisa, kemudian digambarkan menggunakan model Business Process Model and Notation (BPMN) dan dipetakan ke dalam Business Process Working Sheet.
+
+Pada fase arsitektur sistem informasi terbagi menjadi dua bagian, yaitu fase arsitektur aplikasi dan fase arsitektur data. Hasil dari fase arsitektur aplikasi berupa tabel katalog aplikasi yang direkomendasikan berdasarkan kepada proses bisnis di fase sebelumnya. Sedangkan, pada arsitektur data dilakukan proses identifikasi data entity yang digunakan untuk mendukung arsitektur aplikasi. Data entity tersebut kemudian digambarkan sebagai class diagram.
+
+Fase selanjutnya yaitu fase arsitektur teknologi. Pada fase ini dilakukan beberapa langkah yaitu 1) membuat analisa kesenjangan antara kondisi teknologi saat ini, usulan solusi, serta target penyelesaiannya; 2) membuat rekomendasi topologi jaringan komputer menggunakan Computer Network Diagram; dan 3) menetapkan teknologi hardware dan software.
+
+Pada fase peluang dan solusi dilakukan analisa kesenjangan pada SI dan infrastruktur TI. Input dari fase ini adalah hasil output dari fase arsitektur sistem informasi dan arsitektur teknologi informasi.
+
+Rencana migrasi merupakan fase terakhir yang diadopsi dari TOGAF ADM. Pada fase ini dilakukan beberapa proses yaitu menyusun urutan implementasi aplikasi menggunakan metode McFarland strategic dan menggambarkan roadmap rekomendasi implementasi.
+
+Jurnal Sains dan Teknologi | 319

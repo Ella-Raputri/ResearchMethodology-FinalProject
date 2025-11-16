@@ -1,0 +1,7 @@
+Komputer generasi pertama ini sangat mahal dan besar, hingga mengisi seluruh ruangan. Dan mempunyai bobot 30 ton, panjang 30 M, dan tinggi 2,4 M.
+
+Komputer generasi pertama mengandalkan machine language, level bahasa pemrograman paling rendah yang dimengerti komputer.
+
+Komputer Generasi Kedua 1956-1963
+
+Komputer Generasi Kedua muncul setelah ditemukannya transistor, yang kemudian mulai mengganti tabung vakum dalam desain komputer.

@@ -1,0 +1,18 @@
+3. Mengatur RAM yang akan digunakan untuk komputer virtual. Klik Next untuk melanjutkan.
+
+Memory size
+Select the amount of memory (in megabytes) to be allocated to the virtual machine.
+
+4. Pada tahap ini klik Create untuk membuat harddisk virtual pada mesin virtual komputer.
+
+VM VirtualBox Manager
+
+If you need a more complex storage setup you can skip this step and make the changes later.
+The recommended size of the hard disk is 20.00 GB.
+
+Do not add a virtual hard disk
+Use an existing virtual hard disk file
+
+Create a virtual hard disk now
+
+5. Selanjutnya pilih tipe berkas untuk harddisk virtual baru, umumnya yang digunakan adalah VDI. Klik Next untuk melanjutkan.

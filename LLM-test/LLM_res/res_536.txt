@@ -1,0 +1,32 @@
+Membuat Penomoran
+
+1. Ketikkan nomor awal di cell penomoran.
+2. Ketikkan nomor berikutnya di bawahnya.
+3. Blok keduanya dan letakkan cursor di pojok kanan bawah sehingga cursor berubah seperti bentuk ketiga.
+4. Klik kiri, jangan dilepas (drag) dan tarik ke bawah dan berhenti sampai nomor yang dikehendaki dan lepas klik.
+
+Atau:
+
+Pada radio button Series in pilih Columns dan text area Stop Value dengan nilai akhir penomoran misalnya 10 (sepuluh).
+Klik OK.
+
+Series in Type
+Rows Linear
+Columns Growth
+Date
+AutoFill
+
+Step value: Stop value:
+
+Membuat Link
+
+Untuk membuat suatu link pada Excel, ikuti langkah-langkah di bawah ini:
+1. Sorot cell yang akan di-link apabila itu suatu teks, atau sisipkan shape, clipart, chart atau yang lain untuk di-link.
+2. Pilih Menu Insert, lalu klik hyperlink.
+3. Terdapat empat pilihan untuk link, yaitu:
+a. Existing File or web page: berfungsi untuk me-link-kan ke situs internet.
+b. Place in this Document: untuk me-link-kan di worksheet Excel saja (Misal di sheet 1, sheet 2 atau sheet 3, dll).
+c. Create new document: untuk me-link-kan pada lembar kerja baru.
+d. E-mail Address: untuk me-link-kan pada e-mail.
+
+Frizka Fitriana, S.Kom., M.Kom.

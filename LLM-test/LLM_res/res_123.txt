@@ -1,0 +1,30 @@
+tengkulak) (Widodo, Prihadianto & Hartanto, 2018) sehingga membuat panjangnya kondisi rantai pasok yang ada (Apriadi & Saputra, 2017). Penggunaan sistem blockchain dalam manajemen rantai pasok dan penggunaan sistem e-commerce dapat meminimumkan peran perantara. Hal ini dapat bermuara kepada peningkatan kesejahteraan petani. Konsumen juga diuntungkan dengan menurunnya harga jual komoditas pertanian (Reddy, Aravind Reddy & Sashi Rekha, 2019), (Widodo, Prihadianto & Hartanto, 2018). Adanya sistem tersebut juga akan mempermudah pemerintah untuk memantau harga komoditas pertanian tertentu yang berpengaruh terhadap inflasi.
+
+4. KESIMPULAN
+
+Integrasi blockchain dan kecerdasan buatan memiliki rasionalisasi ilmiah yang tinggi. Artinya konsep tersebut dapat diimplementasikan diberbagai bidang. Peluang penelitian dengan mengintegrasikan kedua teknologi tersebut masih terbuka lebar khususnya dibidang pertanian.
+
+Hasil kajian kritis memberikan posisi riset terkait teknologi blockchain dan kecerdasan buatan dalam bidang pertanian. Secara keseluruhan riset mengenai teknologi blockchain dalam pertanian masih didominasi dalam hal penerapannya pada bidang manajemen rantai pasok pertanian (36%). Riset mengenai blockchain dan AI dalam pertanian sebanyak 20% dengan rincian 10% berupa ulasan dan 10% berupa penerapan. Dalam hal penerapan kedua teknologi tersebut, terdapat 5% penelitian menggunakan blockchain untuk peningkatan keamanan data pada sistem cerdas (Blockchain for AI) dan terdapat 5% penelitian menggunakan AI untuk peningkatan kinerja blockchain (AI for blockchain). Penelitian mengenai penerapan blockchain dan AI dalam pertanian didominasi oleh peneliti di Asia seperti India (33%), Pakistan (33%), China (14%) dan Korea (14%).
+
+Peluang kebaruan riset pada integrasi AI dan Blockchain dibidang pertanian masih terbuka dengan luas. Berbagai macam sistem AI dapat digunakan sesuai konsep smart farming. Teknologi blockchain dapat digunakan untuk meningkatkan keamanan data dari sistem AI yang selama ini masih tersentralisasi. Saran untuk kelanjutan penelitian adalah dengan penggunaan teknologi yang tepat dan sesuai dengan kebutuhan pengguna sehingga teknologi yang dikembangkan dapat bermanfaat bagi seluruh pemangku kepentingan.
+
+UCAPAN TERIMA KASIH
+
+Ucapan terimakasih penulis sampaikan kepada Program Studi Doktoral Ilmu Komputer IPB University dan Program Studi Ilmu Komputer Universitas Pakuan.
+
+DAFTAR PUSTAKA
+
+ALAM, M.A., AHAD, A., ZAFAR, S. & TRIPATHI, G., 2020. A neoteric smart & sustainable farming environment incorporating blockchain-based artificial intelligence approach. Cryptocurrencies & Blockchain Technology Applications, p.197. https://doi.org/10.1002/9781119621201.ch11
+
+ALMEIDA, O.B.-, CARDENAS-RODRIGUEZ, M., SAMANIEGO-COBO, T., FERRUZOLA-GOMEZ, E., CABEZAS-CABEZAS, R. & BAZAN-VERA, W., 2018. Blockchain in agriculture: A systematic literature review. In: Communications in Computer & Information Science. Springer Verlag. pp.44-56. https://doi.org/10.1007/978-3-030-00940-3_4
+
+ANTONUCCI, F., FIGORILLI, S., COSTA, C., PALLOTTINO, F., RASO, L. & MENESATTI, P., 2019. A review on blockchain applications in the agri-food sector. Journal of the Science of Food & Agriculture. https://doi.org/10.1002/jsfa.9912
+
+APRIADI, D. & SAPUTRA, A.Y., 2017. E-Commerce Berbasis Marketplace Dalam Upaya Mempersingkat Distribusi Penjualan Hasil Pertanian. Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi). https://doi.org/10.29207/resti.v1i2.36
+
+ARENA, A., BIANCHINI, A., PERAZZO, P., VALLATI, C. & DINI, G. 2019. BRUSCHETTA: An IoT blockchain-based framework for certifying extra virgin olive oil supply chain. In: Proceedings - 2019 IEEE International Conference on Smart Computing, SMARTCOMP 2019. https://doi.org/10.1109/SMARTCOMP.2019.00049
+
+AWAN, S.H., AHMED, S., NAWAZ, A., MAGHDID, S.S., ZAMAN, K., KHAN, M.Y.A., NAJAM, Z. & IMRAN, S., 2020. BlockChain with IoT, an emergent routing scheme for smart agriculture. International Journal of Advanced Computer Science & Applications. https://doi.org/10.14569/IJACSA.2020.0110457
+BANNERJEE, G., SARKAR, U., DAS, S. & GHOSH, L, 2018. Artificial Intelligence in Agriculture: A Literature Survey. International Journal of Scientific Research in Computer Science Applications & Management Studies, [online] 7(3). Available at: <www.ijsrcsams.com>.
+BORAH, MD. NAIK, V.B, PATGIRI, R, BHARGAV, A., PHUKAN, B. & BASANI, S.G.M., 2020. Supply Chain Management in Agriculture Using Blockchain & IoT. https://doi.org/10.1007/978-981-13-8775-3_11
+BORDEL, B., MARTIN, DL, ALCARRIA, R. & ROBLES, T., 2019. A Blockchain-based Water Control System for the Automatic Management of Irrigation. In: 2019 IEEE International Conference on Consumer Electronics, ICCE 2019. https://doi.org/10.1109/ICCE.2019.8661940

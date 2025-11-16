@@ -1,0 +1,28 @@
+3. Transisi
+Transisi adalah efek yang berada di tempat saat Anda beralih dari satu slide ke slide berikutnya. Untuk menambahkan slide transisi:
+
+Pilih slide yang ingin Anda transisi, lalu klik tab Animations.
+
+Pilih animasi yang sesuai atau klik kotak dialog Transisi.
+
+4. Slide Animation
+Slide efek animasi standar adalah efek khusus yang dapat ditambahkan ke objek pada slide. Untuk menerapkan efek animasi:
+
+Pilih objek, klik tab Animations pada Ribbon, klik Custom Animation, klik Add Effect, lalu pilih efek yang sesuai.
+
+5. Preview Animasi
+Untuk melihat animasi pada slide: Klik tombol Preview pada tab Animation.
+
+Home Insert Design
+
+(i) q-ebaninate No Animation
+
+Preview Animations
+
+6. Membuat Link
+a. Seleksilah teks, gambar, clip art atau place holder yang akan Anda Link.
+b. Kemudian, klik Ribbon Tab Insert, lalu pilih Hyperlink.
+c. Maka, akan muncul jendela dialog seperti berikut:
+1) Existing File or Web Page: Anda me-link pada file yang telah ada sebelumnya, yang disimpan pada folder tertentu.
+
+BES Schon Ajar Aplikasi Komputer

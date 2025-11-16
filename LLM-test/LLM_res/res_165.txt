@@ -1,0 +1,9 @@
+Gambar 4. Narasumber menyampaikan materi tentang SciSpace.
+
+Implementasi sesi SciSpace ini dilakukan secara bertahap untuk memastikan pemahaman yang mendalam. Langkah awal adalah simulasi pencarian referensi (gambar 5). Peserta diajak untuk mencari artikel yang sesuai dengan topik penelitian mereka dan memasukkan hasil pencarian tersebut ke dalam naskah. Langkah berikutnya adalah pengeditan naskah, peserta diajari cara mengatur struktur tulisan mereka agar sesuai dengan standar ilmiah. Para peserta juga diberi penjelasan tentang cara menggunakan fitur kolaboratif di SciSpace, yang memungkinkan mereka bekerja dalam tim dan memberikan komentar atau revisi secara langsung dalam satu dokumen.
+
+SciSpace Literature Review
+
+Gambar 5. Pencarian referensi
+
+Setelah pengenalan dan simulasi penggunaan fitur, peserta diberikan kesempatan untuk melakukan praktik langsung. Dalam sesi ini, peserta dilatih untuk memasukkan artikel rujukan dan memasukkannya dalam SciSpace. Selanjutnya, SciSpace bekerja menganalisis data dalam bentuk deskripsi atau kualitatif meliputi latar belakang penelitian, literatur yang digunakan, metode penelitian, gap penelitian hingga kesimpulan dari setiap artikel rujukan.

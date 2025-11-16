@@ -1,0 +1,19 @@
+Menelaah dan memahami pengetahuan sesuai dengan materi yang dipelajarinya di luar pembelajaran tatap muka ataupun tutorial.
+
+Di era teknologi informasi dan komunikasi dalam pendidikan saat ini, peserta didik dapat melakukan pembelajaran secara mandiri dengan memanfaatkan aplikasi yang dibangun dengan kecerdasan buatan.
+
+II. Metode Penelitian
+
+Metode dalam penelitian ini yaitu menggunakan studi pustaka. Data yang dikumpulkan kemudian dipelajari dan dipahami, baik teori-teori dan contohnya dari sumber berbagai literatur yang berhubungan dengan penelitian terkait. Data yang digunakan dalam penelitian ini berupa buku maupun e-book, jurnal, tugas akhir serta beberapa website yang terkait dan relevan dengan penelitian yang sama.
+
+III. Hasil dan Pembahasan
+
+Tantangan terbesar dunia pendidikan pada era informasi ini adalah cara dan daya serap belajar peserta didik yang berbeda-beda pada tiap individunya. Ada peserta didik yang lebih kuat penggunaan otak kirinya dan ada peserta didik yang lain memiliki kecerdasan lebih tinggi untuk bidang-bidang yang mengandalkan otak kanannya. Ada pula orang yang harus menghadapi kendala fisik maupun mental dalam proses belajar.
+
+Dari tantangan tersebut di atas para ahli di bidang teknologi informasi dan komunikasi terutama di bidang kecerdasan buatan turut andil dalam menyelesaikannya yaitu dengan berinovasi dengan merancang dan membangun secara khusus baik berupa produk program aplikasi dan penggabungannya pada bidang robotika. Dari produk yang dihasilkan itu dapat membantu pendidik dan peserta didik dalam pembelajaran di sekolah, kampus baik individu maupun kelompok, serta dapat digunakan dalam pembelajaran mandiri tanpa tatap muka dan tutor.
+
+Dengan pembelajaran mandiri ini, diharapkan peserta didik pada khususnya dan sumber daya manusia pada umumnya dapat meningkatkan keterampilan, kemampuan dan kecerdasan untuk itu peran dan pemanfaatan teknologi kecerdasan buatan dalam pembelajaran mandiri sangat membantu.
+
+Pemanfaatan Kecerdasan Buatan dalam Pembelajaran Mandiri
+
+Adanya teknologi kecerdasan buatan beserta manfaatnya, peserta didik dapat memiliki pengalaman pembelajaran yang lebih adaptif, personal, dan berfokus pada kebutuhan individu baik untuk meningkatkan kemampuan maupun kecerdasan mereka. Berikut pemanfaatan kecerdasan buatan dalam mendukung pembelajaran mandiri:

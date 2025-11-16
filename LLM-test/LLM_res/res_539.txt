@@ -1,0 +1,33 @@
+Cara Menggunakan Tools Presentation
+
+1. Klik menu Presentation
+
+2. Tampilan awal menu Presentation. Adapun tools yang dapat digunakan adalah sebagai berikut:
+
+Keterangan:
+
+a. File, kembali ke Home tempat Anda menyimpan file.
+
+b. Undo, kembali ke pengaturan sebelumnya.
+
+c. Redo, kembali ke pengaturan sesudahnya.
+
+d. Judul, nama file.
+
+e. Bagikan, tools untuk membagikan link canva Anda ke berbagai media.
+
+f. Download, tools untuk menyimpan file.
+
+g. Membuka akses untuk publik, membuka canva Anda agar dapat dilihat publik.
+
+h. Penunjuk Slide Presentasi, menunjukkan susunan slide yang sedang dikerjakan.
+
+i. Duplikat Slide, menggandakan slide yang sama.
+
+j. Slide, slide yang dapat diedit.
+
+k. Menambahkan slide baru, untuk menambahkan slide baru sesuai dengan susunan slide yang sedang dikerjakan.
+
+l. Upload gambar/bagan/grafik, mengupload gambar/bagan/grafik dari komputer Anda.
+
+Frizka Fitriana, S.Kom., M.Kom.

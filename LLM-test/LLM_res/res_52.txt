@@ -1,0 +1,43 @@
+Tabel 2. Hasil filtering data abstrak riset
+
+1 | agile < software development
+systems system information (10, 50)
+
+Dari hal ini kita dapat mengambil simpulan kesenjangan antara kedua topik, yaitu topik skripsi dan topik publikasi.
+
+Tabel 3. Hasil kesenjangan abstrak skripsi
+
+2 | communication < realize system dan abstrak riset
+3 | health < decision performance 1 Agile
+information (10, 50) 2 Hierarchy
+4 | mapping < web software system 3 Evaluate
+information (11, 54.5455) 4 Communication
+5 | hierarchy < assessment risk process 5 Resources
+system information (11, 63.6364) 6 Resources
+6 | analysis < decisionmaking system 7 Study
+
+information (13, 69.2308)
+
+Tabel selanjutnya menjelaskan tentang kesenjangan antara topik skripsi dan topik riset yang dipublikasi. Seperti pada Tabel 3 menjelaskan tentang topik yang tidak pernah dibahas publikasi, namun diangkat pada skripsi, seperti metodologi penelitian TIK semacam Agile software development yang ternyata sudah banyak dipakai di publikasi.
+
+Pada Tabel 4 menjelaskan tentang topik yang dibahas pada skripsi, namun tidak ada pada topik publikasi, seperti Bigbluebutton tidak pernah dibahas pada publikasi.
+
+Tabel 4. Hasil kesenjangan riset dan skripsi
+
+Scaffolding
+
+Bigbluebutton
+Administrasi
+
+Fuzzy
+
+Seo
+Mysql
+Ahp
+
+ala) wl al wl) refer
+
+KESIMPULAN DAN SARAN
+Kesimpulan
+
+Dari hasil penelitian terhadap analisis kesenjangan antara topik skripsi dan topik riset yang dipublikasi menggunakan

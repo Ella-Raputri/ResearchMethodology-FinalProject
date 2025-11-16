@@ -1,0 +1,41 @@
+PELATIHAN APLIKASI KECERDASAN BUATAN DALAM PENDIDIKAN BAGI DOSEN UMMAD
+
+Husni Thamrin *
+
+Program Studi Teknik Informatika
+Fakultas Komunikasi dan Informatika
+Universitas Muhammadiyah Jakarta
+husni.thamrin@ums.ac.id
+
+Zuhdi Fatkhurrahman
+
+Program Studi Magister Informatika
+Fakultas Komunikasi dan Informatika
+Universitas Muhammadiyah Jakarta
+1208220001@student.ums.ac.id
+
+Muhammad Lutfi Arsyad
+Program Studi Magister Informatika
+Fakultas Komunikasi dan Informatika
+Universitas Muhammadiyah Surakarta
+1208220002@student.ums.ac.id
+
+Riwayat naskah:
+Naskah dikirim 29 Juni 2024
+Naskah direvisi 14 Juli 2024
+Naskah diterima 15 Juli 2024
+
+*corresponding author
+
+PENDAHULUAN
+
+ABSTRAK
+Penerapan kecerdasan buatan (artificial intelligence, AI) dalam pendidikan telah membawa perubahan signifikan dalam metode pembelajaran dan manajemen kelas. Paper ini membahas pelatihan Penerapan AI untuk Pembelajaran yang diselenggarakan untuk dosen Universitas Muhammadiyah Madiun (UMMAD) dengan tujuan meningkatkan pemahaman dan keterampilan dalam penerapan teknologi AI. Metode pelatihan mencakup kombinasi sesi teoretis dan praktis. Sesi teori berjalan dalam beberapa tahap yaitu diskusi pengenalan AI, demonstrasi tools dan teknologi AI seperti ChatGPT, Copilot, dan Gemini. Praktik penggunaan AI dalam pembuatan materi pembelajaran, asesmen hasil pembelajaran, dan penulisan artikel ilmiah. Pelatihan yang diikuti oleh 24 dosen ini memberikan pengalaman langsung dalam penerapan AI di dunia pendidikan. Hasil pelatihan menunjukkan peningkatan signifikan dalam pemahaman dan keterampilan peserta, dengan 91,67% peserta merasa puas dan berharap adanya pelatihan serupa secara rutin. Evaluasi pelatihan mencakup analisis umpan balik peserta yang menunjukkan bahwa pelatihan ini membantu dalam mempersiapkan pembelajaran, pembuatan modul ajar, dan perangkat pembelajaran lainnya. Evaluasi terhadap hasil pelatihan mengarah kepada kesimpulan bahwa pelatihan ini efektif dalam meningkatkan kompetensi dosen dalam menggunakan AI, mendorong kreativitas dalam pembelajaran, dan diharapkan dapat meningkatkan kualitas pendidikan di UMMAD melalui adopsi teknologi AI.
+
+KATA KUNCI: kecerdasan buatan, pendidikan, pembelajaran, artikel ilmiah, digital university
+
+Kecerdasan buatan (artificial intelligence, AI) telah memberikan dampak signifikan pada perkembangan berbagai sektor, termasuk bidang pendidikan, dengan mengubah metode pembelajaran dan pengelolaan kelas [1], [2]. Penerapan AI dalam pendidikan telah berkembang lebih dari 30 tahun dengan memberikan opsi adanya proses pembelajaran personal, sistem cerdas, dan mentor cerdas sehingga dapat meningkatkan pengalaman pembelajaran siswa [3], [4]. Dengan memanfaatkan teknologi AI melalui machine learning dan virtual reality, pengajar dapat menyesuaikan konten belajar dengan kebutuhan setiap siswa, memberikan umpan balik secara cepat, dan membuat proses pembelajaran menjadi dinamis, sehingga meningkatkan efektivitas proses pembelajaran [5], [6]. Selain itu, AI dapat membantu pengajar melakukan penilaian otomatis terhadap tugas esai dan mengungkap cara belajar siswa sehingga pengajar dapat menyesuaikan proses pembelajaran sesuai kondisi siswa [3], [7].
+
+Pengajar termasuk dosen di masa kini ditantang untuk menciptakan proses belajar yang interaktif dan menarik sementara mereka memiliki keterbatasan waktu dan sumber daya [8]. Metode pembelajaran tradisional sering mengarah pada proses belajar mengajar yang monoton sehingga siswa kehilangan minat dan mengalami kesulitan untuk memahami materi [9]. Selain itu, memantau dan mengevaluasi perkembangan belajar siswa, terutama di ruang kelas besar, merupakan hal sulit bagi dosen [10].
+
+Untuk mengatasi berbagai masalah di atas, diperlukan inovasi dengan menerapkan teknologi pembelajaran terkini [11]. Teknologi seperti learning management system (LMS) menjadi salah satu bentuk solusi yang memungkinkan dosen menerapkan pembelajaran blended. Strategi pembelajaran seperti itu dapat meningkatkan keterlibatan dan interaksi mahasiswa [12]. Selain LMS, kecerdasan buatan merupakan teknologi yang berpeluang besar menjadi solusi yang relevan. AI dapat membantu dosen dalam berbagai aspek pembelajaran, mulai dari menyusun rencana pembelajaran, menyusun materi hingga melakukan evaluasi. Sebagai contoh, AI dapat membantu dosen membuat konten pembelajaran yang dipersonalisasi berdasarkan kebutuhan dan gaya

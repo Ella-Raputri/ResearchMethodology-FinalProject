@@ -1,0 +1,32 @@
+Robot sebagai asisten pengajar yang diwakili oleh LenoBot dapat membantu mahasiswa. Robot sudah diset sedemikian rupa dengan menyesuaikan kebutuhan mahasiswa yang mengacu kepada lecture note sehingga kami menyebutnya LenoBot. Hal ini melengkapi penelitian sebelumnya (Murad et al., 2019).
+
+5. Instrumen IoT digunakan untuk mengumpulkan data ketika para pelajar berinteraksi dengan platform pembelajaran online (LMS) dan memasukannya ke sistem database pusat untuk dianalisis. Dalam hal ini, IoT menjadi IoE dengan E-learning dimaksudkan untuk mendukung pengumpulan data dari perangkat dan berbagi ke perangkat lain dalam penggunaan untuk aplikasi E-learning yang efektif sebagai bagian dari penerapan LMS yang smart.
+
+Internet of Everything
+
+Big Data Analisis
+
+Gambar 4. Model Pembelajaran dengan konsep IR 5.0
+
+5. Kesimpulan
+
+Kesimpulan yang dapat diambil antara lain:
+
+1. Berdasarkan hasil survei diketahui bahwa trend pembelajaran online bukan saja sebuah inovasi pembelajaran terkait teknologi namun sudah menjadi sebuah kebutuhan yang diinginkan dan didambakan banyak peserta pembelajar. Namun kebutuhan ini harus diimbangi dengan penggunaan teknologi tepat serta preferensi yang juga tepat.
+2. Terkait hal tersebut, penelitian ini merekomendasikan dan mengkombinasikan beberapa penelitian kami sebelumnya dan mengadopsi penelitian lain yang sejenis untuk menghasilkan sebuah model pembelajaran yang mendukung kinerja LMS sebagai platform media pembelajaran online.
+3. Keberhasilan berbagai penelitian sebelumnya diyakini mampu menghasilkan kombinasi terbaik bagi model pembelajaran online.
+4. Namun sayangnya dikarenakan kondisi pandemic Covid-19 penelitian ini belum tuntas dilaksanakan, keterbatasan data dari mitra idealnya dapat menyempurnakan hasil penelitian ini.
+
+Ucapan Terima Kasih
+
+Paper ini didukung sepenuhnya oleh Office of Research and Technology Transfer (RTTO) Universitas Bina Nusantara melalui grant BINUS International Research dengan Universiti Kebangsaan Malaysia (UKM) yang berjudul "New Technology in Education Towards Fourth Industrial Revolution: Case Study Indonesia & Malaysia" dengan nomor kontrak No.026 / VR.RTT / IV / 2020 and contract date: April 6, 2020.
+
+Daftar Pustaka
+
+‘Angehrn, A., Nabeth, T., Razmerita, L., Roda, C., Constance, B. De, & France, F-F., 2001. K-InCA : using artificial agents for helping people to learn new behaviours. Knowledge Creation Diffusion Utilization, 1-2.
+
+Chen, T., Barbarossa, S., Wang, X., Giannakis, G. B., & Zhang, Z. L., 2019. Learning and Management for Internet of Things: Accounting for Adaptivity and Scalability. Proceedings of the IEEE, 107(4), 18-196. https:/doi.org/10.1109/JPROC.2019.2896243
+
+Evans, D., 2011. The internet of things: How the next evolution of the internet is changing everything. Lu.
+
+Fleischmann, K., 2019. From studio practice to

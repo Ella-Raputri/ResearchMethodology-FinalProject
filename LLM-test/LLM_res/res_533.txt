@@ -1,0 +1,16 @@
+Lembar Kerja Microsoft Excel
+
+Nama File Excel
+
+Scroll Bar
+
+Lembar kerja excel yang terdiri dari baris dan kolom dapat merupakan basis data dimana baris merupakan record yang terdiri dari beberapa kolom (A s/d IV), sedangkan sel merupakan field. Lembar kerja excel mudah dioperasikan karena menu-menu (tools) tersedia dengan lengkap, kita tinggal pilih (user friendly).
+
+1. Column, merupakan kolom pada sebuah spreadsheet, dengan representasi huruf, dimulai dari A sampai dengan IV.
+2. Row, merupakan baris pada sebuah spreadsheet, dengan representasi angka, dimulai dari 1 sampai dengan 65536.
+3. Cell, merupakan bagian terkecil, sebagai tempat penulisan baik teks, angka, maupun simbol.
+4. Name Box, merupakan kotak yang menunjukkan letak cell yang sedang aktif.
+5. Formula Bar, merupakan kotak yang menggambarkan isi cell aktif, bisa isi sebenarnya maupun berupa formula (operasi dan fungsi).
+6. Sheet, bisa diartikan sama dengan page pada dokumen, namun secara default MS-Word akan menampilkan 3 (tiga) sheet.
+
+Frizka Fitriana, S.Kom, M.Kom.

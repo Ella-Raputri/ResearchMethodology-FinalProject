@@ -1,0 +1,24 @@
+No. 5 Judul: Transformasi mendalam pendidikan melalui kecerdasan buatan: dampak positif bagi siswa dalam era digital. Hasil: integrasi kecerdasan buatan (AI) dalam pendidikan membawa dampak positif yang signifikan, terutama dalam meningkatkan pengalaman belajar siswa. AI berperan penting dalam personalisasi pembelajaran dengan mengidentifikasi gaya belajar dan kebutuhan individual siswa, yang lebih adaptif dan efektif. AI meningkatkan aksesibilitas pendidikan, memungkinkan lebih banyak siswa untuk mendapatkan pendidikan yang berkualitas. AI membantu siswa meningkatkan kemampuan untuk menganalisis data pendidikan secara mendalam. AI memperluas akses pendidikan secara global. Hal ini berpotensi meningkatkan motivasi siswa dan mengurangi kesenjangan dalam pencapaian akademik. AI memiliki kemampuan untuk memproses data besar dengan cepat dan mengekstraksi pola yang kompleks, yang dapat dimanfaatkan dalam berbagai aspek pendidikan.
+
+RQ1: Apa dampak penggunaan AI dalam personalisasi pembelajaran online terhadap keterlibatan dan hasil belajar siswa?
+
+RQ2: Apa saja teknologi kecerdasan buatan (AI) yang paling umum digunakan dalam personalisasi pembelajaran online?
+
+Berdasarkan hasil analisis, dapat disimpulkan bahwa ulasan jurnal artikel dari penelitian tersebut menunjukkan bahwa penggunaan teknologi kecerdasan buatan dalam personalisasi pembelajaran online berdampak positif yang signifikan terhadap efektivitas proses pembelajaran siswa. AI dan teknologi pendidikan berperan penting dalam meningkatkan hasil belajar siswa. Serta teknologi AI yang umum digunakan adalah chatbots dan asisten virtual.
+
+No. 6 Judul: Dampak penggunaan artificial intelligence kecerdasan buatan (AI) dalam pendidikan tinggi memiliki dampak yang signifikan dan positif. AI meningkatkan efisiensi dalam pengelolaan data pendidikan, jangkauan (e-learning) yang lebih terjangkau dan berkualitas, sehingga memperluas akses pendidikan. AI membantu dalam evaluasi otomatis tugas-tugas siswa, mengurangi beban dosen akan pemberian nilai.
+
+No. 7 Judul: Peran Artificial Intelligence (AI) dalam pendidikan tinggi. Hasil: penggunaan teknologi kecerdasan buatan (AI) dalam pendidikan tinggi memiliki dampak positif, terutama dalam hal meningkatkan efektivitas pembelajaran. Integrasi AI dalam pembelajaran di perguruan tinggi mampu memberikan pengalaman yang lebih personal, adaptif, dan terfokus, yang berdampak positif pada keterlibatan dan prestasi akademik mahasiswa.
+
+Hasil: Penggunaan kecerdasan buatan (AI) dan teknologi pendidikan memiliki dampak positif yang signifikan terhadap efektivitas proses pembelajaran. AI dan teknologi pendidikan berperan penting dalam meningkatkan hasil belajar siswa, namun memerlukan perencanaan dan implementasi yang cermat untuk memaksimalkan efektivitas.
+
+Judul: Analisis Perbandingan Kecerdasan Buatan (Artificial Intelligence or AI) dan Kecerdasan Manusia Terhadap Dunia Pendidikan di Indonesia. Hasil: Integrasi AI dalam pendidikan telah mengarahkan proses pendidikan untuk lebih responsif terhadap kebutuhan individual siswa. Kolaborasi antara AI dan kecerdasan manusia di dunia pendidikan akan menciptakan sistem belajar yang lebih inklusif, adaptif, dan berdaya saing.
+
+Judul: Peran Kecerdasan Buatan dalam Menghadapi Tantangan Pendidikan Masa Depan. Hasil: kecerdasan buatan (AI) memainkan peran signifikan dalam menghadapi tantangan pendidikan masa depan. AI membantu mengakomodasi kebutuhan individual siswa melalui personalisasi pembelajaran, menyesuaikan kurikulum dan metode pembelajaran sesuai dengan kebutuhan dan kecepatan belajar masing-masing siswa.
+
+5. KESIMPULAN DAN SARAN
+5.1. Kesimpulan
+Kesimpulan dari penelitian ini menunjukkan bahwa kecerdasan buatan (AI) memainkan peran signifikan dalam meningkatkan efektivitas dan efisiensi pembelajaran daring melalui personalisasi. Penelitian ini, berdasarkan tinjauan literatur, mengungkapkan bahwa AI dapat membantu menyesuaikan materi ajar, metode pengajaran, dan kecepatan belajar sesuai kebutuhan masing-masing siswa. AI juga berpotensi meningkatkan keterlibatan siswa, memberikan umpan balik yang cepat dan tepat, serta mengurangi beban administratif bagi pendidik. Namun, untuk memastikan penerapan yang efektif dan adil, tantangan seperti masalah privasi data, bias algoritma, dan kebutuhan infrastruktur teknologi yang memadai harus diperhatikan. Secara keseluruhan, penelitian ini menegaskan bahwa teknologi AI merupakan alat yang menjanjikan dalam mendukung personalisasi pembelajaran online dan dapat berkontribusi pada peningkatan kualitas pendidikan.
+
+5.2. Saran
+Saran yang dapat disampaikan adalah memastikan adanya infrastruktur teknologi.

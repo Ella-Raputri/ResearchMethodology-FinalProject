@@ -1,0 +1,17 @@
+Memulai presentasi baru
+
+Kita bisa mulai presentasi baru yang kosong dari slide, template, atau presentasi, atau Power Point outline.
+
+1. Membuat presentasi baru yang kosong:
+
+Klik Tombol Microsoft File > Klik New > Klik Blank Presentation
+
+2. Untuk membuat presentasi baru dari template:
+
+Klik Tombol Microsoft File > Klik New > Klik Installed Templates atau Browse > Klik template yang kita pilih
+
+Penyimpanan Presentasi
+
+Bila kita menyimpan presentasi, kita memiliki dua pilihan: Simpan atau Simpan Sebagai. Untuk menyimpan dokumen: Klik Tombol Microsoft File > Klik Save
+
+BE chon Ajar Aplikasi Komputer

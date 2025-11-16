@@ -1,0 +1,25 @@
+e-ISSN : 3031-8742, dan p-ISSN : 3031-8750, Hal. 139-151
+
+Secara garis besar, pembuatan alur pada Mesin Sekrap harus memperhatikan beberapa hal sebagai berikut:
+(1) Pembuatan garis batas luar
+(2) Pengerjaan pahat
+(3) Pengerjaan pendahuluan.
+
+Alur terus luar di antaranya adalah alur “U”, alur “V”, dan alur ekor burung.
+
+Alur “U” Alur “V” Alur ekor burung
+Gambar 6 Penyekrapan alur luar
+
+Penyekrapan alur “V” dan ekor burung merupakan penyekrapan yang paling rumit karena memerlukan ketekunan dan kesabaran. Prinsip pengerjaannya merupakan gabungan dari beberapa proses penyekrapan. Berhasil atau tidaknya pembuatan alur “V” dan ekor burung tergantung dari pengaturan eretan pahat, pengasahan sudut pahat dan pemasangan pahatnya. Pada penyekrapan alur ekor burung atau alur “V” yaitu:
+
+a. Diawali dengan penyekrapan alur biasa
+
+b. Selanjutnya memasang pahat lancip
+
+c. Mengatur eretan pahat
+
+d. Mengatur posisi pahat
+
+e. Lakukan secara hati-hati dan pemakanannya harus tipis.
+
+Alur tembus dalam umumnya untuk alur pasak pada roda gigi atau puli. Untuk penyekrapan alur pasak memerlukan tangkai pemegang pahat (pemegang pahat tambahan) yang memungkinkan pahat masuk ke dalam lubang yang akan dibuat alur dalam. Penyekrapan alur pasak luar yang buntu lebih rumit karena gerakan pahatnya terbatas. Untuk itu harus dibuat pengerjaan awal pada mesin bor atau frais. Batas alur pasak harus dibuat dengan cara membuat lubang dengan end mill sesuai dengan ukuran lebar dan dalamnya alur. Agar panjang langkah terbatas, maka harus diatur terlebih dahulu sesuai dengan panjang alur. Penyekrapan dapat dilakukan bertahap apabila lebar alur melebihi lebar pahat yang digunakan.

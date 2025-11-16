@@ -1,0 +1,45 @@
+COVID-19 positif. Pada model 3D hibrid, mengurangi ambang batas dari 0,5 menjadi 0,376 meningkatkan sensitivitas kinerja model dibandingkan dengan model 3D, meskipun spesifisitasnya menurun dari 95,1% menjadi 92,8% (Harmon et al., 2020).
+
+3. METODE PENELITIAN
+
+Dimotivasi oleh tingkat kebutuhan dan hasil CT-Scan cepat yang diperoleh dari X-Ray, banyak peneliti telah mengusulkan model deep learning untuk mendeteksi kasus yang terinfeksi COVID-19 dari hasil citra X-Ray (Ouchicha et al., 2020) [6].
+
+a. Material: Dalam tinjauan literatur ini, bahan penelitian yang digunakan mencakup beberapa jurnal yang berkaitan dengan Covid-19 dan deteksi Covid-19 menggunakan Artificial Intelligence (AI), terutama dengan memanfaatkan model Convolutional Neural Network (CNN).
+
+b. Metode: Dalam penulisan artikel ini, metode yang digunakan adalah tinjauan literatur. Metode ini melibatkan pencarian literatur baik di tingkat internasional maupun nasional menggunakan mesin pencari Google Scholar dan fungsi pencarian literatur yang tersedia di Mendeley. Pencarian dilakukan dengan menggunakan kata kunci "artificial intelligence, deep learning, cnn, CT Scan, COVID-19" untuk artikel yang diterbitkan pada tahun 2020. Hasil pencarian melalui Google Scholar menghasilkan sekitar 2.220 artikel, sementara melalui Mendeley diperoleh sekitar 212 artikel. Dari jumlah tersebut, penulis memilih sekitar 20 artikel yang dianggap paling relevan dengan penelitian ini.
+
+4. HASIL DAN PEMBAHASAN
+4.1 Hasil Penelitian
+
+Input Key
+i Media
+
+Google Mendeley
+Scholar
+
+Hasil 2220 212
+
+Yang Digunakan 20
+
+Gbr 1. Kerangka Penelitian
+
+Berikut adalah sebagian penelitian yang digunakan dalam pembahasan: (Sumber: data pencarian teratas) [7]:
+
+a. Deep transfer learning - artificial intelligence accurately stages COVID-19 lung disease severity on portable chest radiographs. Penulis: Jocelyn Zhu, Beiyi Shen, Almas Abbasi, Mahsa Hoshmand-Kochi, Haifang Li, Tim Q. Duong.
+
+b. A Deep Learning System to Screen Novel Coronavirus Disease 2019 Pneumonia. Penulis: Xiaowei Xu dkk.
+
+c. Using Artificial Intelligence to Detect COVID-19 and Community-acquired Pneumonia Based on Pulmonary CT: Evaluation of the Diagnostic Accuracy. Penulis: Lin Li, BS., Lixin Qin, PhD., dkk.
+
+d. COVID-19 Pneumonia Diagnosis Using a Simple 2D Deep Learning Framework With a Single Chest CT Image: Model Development and Validation. Penulis: Hoon Kol*, MSc; Heewon Chungl*, MSc; dkk.
+
+e. Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets. Penulis: Stephanie A. Harmon, Thomas H. Sanford., dkk.
+
+4.2 Pembahasan
+
+Dari hasil penelitian yang dilakukan oleh sejumlah peneliti sebelumnya, terlihat adanya variasi dalam pola pengujian, jumlah data latih, data uji, dan model korelasi yang digunakan. Meskipun demikian, kesimpulan yang dapat ditarik dari seluruh penelitian tersebut adalah bahwa Artificial Intelligence dapat digunakan untuk menganalisis dan mendeteksi hasil CT Scan paru-paru orang yang terinfeksi COVID-19 dengan cepat dan tingkat akurasi yang baik, dengan rata-rata akurasi di atas 80% [8].
+
+Untuk penelitian yang akan dijelaskan dalam tulisan selanjutnya, penulis akan mencoba untuk mengkaji dan menerapkan metode-metode tersebut serta mengimplementasikannya dalam sebuah sistem yang menggunakan bahasa pemrograman Python [9].
+
+5. KESIMPULAN
+Kesimpulan yang dapat ditarik dari pengumpulan dan pembahasan beberapa penelitian

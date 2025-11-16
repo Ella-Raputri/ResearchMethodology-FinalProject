@@ -1,0 +1,16 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : hlm. 1-12
+
+Gambar 3 Detail variasi 7 lapisan wiremesh Gambar 4 detail variasi 9 lapisan wiremesh
+Lapisan wiremesh
+Gambar 3 detail variasi 11 lapisan wiremesh
+
+Tabel 1 Kode Sampel
+
+NO Jenis Variasi Kode Sampel
+
+1 ferogeopolymer dengan variasi 3 lapisan wiremesh HE-VWL3
+2 ferogeopolymer dengan variasi 5 lapisan wiremesh HE-VWL5
+3 ferogeopolymer dengan variasi 7 lapisan wiremesh HE-VWL7
+4 ferogeopolymer dengan variasi 11 lapisan wiremesh HE-VWL11
+5 Hasil perhitungan secara numerik balok ferogeopolymer dengan variasi 3 lapisan wiremesh HN-VWL3
+6 Hasil perhitungan secara numerik balok ferogeopolymer dengan variasi 5 lapisan wiremesh HN-VWL5

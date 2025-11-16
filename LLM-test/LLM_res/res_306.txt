@@ -1,0 +1,26 @@
+P-ISSN : 2303-3142 E-ISSN : 2548-8570
+Vol.10 No 2 Tahun 2021
+
+sistematis dalam mengelola aset sistem informasi serta mengarahkan kebutuhan strategi bisnis. Arsitektur enterprise juga dapat membantu dalam mendukung pengambilan keputusan yang strategis dan membantu mengelola perubahan, menelusuri dampak perubahan organisasi dan bisnis terhadap sistem.
+
+Mengembangkan dan memelihara arsitektur enterpirse merupakan suatu proses yang kompleks secara teknis serta melibatkan banyak stakeholders dan melalui proses pengambilan keputusan dalam organisasi. Proses yang kompleks ini mengharuskan adanya pengelolaan berdasarkan suatu petunjuk yang jelas. Dalam merancang arsitektur sistem dibutuhkan sebuah framework. Framework diperlukan untuk mengatur inovasi-inovasi dalam enterprise dan dapat digunakan untuk mengembangkan arsitektur dengan mudah (Setiawan 2016).
+
+Untuk studi kasus enterprise dimana masih belum terdapat arsitektur enterprise dan keperluan untuk pengembangan arsitektur enterprise yang mudah dan jelas maka arsitektur enterprise framework yang cocok adalah TOGAF (Setiawan 2009).
+
+TOGAF atau The Open Group Architecture Framework merupakan sebuah framework untuk mengembangkan arsitektur enterprise. TOGAF memiliki metode dan tools yang detail untuk membangun, mengelola, dan mengimplementasikan serta melakukan pemeliharaan arsitektur enterprise yang disebut Architecture Development Method (ADM). TOGAF ADM sudah mencakup proses untuk membangun kerangka kerja arsitektur, proses mengembangkan isi dari arsitektur, proses transisi, hingga proses mengelola realisasi dari arsitektur (The Open Group 2020).
+
+Adapun karakteristik dan kelebihan yang dimiliki oleh TOGAF ADM yaitu : (1) Termasuk dalam kerangka kerja perancangan arsitektur yang paling sering digunakan, (2) kerangka kerja yang bersifat standar terbuka yang berarti dapat digunakan oleh umum tanpa campur tangan dari pihak lain terkait ijin serta penggunaannya, (3) dapat diterima oleh masyarakat luas, pendekatan dari TOGAF menjangkau banyak aspek yang dibutuhkan untuk menunjang perancangan sebuah sistem, (4) bersifat open source sehingga dapat dikembangkan sesuai kebutuhan dan kondisi di tempat perancangan sistem tanpa terikat dengan vendor tertentu, (5) bisa diintergerasikan di dalam sistem yang berbeda-beda dan (6) terfokus terhadap siklus implementasi (ADM) dan proses (Sucahyana 2019).
+
+TOGAF ADM terdiri dari beberapa tahapan yang dibutuhkan dalam membangun arsitektur enterprise, yaitu : 1) Preliminary Phase, 2) Phase A: Architecture Vision, 3) Phase B: Business Architecture, 4) Phase C: Information System Architecture, 5) Phase D: Technology Architecture, 6) Phase E: Opportunities and Solution, 7) Phase F: Migration Planning, 8) Phase G: Implementation Governance, 9) Phase H: Architecture Change Management, 10) Requirements Management.
+
+Penelitian ini bertujuan untuk mendefinisikan TOGAF ADM sebagai model arsitektur enterprise sistem informasi guna mendukung aktivitas bisnis di SMA Negeri 1 Singaraja sekaligus menguji efektivitasnya.
+
+METODE
+
+Jenis penelitian ini bersifat kualitatif dan kerangka penelitian mengacu pada struktur dasar framework TOGAF ADM (Gambar 1).
+
+Tahap pertama adalah studi literatur, dimana dilakukan dengan cara mengumpulkan data serta informasi yang berkaitan dengan teori, metode, dan konsep yang relevan dengan permasalahan. Studi literatur menggunakan berbagi sumber sebagai acuan, diantaranya adalah jurnal penelitian, buku, media online maupun sumber-sumber lainnya yang berkaitan dengan penelitian ini. Hasil dari studi literatur ini adalah digunakannya TOGAF ADM sebagai framework dalam perancangan arsitektur enterprise sistem informasi di SMA Negeri 1 Singaraja.
+
+Tahap kedua adalah pengumpulan data yang bertujuan untuk mendapatkan data yang dibutuhkan guna mencapai tujuan penelitian. Adapun metode pengumpulan data yang digunakan adalah metode wawancara dan observasi. Wawancara dengan Kepala Sekolah dan Kepala Tim
+
+Jurnal Sains dan Teknologi | 318

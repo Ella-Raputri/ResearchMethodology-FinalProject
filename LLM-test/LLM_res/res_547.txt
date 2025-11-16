@@ -1,0 +1,5 @@
+Bahan Ajar Aplikasi Komputer
+
+17. Windows setup akan memulai penginstalan Windows. Cukup tunggu sampai proses selesai. Setelahnya, Windows akan reboot.
+
+18. Tahap selanjutnya adalah Windows akan mulai merestart.

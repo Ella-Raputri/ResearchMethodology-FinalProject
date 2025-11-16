@@ -1,0 +1,29 @@
+Heikkila, T., & Gerlak, A. K. (2013). Building a Conceptual Approach to Collective Learning: Lessons for Public Policy Scholars. Policy Studies Journal, 41(3), 484-512. https://doi.org/10.1111/psj.12026
+
+Hoole, F. W. (1984). The Foundations of Policy Analysis. By Garry D. Brewer and Peter deLeon. (Homewood, IIL: Dorsey Press, 1983. Pp. xvi + 476. $24.00.) - The Logic of Policy Inquiry. By David C. Paris and James F. Reynolds. (New York: Longman, 1983. Pp. xii + 276. $25.00, cloth; $12.95, paper.). American Political Science Review, 78(1), 292-293. https://doi.org/DOI: 10.2307/1961359
+
+Ingraham, P. W., & Rosenbloom, D. H. (1989). The new public personnel and the new public service. International Journal of Public Administration, 21, 995-1025. https://api.semanticscholar.org/CorpusID:153460570
+
+Kaplan, A., & Haenlein, M. (2020). Rulers of the world, unite! The challenges and opportunities of artificial intelligence. Business Horizons, 63(1), 37-50. https://doi.org/10.1016/j.bushor.2019.09.003
+
+Khalkar, R. G., Dikhit, A. S., & Goel, A. (2021). Handwritten Text Recognition using Deep Learning (CNN & RNN). IARJSET, 8(6), 870-881. https://doi.org/10.17148/IARJSET.2021.86148
+
+Kotsiantis, S. B., Zaharakis, I. D., & Pintelas, P. E. (2006). Machine learning: a review of classification and combining techniques. Artificial Intelligence Review, 26(3), 159-190. https://doi.org/10.1007/s10462-007-9052-3
+
+Lazer, D. M. J., Pentland, A., Watts, D. J., Aral, S., Athey, S., Contractor, N., Freelon, D., Gonzalez-Bailon, S., King, G., Margetts, H., Nelson, A., Salganik, M. J., Strohmaier, M., Vespignani, A., & Wagner, C. (2020). Computational social science: Obstacles and opportunities. Science, 369(6507), 1060-1062. https://doi.org/10.1126/science.aaz8170
+
+Lehrke, J. P. (2014). Public Administration and the Modern State: Assessing Trends and Impact. https://api.semanticscholar.org/CorpusID:203279688
+
+PwC (2017) Sizing the prize What's the real value of AI for your business and how can you capitalize? Available at: https://www.pwc.com/gx/en/news-room/docs/report-pwc-ai-analysis-sizing-the-prize.pdf
+
+Rahwan, I. (2018). Society-in-the-loop: programming the algorithmic social contract. Ethics and Information Technology, 20(1), 5-14. https://doi.org/10.1007/s10676-017-9430-8
+
+Republik Indonesia. 2009. Undang-Undang Republik Indonesia No. 25 Tahun 2009, pasal 25 (1) tentang Pelayanan Publik. Djambatan IKAPI. Jakarta.
+
+Rogers, Y., Sharp, H., & Preece, J. (2018). Interaction Design: Beyond Human-Computer Interaction. https://api.semanticscholar.org/CorpusID:61037268
+
+Rowe, G., & Frewer, L. J. (2000). Public Participation Methods: A Framework for Evaluation. Science, Technology, & Human Values, 25(1), 3-29. http://www.jstor.org/stable/690198
+
+Sah Kha Mei Zsazsa, C., & Sitepu, E. (2023). Implementasi Artificial Intelligence pada Pelayanan Publik. All Fields of Science J-LAS, 3(3). https://j-las.lemkomindo.org/index.php/AFoSJ-LAS/index
+
+Salvatore Rocco. (2022). Implementing and Managing Algorithmic Decision-Making in the Public Sector.

@@ -1,0 +1,19 @@
+Penggunaan teknologi, khususnya AI, telah membawa dampak transformatif dalam pengambilan keputusan publik. Hal ini dapat membantu pemerintah dan badan publik untuk mengelola berbagai aspek kehidupan masyarakat dengan lebih efisien, mengoptimalkan proses pelayanan publik, dan mendorong inovasi baru. Dalam hal ini, AI membantu menciptakan layanan yang lebih baik dan meningkatkan kualitas pengambilan keputusan serta mengurangi biaya pengambilan keputusan publik.
+
+Meski demikian, penggunaan AI oleh pemerintah tidak terlepas dari tantangan, terutama terkait dengan etika. Para kritikus menyoroti masalah privasi, keadilan, dan bias yang mungkin timbul sebagai hasil dari penggunaan AI. Oleh karena itu, penting untuk memeriksa secara menyeluruh hasil yang dihasilkan oleh AI agar tidak disalahartikan atau memunculkan bias yang tidak diinginkan.
+
+Penggunaan AI dalam pengambilan keputusan publik memiliki potensi untuk meningkatkan efisiensi dan kinerja dalam sektor publik. Maka penulis memberikan saran bahwa, menggunakan AI untuk mengotomatisasi tugas rutin, mengelola data, dan membantu pembuat kebijakan memahami persepsi publik dan mengatasi potensi risiko terkait penerimaan dan kepercayaan publik. Ini dapat membantu pemerintah dan badan publik membuat kebijakan yang lebih baik. Melakukan evaluasi terus-menerus terhadap dampak dan konsekuensi kebijakan yang didasarkan pada kecerdasan buatan, serta pengawasan dan penegakan hukum untuk mendeteksi kegiatan yang mencurigakan atau melanggar hukum. Hal ini dapat membantu pemerintah mengelola model kecerdasan buatan dengan baik dan memastikan bahwa penggunaan kecerdasan buatan dalam pengambilan keputusan publik tidak disalahtafsirkan.
+
+Kesimpulannya, penggunaan teknologi, khususnya AI, telah membawa dampak transformatif dalam pengambilan keputusan publik.
+
+Daftar Pustaka
+
+Alexopoulos, C., Lachana, Z., Androutsopoulou, A., Diamantopoulou, V., Charalabidis, Y., & Loutsaris, M. A. (2019). How Machine Learning is Changing e-Government. Proceedings of the 12th International Conference on Theory and Practice of Electronic Governance, 354-363. https://doi.org/10.1145/3326365.3326412
+
+Aslam, F. (2023). The Impact of Artificial Intelligence on Chatbot Technology: A Study on the Current Advancements and Leading Innovations. European Journal of Technology, 7(3), 62-72. https://doi.org/10.47672/ejt.1561
+
+Babu, S., & Kanaga, R. (2022). Leveraging Artificial Intelligence for Public Sector Service Delivery: A Review. International Journal of Information Management, 67, 102504.
+
+Bory, P., Natale, S., & Trudel, D. (2021). Artificial Intelligence. In Digital Roots (pp. 95-114). De Gruyter. https://doi.org/10.1515/9783110740202-006
+
+Bostrom, Nick. (2014). Superintelligence: Paths, Dangers, Strategies. Oxford University Press.

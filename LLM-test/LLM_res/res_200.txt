@@ -1,0 +1,19 @@
+produktivitas, mengurangi biaya, dan memberikan keunggulan kompetitif dalam lingkungan bisnis yang semakin kompleks.
+
+METODE PENELITIAN
+
+Metode penelitian yang peneliti gunakan adalah Metode penelitian studi literatur, yaitu pendekatan yang digunakan untuk mengumpulkan, menganalisis, dan menyusun informasi yang telah dipublikasikan dalam literatur ilmiah, seperti buku, artikel jurnal, tesis, dan sumber-sumber tertulis lainnya. Metode ini digunakan untuk menyelidiki topik atau pertanyaan penelitian dengan merinci apa yang telah ditulis dan dikemukakan oleh peneliti sebelumnya tentang topik yang sama atau terkait.
+
+HASIL DAN PEMBAHASAN
+
+Usaha Mikro, Kecil, dan Menengah (UMKM) memiliki peran penting dalam perekonomian nasional di banyak negara, termasuk Indonesia. UMKM memiliki potensi besar untuk menggerakkan ekonomi lokal dan nasional. Namun, mereka sering kali terbatas oleh keterbatasan sumber daya, kemampuan teknologi, dan akses pasar. Kecerdasan Buatan (AI) adalah salah satu solusi potensial untuk mengatasi masalah ini. AI adalah cabang dari ilmu komputer yang mengkaji pengembangan sistem yang mampu belajar dan beradaptasi, yang dapat digunakan untuk meningkatkan produktivitas, efisiensi, dan inovasi dalam bisnis UMKM.
+
+Beberapa pemanfaatan AI yang membantu efisiensi bisnis UMKM adalah:
+
+A. Pemanfaatan AI dalam Meningkatkan Efisiensi Operasional
+
+Salah satu cara utama di mana UMKM dapat memanfaatkan AI adalah dengan meningkatkan efisiensi operasional mereka. AI dapat digunakan untuk mengotomatisasi tugas-tugas rutin, seperti manajemen inventaris, pemrosesan pesanan, dan pelacakan data. Ini mengurangi beban kerja dan biaya operasional, memungkinkan UMKM untuk fokus pada aspek-aspek strategis dan inovatif dari bisnis mereka.
+
+Contoh pemanfaatan AI dalam UMKM adalah chatbot pelanggan yang cerdas. Chatbot ini dapat merespons pertanyaan pelanggan, mengarahkan mereka ke produk atau layanan yang sesuai, dan memberikan dukungan sepanjang waktu. Pemasangan Chatbot dapat dilakukan di berbagai platform, salah satunya platform e-commerce seperti Shopee. Pemasangan chatbot di akun Shopee dapat dilakukan dengan cara berikut:
+
+- Manfaatkan Fitur Pesan Shopee: Gunakan fitur pesan Shopee untuk berkomunikasi dengan pelanggan dan memberikan dukungan.

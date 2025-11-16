@@ -1,0 +1,29 @@
+e-ISSN : 3031-8742, dan p-ISSN : 3031-8750, Hal. 139-151
+
+Gambar 1. Diagram alir penelitian
+
+4. HASIL DAN PEMBAHASAN
+Identifikasi penyebab-penyebab kerusakan
+
+Dimulai dengan membuat daftar seluruh penyebab yang memungkinkan terjadinya kerusakan. Kemudian penyebab-penyebab tersebut dikelompokkan berdasarkan hubungannya satu sama lain. Untuk membantu kelompok atau penggolongan penyebab ini ada beberapa pedoman yang dapat digunakan. Pada industri manufaktur, biasanya menggunakan 6M, yaitu:
+
+a. Man (pelatihan, manajemen, sertifikasi, dan sejenisnya)
+
+b. Machine (perawatan, pemeriksaan, pemrograman, pengujian, update perangkat lunak dan keras)
+
+c. Material (bahan mentah, barang konsumsi, dan informasi)
+
+d. Method (pemrosesan, pengujian, pengendalian, perancangan, instruksi)
+
+e. Measurement (kalibrasi)
+
+f. Mother Nature (kondisi lingkungan seperti bising, kelembaban, temperatur)
+
+Identifikasi faktor-faktor yang menjadi penyebab dari kerusakan
+Identifikasi faktor-faktor yang menjadi penyebab dari kerusakan untuk melakukan analisis kerusakan dan upaya perbaikan pada mekanisme pengumpan mesin skrap meliputi: man, machine, material, dan Method
+Identifikasi detail secara bertingkat penyebab kerusakan
+Identifikasi detail secara bertingkat penyebab kerusakan untuk melakukan analisis kerusakan dan upaya perbaikan pada mekanisme pengumpan mesin skrap:
+
+a. Man. Mengapa terjadi kerusakan pada mekanisme pengumpan mesin? Penyebabnya adalah: Kecakapan dan keahlian praktikan, praktikan teledor dan terburu-buru. Kecakapan, keahlian praktikan, dan penggunaan yang salah serta penyalahgunaan menjadi penyebab kerusakan pada mekanisme pengumpan. Praktikan belum memahami pengoperasian mesin, hal ini terjadi tidak adanya prosedur operasional atau Standard Operating Procedure (SOP) yang tertera di dekat mesin perkakas.
+
+b. Machine (Reliabilitas/keandalan mesin), reliabilitas menjadi penyebab kerusakan pada mekanisme pengumpan karena umur mesin sudah mencapai usia optimum, hal ini berakibat pada komponen yang sudah melebihi usia pakai. Mekanisme pengumpan ditinjau dari fungsinya, yakni sebuah eksentrik yang berfungsi untuk mengubah gerak

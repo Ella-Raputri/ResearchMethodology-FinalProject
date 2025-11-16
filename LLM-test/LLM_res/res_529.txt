@@ -1,0 +1,19 @@
+Font Styles dan Efek
+
+Font style format standar adalah pilihan yang digunakan untuk menekankan teks. Mereka termasuk: Bold, Italic, dan Underline. Untuk menambahkan teks ke ini: Pilih teks dan klik font Styles disertakan pada font grup dari tab Home atau Pilih teks dan klik kanan untuk menampilkan pengaturan font.
+
+Ganti Warna Teks
+
+Untuk mengubah warna teks: Pilih teks dan klik tombol Warna yang ada pada font Group dari Ribbon, atau Sorot teks dan Klik kanan dan memilih pengaturan warna. Pilih warna dengan mengklik panah bawah di samping tombol warna font.
+
+Video, Audio Dan Animasi
+
+1. Video
+
+Klip video dapat ditambahkan ke dalam presentasi. Untuk menambahkan klip video: Klik tombol Movie pada tab Insert > Pilih Movie from File atau Movie from Clip Organizer.
+
+2. Audio
+
+Audio klip dapat ditambahkan ke dalam presentasi. Untuk menambah Klip audio: Klik tombol Audio pada tab Insert > Pilih dari file suara, Sound from File, Sound from Clip Organizer, Play CD_Audio Track, atau Record Sound.
+
+Frizka Fitriana, S.Kom., M.Kom.

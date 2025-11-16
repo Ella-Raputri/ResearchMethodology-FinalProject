@@ -1,0 +1,17 @@
+McCarthy (1927-2011) adalah seorang ilmuwan komputer yang mengajar matematika di MIT dan Stanford University (Pabubung, 2023).
+
+Russell & Norvig (2016) menjelaskan bahwa perkembangan awal kecerdasan buatan terjadi pada periode 1943-1955, ketika upaya dilakukan untuk menciptakan mesin yang mampu meniru kemampuan manusia. Salah satu pencapaian penting selama periode ini adalah pengembangan model jaringan saraf tiruan oleh McCulloch dan Pitts pada tahun 1943, serta ide proposal Dartmouth Summer Research Project on Artificial Intelligence yang diajukan oleh McCarthy, Minsky, Rochester, dan Shannon pada tahun 1955. Sejak tahun 1986 hingga saat ini, pendekatan yang mendominasi adalah pendekatan terdistribusi dan integrasi dengan metode statistik. Metode-metode baru seperti jaringan saraf tiruan, pembelajaran mesin, dan algoritma genetika digunakan untuk meningkatkan kemampuan sistem kecerdasan buatan. Kemajuan dalam teknologi komputasi juga telah mempercepat perkembangan kecerdasan buatan.
+
+Menurut Nilsson (2010), perkembangan kecerdasan buatan dapat dibagi menjadi beberapa periode penting sebagai berikut:
+
+a. Perkembangan Awal (Abad ke-20 hingga 1950-an): Pada periode ini, terdapat usaha awal dalam menciptakan mesin cerdas. Konsep mesin logika formal yang diperkenalkan oleh matematikawan seperti Alan Turing dan John von Neumann menjadi dasar untuk pengembangan kecerdasan buatan.
+
+b. Era Sistem Berbasis Aturan (1950-an hingga 1960-an): Fokus utama pada periode ini adalah pengembangan sistem yang berbasis aturan, di mana pengetahuan manusia direpresentasikan dalam bentuk aturan logika dan dijalankan oleh mesin. Contohnya adalah program Logic Theorist yang dikembangkan oleh Allen Newell dan Herbert A. Simon.
+
+c. Munculnya Pendekatan Koneksionis (1960-an hingga 1970-an): Pada periode ini, pendekatan koneksionis yang berfokus pada jaringan saraf buatan mulai muncul. Tokoh-tokoh seperti John McCarthy, Marvin Minsky, dan Oliver Selfridge menjadi penting dalam perkembangan periode ini.
+
+d. Era Pengetahuan dan Sistem Pakar (1970-an hingga 1980-an): Fase ini ditandai dengan perhatian yang beralih ke representasi pengetahuan dan pengembangan sistem pakar. Pengetahuan manusia diambil dan diintegrasikan ke dalam sistem untuk mengambil keputusan yang cerdas. Pendekatan ini diterapkan dalam berbagai bidang seperti kedokteran dan pemrosesan bahasa alami.
+
+e. Munculnya Machine Learning (1980-an hingga 1990-an): Periode ini ditandai dengan munculnya metode Machine Learning dan pendekatan berbasis data. Algoritma Machine Learning digunakan untuk melatih komputer agar dapat belajar dari data dan mengidentifikasi pola yang kompleks.
+
+f. Perkembangan Terkini (1990-an hingga sekarang): Periode ini mencakup perkembangan terbaru dalam kecerdasan buatan, termasuk peningkatan dalam kapabilitas komputasi, kemajuan dalam pembelajaran mendalam (deep learning), dan penggunaan teknik-teknik seperti pembelajaran penguatan (reinforcement learning). Kemajuan ini telah memungkinkan pencapaian signifikan dalam bidang seperti pengenalan wajah, pengenalan suara, dan kendaraan otonom.

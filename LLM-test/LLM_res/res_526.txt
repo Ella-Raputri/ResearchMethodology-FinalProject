@@ -1,0 +1,19 @@
+Bahan Ajar Aplikasi Komputer
+
+Klik tombol New Slide pada tab Home.
+Klik slide yang sesuai pilihan kita.
+
+Insert Design Transition Animations Slide Show
+
+Clipboard Font
+
+Cut
+Copy
+Paste
+Format Painter
+
+BIU S a Av Aa
+
+2. Untuk membuat slide sebagai duplikat dari slide dalam presentasi:
+Pilih slide untuk menduplikasi.
+Klik tombol New Slide pada tab Home > Klik Duplicate Selected Slides.

@@ -1,0 +1,26 @@
+Jurnal Teknologi Elektro, Universitas Mercu Buana
+
+ISSN : 2086-9479
+
+RANCANG BANGUN PROTOTIPE ELEVATOR MENGGUNAKAN MIKROKONTROLER ARDUINO ATMEGA 328P
+
+Andi Adriansyah', Oka Hidyatama”
+'2Program Studi Teknik Elektro, Fakultas Teknik
+Universitas Mercu Buana, Jakarta, Indonesia
+
+Email : andi@mercubuana.ac.id
+
+Abstrak - Sistem kendali elevator atau lift yang digunakan di gedung-gedung bertingkat umumnya menggunakan sistem kontrol PLC (Programmable Logic Controller). Dalam pembuatan prototype ini menggunakan alternatif lain untuk menggantikan peran PLC dalam mengendalikan proses elevator atau lift yang bekerja, yaitu menggunakan Mikrokontroler Arduino Uno.
+
+Prototype elevator atau lift ini berpedoman pada lift sebenarnya, yang terdiri dari sensor di setiap lantai yang digunakan sebagai gerakan batas lift, beberapa tombol yang terletak baik di dalam sangkar lift ataupun di luar lift yang digunakan untuk memanggil lift ataupun melayani tujuan lantai, dua sensor mekanik untuk membatasi pergerakan pintu dan dua buah motor DC untuk menggerakan pintu lift dan juga untuk menggerakan lift ke atas dan ke bawah. Sehingga melalui perangkat-perangkat tersebut menjadikan alat ini menyerupai dengan elevator atau lift sesungguhnya.
+
+Berdasarkan pengujian pada alat ini dapat disimpulkan, penggabungan antara hardware dan software menjadikan alat ini dapat berfungsi dengan baik, yaitu lift dapat naik ataupun turun, pintu lift dapat membuka ataupun menutup sesuai dengan perintah.
+
+Kata kunci: Mikrokontroler, elevator atau lift tiga lantai, sistem kontrol
+
+PENDAHULUAN
+
+Elevator atau Lift adalah seperangkat alat yang digunakan untuk mengangkut orang atau barang dari suatu tempat atau lantai ke tempat atau lantai lainnya secara vertikal dengan menggunakan seperangkat alat mekanik.
+
+Perkembangan teknologi
+Vol.4 No.3 September 2013 100

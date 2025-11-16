@@ -1,0 +1,49 @@
+Biaya listrik = 5,97 kWh x Rp1.500/kWh = Rp8.955
+
+C. Produktivitas
+Manual:
+Kecepatan potong manual adalah ... kentang per 30 detik, maka jumlah kentang yang bisa dipotong oleh satu orang dalam satu jam adalah:
+Jumlah kentang per jam
+Pemotongan ~ 0,5 menit/kentang
+= 120 kentang/jam
+Berat kentang yang dipotong dalam satu jam:
+Berat kentang per jam
+= 120 kentang/jam x 0,2
+= 24 kg/jam
+
+Dalam 8 jam kerja, total berat kentang yang dipotong secara manual:
+Berat kentang dalam 8 jam
+= 24 kg/jam x 8 = 192 kg
+
+D. Biaya Tenaga Kerja Manual:
+Upah tenaga kerja untuk 8 jam kerja:
+Upah dalam per 8 jam = Rp 100.000
+
+E. Perbandingan Kuantitatif:
+Tabel 2. Perbandingan pemotongan mesin dengan manual
+
+manual hanya bisa memotong 192 kg kentang dalam waktu yang sama.
+Rasio Produktivitas mesin dibanding manual adalah:
+
+Rasio = Produktivitas Mesin / Produktivitas Manual = 1632 / 192 = 8,5
+Biaya Operasional: Biaya listrik yang dibutuhkan untuk menjalankan mesin selama 8 jam sangat kecil, hanya sekitar Rp 8.955, sementara biaya tenaga kerja manual adalah Rp 100.000 per orang. Jika lebih banyak pekerja manual diperlukan untuk mencapai produktivitas mesin, biaya akan semakin meningkat.
+
+Efisiensi Waktu: Mesin sangat efisien dalam hal waktu dan jumlah kentang yang diproses. Untuk mendapatkan hasil yang setara dengan mesin, diperlukan setidaknya 9 pekerja manual, yang tentu saja akan meningkatkan biaya tenaga kerja secara signifikan.
+
+4. Kesimpulan
+Berdasarkan hasil penelitian ini, dapat disimpulkan bahwa analisis yang dilakukan menghasilkan data teoritis yang sangat bermanfaat untuk memahami fenomena yang terjadi di lapangan. Hasil penelitian menunjukkan bahwa secara kuantitatif, mesin pemotong kentang mampu memproduksi 1.632 kg kentang
+
+Aspek | Mesin Pemotong | Manual
+Jumlah kentang per jam | 1.020 kentang/jam | 120 kentang/jam
+Berat kentang per jam | 216 kg/jam | 24 kg/jam
+Berat kentang dalam 8 jam | 1.632 kg | 192 kg
+Biaya oprasional per 8 jam | Rp 8.955 (biaya listrik) | Rp 100.000 (upah tenaga kerja)
+
+dalam waktu 8 jam, jauh lebih banyak dibandingkan dengan pemotongan manual yang hanya menghasilkan 192 kg dalam waktu yang sama. Selain itu, mesin pemotong kentang juga memiliki biaya operasional yang jauh lebih rendah. Dalam hal efisiensi waktu, mesin pemotong kentang memiliki keunggulan signifikan dibandingkan metode manual. Mesin ini mampu memotong 1632 kg kentang dalam waktu 8 jam. Sebaliknya, untuk mencapai jumlah yang sama secara manual, dibutuhkan 9 orang pekerja selama 8 jam. Dengan kata lain, rasio efisiensi
+
+F. Perbandingan Kualitatif:
+Produktivitas: Mesin pemotong kentang jauh lebih produktif daripada pemotongan manual. Mesin bisa memotong hingga 1632 kg kentang dalam 8 jam, sementara secara
+
+waktu antara mesin dan metode manual adalah 9:1, yang berarti satu unit mesin setara dengan efisiensi kerja dari sembilan pekerja manual. Hal ini menunjukkan
+
+TURBO p-ISSN: 2301-6663, e-ISSN: 2447-250X Vol. 13, No. 02, 2024 463

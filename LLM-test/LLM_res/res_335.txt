@@ -1,0 +1,26 @@
+30
+
+Rian Ariana Putra. Rancang Bangun Mesin Laser Engraving 2-D Berbasis..........0.000
+
+Ucapan Terima Kasih
+
+Terima kasih dan apresiasi yang setinggi-tingginya kami sampaikan kepada semua pihak yang krusial dalam pelaksanaan penelitian ini, sehingga penelitian dapat terlaksana dengan baik.
+
+Daftar Pustaka
+
+1] Abra-Electronics. Stepper Motor Datasheet. 2018.
+
+2] Eleksmaker. Laser Diode Datasheet. 2018.
+
+3] Munadi, Syukri, Aulia, Setiawan, Joga Dharma, Ariyanto, Muhammad. 2018. “Rancang-bangun prototipe mesin CNC laser engraving dua sumbu menggunakan diode laser”. Jurnal Teknik Mesin Indonesia, Vol. 13 No. 1 (April 2018) Hal. 32-37.
+
+4] Sugiyono. 2017. Metodologi Penelitian Kualitatif, Kuantitatif dan R&D (ed 15): Alfabeta.
+
+5] Sutisna, Nanang, Fauzi, Harist. 2018. “Rancang Bangun Prototipe Mesin Gravir Laser Berbasis Mikro-kontroler Arduino”. Journal of Industrial Engineering, Scientific Journal on Research and Application of Industrial System, Vol. 3, No. 2, September 2018: 90-104.
+
+6] Tipler, Paul A. Fisika Untuk Sains dan Teknik Jilid 1. Jakarta: Erlangga, 1998.
+
+Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
+
+ISSN 2797-815X
+P-ISSN 2797-8745

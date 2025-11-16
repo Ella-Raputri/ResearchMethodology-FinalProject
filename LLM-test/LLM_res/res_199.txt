@@ -1,0 +1,25 @@
+- AI Kuat (Strong AI atau AGI - Artificial General Intelligence): Jenis AI yang memiliki kemampuan meniru kecerdasan manusia di seluruh spektrum tugas, bisa belajar, menyelesaikan masalah, dan memiliki pemahaman serta pengetahuan yang luas.
+
+- AI Lemah (Weak AI atau Narrow AI): AI yang dirancang untuk melakukan tugas spesifik. Contohnya adalah sistem rekomendasi, asisten virtual, atau deteksi wajah.
+
+2. Berdasarkan Metodenya:
+
+- AI Simbolik (Symbolic AI): Berfokus pada pengolahan informasi menggunakan simbol dan aturan logika.
+
+- AI Jaringan Saraf Tiruan (Artificial Neural Networks): Model AI yang terinspirasi oleh struktur dan fungsi otak manusia. Ini mencakup Deep Learning yang digunakan dalam pengenalan pola kompleks.
+
+- AI Evolusioner (Evolutionary AI): Menggunakan algoritma evolusioner untuk menciptakan kecerdasan buatan, seperti algoritma genetika.
+
+- AI Fuzzy Logic: Berfokus pada pemodelan kesamaran dan ketidakpastian dalam data dengan mengizinkan representasi yang lebih fleksibel daripada logika biner.
+
+3. Berdasarkan Tingkat Kemampuannya:
+
+- Reaktif AI: Merespons situasi berdasarkan pola yang telah diprogram sebelumnya tanpa kemampuan untuk belajar atau memiliki memori.
+
+- AI Terbatas Memori: Mampu memanfaatkan informasi dari masa lalu untuk membuat keputusan saat ini, tetapi tidak memiliki kemampuan untuk belajar dari pengalaman.
+
+- AI dengan Pembelajaran Mesin (Machine Learning AI): Mampu belajar dari data yang ada dan meningkatkan kinerjanya seiring waktu.
+
+- AI yang Sadar Diri (Self-Aware AI): Meskipun belum terwujud sepenuhnya, ini adalah konsep AI yang memiliki kesadaran dan pemahaman tentang dirinya sendiri.
+
+Artificial Intelligence (AI) memiliki banyak peran penting dalam dunia bisnis, dan fungsi-fungsinya sangat beragam mulai dari analisis data, pengambilan keputusan, pelayanan pelanggan, pengembangan produk dan inovasi, pengelolaan keuangan dan lainnya. Fungsi-fungsi AI ini membantu Perusahaan UMKM dalam meningkatkan efisiensi, meningkatkan

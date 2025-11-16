@@ -1,0 +1,22 @@
+Tombol File
+
+Di sudut kiri atas adalah tombol Microsoft Office. Ketika kita mengklik tombol, menu muncul. Kita dapat menggunakan menu untuk membuat file baru, membuka file yang sudah ada, menyimpan file, dan melakukan tugas-tugas lainnya.
+
+Akses Cepat
+
+Di sebelah tombol Microsoft Office adalah Akses Cepat toolbar. Akses Cepat toolbar memberikan kita akses ke perintah paling sering kita gunakan. Secara default, Save, Undo, dan Redo muncul di toolbar Akses Cepat. Kita menggunakan Simpan untuk menyimpan file kita, Undo untuk melakukan rollback tindakan telah diambil, dan Redo mengajukan permohonan kembali tindakan kita telah dibatalkan.
+
+Title Bar Presentation1 - Microsoft PowerPoint
+
+Judul bar terletak di bagian atas di tengah jendela PowerPoint. Judul bar menampilkan nama dari presentasi di mana kita saat ini bekerja. Secara default, nama presentasi PowerPoint secara berurutan, dimulai dengan Presentation1. Ketika kita menyimpan file kita, kita dapat mengubah nama presentasi kita.
+
+Ribbon
+
+(Gambar)
+Ket: (1) Tab; (2) Grup Komando; (3) Tombol Perintah; (Launcher)
+
+Kita menggunakan perintah untuk memberitahu PowerPoint apa yang harus dilakukan. Dalam PowerPoint, kita menggunakan Ribbon untuk mengeluarkan perintah. Ribbon terletak di dekat bagian atas jendela PowerPoint, di bawah toolbar Akses Cepat.
+
+Di bagian atas Ribbon adalah beberapa tab, klik tab menampilkan beberapa kelompok perintah yang terkait. Dalam setiap kelompok terkait tombol perintah. Kita klik tombol untuk mengeluarkan perintah.
+
+Frizka Fitriana, S.Kom, M.Kom.

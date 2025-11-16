@@ -1,0 +1,17 @@
+Hard disk file type
+
+Pilih tipe berkas hard disk yang hendak Anda gunakan. Jika Anda belum yakin, pilih yang direkomendasikan. Jika Anda berencana menggunakan berkas hard disk ini dengan sistem operasi virtualisasi yang berbeda, pilih format berkas yang didukung oleh semua sistem virtualisasi (contoh: VMDK).
+
+(VirtualBox Disk Image)
+(Virtual Hard Disk)
+(Virtual Machine Disk)
+
+Storage on physical hard disk
+
+Pilih bagaimana berkas tersebut seharusnya dialokasikan pada media penyimpanan fisik.
+
+Dynamically allocated hard disk: file berkas virtual hard disk hanya menggunakan space pada physical hard drive seiring dengan bertambahnya data yang disimpan di dalamnya. Bagaimanapun, berkas tersebut tidak akan mengecil lagi secara otomatis ketika space yang ada tidak lagi digunakan.
+
+7. Aturlah besarnya lokasi dan ukuran berkas yang akan dipakai. Di sini kita gunakan sesuai yang direkomendasikan yakni 25.00 GB. Pilih Create untuk melanjutkan.
+
+Frizka Fitriana, S.Kom, MKom.

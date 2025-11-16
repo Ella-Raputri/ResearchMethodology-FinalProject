@@ -1,0 +1,41 @@
+Aplikasi Kajian DNA Molekuler dan Fenotipik Pada Program Pelepasliaran Burung Kakatua
+
+Terbanyak yang dianalisa adalah C. galerita, yaitu 53 individu dan memiliki 10 garis keturunan dengan nilai bootstrap antar garis keturunan adalah 95/55/95/52/39/39/63/63/69/87%. Pada C. sulphurea nilai bootstrap antar garis keturunan adalah 99% (satu garis keturunan), C. alba 99% (satu garis keturunan), C. moluccensis 99/69/66% (tiga garis keturunan), dan C. goffiniana 99% (satu garis keturunan).
+
+Similaritas dari masing-masing spesies adalah C. galerita 99,7%, C. sulphurea 99,7%, C. alba 100%, C. moluccensis 99,9%, dan C. goffiniana 100% (Tabel 1). Jarak genetik interspesifik dari burung kakatua, yaitu C. galerita, C. sulphurea, C. alba, C. moluccensis, C. goffiniana, dan P. aterrimus (Psittacidae) berkisar 3,1-11,6% (Tabel 2).
+
+Pohon filogeni burung kakatua (Psittacidae) berdasarkan gen COI terbentuk dua clade monophyletic dari lima spesies burung kakatua (C. galerita, C. sulphurea, C. alba, C. moluccensis, dan C. goffiniana) dengan nilai bootstrap 96% terhadap kakatua raja (P. aterrimus). Nilai bootstrap 99% terhadap Nuri bayan/E. rotatus (outgroup 1) dan Nuri kepala hitam/L. lory (outgroup II). Clade I dengan nilai bootstrap 99% terdiri dari subclade I-A dan subclade I-B. Subclade I-A terdiri dari C. galerita dan C. sulphurea dengan nilai bootstrap 96% dan subclade I-B terdiri C. alba dan C. moluccensis dengan nilai bootstrap 78%, sedangkan clade II hanya C. goffiniana dengan nilai bootstrap 99% (Gambar 1).
+
+Kajian DNA dan Fenotipik Psitacidae yang Dilepas ke Habitat Alam
+
+Hasil filogenetik berdasarkan DNA barcode dari gen COI DNA mitokondria dalam menentukan spesies dan garis keturunan dari individu yang dipilih pada tahap pertama, dilanjutkan pengamatan terhadap individu yang mempunyai kebugaran (fitness) dan kesehatan paling baik untuk hidup kembali di habitat alam. Kajian ini meliputi analisa filogeni, identifikasi jenis kelamin, dan fenotifik, serta tampilan dari masing-masing individu. Hasil evaluasi dipilih 19 individu C. galerita dan dua individu P. aterrimus.
+
+Analisa Pohon Filogeni Individu yang Siap Dilepas ke Habitat Alam
+
+Konstruksi pohon filogeni C. galerita dan P. aterrimus yang terpilih pada tahap akhir evaluasi dan siap dilepas ke habitat alam dapat dilihat pada Gambar 3. Berdasarkan situs polimorfik terdapat tujuh haplotipe (garis keturunan) pada C. galerita dan satu haplotipe pada P. aterrimus. Analisa filogenetik ini dilakukan dengan membandingkan sekuen barcode C. galerita pada
+
+Tabel 1. Garis keturunan burung kakatua dengan K2P pada gen COI mitokondria DNA
+
+| No | Nama Spesies    | Jarak Genetik Intraspesifik % | Nilai Bootstrap antar garis keturunan % | Similaritas % |
+|----|-----------------|------------------------------|----------------------------------------|--------------|
+| 1  | C. galerita     | 0,3+0,1                      | 95/55/95/52/39/39/63/63/69/87           | 99,7         |
+| 2  | C. sulphurea    | 0,3+0,2                      | 99                                       | 99,7         |
+| 3  | C. alba         | 0                            | 99                                       | 100          |
+| 4  | C. moluccensis  | 0,1+0,001                    | 99/69/66                                 | 99,9         |
+| 5  | C. goffiniana   | 0                            | 99                                       | 100          |
+| 6  | P. aterrimus    | 0                            | 99                                       | 100          |
+
+Tabel 2. Jarak genetik interspesifik burung kakatua (Psittacidae)
+
+| No | Nama Spesies    | C. galerita | C.moluccensis | C. goffiniana | P.aterrimus | C.sulphurea | C. alba |
+|----|-----------------|-------------|---------------|---------------|-------------|-------------|---------|
+| 1  | C. galerita     | 0,000       | 0,008         | 0,012         | 0,014       | 0,007       | 0,009   |
+| 2  | C. moluccensis  | 0,044       | 0,000         | 0,012         | 0,014       | 0,010       | 0,007   |
+| 3  | C. goffiniana   | 0,086       | 0,086         | 0,000         | 0,014       | 0,012       | 0,012   |
+| 4  | P. aterrimus    | 0,114       | 0,108         | 0,116         | 0,000       | 0,014       | 0,014   |
+| 5  | C. sulphurea    | 0,031       | 0,058         | 0,087         | 0,113       | 0,000       | 0,010   |
+| 6  | C.alba          | 0,056       | 0,036         | 0,086         | 0,110       | 0,059       | 0,000   |
+
+Keterangan: Di atas diagonal standard deviasi
+
+161

@@ -1,0 +1,43 @@
+Ini bertujuan untuk memberikan solusi praktis yang mampu meningkatkan produktivitas sekaligus menekan biaya operasional. Hasil dari penelitian ini tidak hanya akan mendukung pelaku industri rumah tangga dan UMKM dalam mempercepat proses produksi, tetapi juga membuka peluang untuk mengurangi ketergantungan pada tenaga manual dan meningkatkan konsistensi kualitas produk yang dihasilkan. Dengan demikian, adopsi mesin pemotong kentang ini diharapkan dapat berkontribusi secara signifikan terhadap pengembangan ekonomi lokal dan kesejahteraan pelaku usaha kecil.
+
+2. Metode Penelitian
+
+Penelitian ini dilakukan untuk merancang dan menguji mesin pemotong kentang dengan mata pisau yang dapat dilepas-pasang, yang memungkinkan variasi bentuk dan ketebalan potongan.
+
+2.1 Desain Mesin Pemotong Kentang
+
+Desain mesin pemotong kentang disusun secara efisien untuk mendukung fungsi pemotongan yang presisi dan fleksibilitas penggunaan, seperti terlihat pada Gambar 1.
+
+Gambar 1. Desain mesin pemotong kentang
+
+Keterangan:
+
+1. Motor Listrik & Gearbox
+2. Poros engkol
+3. Lengan Pendorong
+4. Corong input kentang
+5. Pisau
+6. Wadah kentang
+
+Spesifikasi alat dan bahan yang digunakan untuk pembuatan mesin pemotong kentang ini dapat dilihat secara detail pada Tabel 1, yang mencakup bahan utama seperti pisau pemotong dari baja tahan karat, motor listrik berdaya 1 HP sebagai penggerak utama, serta struktur rangka dari besi hollow 30x30 mm yang mendukung kekuatan dan stabilitas alat.
+
+Tabel 1. Alat dan bahan
+
+| Nama          | Spesifikasi                                                                                   |
+|---------------|-----------------------------------------------------------------------------------------------|
+| Pisau         | Baja Tahan Karat, (4 Ukuran Pemotong berbeda)                                                 |
+| Motor Listrik | 1 HP                                                                                          |
+| Besi Hollow   | 30x30 mm                                                                                       |
+| Plat stainles | 1220 x 2440 x 20 mm                                                                             |
+| As Round      | Diameter 25 mm                                                                                 |
+| Gear Box      | Digital caliper, akurasi 0,01 mm                                                                |
+
+2.2. Prinsip Kerja
+
+Mesin pemotong kentang yang dirancang menggunakan prinsip kerja yang sederhana namun efektif, di mana kentang yang dimasukkan ke dalam wadah pemotongan akan didorong melewati pisau pemotong dengan bantuan sistem transmisi berbasis crankshaft (poros engkol). Crankshaft ini dihubungkan dengan motor penggerak untuk menghasilkan gerakan maju-mundur pada pisau pemotong.
+
+Prinsip kerjanya adalah sebagai berikut: motor penggerak memutar crankshaft yang memiliki lengan engkol. Gerakan memutar ini diubah menjadi gerakan maju-mundur dengan bantuan batang penggerak (connecting rod) yang terhubung langsung ke pisau. Ketika crankshaft berputar, batang penggerak menarik dan mendorong pisau ke depan dan kembali ke posisi awal, sehingga pisau dapat memotong kentang secara berulang. Mekanisme ini memungkinkan mesin untuk melakukan potongan secara konsisten setiap kali siklus putaran selesai.
+
+Untuk variasi jenis potongan, mesin dilengkapi dengan beberapa jenis mata pisau yang dapat diganti, yaitu pisau untuk potongan berbentuk stik dengan ukuran lebar 1,3 cm, 0,9 cm, dan 0,6 cm, serta satu pisau berbentuk segitiga untuk menghasilkan potongan yang berbeda berbahan stainless steel. Alat pemotong kentang yang aman bagi bahan adalah dengan melapisi dengan stainless steel.
+
+460 TURBO p-ISSN: 2301-6663, e-ISSN: 2447-250X Vol. 13, No. 02, 2024

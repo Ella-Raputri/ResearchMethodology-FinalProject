@@ -1,0 +1,21 @@
+Identifikasi Lembar Kerja Microsoft Word
+
+1. File Menu (Backstage)
+
+Klik tombol File untuk melihat menu Backstage. Pengguna dapat menyimpan, mencetak, atau berbagi file, memodifikasi pilihan Word, dan keluar dari program.
+
+2. Quick Access Toolbar
+
+Toolbar khusus ini menyediakan akses cepat ke perintah yang paling sering digunakan.
+
+3. Title Bar
+
+Nama dokumen akan muncul di sini, serta nama program.
+
+4. Windows Controls
+
+Dari kiri ke kanan, ini adalah Minimize, Maximize / Restore, dan Close.
+
+5. Tabs
+
+Klik nama tab untuk melihat perintah khusus untuk nama tab tersebut. Misalnya, tab Page Layout memungkinkan Anda mengubah ukuran kertas, margin, pengaturan paragraf, dan banyak lagi. Area perintah di bawah tab dikenal sebagai Ribbon.

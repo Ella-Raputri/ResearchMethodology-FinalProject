@@ -1,0 +1,39 @@
+Jurnal Pembelajaran Pemberdayaan Masyarakat (JP2M)
+JP2M, Volume 6, Nomor 1, (2025) hlm. 67-80
+pISSN 2721-5156 | eISSN 2721-5148
+
+Terakreditasi Peringkat 4 - SK No. 225/E/KPT/2022
+https://riset.unisma.ac.id/index.php/jp2m/article/view/22582
+DOI: 10.33474/jp2m.v6i1.22582
+
+Transformasi penulisan artikel ilmiah dengan kecerdasan buatan: Pengembangan kapasitas mahasiswa
+
+Ledy Yanti Lessy, Febriana Pratiwi*, Megawati Basri, Gullyt Karlos Papingka, Risky Richlos Sarapung, Nurhani Mahmud
+
+Universitas Pasifik Morotai, Kepulauan Morotai, Indonesia
+
+*email Korespondensi Penulis: febrianapratiwi@upi.edu
+
+Info Artikel
+Riwayat Artikel
+Diajukan: 2024-09-10
+Diterima: 2024-11-07
+Diterbitkan: 2024-11-26
+
+Lisensi: cc-by-sa
+Copyright 2024 Penulis
+
+ABSTRAK
+
+Penulisan artikel ilmiah adalah keterampilan penting bagi mahasiswa yang ingin berkontribusi secara signifikan dalam dunia akademik. Namun, tantangan dalam menyusun artikel berkualitas sering menghambat produktivitas dan pencapaian akademik mahasiswa. Seiring dengan kemajuan teknologi, kecerdasan buatan (AI) kini menjadi alat yang efektif dalam mendukung berbagai aspek penulisan ilmiah. Program pengabdian kepada masyarakat ini menerapkan metode service learning untuk mendampingi mahasiswa dalam mengembangkan keterampilan penulisan ilmiah dengan memanfaatkan platform berbasis AI, yaitu SciSpace. Melalui service learning, mahasiswa terlibat langsung dalam mempelajari dan mengaplikasikan teknologi AI dalam kegiatan penulisan, yang tidak hanya membantu mereka memahami fitur-fitur AI dalam penyusunan, penyuntingan, dan pengelolaan referensi, tetapi juga meningkatkan kemampuan kolaborasi dan keterampilan praktis mereka. Hasil program menunjukkan bahwa penggunaan SciSpace membantu mahasiswa secara signifikan dalam mengurangi kesalahan penulisan, mempercepat proses penyusunan artikel, dan meningkatkan kualitas karya ilmiah. Program ini berhasil membekali mahasiswa dengan keterampilan teknologi yang relevan untuk masa depan dan meningkatkan kesiapan mereka dalam menghadapi tantangan akademik. Dengan demikian, program ini memberikan kontribusi nyata terhadap peningkatan kualitas pendidikan tinggi dan mendukung tercapainya pendidikan berkualitas yang merata.
+
+Kata Kunci:
+AI; scispace; karya ilmiah; UNIPAS
+
+Cara mensitasi artikel:
+
+Lessy, L. Y., Pratiwi, F., Basri, M., Papingka, G. K., Sarapung, R. R., & Mahmud, N. (2025). Transformasi penulisan artikel ilmiah dengan kecerdasan buatan: Pengembangan kapasitas mahasiswa. Jurnal Pembelajaran Pemberdayaan Masyarakat (JP2M), 6(1), 67-80. https://doi.org/10.33474/jp2m.v6i1.22582
+
+PENDAHULUAN
+
+Dalam era digital yang terus berkembang, kecerdasan buatan (Artificial Intelligence/AI) telah menjadi alat yang semakin penting di berbagai bidang, termasuk di dalam dunia akademik (Anggraini & Putri, 2023). Salah satu kontribusi signifikan AI adalah kemampuannya untuk mendukung proses penulisan artikel ilmiah (Patty & Que, 2023). Dengan memanfaatkan AI, penulis dapat mempercepat proses penelitian, penyusunan, dan penyuntingan karya ilmiah.

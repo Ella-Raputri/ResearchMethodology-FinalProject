@@ -1,0 +1,35 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : hlm. 1-12
+
+grafik mengalami tren penurunan. Pada gambar 4.32 dan tabel 4.14 di atas dapat dilihat bahwa peningkatan kekuatan balok ferrogeopolymer karena variasi jumlah lapisan wiremesh hasil perhitungan secara numerik dan hasil eksperimen cenderung sama. Kemiringan grafik tangensial awal pada balok ferrogeopolymer hasil perhitungan secara numerik dan hasil eksperimen juga cenderung sama. Pada variasi 3 lapisan wiremesh perbedaan antara hasil eksperimen dan hasil perhitungan secara numerik ialah 31,26%, pada variasi 5 lapisan wiremesh sebesar 0,46%, pada variasi 7 lapisan wiremesh sebesar 2,84% dan pada variasi 11 lapisan wiremesh sebesar 5,64%.
+
+3.6. Perbandingan Letak Keretakan
+
+Jika dibandingkan dengan hasil eksperimen maka pola keretakan pada hasil studi parametrik keretakan terjadi pada tengah bentang balok yang dapat dilihat pada gambar 10 di bawah ini:
+
+Gambar 10 Perbandingan pola keretakan hasil eksperimen dan hasil perhitungan secara numerik.
+
+3.7. Hubungan antara Jumlah Lapisan dan Beban Maksimum
+
+Hasil perhitungan secara numerik kemudian diambil beban maksimum lalu dibuat ke dalam bentuk grafik dan dibuat persamaan regresinya. Grafik dan tabel hubungan antara jumlah lapis dan beban maksimum dapat dilihat pada gambar 11 dan tabel 5 di bawah ini:
+
+Tabel 5 Hubungan jumlah lapis dan beban maksimum
+
+Jumlah lapisan | P Maksimum (KN)
+-----------------|------------------
+1 | 7.503
+3 | 6.983
+5 | 6.529
+7 | 5.628
+11| 4.586
+
+Hubungan antara beban maksimum dan jumlah lapisan
+
+y = -0.0266x² + 0.7326x + 2.6365
+R² = 0.9974
+
+0 2 4 6 8 10 12
+Jumlah Lapisan
+
+Gambar 11 Hubungan jumlah lapis dan beban maksimum
+
+Berdasarkan gambar 11 ditunjukan bahwa semakin banyak jumlah lapisan wiremesh maka semakin meningkat kekuatan balok ferrogeopolymer. Model regresi yang dihasilkan dari grafik.

@@ -1,0 +1,37 @@
+JURNAL TEKNIK MESIN
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3-undip.ac.id/index.php/jtm
+
+2.3. Antena Penjejak Satelit
+Antena penjejak satelit merupakan hal yang terpenting guna untuk mengakses file atau data dari satelit. Selain untuk itu juga untuk berkomunikasi dengan satelit. Berikut pengertian komponen mendasar pada antena penjejak satelit.
+
+Gambar 1. GS (Ground Station) secara umum [3]
+
+Antena penjejak yang akan digunakan pada stasiun mobil bergerak memiliki beberapa komponen elektronika yang sangat penting yang mana komponen tersebut media untuk mengimplementasikan antena penjejak. Terdapat elektronika seperti antena, dc motor, sensor IMU, GPS, micro controller, raspberry pi 4 untuk local display dan mengakses data satellite melalui internet, serta battery sebagai power supply semua komponen elektronika. Selain itu juga harus mempertimbangkan visibility region yang mana hal ini dapat diketahui dari elevasi 0 derajat sampai 180 derajat, selebihnya merupakan blind region untuk berkomunikasi dengan satelit [4]. Selain itu untuk terdapat juga yang memodelkan untuk antena penjejak sebagai berikut yaitu terdiri dari antena, rotator azimuth dan elevasi, motor controller, power supply, interface, dan PC.
+
+VHF
+Antena
+
+UHF
+Antena
+
+Azimuth & Elevation
+Motor
+
+Interface
+
+Command Power Supply
+
+Step Down
+Power Supply
+
+Gambar 2. Pemodelan Antena Penjejak Satelit [5]
+
+Untuk melakukan tracking terhadap satelit juga terdapat hal yang harus diperhatikan, sebab jika dibandingkan dengan satelit GEO system, tracking terhadap satelit MEO bahkan LEO harus mempertimbangkan untuk short transmission delay mengingat LEO memiliki kecepatan yang tinggi agar komunikasi dengan satelit tetap berjalan optimal [6].
+
+2.4 Persamaan Azimuth dan Elevasi
+
+Antena penjejak satelit memerlukan arah terhadap posisi satelit yang sedang diamati dan diikuti. Untuk hal itu perlu dengan mengetahui sudut antena terhadap posisi satelit yang sedang berjalan. Sudut untuk merepresentasikan hal tersebut adalah sudut azimuth dan elevasi, sudut azimuth merupakan sudut horizontal satelit terhadap antena sedangkan elevasi merupakan visibility antena vertikal terhadap satelit. Untuk lebih jelas bisa melihat gambar sebagai berikut.
+
+JTM (S-1) — Vol. 11, No. 2, April 2023:125-138 127
