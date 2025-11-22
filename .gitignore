@@ -12,3 +12,5 @@ mt5-env
 dictionary
 preview*
 annotated_pictures
+split10
+kfold
