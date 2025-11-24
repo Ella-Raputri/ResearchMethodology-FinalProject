@@ -6,11 +6,12 @@ DocLayNet_core
 DocLayNet_filtered
 DocLayNet_core.zip
 finetuned_yolo_last
-finetuned_yolo_doclaynet
+finetuned_yolo_doclaynet*
 labeled_data
-mt5-env
 dictionary
 preview*
 annotated_pictures
 split10
 kfold
+kfold_result*
+combined_preview

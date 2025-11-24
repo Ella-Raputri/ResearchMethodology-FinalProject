@@ -1,8 +1,0 @@
-path: /content/drive/MyDrive/DocLayNet_filtered
-train: train/images
-val: test/images
-nc: 3
-names:
-- Caption
-- PageNumber
-- Picture
