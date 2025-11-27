@@ -1,4 +1,5 @@
 Gambar 1. IoT as a Network of Network (Evans, 2011)
+
 Berdasarkan gambar 1 terlihat jelas peran IoT
 sebagai salah satu teknologi yang dapat mendukung
 Pendidikan. Di penelitian ini, kami menggunakan
@@ -24,6 +25,7 @@ Dan untuk mencapai tujuan penelitian maka
 pertanyaan penelitian ini adalah: “Bagaimana
 membangun sistem e-learning dengan konsep smart
 learning dengan memanfaatkan teknology IoE?”
+
 3. Kerangka Teori
 3.1. e-Learning
 Istilah e-learning secara umum sering diartikan
@@ -58,6 +60,7 @@ menjadikan E-learning yang ideal memiliki
 karakteristiknya sendiri. E-learning kemudian
 bertumbuh dan berkembang ke media online dan
 menjadi online learning.
+
 3.2. Internet of Thing (IoT) dan Internet of
 Everything (IoE)
 IoT memengaruhi pendidikan dalam banyak hal.
@@ -90,6 +93,7 @@ yang kemudian dianalisis untuk mendapatkan
 informasi yang berguna untuk pengambilan
 keputusan guna meningkatkan program online di
 Lembaga Pendidikan Tinggi (HEIs).
+
 4. Metode
 Bagan alir penelitian ditunjukkan melalui
 fishbone diagram 2 dengan tahapan Penelitian seperti

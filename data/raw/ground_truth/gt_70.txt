@@ -38,25 +38,25 @@ Politeknik Jambi sangat berarti dalam
 mewujudkan penelitian ini dengan lancar
 dan sukses.
 Referensi
-[1] Https://jambi.bps.go.id, ÒReferensi
-1.pdf.Ó p. 4, 2013.
+[1] Https://jambi.bps.go.id, "Referensi
+1.pdf." p. 4, 2013.
 [2] Rahayu Tri Utami, Edy Sambodja,
 Nurhadinah, and Peralina Siahaan,
-ÒManajemen Pemasaran UMKM
+"Manajemen Pemasaran UMKM
 Jeruk Lemon dan Keripik Kentang di
-Desa Wisata Margaluyu,Ó Abdimas
-Awang Long, vol. 7, no. 2, pp. 101Ð
+Desa Wisata Margaluyu," Abdimas
+Awang Long, vol. 7, no. 2, pp. 101-
 109, 2024, doi:
 10.56301/awal.v7i2.1157.
 [3] Y. A. Munthe, M. Haikal, T.
 Simalango, U. N. Medan, and K.
-Medan, ÒMERAH ALEZA,Ó pp. 2Ð7,
+Medan, "MERAH ALEZA," pp. 2-7,
 2024.
 [4] R. P. Pratama and A. Hasibuan,
-ÒRancang Bangun Spiral Potato
+"Rancang Bangun Spiral Potato
 Slicer Sebagai Alat Pengolahan
-Kentang Pada Pasar Umkm,Ó Kohesi
-J. Sains dan É, vol. 02, no. 04, 2024,
+Kentang Pada Pasar Umkm," Kohesi
+J. Sains dan ..., vol. 02, no. 04, 2024,
 [Online]. Available:
 https://ejournal.warunayama.org/ind
 ex.php/kohesi/article/view/2023%0A
@@ -66,34 +66,33 @@ ex.php/kohesi/article/download/2023
 [5] S. A. P. Samosir, J. S. Purba, W.
 Naibaho, S. Sihombing, W. S.
 Nababan, and S. E. Peranginangin,
-ÒVariasi Diameter Pully Mesin
+"Variasi Diameter Pully Mesin
 Pengiris Singkong Dengan Sistem
-Crankshaft,Ó Sprocket J. Mech. Eng.,
-vol. 5, no. 1, pp. 1Ð13, 2023, doi:
+Crankshaft," Sprocket J. Mech. Eng.,
+vol. 5, no. 1, pp. 1-13, 2023, doi:
 10.36655/sprocket.v5i1.1091.
 [6] A. M. Nur Aini, Riska Andini,
-Rahmat Arif Waruwu, ÒSurvei Pasar
+Rahmat Arif Waruwu, "Survei Pasar
 Penggunaan Mesin 3P (Pengupas,
 Pemotong, dan Pembersih) Kentang
-Otomatis,Ó vol. 5, no. 2, p. 2, 2022,
+Otomatis," vol. 5, no. 2, p. 2, 2022,
 doi: 10.32734/ee.v5i2.1617.
 [7] L. D. Yuono, A. Ansyori, B. Surono,
 A. Septiandi, F. Fitriyanto, and I. K.
-Setiawan, ÒRancang Bangun Cold
+Setiawan, "Rancang Bangun Cold
 Storage Menggunakan Ac Split 2
-Pk,Ó Turbo J. Progr. Stud. Tek.
-Mesin, vol. 12, no. 2, pp. 436Ð443,
+Pk," Turbo J. Progr. Stud. Tek.
+Mesin, vol. 12, no. 2, pp. 436-443,
 2023, doi: 10.24127/trb.v12i2.3108.
 [8] A. Dan, P. Rangka, and M.
-Pemotong, ÒAnalisis dan
+Pemotong, "Analisis dan
 perancangan rangka mesin pemotong
-kentang otomatis,Ó J. Mek. Ind. dan
-Desain, vol. 14, no. 2, pp. 153Ð158,
+kentang otomatis," J. Mek. Ind. dan
+Desain, vol. 14, no. 2, pp. 153-158,
 2020, [Online]. Available:
 http://eprints.uny.ac.id.
 [9] Fauzi and A. Mahendra Sakti,
-ÒAnalisis Mesin Pengiris Kentang
-Spiral Otomatis,Ó p. 7, 2014.
+"Analisis Mesin Pengiris Kentang
+Spiral Otomatis," p. 7, 2014.
 [10] S. Ega, J. S. Pribadi, A. Santoso, F.
 Fadillah, and M. Handayani,
-464 TURBO p-ISSN: 2301-6663, e-ISSN: 2447-250X Vol. 13, No. 02, 2024

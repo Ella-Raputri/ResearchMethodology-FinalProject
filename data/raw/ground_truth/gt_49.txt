@@ -1,13 +1,13 @@
-diangkat  oleh  publikasi  ilmiah  dianalisis  dan disimpulkan.Dari  hasil  simpulan  tersebut, maka   dibandingkan   dan   dihasilkan   topik yang  sering  diangkat  di  skripsi,  namun  tidak pernah    diangkat    di    riset    yang    sudah dipublikasi  dan  sebaliknya,  topik  yang  tidak pernah   diangkat   di   skripsi,   namun   sudah sering diangkat di riset.
+diangkat  oleh  publikasi  ilmiah  dianalisis  dan disimpulkan. Dari  hasil  simpulan  tersebut, maka   dibandingkan   dan   dihasilkan   topik yang  sering  diangkat  di  skripsi,  namun  tidak pernah    diangkat    di    riset    yang    sudah dipublikasi  dan  sebaliknya,  topik  yang  tidak pernah   diangkat   di   skripsi,   namun   sudah sering diangkat di riset.
 
 METODE PENELITIAN
 Framework Penelitian 
-kerangka kerja     penelitianini sepertiframeworkpada Gambar 1.    Angka yang tertera pada gambar adalah urutan alur proses penelitian. 
-Gambar 1.Kerangka kerja penelitian
+kerangka kerja     penelitian ini seperti framework pada Gambar 1. Angka yang tertera pada gambar adalah urutan alur proses penelitian. 
+Gambar 1. Kerangka kerja penelitian
 
-Proses ke-1 unduh abstrak skripsi dan abstrak riset. Pada proses ke-1file abstrak di simpan dalam bentuk .txt.
-Pada   proses ke-2setelah   abstrak sudah  dalam  bentuk .txtdilanjutkan dengan  proses pre-processingyaitu pembersihan stopworddan tanda baca pada  abstrak.  Sehingga  abstrak  berisi inti  dari  pembahasan  skripsi  dan  riset jurnal.
-Dari  proses  pre-processing    berlanjut ke   proses ke-3yaitu   menjalankan aplikasi apriori,  dengan  menentukanambang   batasnya   itu minsuppdan minconfyang diinginkan.
-Setelah proses aplikasi Apriori, maka proses ke-4menghasilkan frequent termsetdari aplikasi Apriori.
-Setelah itu, hasil frequent termsetdari apriori  berlanjut  ke  tahap  selanjutnya proses ke-5 yaitu analisis kesenjangan  antara  topik  skripsi  dan topik  riset.  fokus  disini  adalah  untuk menemukan  yang  kata  kunci  sebelah  kirinya adalah sistem informasi, yang disebut  kesenjangan  atau gapadalah seberapa banyak kata yang tidak sama antara topik skripsi dan topik riset.
+Proses ke-1 unduh abstrak skripsi dan abstrak riset. Pada proses ke-1 file abstrak di simpan dalam bentuk .txt.
+Pada proses ke-2 setelah   abstrak sudah  dalam  bentuk .txt dilanjutkan dengan  proses pre-processing yaitu pembersihan stopword dan tanda baca pada  abstrak.  Sehingga  abstrak  berisi inti  dari  pembahasan  skripsi  dan  riset jurnal.
+Dari  proses  pre-processing    berlanjut ke   proses ke-3 yaitu   menjalankan aplikasi apriori,  dengan  menentukan ambang   batasnya   itu minsupp dan minconf yang diinginkan.
+Setelah proses aplikasi Apriori, maka proses ke-4 menghasilkan frequent termset dari aplikasi Apriori.
+Setelah itu, hasil frequent termset dari apriori  berlanjut  ke  tahap  selanjutnya proses ke-5 yaitu analisis kesenjangan  antara  topik  skripsi  dan topik  riset.  fokus  disini  adalah  untuk menemukan  yang  kata  kunci  sebelah  kirinya adalah sistem informasi, yang disebut  kesenjangan  atau gapadalah seberapa banyak kata yang tidak sama antara topik skripsi dan topik riset.
 Selanjutnya proses ke-6, maka diperoleh  hasil  analisis  kesenjangan sehingga   terlihat   topik   keterkaitan

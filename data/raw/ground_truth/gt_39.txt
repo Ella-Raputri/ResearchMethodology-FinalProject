@@ -1,11 +1,8 @@
 Teknologi Baru Pada Pendidikan Tinggi Menuju Revolusi
 Industri 4.0: Studi Kasus Indonesia dan Malaysia
 
-Dina Fitria Murada,, Silvia Ayunda Muradb*, Rosilah Hassanc
-, Yaya Heryadid
-, Bambang Dwi
-Wijanarkoe
-, Titana
+Dina Fitria Murada,, Silvia Ayunda Muradb*, Rosilah Hassanc, Yaya Heryadid
+, Bambang Dwi Wijanarkoe, Titana
 a Information Systems Department, BINUS Online Learning, Bina Nusantara University, Jakarta, Indonesia
 b Information Technology Department, Universitas Islam Syekh Yusuf (UNIS), Tangerang, Indonesia
 c Center for Cyber Security, Faculty of Information Science & Technology, Universiti Kebangsaan Malaysia, UKM Bangi,
@@ -54,4 +51,3 @@ pembelajaran dari sistem pembelajaran yang telah
 berjalan yaitu sistem pembelajaran yang bersifat
 tatap muka (in-class atau face-to-face learning
 process).
-*) Penulis korespondensi: silvia.ayunda@unis.ac.id 

@@ -1,3 +1,4 @@
+Gambar 2. Siklus Case Based Reasoning
 Ada 4 tahapan siklus case based reasoning antara lain [10]:
 1. Retrieve: proses pengenalan masalah atau meninjau kembali kasus yang
 memiliki kriteria kesamaan.

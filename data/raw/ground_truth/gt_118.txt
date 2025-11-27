@@ -32,3 +32,8 @@ ilmiah pertahun. Gambar 3 menunjukan persentase
 hasil klasifikasi dari artikel ilmiah terkait. Gambar 4
 menunjukan persentase objek pertanian yang diteliti.
 Gambar 5 menunjukan lokasi penelitian. 
+
+Gambar 2. Jumlah Artikel Ilmiah Terkait Per Tahun.
+Gambar 3. Persentase Artikel Blockchain Berdasarkan Subtopik 
+Gambar 4. Persentase Artikel Berdasarkan Objek Penelitian
+Gambar 5. Persentase Artikel Berdasarkan Lokasi Penelitian

@@ -8,13 +8,10 @@ Fajar Delli Wihartiko*1
 2Departemen Matematika, Institut Pertanian Bogor,
 3Departemen Ilmu Komputer, Institut Pertanian Bogor.
 4Departemen Agronomi dan Hortikultura, Institut Pertanian Bogor.
-Email: 1
-fajardelli@apps.ipb.ac.id,
+Email: 1fajardelli@apps.ipb.ac.id,
 2nurdiati@apps.ipb.ac.id,
-3
-agusbuono@apps.ipb.ac.id,
-4
-edisang@gmail.com
+3agusbuono@apps.ipb.ac.id,
+4edisang@gmail.com
 *Penulis Korespondensi
 (Naskah masuk: 11 September 2020, diterima untuk diterbitkan: 02 Februari 2021)
 Abstrak

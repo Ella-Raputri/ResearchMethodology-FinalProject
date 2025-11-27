@@ -9,7 +9,7 @@ langsung.
 Gambar 3. Narasumber menyampaikan Materi tentang struktur artikel ilmiah
 Tahap pertama dalam implementasi kegiatan adalah narasumber
 memberikan pemahaman dasar kepada peserta mengenai struktur penulisan
-artikel ilmiah (Gambar 3). Materi ini mencakup penjelasan tentang komponenkomponen penting dalam artikel ilmiah, seperti pendahuluan, tinjauan pustaka,
+artikel ilmiah (Gambar 3). Materi ini mencakup penjelasan tentang komponen-komponen penting dalam artikel ilmiah, seperti pendahuluan, tinjauan pustaka,
 metodologi, hasil dan pembahasan, serta kesimpulan (Atmanti & Caroline, 2024).
 Dalam sesi ini, peserta diajak untuk memahami bagaimana masing-masing bagian
 ini berperan dalam penyajian penelitian dan penyusunan argumen ilmiah.

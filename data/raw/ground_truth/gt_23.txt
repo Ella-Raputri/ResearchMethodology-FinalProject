@@ -5,7 +5,7 @@ Qurotul Aini1
 , Untung Rahardja2
 , Nuke Puji Lestari Santoso3
 , Anggun Oktariyani4
-1,2,3,4Universitas Raharja
+1,2,3,4 Universitas Raharja
 Jl. Jenderal Sudirman No.40, RT.002 / RW.006, Cikokol, Kota Tangerang, Indonesia
 1aini@raharja.info,
 2untung@raharja.info,

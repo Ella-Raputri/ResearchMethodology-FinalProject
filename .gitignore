@@ -15,3 +15,8 @@ split10
 kfold
 kfold_result*
 combined_preview
+Lib
+Include
+Scripts
+share
+*.env

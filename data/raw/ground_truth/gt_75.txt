@@ -1,4 +1,3 @@
-Struktur Kebahasaan Bahasa Indonesia sebagai Rujukan Penggunaan Bahasa (Morfologi)
 Morfologi merupakan bagian dari kajian linguistik mikro untuk menelaah morfem dan
 kata serta kombinasi-kombinasinya. Di dalam proses morfologi, yang menjadi bentuk terkecil
 adalah morfem dan bentuk terbesarnya ialah kata. Morfologi diartikan sebagai proses
@@ -28,7 +27,6 @@ Berdasarkan kebebasannya itu morfem dapat dibagi menjadi 2 yaitu, pertama morfem
 bebas, dan kedua morfem terikat (Simaremare et al., 2024).
 1) Morfem bebas
 Morfem bebas adalah morfem yang dapat berdiri sendiri sebagai kata, seperti
-‘buku’, ‘makan’, atau ‘tidur’, sementara morfem terikat memerlukan kehadiran morfem
+'buku', 'makan', atau 'tidur', sementara morfem terikat memerlukan kehadiran morfem
 lain untuk membentuk kata yang bermakna (Budiman, 2025). Morfem bebas adalah
 morfem yang dapat berdiri sendiri. Dengan kata lain, tanpa keterkaitan dengan morfem
-210 JURNAL BIMA – VOLUME 3, NOMOR 2, JUNI 2025

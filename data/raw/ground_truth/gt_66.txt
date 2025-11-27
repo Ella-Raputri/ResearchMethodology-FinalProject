@@ -25,6 +25,17 @@ disusun secara efisien untuk mendukung
 fungsi pemotongan yang presisi dan
 fleksibilitas penggunaan, seperti terlihat
 pada Gambar 1.
+Gambar 1. Desain mesin pemotong kentang 
+
+Keterangan:
+1. Motor Listrik & Gearbox
+2. Poros engkol
+3. Lengan Pendorong 
+4. Corong input kentang
+5. Pisau 
+6. Wadah kentang 
+
+Spesifikasi alat dan bahan yang digunakan untuk pembuatan mesin pemotong kentang ini dapat dilihat secara
 detail pada Tabel 1, yang mencakup bahan
 utama seperti pisau pemotong dari baja
 tahan karat, motor listrik berdaya 1 HP
@@ -32,27 +43,7 @@ sebagai penggerak utama, serta struktur
 rangka dari besi hollow 30x30 mm yang
 mendukung kekuatan dan stabilitas alat.
 Tabel 1. Alat dan bahan
-Nama Spesifikasi
-Motor Listrik 1 HP
-Besi Hollow 30x30 mm
-As Round Diameter 25 mm
-Pisau
-Pemotong
-Plat stainles Gear Box Baja Tahan Karat, (4 Ukuran
-berbeda)
-1220 x 2440 x 20 mm
-Digital caliper, akurasi 0,01 mm
-Gambar 1. Desain mesin pemotong kentang
-Keterangan:
-1. Motor Listrik & Gearbox
-2. Poros engkol
-3. Lengan Pendorong
-4. Corong input kentang
-5. Pisau
-6. Wadah kentang
-Spesifikasi alat dan bahan yang
-digunakan untuk pembuatan mesin
-pemotong kentang ini dapat dilihat secara
+
 2.2. Prinsip Kerja
 Mesin pemotong kentang yang
 dirancang menggunakan prinsip kerja yang
@@ -88,4 +79,3 @@ menghasilkan potongan yang berbeda
 berbahan stainless steel. Alat pemotong
 kentang yang aman bagi bahan adalah
 dengan melapisi dengan stainless steel
-460 TURBO p-ISSN: 2301-6663, e-ISSN: 2447-250X Vol. 13, No. 02, 2024

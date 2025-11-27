@@ -1,4 +1,3 @@
-Struktur Kebahasaan Bahasa Indonesia sebagai Rujukan Penggunaan Bahasa (Morfologi)
 1) Derivasi Zero
 Derivasi zero terjadi ketika sebuah kata berpindah kelas kata tanpa perubahan
 bentuk. Misalnya, kata benda (nomina) menjadi kata kerja (verba), atau sebaliknya.
@@ -31,4 +30,3 @@ Dalam proses ini dua leksem atau lebih berpadu dan outputnya adalah paduan
 leksem atau kompositum dalam tingkat morfologi atau kata majemuk dalam tingkat
 sintaksis. Komposisi terdapat dalam banyak bahasa. Dalam bahasa Indonesia, misalnya
 lalu lintas, daya juang, dan rumah sakit.
-214 JURNAL BIMA Ð VOLUME 3, NOMOR 2, JUNI 2025
