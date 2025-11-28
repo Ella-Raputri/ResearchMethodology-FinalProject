@@ -1,4 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 bekerja dengan semestinya, maka
 dapat diketahui hasil kerja sistem lift
 3 lantai menggunakan
@@ -6,8 +5,6 @@ Mikrokontroler Arduino Atmega
 328P bekerja sesuai dengan
 keinginan.
 Saran
-menjadi alat yang baik dan
-rapih.
 Untuk pengembangan lebih
 lanjut dimasa mendatang peneliti
 menyarankan beberapa hal,
@@ -33,6 +30,8 @@ lain sebagainya dapat terpasang.
 struktur kerangka lift dan juga
 sistem mekanik yang ada,
 sehingga menjadikan alat ini
+menjadi alat yang baik dan
+rapih.
 DAFTAR PUSTAKA
 1. Andrianto, Heri. 2008.
 Pemrograman Mikrokontroler
@@ -62,4 +61,3 @@ Mercu Buana.
 6. Winoto, Ardi. 2008.
 Mikrokontroler AVR ATmega
 8/16/32/8535 dan
-Vol.4 No.3 September 2013 111

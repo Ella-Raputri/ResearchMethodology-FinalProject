@@ -1,21 +1,14 @@
 Contoh:  
-Sistem Pakar 
-Pemakai 
-Sistem Pakar 
-Pemakai 
-Sistem Pakar 
-Pemakai 
-Sistem Pakar 
+Sistem Pakar : bahan pustaka bidang apa yang Anda sukai? 
+Pemakai  : teknologi informasi 
+Sistem Pakar  : bahan pustaka bidang teknologi informasi apakah yang Anda ingin cari? 
+Pemakai : pemrograman 
+Sistem Pakar : bahasa pemrograman apa yang Anda ingin ketahui?  
+Pemakai : Java 
+Sistem Pakar : (lalu sistem pakar ini merekomendasikan beberapa judul buku tentang 
+pemrograman Java)
 f. 
 Jaringan Saraf 
-: bahan pustaka bidang apa yang Anda sukai? 
-: teknologi informasi 
-: bahan pustaka bidang teknologi informasi apakah yang Anda ingin cari? 
-: pemrograman 
-: bahasa pemrograman apa yang Anda ingin ketahui? 
-: Java 
-: (lalu sistem pakar ini merekomendasikan beberapa judul buku tentang 
-pemrograman Java) 
 Jaringan saraf untuk pemanfaatan perpustakaan dapat digunakan sebagai penemuan pola 
 peminjaman buku pada pemustaka. 
 g. Agen Cerdas 

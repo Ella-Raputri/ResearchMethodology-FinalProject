@@ -1,170 +1,11 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 kerja yang diinginkan. Berikut ini
 adalah skema rangkaian sistem pada
 gambar 3.2
-RP2
-RESPACK-7
-1
-2
-3
-4
-5
-6
-DALAM_LT3
-DALAM_LT2
-DALAM_LT1
-BUKA
-TUTUP
-DUINO1
-7
-8
-TOMBOL DALAM
-LT 3
-LT2
-LT1
-BUKA
-TUTUP
-RESET
-mic rocontrolandos.blogspot.com
-PC0/ADC0
-PC1/ADC1
-PC2/ADC2
-ANALOG IN
-PC3/ADC3
-PC4/ADC4/SDA
-PC5/ADC5/SCL
-SW OPEN
-SW CLOSE
-Rangkaian Catu Daya
-Rangkaian ini berfungsi
-untuk mensuplai tegangan
-RP3
-RESPACK-7 keseluruhan rangkaian yang ada.
-1
-2
-3
-4
-5
-6
-7
-8
-SW _PINT U
-_
-OPEN SEN_LT3
-Rangkaian catu daya yang dibuat
-SW _PINTU_CLOSESEN_LT2
-SEN_LT1
-1121
-AT ME G A328P-P U
-SEN_LT1
-SEN_LT2
-SEN_LT3
-LUAR_LT1
-LUAR_LT2
-LUAR_LT3
-A0
-A1 A2 A3 A4 A5 AREF
-PB5/SCK 13
-PB4/MISO 12
-~PB3/MOSI/OC2A 11
-~ PB2/SS/OC1B 10
-~ PB1/OC1A 9
-PB0/ICP1/CLKO 8
-DIGITAL (~PWM)
-PD7/AIN1 7
-~ PD6/AIN0 6
-~ PD5/T 1 5
-PD4/T 0/XCK 4
-~ PD3/INT 1 3
-PD2/INT 0 2
-TX PD1/T XD 1
-RX PD0/RXD 0
-RP1
-RESPACK-7
-IN1
-3
-PINTU
-DALAM_LT 3
-DALAM_LT 2
-DALAM_LT 1
-SW _PINT U
-OPEN
-_
-SW _PINT U_CLO SE
-PINTU
-PINT U_PWM
-KAT ROL_PWM
-KAT ROL
-T UT UP
-BUKA
-6 IN2
-SEN SOR LT 3
-SEN SOR LT2
-SEN SOR LT1
-memiliki keluaran 12 volt. Keluaran
-12 volt tersebut digunakan untuk
-1
-2
-3
-4
-5
-6
-7
-8
-TOMBOL LUAR
-LT3
-LT2
-LT1
-LUAR_LT 3
-LUAR_LT 2
-LUAR_LT 1
-KAT ROL
-ARDUINO UNO R3
-U2:A
-1
-2
-7400
-U2:C
-10
-9
-7400
-IN3
-4
-5
-U2:B
-7400
-U2:D
-13
-U1(VS)
-<--- BUKA | TUTUP --->
-U1
-16 8
-PINTU
-IN2
-PINTU_PW M
-IN1 2 IN1 VSS VS OUT 1 3
-7 IN2
-OUT 2 6
-1 EN1
-KATROL_PW M
-IN3
-IN4 15 9 EN2
-10 IN3
-IN4 GND GND OUT 4 OUT 3 11 14
-KA TROL
-L293D
-<--- NAIK | TURUN ---->
-8
-11 IN4
-12
-7400
-mensuplai tegangan ke
-mikrokontroler arduino dan motor
-dc. Rangkaian catu daya ditunjukkan
-pada gambar 3.4 berikut ini :
+
 Gambar 3.2 Skema Rangkaian
 Sistem
-Pada skema rangkaian
+
+ Pada skema rangkaian
 dapat dilihat bagaimana
 penyambungan berbagai komponen
 baik komponen masukan maupun
@@ -183,7 +24,20 @@ lantai yang mana
 ketinggian kerangka lift adalah
 60cm x 20cm. Masing-masing lantai
 memiliki ketinggian sekitar 20cm.
+Rangkaian Catu Daya
+Rangkaian ini berfungsi
+untuk mensuplai tegangan
+keseluruhan rangkaian yang ada.
+Rangkaian catu daya yang dibuat
+memiliki keluaran 12 volt. Keluaran
+12 volt tersebut digunakan untuk
+mensuplai tegangan ke
+mikrokontroler arduino dan motor
+dc. Rangkaian catu daya ditunjukkan
+pada gambar 3.4 berikut ini :
+
 Gambar 3.4 Rangkaian Catu Daya
+
 Rangkaian Tombol dan Limit
 Switch
 Rancangan prototype
@@ -198,4 +52,3 @@ karena keluaran atau kerja tombol
 ini adalah antara on dan off atau 1
 dan 0. Berikut adalah gambar
 rangkaian dari tombol-tombol lift.
-Vol.4 No.3 September 2013 105

@@ -1,48 +1,4 @@
-P-ISSN : 2303-3142 E-ISSN : 2548-8570 Vol.10 No 2 Tahun 2021
 Tabel 7. Roadmap Implementasi
-Komponen Tahun ke-
-SI
-SIS 1
-_
-SI
-DU 1
-_
-SI
-KAS 1-2
-_
-SI
-GP 2
-_
-SI
-UJI 2
-_
-SI
-JADWAL 3
-_
-SI
-ABSEN 3
-_
-SI
-SKL 3
-_
-SI
-IB 3
-_
-SI
-PUS 3
-_
-SI
-BEA 4
-_
-SI
-LANGGAR 4
-_
-SI
-AGENDA 4
-_
-SI
-ALUMNI 5
-_
 Infrastruktur Jaringan 1
 Hardware dan Software 2
 Pengujian
@@ -131,4 +87,3 @@ baik oleh peserta dan diharapkan dapat
 direalisasikan. Sedangkan hambatan
 yang akan ditemui ketika
 mengimplementasikan sistem informasi
-Jurnal Sains dan Teknologi | 327

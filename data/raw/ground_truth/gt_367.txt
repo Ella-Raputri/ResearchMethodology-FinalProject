@@ -1,4 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 akan akatif (logika 1), yaitu motor
 penggerak akan berhenti (stop).
 Hasil Pengujian Secara
@@ -48,4 +47,3 @@ pintu menutup kembali secara
 otomatis. Hasil pengujian proses
 stop pada tiap-tiap lantai terlihat
 pada table dibawah 4.6.
-Vol.4 No.3 September 2013 109

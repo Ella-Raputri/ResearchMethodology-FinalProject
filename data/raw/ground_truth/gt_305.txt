@@ -1,4 +1,4 @@
-P-ISSN : 2303-3142 E-ISSN : 2548-8570 PENDAHULUAN
+PENDAHULUAN
 Seiring perkembangan zaman saat ini,
 teknologi informasi dan sistem informasi
 telah berkembang sangat pesat.
@@ -105,4 +105,3 @@ dan merealisasikan struktur organisasi
 enterprise, bisnis proses, sistem informasi
 dan infrastruktur (Lankhorst 2013). Arsitektur
 enterprise dapat menyediakan pendekatan
-Jurnal Sains dan Teknologi | 317

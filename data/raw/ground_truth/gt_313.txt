@@ -1,4 +1,4 @@
-P-ISSN : 2303-3142 E-ISSN : 2548-8570 Vol.10 No 2 Tahun 2021
+Gambar 7. Rekomendasi Topologi Jaringan
 Fase Peluang dan Solusi
 Hasil pada fase peluang dan solusi
 adalah berupa analisa kesenjangan sistem
@@ -22,46 +22,14 @@ Fase Rencana Migrasi
 Hasil dari analisa urutan implementasi
 aplikasi menggunakan pemetaan McFarland
 Strategic adalah sebagai berikut.
-Adapun aplikasi yang menempati
+Adapun aplikasi yang
 kuadran Key Operational ditempati oleh
-SI
-DU, SI
-UJI, SI
-KAS, SI
-SIS, dan SI
-GP.
-_
-_
-_
-_
-_
+SI DU, SILUJI, SI_KAS, SI_SIS, dan SI_GP.
 Pada kuadran Strategic ditempati oleh
-SI
-JADWAL, SI
-ABSEN, SI
-SKL, SI
-IB,
-_
-_
-_
-_
-dan SI
-_
-PUS. Pada kuadran High Potential
-ditempati oleh SI
-BEA, SI
-LANGGAR, dan
-_
-_
-SI
-_
-AGENDA. Pada kuadran Support
-ditempati oleh SI
-ALUMNI.
-_
+SI_JADWAL, SI ABSEN, SI_SKL, SILIB, dan SI_PUS. Pada kuadran High Potential ditempati oleh SI_BEA, SI_LANGGAR, dan SILAGENDA. Pada kuadran Support
+ditempati oleh SI_ALUMNI.
 Berdasarkan urutan implementasi
 tersebut dan dipadukan dengan ketersedian
 resource serta tingkat kesulitan dari
 pembuatan sistem informasi, maka roadmap
 implementasi dapat dilihat pada Tabel 5.
-Jurnal Sains dan Teknologi | 325

@@ -1,45 +1,9 @@
-Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
-Online: https://ejournal3.undip.ac.id/index.php/jtm
-Perbandingan Azimtuh Motor & Real Motor
-450
-400
-350
-300
-250
-200
-150
-100
-50
-0
-0 100 200 300 400 500 600 700 800
-Gambar 11. Perbandingan Azimuth Motor DC dengan tracking n2yo.com satelit LAPAN A2 terhadap Lab UPT Undip
-pada tanggal 8 November 2022 (waktu - azimuth).
+
+Gambar 11. Perbandingan Azimuth Motor DC dengan tracking n2yo.com satelit LAPAN A2 terhadap Lab UPT Undip pada tanggal 8 November 2022 (waktu - azimuth).
+
 Dari data gambar 11. didapatkan perbedaan hasil dari azimuth motor DC dengan dengan tracking yang dilakukan
-pada n2yo.com selama 720 detik berdasarkan pengamatan visual data gerakan motor didapakan error sebesar 4 derajat dari
-gerakan motor terhadap setpoint yang dituju sesuai dengan tracking website n2yo.com
-Perbandingan Azimtuh Motor &
-Gerakan Motor
-500
-Azimuth (deg)
-0
-0 200 400 600 800
-Waktu ke (sekon)
-Gambar 12. Perbandingan Azimuth Motor DC dengan tracking n2yo.com satelit LAPAN A2 terhadap Lab UPT Undip
-pada tanggal 10 November 2022 (waktu - azimuth).
+pada n2yo.com selama 720 detik berdasarkan pengamatan visual data gerakan motor didapakan error sebesar 4 derajat dari gerakan motor terhadap setpoint yang dituju sesuai dengan tracking website n2yo.com
+Gambar 12. Perbandingan Azimuth Motor DC dengan tracking n2yo.com satelit LAPAN A2 terhadap Lab UPT Undip pada tanggal 10 November 2022 (waktu - azimuth).
 Dari data gambar 4.5 didapatkan perbedaan hasil dari azimuth motor DC dengan dengan tracking yang dilakukan
-pada n2yo.com selama 720 detik berdasarkan pengamatan visual data gerakan motor didapakan error sebesar 3 derajat dari
-gerakan motor terhadap setpoint yang dituju sesuai dengan tracking website n2yo.com
-Perbandingan Azimtuh Motor &
-Gerakan Motor
-Azimuth (deg)
-500
-400
-300
-200
-100
-0
-0 200 400 600 800 1000
-Waktu ke (sekon)
-Gambar 13. Perbandingan Azimuth Motor DC dengan tracking n2yo.com satelit LAPAN A2 terhadap Lab UPT Undip
-pada tanggal 15 November 2022 (waktu - azimuth).
-JTM (S-1) Ð Vol. 11, No. 2, April 2023:125-138 135
+pada n2yo.com selama 720 detik berdasarkan pengamatan visual data gerakan motor didapakan error sebesar 3 derajat dari gerakan motor terhadap setpoint yang dituju sesuai dengan tracking website n2yo.com
+Gambar 13. Perbandingan Azimuth Motor DC dengan tracking n2yo.com satelit LAPAN A2 terhadap Lab UPT Undip pada tanggal 15 November 2022 (waktu - azimuth).

@@ -1,5 +1,3 @@
-Jurnal FUSE-Teknik Elektro 29
-| Vol. 2 | No. 1 | Halaman 21-30 [Juni] [2022]
 sebesar 25% dan jarak laser terhadap benda kerja 20mm. Hasil yang didapat adalah
 gambar objek yang dibuat pada benda kerja sesuai dengan ukuran yang diinputkan pada
 antarmuka yaitu gambar persegi dengan ukuran 30 x 30 mm dengan ketebalan garis 1
@@ -38,6 +36,3 @@ cat anodize akan menghasilan pengerjaan terbaik dengan nilai parameter kecepatan
 yang paling baik adalah senilai 20 mm. Hal tersebut mengingat modul laser yang
 merupakan perangkat optic sehingga didapat nilai focal point/titik fokus cahaya laser
 terhadap benda kerja dengan jarak 20 mm.
-Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
-ISSN 2797-815X
-P-ISSN 2797-8745

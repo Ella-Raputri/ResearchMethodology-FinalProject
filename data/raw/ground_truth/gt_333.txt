@@ -1,5 +1,4 @@
-28
-Rian Ariana Putra. Rancang Bangun Mesin Laser Engraving 2-D Berbasis ..................
+
 permasalahan, mesin dapat membuat gambar pada benda kerja sesuai dengan input yang
 diberikan pada antarmuka.
 3.2.2 Analisa hasil pengujian sistem kontrol dan fungsi laser
@@ -41,6 +40,3 @@ yang saling berhimpitan sehingga gambar yang dihasilkan cendenrung kurang jelas.
 3.2.4 Analisa hasil pengujian kepresisian
 Hasil pengujian kepresisian ditampilkan pada gambar 8. Pada pengujian ini digunakan
 material jenis kayu dengan parameter kecepatan gerak laser 1000mm/min, daya laser
-Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
-ISSN 2797-815X
-P-ISSN 2797-8745

@@ -1,4 +1,4 @@
-Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+
 1. Untuk membuktikan kebenaran dari flowchart yang
 digambar tidak diperlukan bahasa pemrograman. Dengan
 menggunakan flowgorithm gambar flowchart yang dibuat
@@ -53,5 +53,3 @@ Nusantaran, Nganjuk, 2018
 badan-ideal-yang-tepat
 [16] Renaldi Munir dkk, Algoritma dan Pemrograman Edisi Keenam, Cetakan
 Pertama, Informatika Bandung, 2016
-64
-p-ISSN: 2337-4055 e-ISSN: 2776-9267

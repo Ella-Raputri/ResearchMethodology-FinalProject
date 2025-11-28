@@ -9,12 +9,7 @@ buatan dapat dilihat dari gambar 2.
 Gambar 2. Domain Aplikasi Utama AI (Kadir dan Terra, 2003) 
 Aplikasi Antarmuka 
 Alami 
- Bahasa Alami 
- Pengenalan 
-Percakapan 
- Antarmuka 
-Multisensor 
- Virtual Reality 
+ 
 Gambar 1 menjelaskan bahwa menurut O’brien kecerdasan buatan dibagi menjadi 3 aplikasi, yaitu 
 aplikasi Pengetahuan Kognitif, Aplikasi Robotika, dan Aplikasi Antarmuka Alami. Aplikasi 
 Pengetahuan Kognitif dibagi menjadi beberapa bagian yaitu: Sistem Pakar, Sistem Belajar, Logika 

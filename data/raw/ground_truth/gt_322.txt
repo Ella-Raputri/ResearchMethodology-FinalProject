@@ -1,12 +1,5 @@
-Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
+
 Gambar 19 Flowchart kondisi
-Contoh algoritma untuk menghitung berat badan ideal.
-Berat badan ideal dihitung berdasarkan jenis kelamin, jika
-wanita rumusnya berat badan ideal sebagai berikut: Berat
-badan ideal wanita = (tinggi badan - 100) -((tinggi badan-
-100)*15%)
-Jika jenis kelamin laki-laki rumusnya sebagai berikut:
-Gambar 17 Flowchart Menghitung Luas Segitiga
 Flowchart yang digambarkan pada gambar 17, jika di-run
 Berat badan ideal laki-laki = (tinggi badan - 100) -((tinggi
 badan-100)*10%). Untuk mengetahui berat ideal, diawali
@@ -28,6 +21,11 @@ atau salah. Instruksi akan dilaksanakan manakala
 kondisi atau syarat bernilai benar, dan suatu instruksi
 tidak akan dikerjakan apabila kondisi atau syarat tidak
 terpenuhi. Berikut gambar flowchart kondisi [14]
+Gambar 19 Flowchart kondisi
+Contoh algoritma untuk menghitung berat badan ideal.
+Berat badan ideal dihitung berdasarkan jenis kelamin, jika wanita rumusnya berat badan ideal sebagai berikut: Berat
+badan ideal wanita = (tinggi badan - 100) -((tinggi badan-100)*15%)
+Jika jenis kelamin laki-laki rumusnya sebagai berikut:
+Berat badan ideal laki-laki = (tinggi badan - 100) -((tinggi
+badan-100)*10%). Untuk mengetahui berat ideal, diawali dengan mengisi jenis kelamin serta tingginya[15]. Berikut gambar flowchart untuk menghitung berat badan.
 Gambar 20 Flowchart menghitung berat badan ideal
-61
-p-ISSN: 2337-4055 e-ISSN: 2776-9267

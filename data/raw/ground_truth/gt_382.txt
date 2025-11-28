@@ -1,4 +1,3 @@
-Jurnal Explore STMIK Mataram Ð Volume 8 No 1 Tahun 2018 ISSN: 2087-894X
 7. Kemudian kasir mencatat jumlah - jumlah
 simpanan / penarikan ke dalam buku
 simpanan.
@@ -18,6 +17,9 @@ koperasi untuk mendata dan mengelola data
 simpanan dan penarikan. Sistem baru
 tersebut dapat dijelaskan pada Gambar 2.
 Alur Sistem Baru :
+Gambar 2. Alur Sistem Baru
+c. Unifield Modeling Language (UML)
+a) Use Case Diagram
 Gambar 3. Use Case Diagram
 Use Case Diagram untuk penggunaan
 sistem dapat di lihat seperti gambar 3. Sistem
@@ -32,9 +34,6 @@ ERD untuk sistem simpan pinjam KSP
 Harapan Bersama terdiri dari 4 entitas yaitu
 petugas, anggota, transaksi, dan login. Untuk
 lebih jelasnya dapat dilihat pada gambar 4.
-Gambar 2. Alur Sistem Baru
-c. Unifield Modeling Language (UML)
-a) Use Case Diagram
 Gambar 5. Entity Relationship Diagram
 c) Arsitektur Program (Struktur Program)
 Pada perancangan sistem informasi
@@ -43,4 +42,3 @@ Bersama ini terdata arsitektur program
 yang dirancang sebagai gambaran singkat
 dari sistem informasi tersebut. Stuktur
 program ini menampilkan menu beranda,
-4

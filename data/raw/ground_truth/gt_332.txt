@@ -1,14 +1,10 @@
-Jurnal FUSE-Teknik Elektro 27
-| Vol. 2 | No. 1 | Halaman 21-30 [Juni] [2022]
 3.1.5 Pengujian material
 Pengujian material dilakukan dengan cara membuat berbagai gambar pada dua materi
 yang berbeda yaitu kayu dan logam. Hasil pengujian material kayu dapat dilihat pada
 gambar 9 dengan kecepatan gerak 1000 mm/min dan jarak laser head 20 mm.
-Daya laser 25 % Daya laser 50 % Daya laser 100 %
 Gambar 9. Hasil pengujian material kayu dengan variasi daya laser 25Ğ 100 %.
 Hasil pengujian material logam dapat dilihat pada gambar 10 dengan daya laser 100%
 dan jarak laser head 20 mm.
-Kecepatan gerak 500 mm/min Kecepatan gerak 200 mm/min Kecepatan gerak 70 mm/min
 Gambar 10. Hasil pengujian material logam dengan variasi kecepatan gerak 70 Ğ 500
 mm/min.
 3.2 Analisa Hasil Pengujian Sistem
@@ -25,6 +21,3 @@ untuk mengetahui konsistensi fungsi dari aktuator. Pada pengujian ini ditentukan
 beberapa parameter yaitu kecepatan gravir sebesar 1000 mm/min, daya laser 25% jarak
 laser heard dengan benda kerja 20mm dengan material benda kerja adalah kayu. Hasil
 yang didapatkan adalah mesin dapat bekerja sebagaimana mestinya tanpa ada
-Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
-ISSN 2797-815X
-P-ISSN 2797-8745

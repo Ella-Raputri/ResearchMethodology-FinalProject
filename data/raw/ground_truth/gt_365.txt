@@ -1,4 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 Gambar 3.8 Proses keseluruhan
 pengendali lift tiga lantai
 Secara garis besar urutan
@@ -48,4 +47,3 @@ mengetahui apakah rangkaian yang
 dibuat telah tersambung dengan
 benar.Berikut adalah program untuk
 rangkaian tombol.
-Vol.4 No.3 September 2013 107

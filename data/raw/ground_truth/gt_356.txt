@@ -1,21 +1,6 @@
-Horowidi et al / Buletin Anatomi dan Fisiologi 6 (2) 2021
 Gambar 3. Struktur sel sekresi pada daun jeruk Kalamansi dari Lokasi Desa Wayame.
 Keterangan: se: sel epitel, ss: sel seludang, rs: rongga sekretori. Pembesaran 400x, Bar: 10µm
 Tabel 3. Ukuran sel sekresi daun jeruk Kalamansi (C. microcarpa Bunge.) pada lokasi berbeda di Pulau Ambon
-No Lokasi Rerata ukuran diameter sel sekresi (µm)
-1. Desa Hutumuri 2. Desa Wayame 3. Desa Kilang 4. Desa Latta 5. Desa Halong 6. Desa Poka 7. Desa Passo 8. Desa Naku 9. Desa Lateri 10. Kelurahan Mangga Dua (Kusu-Kusu Sereh) 11. Desa Hative Besar 12. Desa Hukurilla 13. Desa RumahTiga 167,60 ± 47,23
-147,90 ± 47,48
-140,63 ± 33,2
-132,75 ± 38.30
-130,97 ± 26,64
-128,94 ± 28,81
-124,47 ± 22,54
-116,08 ± 36,68
-115,10 ± 23,60
-114,39 ± 33,36
-112,63 ± 26.07
-112,46 ± 27,05
-106,08 ± 22,60
 KESIMPULAN
 Struktur sel sekresi pada jeruk terdiri dari sel
 epitel, sel seludang, dan rongga sekresi, (2) ukuran
@@ -37,4 +22,3 @@ Bennici, A., & Tani, C. (2004). Anatomical and
 ultrastructural study of the secretory cavity
 development of Citrus sinensis and Citrus
 limon: evaluation of schizolysigenous
-144

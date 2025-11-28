@@ -1,4 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 RANCANG BANGUN PROTOTIPE ELEVATOR MENGGUNAKAN
 MICROCONTROLLER ARDUINO ATMEGA 328P
 Andi Adriansyah1,Oka Hidyatama2
@@ -55,4 +54,3 @@ ke tempat atau lantai lainnya secara
 vertikal dengan menggunakan
 seperangkat alat mekanik.
 Perkembangan teknologi
-Vol.4 No.3 September 2013 100

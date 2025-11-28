@@ -1,9 +1,6 @@
-Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
-Online: https://ejournal3.undip.ac.id/index.php/jtm
 PENGEMBANGAN MODEL DAN SMULASI UAV (UNMANNED AREA VEHICLE)
 ANTENA PENJEJAK DRONE PADA PALTFORM BERGERAK
-*Majenta Hendi Pratama1
-, M. Tauviqirrahman 2, Paryanto2
+*Majenta Hendi Pratama1, M. Tauviqirrahman 2, Paryanto2
 1Mahasiswa Jurusan Teknik Mesin Fakultas Teknik, Universitas Diponegoro
 2Dosen Jurusan Teknik Mesin Fakultas Teknik, Universitas Diponegoro
 Jl. Prof. Sudharto, SH., Tembalang-Semarang 50275, Telp. +62247460059
@@ -49,4 +46,3 @@ angles. In fact, in the field test on the demo kit there is an error in the azim
 maximum elevation of 3 degrees.
 Keywords: gcs (ground control system); satellite; satellite azimuth and elevation angles; tracking
 antennas
-JTM (S-1) Ð Vol. 11, No. 2, April 2023:125-138 125

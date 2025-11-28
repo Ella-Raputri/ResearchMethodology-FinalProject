@@ -1,4 +1,3 @@
-Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
 daripada mahasiswa yang memperoleh pembelajaran
 konvensional.
 Paper seminar Pengenalan Algoritma Pemrograman Melalui
@@ -22,7 +21,23 @@ logika pengalaman sehari-hari, dan menerapkan algoritma
 pemrograman dalam kehidupan sehari-hari, sehingga
 mahasiswa belajar dengan bermakna
 III. HASIL DAN PEMBAHASAN
-Gambar 2 Proses Setup
+A. Cara Download Flowgorithm
+Flowgorithm dapat di download pada situs flowgorithm[3]
+Setelah halaman web flowgorithm terbuka akan terlihat
+seperti pada gambar 1 di bawah ini.
+Gambar 1. Halaman Web Flowgorithm
+Langkah berikutnya sebagai berikut:
+1. Klik menu download.
+2. Pilih sesuai dengan sistem operasi yang digunakan,
+kemudian download.
+3. Apabila sudah sukses download seperti terlihat pada
+shape digunakan untuk memasukkan dokumentasi. Berikut
+gambar 2 di bawah ini, kemudian lanjutkan dengan
+gambar comment shape
+setup.
+4. Selanjutnya klik next.
+5. Dilanjutkan dengan pilih I Agree, kemudian tekan next.
+Gambar 2. Proses Setup
 B. Simbol-simbol pada flowgorithm (shapes)
 Simbol-simbol yang digunakan pada flowgorithm, sama
 dengan simbol-simbol yang digunakan pada flowchart.
@@ -32,10 +47,6 @@ Simbol Assignment digunakan untuk menyimpan hasil
 perhitungan ke dalam sebuah variabel. Ini adalah salah
 satu tugas paling umum yang ditemukan dalam program.
 Berikut gambar Assignment Shape
-A. Cara Download Flowgorithm
-Flowgorithm dapat di download pada situs flowgorithm[3]
-Setelah halaman web flowgorithm terbuka akan terlihat
-seperti pada gambar 1 di bawah ini.
 Gambar 3 Assignment
 2. Breakpoint Shape
 Breakpoint Shape menghentikan eksekusi program. Ini
@@ -48,21 +59,7 @@ Gambar 4 Breakpoint Shape
 Pernyataan Panggilan mentransfer kontrol ke suatu fungsi.
 Informasi yang diteruskan ke fungsi disebut 'argumen'.
 Berikut gambar call shape.
-Gambar 1. Halaman Web Flowgorithm
-Langkah berikutnya sebagai berikut:
 Gambar 5 Call Shape
-1. Klik menu download.
-2. Pilih sesuai dengan sistem operasi yang digunakan,
 4. Comment Shape
-kemudian download.
-Komentar tidak memengaruhi cara program berjalan. Call
-3. Apabila sudah sukses download seperti terlihat pada
-shape digunakan untuk memasukkan dokumentasi. Berikut
-gambar 2 di bawah ini, kemudian lanjutkan dengan
-gambar comment shape
-setup.
-4. Selanjutnya klik next.
-5. Dilanjutkan dengan pilih I Agree, kemudian tekan next.
+Komentar tidak memengaruhi cara program berjalan. Call shape digunakan untuk memasukkan dokumentasi. Berikut gambar comment shape
 Gambar 6 Comment Shape
-58
-p-ISSN: 2337-4055 e-ISSN: 2776-9267

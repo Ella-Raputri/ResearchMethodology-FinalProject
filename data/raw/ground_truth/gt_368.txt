@@ -1,4 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 Tabel 4.6 Hasil Pengujian Proses
 Pintu Stop
 Berdasarkan tabel 4.6 dapat
@@ -58,4 +57,3 @@ ingin dituju, dan proses yang terjadi
 pada kerja pintu lift dapat membuka
 dan menutup kembali secara
 otomatis. Dan semua sensor dapat
-Vol.4 No.3 September 2013 110

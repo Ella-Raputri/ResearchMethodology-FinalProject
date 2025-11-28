@@ -1,5 +1,3 @@
-22
-Rian Ariana Putra. Rancang Bangun Mesin Laser Engraving 2-D Berbasis ..................
 1. Pendahuluan
 Kemajuan dalam bidang ilmu pengetahuan dan teknologi saat ini memungkinkan
 pemanfaatan laser pada berbagai bidang. Penerapan aplikasi laser processing dapat
@@ -38,6 +36,3 @@ Bahan Ð bahan yang digunakan dalam penelitian ini terdiri atas tiga jenis katego
 1. Komponen mekanis berfungsi sebagai kerangka utama (main frame) pada mesin,
 terdiri dari batang alumunium profil V, akrikil dengan ketebalan 5 mm, baut, mur,
 ring, bearing, pulley, timing belt dan cable holder.
-Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
-ISSN 2797-815X
-P-ISSN 2797-8745
