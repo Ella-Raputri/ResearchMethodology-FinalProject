@@ -1,4 +1,3 @@
-e-ISSN : 3031-8742, dan p-ISSN : 3031-8750, Hal. 139-151
 2. Pencekaman alat potong
 a. Pencekaman alat potong atau pahat pada Mesin Sekrap disesuaikan dengan ukuran
 mesindan meja mesin. Gambar 5a adalah cara pencekaman pahat pada Mesin Sekrap
@@ -12,9 +11,9 @@ Gambar 5 Pencekaman alat potong pada proses Skrap
 a. Menjalankan mesin
 b. Lengan digerakkan dengan cara memutar roda pemeriksa untuk melihat kemungkinan
 tertabraknya lengan
-c. d. e. Menentukan banyak langkah per menit
-Motor mesin dihidupkan dengan cara memasukkan tuas kopling mesin mulai bekerja
-Mencoba langkah pemakanan (feeding) dari meja, mulai dari langkah halus sampai
+c. Menentukan banyak langkah per menit
+d. Motor mesin dihidupkan dengan cara memasukkan tuas kopling mesin mulai bekerja
+e. Mencoba langkah pemakanan (feeding) dari meja, mulai dari langkah halus sampai
 langkah kasar
 f. Perhatikan seluruh gerak mesin
 g. Menghentikan kerja mesin dilakukan dengan cara melepas tuas kopling kemudian

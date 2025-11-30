@@ -1,5 +1,3 @@
-Penerapan Diagram Sebab Akibat (Fishbone Diagram) pada Identifikasi Kerusakan Mekanisme Pengumpan dan
-Penyusuana Standard Operating Procedure Mesin Skrap
 f. Spindel penggerak meja
 g. Meja
 h. Batang penggerak.
@@ -9,12 +7,12 @@ gigi ratchet c dengan lidah jentara d.
 Baut b dan lidah pengungkit d dihubungkan dengan batang penggerak e waktu gerakan
 maju, gerakn putar dari lidah pengungkit dipindahkan ke spindle penggerak meja. Pada gerakan
 berikutnya batang penggerak mundur dan lidah pengungkit d melewati roda gigi ratchet c
-daintara 2 gigi. Dengan memutar lidah pengunkit d 180¼, maka pemakan arah terbalik.
+daintara 2 gigi. Dengan memutar lidah pengunkit d 180, maka pemakan arah terbalik.
 Pemakanan dapat disetel dengan baut.
 Standard Operating Procedure (SOP) Skrap
 1. Pencekaman benda kerja:
-a. b. Benda persegi yang kecil dapat dipasang pada ragum (Gambar 4a.).
-Pencekaman benda kerja disesuaikan dengan contour permukaan benda kerja yang akan
+a. Benda persegi yang kecil dapat dipasang pada ragum (Gambar 4a.).
+b. Pencekaman benda kerja disesuaikan dengan contour permukaan benda kerja yang akan
 disekrap. Untuk mencekam benda kerja yang memiliki permukaan tidak beraturan atau
 tidak rata kita harus memasang dan mengganjal benda kerja dengan besi bulat yang
 dapat menekan pada satu titik (Gambar 4b).
@@ -27,4 +25,3 @@ e. Benda kerja yang mempunyai dimensi cukup besar dan tidak mungkin dicekam deng
 ragum, dapat dicekam dengan menggunakan klem (Gambar 4e.). Perhatikan posisi
 pengekleman benda kerja terhadap arah pemotongan.
 Gambar 4 Pencekaman benda kerja pada proses skrap
-146 MARS - VOLUME 3 NOMOR 1, TAHUN 2025

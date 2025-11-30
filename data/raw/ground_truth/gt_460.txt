@@ -1,8 +1,3 @@
-Mars: Jurnal Teknik Mesin, Industri, Elektro dan Ilmu Komputer
-Volume 3 Nomor 1, Tahun 2025
-e-ISSN : 3031-8742, dan p-ISSN : 3031-8750, Hal. 139-151
-DOI: https://doi.org/10.61132/mars.v2i6.619
-Available online at: https://journal.arteii.or.id/index.php/Mars
 Penerapan Diagram Sebab Akibat (Fishbone Diagram) pada Identifikasi
 Kerusakan Mekanisme Pengumpan dan Penyusuana Standard Operating
 Procedure Mesin Skrap
@@ -48,5 +43,3 @@ karena alat ini digunakan untuk memproses bahan baku atau limbah menjadi bentuk 
 terstruktur. Fungsi utama mesin ini adalah untuk memotong atau mengikis material yang tidak
 diinginkan dan menjadikannya bahan yang dapat digunakan kembali. Keberhasilan
 pengoperasian mesin skrap sangat bergantung pada sistem pengumpan yang berfungsi dengan
-Received Desember 02, 2024; Revised Desember 16, 2024; Accepted Desember 31, 2024; Published: Januari
-06, 2025

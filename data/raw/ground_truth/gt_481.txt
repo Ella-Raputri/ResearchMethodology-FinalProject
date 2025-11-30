@@ -1,4 +1,3 @@
-Aplikasi Kajian DNA Molekuler dan Fenotipik Pada Program Pelepasliaran Burung Kakatua
 PEMBAHASAN
 Barcode DNA pada populasi kakatua di
 masyarakat
@@ -6,7 +5,7 @@ Hasil kajian barcode DNA pada burung
 kakatua yang dipelihara masyarakat sekitar Jakarta
 menunjukkan divergensi sekuen intraspesifik dari
 fragmen gen COI DNA mitokondria berkisar
-0,0-0,6% dengan rata-rata 0,25±0,055% dan
+0,0-0,6% dengan rata-rata 0,25Â±0,055% dan
 interspesifik berkisar 3,1-11,6%, sedangkan hasil
 kajian lain terhadap burung kakatua putih
 menunjukkan performan yang tidak jauh berbeda,
@@ -14,48 +13,21 @@ yaitu divergensi intraspesifik dan interspesifik
 berkisar antara 0,0-0,26% dan 2,99-10,2%
 (Astuti & Sulandari 2010). Hasil divergensi
 interspesifik lebih besar dari 3% menunjukkan
-setiap spesies mempunyai sekuen xwEyBzN unik,
-sehingga ykwzN dan FHxykwzN antar taksa terlihat
+setiap spesies mempunyai sekuen barcode unik,
+sehingga clade dan subclade antar taksa terlihat
 jelas dengan resolusi tinggi.
 Jika hal ini di bandingkan dengan divergensi
 intraspesifik dan interspesifik hasil penelitian
 sekuen gen COI DNA mitokondria burung di
 Korea, diketahui rata-rata 0,3% dan 7,9% (Yoo
-NGW wk- 2006), sedangkan burung di Jepang jarak
+et al. 2006), sedangkan burung di Jepang jarak
 genetik interspesifik berkisar antara 2-2,5%,
 namun diketahui ada kelompok burung yang
 mempunyai jarak genetik interspesifik dengan
 perbedaan lebih dari 2% dan ada kelompok
 burung yang mempunyai divergensi sekuen
 interspesifik lebih kecil dari 2% (Nishiumi
+
 Tabel 3. Hasil identifikasi subspesies dan jenis kelamin berdasarkan karakteristik fenotipik dan DNA molekuler
-No Kode Identifikasi Morfologi Identifikasi Molekuler
-Subspesies Sex Subspesies Sex
-1 330827 owywGHwWPwkNERGwWGERGBAW M owywGHwWPwkNERGwWGERGBAW M
-2 330825 owywGHwWPwkNERGwWGERGBAW F owywGHwWPwkNERGwWGERGBAW F
-3 330824 owywGHwWPwkNERGwWGERGBAW M owywGHwWPwkNERGwWGERGBAW M
-4 330823 owywGHwWPwkNERGwWGERGBAW M owywGHwWPwkNERGwWGERGBAW M
-5 330822 owywGHwWPwkNERGwWGERGBAW M owywGHwWPwkNERGwWGERGBAW M
-6 330828 owywGHwWPwkNERGwWGERGBAW M owywGHwWPwkNERGwWGERGBAW M
-7 330829 owywGHwWPwkNERGwWGERGBAW F owywGHwWPwkNERGwWGERGBAW F
-8 330331 owywGHwWPwkNERGwWGERGBAW M owywGHwWPwkNERGwWGERGBAW M
-9 330830 owywGHwWPwkNERGwWGERGBAW F owywGHwWPwkNERGwWGERGBAW F
-10 330833 fEBxBFyRPNEWwGNEERlHFW M fEBxBFyRPNEWwGNEERlHFW M
-11 330832 fEBxBFyRPNEWwGNEERlHFW M fEBxBFyRPNEWwGNEERlHFW M
-12 330808 owywGHwWPwkNERGwWGERGBAW F owywGHwWPwkNERGwWGERGBAW F
-13 330810 owywGHwWPwkNERGwWGERGBAW F owywGHwWPwkNERGwWGERGBAW F
-14 330834 owywGHwWPwkNERGwWGERGBAW F owywGHwWPwkNERGwWGERGBAW F
-15 330836 owywGHwWPwkNERGwWGERGBAW F owywGHwWPwkNERGwWGERGBAW F
-16 320832 owywGHwWPwkNERGwWGERGBAW M owywGHwWPwkNERGwWGERGBAW M
 Tabel 4. Hasil identifikasi subspesies dan jenis kelamin dan DNA berdasarkan karakteristik fenotipik dan
 DNA molekuler
-Kode Identifikasi Morfologi Identifikasi Molekuler Karakter Morfologi
-Subspesies Sex Subspesies Sex Bobot Panjang
-Panjang Kepala
-Paruh
-330826 o- FHkCgHENw CwEIHkw F o- PwkNERGw GERGBA F 578 460 68.9
-320824 o-WPwkNERGwWNkNBABEwW M o-WPwkNERGwWGERGBAW F 490 470 74.4
-330807 o-WFHkCgHENwWCwEIHkwW F o-WPwkNERGwWGERGBAW F 420 390 70.1
-330823 o-WFHkCgHENwWCwEIHkwW M o-WPwkNERGwWGERGBAW F 470 390 67.7
-320835 o-WPwkNERGwWNkNBABEwW F o-WPwkNERGwWGERGBAW F 420 383 69.9
-165

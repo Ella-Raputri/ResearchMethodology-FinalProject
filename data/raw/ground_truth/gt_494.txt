@@ -1,15 +1,14 @@
-Sumerta & Kanti
 Carrau, F., C. Gaggero, & PS. Aguilar. 2015.
 Yeast Diversity and Native Vigor for
 Flavor Phenotypes. Trends in Biotechnology,
 33(3): 1-7.
-DÕAmore, T., CJ. Panchal, I. Russell & GG.
+D'Amore, T., CJ. Panchal, I. Russell & GG.
 Stewart. 1990. A Study of Ethanol
 Tolerance in Yeast. Critical Reviews in
 Biotechnology, 9(4): 287-304.
 Dorfler, J. & HV. Amorim. 2007. Applied Bioethanol
 Technology in Brazil. Zuckerindustrie. 132(9):
-694Ð697.
+694-697.
 Dung, NTP., P. Thanonkeo, & HX. Phong. 2012.
 Screening Useful Isolated Yeasts for Ethanol
 Fermentation at High Temperature.
@@ -23,7 +22,7 @@ Fleet, GH. 2011. Yeast Spoilage of Foods and
 Beverages. Dalam: Kurtzman, CP, Fell,
 JW, Boekhout, T. The Yeast: A Taxonomyc
 Study 5th Edition. USA: Elseiver. 53-64.
-Hamby, KA., A. Hern‡ndez, K. Boundy-Mills,
+Hamby, KA., A. Hernandez, K. Boundy-Mills,
 & FG. Zalom. 2012. Associations of
 Yeasts with Spotted-Wing Drosophila
 (Drosophila suzukii; Diptera: Drosophilidae) in
@@ -53,8 +52,7 @@ cerevisiae Wine Yeast That Exhibits
 Reduced Ethanol Production during
 Fermentation Under Controlled Micro-
 oxygenation Conditions. Applied and
-Environmental Microbiology. 72(9): 5822
-Ð5828.
+Environmental Microbiology. 72(9): 5822-5828.
 Jespersen, L. 2003. Occurrence and Taxonomic
 Characteristics of Strains of Saccharomyces
 cerevisiae Predominant in African Indigenous
@@ -72,7 +70,7 @@ Kuhad, RC., R. Gupta, YP. Khasa, A. Singh &
 YHP. Zhang. 2011. Bioethanol Production
 from pentose Sugars: Current Status and
 Future Prospects. Renewable and Sustainable
-Energy Reviews. 15: 4950Ð4962.
+Energy Reviews. 15: 4950-4962.
 Kuriyama H, D. Sastraatmadja, Y. Igosaki, K.
 Watanabe, A. Kanti & T. Fukatsu. 1997.
 Identification and Characterization of
@@ -87,7 +85,7 @@ From Analysis of Nuclear Large Subunit
 (26S) Ribosomal DNA Partial Sequences.
 Antonie van Leeuwenhoek, International
 Journal of General and Molecular
-Microbiology. 73(4): 331Ð371.
+Microbiology. 73(4): 331-371.
 Limtong, S., S. Sintara & P. Suwannarit. 2005.
 Yeast Diversity in Thai Traditional
 Alcoholic Starter. Kasetsart Journal. 36
@@ -95,7 +93,7 @@ Alcoholic Starter. Kasetsart Journal. 36
 Merico, A., P. Sulo, J. Piskur & C. Compagno.
 2007. Fermentative Lifestyle in Yeasts
 Belonging to the Saccharomyces
-Complex. Febs Journal, 274: 976Ð989.
+Complex. Febs Journal, 274: 976-989.
 Nielsen, J., C. Larsson, A. van Maris & J.
 Pronk. 2013. Metabolic Engineering of
 Yeast for Production of Fuels and

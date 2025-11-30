@@ -1,5 +1,3 @@
-Penerapan Diagram Sebab Akibat (Fishbone Diagram) pada Identifikasi Kerusakan Mekanisme Pengumpan dan
-Penyusuana Standard Operating Procedure Mesin Skrap
 Data sekunder merupakan data yang diperoleh melalui pengkajian dari berbagai
 literatur pustaka yang tersedia maupun sumber online.
 Data Pada tahap ini merupakan penjelasan mengenai tahapan pengumpulan data. Untuk
@@ -17,4 +15,3 @@ berupa catatan, arsip, buku yang telah ada. Dalam penelitian ini dokumentasi yan
 diperlukan adalah semua data kerusakan mesin yang ada di pabrik.
 Untuk mempermudah jalannya penelitian analisis kerusakan dan upaya perbaikan pada
 mekanisme pengumpan mesin skrap, maka dibuat diagram alir seperti dibawah ini.
-142 MARS - VOLUME 3 NOMOR 1, TAHUN 2025

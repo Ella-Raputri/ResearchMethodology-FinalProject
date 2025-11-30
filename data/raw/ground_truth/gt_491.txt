@@ -1,38 +1,6 @@
-Keragaman Jenis Khamir Penghasil Etanol yang Diisolasi dari Makanan Fermentasi
-Candida glabrata Y15Kr110
-Pichia kudriavzevii Y15Kr109
-Candida glabrata Y15Kr108
-Saccharomyces cerevisiae Y15Kr107
-Pichia kudriavzevii Y15Kr106
-Pichia kudriavzevii Y15Kr105
-Torulaspora delbrueckii Y15Kr104
-Torulaspora delbrueckii Y15Kr103
-Saccharomycopsis fibuligera Y15Kr102
-Candida zeylanoides Y15Kr098
-Candida zeylanoides Y15Kr097
-Kodamaea ohmeri Y15Kr096
-Saccharomycopsis fibuligera Y15Kr095
-Torulaspora globosa Y15Kr094
-Saccharomyces cerevisiae Y15Kr093
-1.40
-0.16
-1.00
-3.32
-0.31
-0.21
-1.63
-1.29
-0.07
-0.00
-0.00
-0.61
-0.07
-0.92
-1.58
-0.00 0.50 1.00 1.50 2.00 2.50 3.00 3.50 4.00
-PERSENTASE VOLUME ETANOL (%V/V)
 Gambar 1. Variasi persentase volume etanol yang dihasilkan isolat khamir makanan fermentasi pada media
 dengan kadar glukosa 10% selama masa inkubasi 72 jam.
+
 PEMBAHASAN
 Isolasi dan identifikasi khamir pada
 makanan fermentasi menunjukkan keanekaragaman
@@ -83,7 +51,7 @@ solani; Kuriyama et al. (1997) Sm. fibuligera,
 P. anomala; dan Barus & Steffysia (2013) P.
 kudriavsevii, P. Jadini, disisi lain, Limtong et
 al. (2005) mengungkapkan starter minuman
-beralkohol tradisional di Thailand Òloog pangÓ
+beralkohol tradisional di Thailand ï¿½loog pangï¿½
 terdapat jenis khamir yaitu Saccharomycopsis
 fibuligera, P. anomala, P. kudriavzevii, P. burtonii, P.
 fabianii, S. cerevisiae, Candida rhagii, C. glabrata, T.
@@ -94,4 +62,3 @@ Sebagian besar khamir yang terisolasi pada
 makanan fermentasi melakukan aktivitas fermentasi
 dengan menghasilkan persentase etanol yang
 bervariasi. Jenis khamir yang mampu menghasilkan
-65

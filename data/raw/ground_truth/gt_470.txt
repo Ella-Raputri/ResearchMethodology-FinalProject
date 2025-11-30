@@ -1,17 +1,16 @@
-e-ISSN : 3031-8742, dan p-ISSN : 3031-8750, Hal. 139-151
 Secara garis besar, pembuatan alur pada Mesin Sekrap harus memperhatikan
 beberapa hal sebagai berikut :
 (1) Pembuatan garis batas luar
 (2) Pengerjaan pahat
 (3) Pengerjaan pendahuluan.
-Alur terus luar di antaranya adalah alur ÒUÓ, alur ÒVÓ, dan alur ekor burung.
-Alur ÒUÓ Alur ÒVÓ Alur ekor burung
+Alur terus luar di antaranya adalah alur "U", alur "V", dan alur ekor burung.
 Gambar 6 Penyekrapan alur luar
-Penyekrapan alur ÒVÓ dan ekor burung merupakan penyekrapan yang paling rumit
+
+Penyekrapan alur "V" dan ekor burung merupakan penyekrapan yang paling rumit
 karena memerlukan ketekunan dan kesabaran. Prinsip pengerjaannya merupakan gabungan
-dari beberapa proses penyekrapan. Berhasil atau tidaknya pembuatan alur ÒVÓ dan ekor
+dari beberapa proses penyekrapan. Berhasil atau tidaknya pembuatan alur "V" dan ekor
 burung tergantung dari pengaturan eretan pahat, pengasahan sudut pahat dan pemasangan
-pahatnya. Pada penyekrapan alur ekor burung atau alu ÒVÓ yaitu :
+pahatnya. Pada penyekrapan alur ekor burung atau alu "V" yaitu :
 a. Diawali dengan penyekrapan alur biasa
 b. Selanjutnya memasang pahat lancip
 c. Mengatur eretan pahat

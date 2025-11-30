@@ -1,9 +1,8 @@
-Aplikasi Kajian DNA Molekuler dan Fenotipik Pada Program Pelepasliaran Burung Kakatua
-2016). Kakatua raja (fEBxBFyRPNEW wGNEERlHF)
+2016). Kakatua raja (Probosciger aterrimus)
 sangat besar berjambul hitam dengan bercak
 merah di pipih, paruh sangat besar, dan pada
 yang betina memiliki paruh lebih kecil dengan
-daerah sebaran di Papua (Beehler NGWwk. 2001).
+daerah sebaran di Papua (Beehler et al. 2001).
 Burung kakatua yang dipelihara masyarakat
 secara ilegal terus bertambah dan merupakan
 ancaman bagi keberlangsungan kehidupan burung
@@ -19,9 +18,9 @@ burung yang sudah hidup bersama manusia
 memerlukan beberapa tahapan untuk dapat
 hidup kembali dengan baik di alam. Tahapan
 pertama melakukan identifikasi setiap individu.
-Tahapan kedua adalah fEN,ENkNwFN (menyiapkan
+Tahapan kedua adalah Pre-release (menyiapkan
 kondisi untuk kelayakan pelepasliaran). Tahapan
-ketiga adalah Pelepasliaran (ENkNwFN) di habitat
+ketiga adalah Pelepasliaran (release) di habitat
 dan distribusi yang tepat, dan tahap keempat
 adalah monitoring pasca pelepasliaran. Setiap
 individu dikembalikan ke wilayah distribusi
@@ -37,17 +36,17 @@ dipelihara oleh masyarakat sebagai hewan
 kesayangan. Pendekatan molekuler sebagai alat
 standar taksonomi telah digunakan sejak 20
 tahun yang lalu dan saat ini telah tersedia akses
-protokol lebih cepat dan besar (Borisenko NGWwk.
+protokol lebih cepat dan besar (Borisenko et al.
 2008). Teknik DNA molekuler ini diketahui
 dapat digunakan sebagai alat bantu identifikasi
 jenis melalui urutan sekuen DNA barcode dari
 gen COI (Cytochrome - C oxidase subunit-I)
-DNA mitokondria (Hebert NGW wk. 2003). Gen
+DNA mitokondria (Hebert et al. 2003). Gen
 COI diketahui memiliki variasi intraspesifik
 rendah tetapi divergensi tinggi antara taksa yang
-berdekatan (Ward NGW wk. 2005; Hajibabaei NGW wk.
+berdekatan (Ward et al. 2005; Hajibabaei et al.
 2006). Teknik DNA molekuler untuk identifikasi jenis
-dan jenis kelamin (FNKRAP) lebih akurat sehingga
+dan jenis kelamin (sexing) lebih akurat sehingga
 setiap individu dapat diketahui jenis kelaminnya
 secara tepat. Oleh karena itu dalam program
 pelepasliaran burung kakatua hasil penyerahan
@@ -73,28 +72,24 @@ ciri-ciri morfologi, hasil pemeriksaan kondisi
 kesehatan dan kelayakan maka sebanyak 68
 ekor burung dipilih sebagai kandidat yang akan
 dilepas ke habitat alam terdiri dari kakatua koki
-(owywGHwWPwkNERGw)) kakatua kecil jambul kuningW
-(owywGHwW FHkCgHENw)) kakatua putih (owywGHwW
-wkxw)) kakatua TanimbarW (owywGHwW PBOORARwAw))
-kakatua Maluku (owywGHw lBkHyyNAFRF)) dan
-TwTwGHw EwSw ÕfEBxBFyRPNE wGNEERlHF(-
+(Cacatua galerita), kakatua kecil jambul kuning
+(Cacatua sulphurea), kakatua putih (Cacatua
+alba), kakatua Tanimbar (Cacatua goffiniana),
+kakatua Maluku (Cacatua moluccensis), dan
+kakatua raja (Probosciger aterrimus).
 Deskripsi ciri-ciri khusus setiap spesies
-dilakukan pada populasi burung fFRGGwyRzwN
-yang diserahkan masyarakat di Pusat Penangkaran NK,
-FRGH. Setiap individu diambil foto dari berbagai
+dilakukan pada populasi burung Psittacidae
+yang diserahkan masyarakat di Pusat Penangkaran exsitu. Setiap individu diambil foto dari berbagai
 sisi sebagai bahan kajian. Selain itu dilakukan
 pengukuran fenotipe meliputi: berat tubuh,
-panjang tubuh, dan panjang kepala-paruh (gNwz,
-xRkk). Data fenotipe ini, digunakan sebagai dasar
+panjang tubuh, dan panjang kepala-paruh (headbill). Data fenotipe ini, digunakan sebagai dasar
 penentuan spesies. Kajian ukuran tubuh antara
 burung jantan dan betina dilakukan analisa
 statistik Anova dengan SPSS 16.0.
 Setiap ekor burung diambil sampel darah
 untuk keperluan identifikasi spesies, garis keturunan,
 dan jenis kelamin dengan teknik DNA. Ekstraksi dan
-isolasi DNA dilakukan dengan metoda fenol-
-kloroform (Sambrook NGWwk. 1989) dan hasil ekstraksi
-DNA disimpan di dalam OENNMNEW sampai dilakukan
+isolasi DNA dilakukan dengan metoda fenolkloroform (Sambrook et al. 1989) dan hasil ekstraksi
+DNA disimpan di dalam freezer sampai dilakukan
 proses PCR.
 Identifikasi spesies dilakukan dengan barcode
-159

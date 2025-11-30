@@ -1,5 +1,3 @@
-Penerapan Diagram Sebab Akibat (Fishbone Diagram) pada Identifikasi Kerusakan Mekanisme Pengumpan dan
-Penyusuana Standard Operating Procedure Mesin Skrap
 baik untuk memastikan kelancaran proses. Sayangnya, mekanisme pengumpan sering
 mengalami kerusakan, yang mengakibatkan gangguan operasional mesin dan berkurangnya
 tingkat produktivitas serta peningkatan waktu downtime. Kerusakan ini dapat disebabkan oleh
@@ -32,4 +30,3 @@ translasi. Dalam hal ini benda kerja dalam keadaan diam dan pahat bergerak lurus
 Pada saat pahat melakukan gerak balik, benda kerja juga melakukan gerak umpan (feeding).
 Sehingga punggung pahat akan tersangkut pada benda kerja yang sedang bergerak noleh karena
 itu pemegang pahat berbentuk lonceng. Dalam dunia industri mesin sekrap digunakan untuk
-140 MARS - VOLUME 3 NOMOR 1, TAHUN 2025

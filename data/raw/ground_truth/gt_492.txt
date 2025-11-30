@@ -1,69 +1,3 @@
-Sumerta & Kanti
-78
-86
-76
-95
-100
-99
-99
-98
-99
-99
-74
-100
-75
-Saccharomycopsis javanensis strain NRRL Y-1483 T EU057548
-Saccharomycopsis selenospora strain NRRL Y-1357 T EU057557
-Saccharomycopsis fibuligera strain NRRL Y-2388 T JX141336
-Y15Kr102
-100
-Y15Kr095
-Candida oleophila T U45793
-Candida zeylanoides T U45832
-Y15Kr097
-Kurtzmaniella
-98
-Y15Kr098
-Torulaspora delbrueckii strain NRRL Y-866 T JQ689018
-Y15Kr104
-Torulaspora
-Y15Kr103
-Torulaspora globosa strain LB3761 T KJ159059
-Y15Kr094
-Saccharomyces bayanus NRRL Y-12624 T AY048156
-Saccharomyces cerevisiae NRRL Y-12632 T AY048154
-Y15Kr093
-Saccharomyces
-Y15Kr107
-100
-Candida castellii T U69876
-Candida nivariensis strain CBS 10161 T EF056323
-Candida glabrata T U44808
-Y15Kr108
-Nakaseomyces
-100
-74
-Y15Kr110
-Kodamaea kakaduensis strain 98-119.2 T AF092279
-Kodamaea ohmeri T U45702
-100
-100
-Y15Kr096
-Pichia norvegensis strain NRRL Y-7687 T EF550239
-Pichia kudriavzevii strain NRRL Y-5396T EF550222
-Y15Kr105
-100
-Y15Kr106
-Y15Kr109
-Saccharomycopsis
-Clade
-penghasil
-etanol
-Kodamaea
-100
-Pichia
-Rhodotorula graminis T AF070431
-0.05
 Gambar 2. Hasil identifikasi isolat khamir penghasil etanol pada pohon filogenetik melalui analisis daerah
 D1/D2LSU rDNA menggunakan metode Neighbor-Joining (NJ).
 etanol tergambar dalam konstruksi filogenetik
@@ -88,12 +22,11 @@ Dalam penelitian ini, S. cerevisiae Y15Kr107
 menghasilkan etanol yang paling tinggi dibandingkan
 dengan isolat lainnya. Hal tersebut didukung
 oleh karakteristik S. cerevisiae, melalui modifikasi
-66
 genetik, dapat memproduksi etanol dalam kondisi
 oksigen terbatas dan juga mampu memanfaatkan
 kondisi tersebut untuk tumbuh (Heux et al. 2006;
 Merico et al. 2007); toleran terhadap etanol
-yang dihasilkannya (DÕAmore et al. 1990; de
+yang dihasilkannya (D'Amore et al. 1990; de
 Oliva-Neto et al. 2013); dapat direkayasa genetik dan
 rekayasa metabolik (Kuhad et al. 2011; Buijs et
 al. 2013; Nielsen et al. 2013). Karakteristik
