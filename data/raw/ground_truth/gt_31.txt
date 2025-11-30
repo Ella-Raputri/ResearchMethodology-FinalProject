@@ -1,7 +1,6 @@
 TREND RISET NEUROPEDAGOGI DAN IMPLEMENTASINYA
 DALAM PENDIDIKAN
-Neneng Maryam Jamaliah Nurul Janah1
-, Asep Supena2
+Neneng Maryam Jamaliah Nurul Janah1, Asep Supena2
 1, 2 Universitas Negeri Jakarta
 
 Abstract: This article aims to review the development of neuropedagogy research and its
@@ -17,6 +16,7 @@ level has not been much researched. This is what underlies the authors to conduc
 of neuropedagogical research trends, so that it becomes a recommendation for further
 follow-up research, especially in the field of basic education.
 Keyword: Neuropedagogy, Education, Research
+
 Abstrak: Artikel ini bertujuan untuk mereview perkembangan penelitian neuropedagogy
 dan implementasinya dalam pendidikan. Metode penulisan artikel ini adalah menggunakan
 studi pustaka (literature review). Dalam penelitian ini dipilih sebanyak dua puluh artikel
@@ -31,8 +31,3 @@ pada jenjang sekolah dasar belum banyak diteliti. Hal inilah yang mendasari penu
 melakukan review terhadap trend penelitian neuropedagogi, agar menjadi rekomendasi
 tindak lanjut penelitian berikutnya, khususnya di bidang pendidikan dasar.
 Kata Kunci: Neuropedagogi, Pendidikan, Riset
-
-1
-Universitas Negeri Jakarta, Email: neneng.maryam1408@gmail.com
-2
-Universitas Negeri Jakarta, Email: supena2007@yahoo.com

@@ -33,7 +33,7 @@ dari seluruh artikel blockchain dan kecerdasan buatan
 disajikan dalam Gambar 6. Pada Gambar 6(a),
 dominasi kata-kata yang muncul adalah blockchain,
 data, IOT, AI, aplications, technology, system,
-information, network dan learning Hubungan katakata ini membentuk suatu cluster yang diilustrasikan
+information, network dan learning Hubungan kata-kata ini membentuk suatu cluster yang diilustrasikan
 dalam pohon pada Gambar 6(b). Dalam pohon
 tersebut aplications, blockchain, AI dan IOT berada
 dalam sebuah cluster. Konsep blockchain, AI dan
@@ -43,3 +43,5 @@ depan. Kata technology, system, information, network
 learning dan data muncul pada cluster lain. Hal ini
 menunjukan kata-kata tersebut dekat dengan aplikasi
 blockchain, IOT dan AI.
+
+Gambar 6. (a) Word of Cloud; (b) Hasil clustering dalam tree

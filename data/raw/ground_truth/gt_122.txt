@@ -51,6 +51,8 @@ kepercayaan antar pemangku kepentingan.
 (4) Integrasi teknologi blockchain, kecerdasan
 buatan, IOT dan big data di bidang pertanian. 
 
+Gambar 7. Usulan Pengembangan Riset Blockchain dan AI untuk komoditas Padi di Indonesia
+
 3.4. Usulan Pengembangan
 Berdasarkan tantangan penelitian yang
 ditemukan dan dengan mempertimbangkan kondisi

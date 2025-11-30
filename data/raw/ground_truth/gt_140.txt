@@ -1,33 +1,19 @@
 Manfaat Kecerdasan Buatan ChatGPT Untuk Membantu Penulisan Ilmiah 
 The Benefits of ChatGPT Artificial Intelligence To Help Scientific Writing 
-Zen Munawar 
-1 
-, Herru Soerjono 
-2 
-, Novianti Indah Putri 
-3 
-, Hernawati 
-4 
-, Andina Dwijayanti 
-5 
-1,2 
-Prodi Manajemen Informatika, Politeknik LP3I 
-3 
-Prodi Teknik Informatika, Fakultas Ilmu Komputer dan Sistem Informasi, Universitas Kebangsaan Republik Indonesia 
-4 
-Prodi Teknik Informatika, Fakultas Informatika dan Ilmu Komputer, Universitas Nurtanio 
-5 
-Prodi Administrasi Bisnis, Politeknik LP3I 
-1 
-munawarzen@gmail.com, 
-2 
-herrusoerjono2022@gmail.com, 
-3 
-noviantiindahputri2021@gmail.com, 
-4 
-dienhernawati@gmail.com, 
-5 
-andinadwijayanti@plb.ac.id 
+Zen Munawar1 
+, Herru Soerjono2 
+, Novianti Indah Putri3 
+, Hernawati4 
+, Andina Dwijayanti5 
+1,2Prodi Manajemen Informatika, Politeknik LP3I 
+3Prodi Teknik Informatika, Fakultas Ilmu Komputer dan Sistem Informasi, Universitas Kebangsaan Republik Indonesia 
+4Prodi Teknik Informatika, Fakultas Informatika dan Ilmu Komputer, Universitas Nurtanio 
+5Prodi Administrasi Bisnis, Politeknik LP3I 
+1munawarzen@gmail.com, 
+2herrusoerjono2022@gmail.com, 
+3noviantiindahputri2021@gmail.com, 
+4dienhernawati@gmail.com, 
+5andinadwijayanti@plb.ac.id 
 Abstract 
 Scientific writing is an activity that requires clarity, precision, and caution, because the nature of this activity requires research, 
 analysis, and synthesis of information from several literatures. This study aims to use the benefits of Chatbot artificial 

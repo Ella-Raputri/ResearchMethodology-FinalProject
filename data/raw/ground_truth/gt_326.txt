@@ -1,10 +1,6 @@
-Jurnal FUSE Ð Teknik Elektro
-|Vol. 2 | No. 1 | Halaman 21 Ð 30 | [Juni][2022]
 Rancang Bangun Mesin Laser Engraving 2-D Berbasis Mikrokontroler
 Arduino Uno
-Rian Ariana Putra1
-, Ade Rukmana2
-, Akhmad Fauzi Ikhsan3
+Rian Ariana Putra1, Ade Rukmana2, Akhmad Fauzi Ikhsan3
 1Jurusan Teknik Elektro, Fakultas Teknik Universitas Garut, Jl. Jati 42-B, Garut, 44151
 2Jurusan Teknik Elektro, Fakultas Teknik Universitas Garut, Jl. Jati 42-B, Garut, 44151
 3Jurusan Teknik Elektro, Fakultas Teknik Universitas Garut, Jl. Jati 42-B, Garut, 44151
@@ -40,7 +36,3 @@ engraving speed parameter of 1000 mm/minute and a laser power of 25% and anodize
 paint coated metal with an engraving speed parameter of 200 mm/minute and a laser power
 of 100% for get the most optimal engraving results.
 Key words: arduino; G-Code; Laser Engraving
-Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
-21
-ISSN 2797-815X
-P-ISSN 2797-8745

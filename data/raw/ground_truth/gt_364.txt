@@ -1,25 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
-1
-2
-3
-4
-5
-6
-7
-8
-RESPACK-7
-RP3
-TOMBOL LUAR
-LT3
-LT2
-LT1
-LUAR_LT3 DALAM_LT3
-LUAR_LT2
-LUAR_LT1
-DALAM_LT2
-DALAM_LT1
-BUKA
-TUTUP
 Gambar 3.5 Rangkaian Push Button
 dan limit switch
 Rangkaian Driver Motor DC
@@ -42,23 +20,10 @@ modul motor shield L298. Diagram
 rangkaian driver motor dc L298
 dengan ATMega 329 ditunjukkan
 pada gambar 3.6 berikut ini :
-RP4
-RESPACK-7 Gambar 3.6 Diagram rangkaian
-1
-2
-3
-4
-5
-6
-7
-8
+
+Gambar 3.6 Diagram rangkaian
 driver motor DC
-TOMBOL DALAM
-LT 3
-LT2
-LT1
-BUKA
-TUTUP Pada rangkaian diatas, driver L298
+Pada rangkaian diatas, driver L298
 mendapat input dari pin 4, 5, 6 dan 7
 arduino. Pin Ð pin tersebut yang
 akan mengatur perubahan arah
@@ -68,6 +33,7 @@ L298 mendapat tegangan kerja
 sebesar 5 volt dc. Sedangkan untuk
 menggerakkan motor dc dibutuhkan
 power input sebesar 12 volt dc.
+
 Diagram Flow Chart
 Untuk dapat mempermudah
 perancangan perangkat lunak,
@@ -75,43 +41,6 @@ terlebih dahulu dibuat diagram alur
 (flowchart) yang harus dikerjakan
 oleh mikrokontroler seperti tampak
 gambar 3.7 dan 3.8.
-ATMEGA328P
-13 PD0/RXD/PCINT 16
-PB0/ICP1/CLKO/PCINT 0 2
-12 PD1/TXD/PCINT 17
-PB1/OC1A/PCINT 1 3
-11 PD2/INT 0/PCINT18
-PB2/SS/OC1B/PCINT 2 5
-10 PD3/INT 1/OC2B/PCINT19 PB3/MOSI/OC2A/PCINT 3 4
-9 PD4/T 0/XCK/PCINT20
-PB4/MISO/PCINT 4 2
-8 PD5/T 1/OC0B/PCINT 21
-7 PD6/AIN0/OC0A/PCINT 22
-PB6/TOSC1/XT AL1/PCINT 6
-PD7/AIN1/PCINT 23
-PB7/TOSC2/XT AL2/PCINT 7 3
-PB5/SCK/PCINT 5 5
-4 Gambar 3.7 Proses inisialisasi dan
-7
-PC0/ADC0/PCINT 8 13
-12 V 5 V
-7 AREF
-1 AVCC
-PC1/ADC1/PCINT 9 12
-PC2/ADC2/PCINT 10 11
-PC3/ADC3/PCINT 1 1 10
-PC4/ADC4/SDA/PCINT 12 9
-PC5/ADC5/SCL/PCINT 13 8
-PC6/RESET /PCINT14 7
-16 8 VSS VS OUT 1 3
-Proses kerja pintu lift 2 IN1
-9 IN2
-OUT 2 8
-1 EN1
-11 12 19 EN2
-IN3 OUT 3 IN4 GND GND OUT4 13
-18
-L298
-MOTOR PENGGERAK
-MOTOR PINTU LIFT
-Vol.4 No.3 September 2013 106
+
+Gambar 3.7 Proses inisialisasi dan
+Proses kerja pintu lift

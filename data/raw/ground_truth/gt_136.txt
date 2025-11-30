@@ -10,7 +10,7 @@ pengenalan teks, 2023).
 Adobe Acrobat memiliki fungsi pengenalan karakter optik (OCR) yang
 memungkinkan pengguna untuk mengubah gambar yang berisi konten tekstual
 menjadi format yang dapat dicari dan dimodifikasi.
-• Otomatisasi Tugas Rutin
+Otomatisasi Tugas Rutin
 Perpustakaan dapat memanfaatkan kekuatan kecerdasan buatan untuk
 mengotomatiskan tugas-tugas biasa, seperti mengeluarkan pengingat pengembalian,
 mengelola inventaris, dan memantau kondisi fisik buku. Otomatisasi tugas-tugas yang

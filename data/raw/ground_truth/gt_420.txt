@@ -1,18 +1,14 @@
-Jurnal Forum Teknik Sipil, Vol. 1, No 1, Mei 2021 : pp. 1-12
 Pemodelan Numerik Perilaku Lentur Dan Defleksi Elemen
 Balok Ferrogeopolymer
 Numerical Modelling Flexural And Deflection Behavior Of Ferrogeopolymer
 Beam
-Bill J Ebenheazar1*)
-, Remigildus Cornelis2
-, Partogi H Simatupang3
+Bill J Ebenheazar1*), Remigildus Cornelis2, Partogi H Simatupang3
 1Program Studi Teknik Sipil, Fakultas Sains dan Teknik, Universitas Nusa Cendana, Kupang 65145,
 Indonesia
 2 Program Studi Teknik Sipil, Fakultas Sains dan Teknik, Universitas Nusa Cendana, Kupang 65145,
 Indonesia
 3 Program Studi Teknik Sipil, Fakultas Sains dan Teknik, Universitas Nusa Cendana, Kupang 65145,
-Indonesia3 Program Studi Teknik Sipil, Fakultas Sains dan Teknik, Universitas Nusa Cendana, Kupang
-65145, Indonesia
+Indonesia3 Program Studi Teknik Sipil, Fakultas Sains dan Teknik, Universitas Nusa Cendana, Kupang 65145, Indonesia
 Article info:
 Kata kunci:
 Ferrogeopolymer, Pemodelan Numerik
@@ -54,4 +50,3 @@ that the greater the number of layers, the variation between
 numerical and experimental results follows the same path without
 much difference. The numerical result showed that the greater the
 number of layers, the strength was increases but insignificant.
-Kutipan: Ebenheazar, Pemodelan Numerik Perilaku Lentur Dan Defleksi Elemen Balok Ferrogeopolymer

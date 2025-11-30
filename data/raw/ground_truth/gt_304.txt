@@ -1,15 +1,14 @@
-P-ISSN : 2303-3142 E-ISSN : 2548-8570 Vol.10 No 2 Tahun 2021
 PERANCANGAN ARSITEKTUR ENTERPRISE SISTEM INFORMASI
 MENGGUNAKAN TOGAF ADM DI SMA NEGERI 1 SINGARAJA
-Dewa Nyoman Adi Sista1
-, I Made Candiasa2
-, I Gede Aris Gunadi3
+Dewa Nyoman Adi Sista1, I Made Candiasa2, I Gede Aris Gunadi3
 Program Studi Ilmu Komputer, Pascasarjana Universitas Pendidikan Ganesha
 Singaraja, Indonesia
 e-mail: 1adi.sista@undiksha.ac.id,
 2candiasa@undiksha.ac.id,
 3igedearisgunadi@undiksha.ac.id
+
 Abstrak
+
 Penelitian ini bertujuan untuk mendefinisikan serta menguji efektivitas TOGAF ADM
 sebagai model arsitektur enterprise sistem informasi guna mendukung aktivitas bisnis di
 SMA Negeri 1 Singaraja. Secara garis besar data pada penelitian ini diambil dengan teknik
@@ -48,4 +47,3 @@ and understand in detail the stages in the TOGAF ADM modeling and develop a care
 budget plan, 2) researchers Furthermore, it is recommended to test school readiness first
 before designing an enterprise architecture with TOGAF ADM.
 Keywords : enterprise architecture, school information system, togaf adm
-Jurnal Sains dan Teknologi | 316

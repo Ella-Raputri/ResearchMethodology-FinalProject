@@ -29,4 +29,3 @@ Hasil analisis kesenjangan arsitektur
 teknologi tersaji dalam Tabel 2.
 .
 Gambar 6. Class Diagram
-Jurnal Sains dan Teknologi | 323

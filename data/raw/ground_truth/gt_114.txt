@@ -12,13 +12,14 @@ digantikan dengan AI yaitu teknologi Chatbot, dimana teknologi AI ini dapat
 menjawab secara otomatis pertanyaan yang diajukan secara benar [14].
 3. KESIMPULAN
 Kesimpulan yang dapat disampaikan dalam artikel ini adalah sebagai berikut:
-• Kecerdasan buatan adalah salah satu teknologi terbaru.
-• Kecerdasan buatan tidak serta merta dapat menggantikan peran manusia dalam
+Kecerdasan buatan adalah salah satu teknologi terbaru.
+Kecerdasan buatan tidak serta merta dapat menggantikan peran manusia dalam
 industri.
-• Agar SDM tidak tergantikan oleh AI, perlunya pengembangan kompentensi,
+Agar SDM tidak tergantikan oleh AI, perlunya pengembangan kompentensi,
 salah satunya yaitu peningkatan soft skill.
-• Transformasi digital di era saat ini sangat dibutuhkan agar mengalami
+Transformasi digital di era saat ini sangat dibutuhkan agar mengalami
 perubahan dari Konvensional ke era serba digital.
+
 UCAPAN TERIMAKASIH
 Kami ucapkan terimakasih yang sebesar-besarnya kepada Fakultas Ilmu
 Komputer Universitas Mercu Buana yang memberikan dukungan dalam bentuk

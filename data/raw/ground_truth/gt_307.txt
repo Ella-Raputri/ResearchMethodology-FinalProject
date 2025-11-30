@@ -1,4 +1,4 @@
-P-ISSN : 2303-3142 E-ISSN : 2548-8570 Pengembang Informatika bertujuan untuk
+Pengembang Informatika bertujuan untuk
 menggali informasi mengenai kondisi terkini
 SI/TI di SMA Negeri 1 Singaraja. Observasi
 difokuskan pada dua objek pengamatan
@@ -70,4 +70,3 @@ yaitu menyusun urutan implementasi aplikasi
 menggunakan metode McFarland strategic
 dan menggambarkan roadmap rekomendasi
 implementasi.
-Jurnal Sains dan Teknologi | 319

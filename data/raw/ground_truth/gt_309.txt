@@ -1,23 +1,3 @@
-P-ISSN : 2303-3142 E-ISSN : 2548-8570 Vol.10 No 2 Tahun 2021
-¥ Anggaran pendidikan juga dikelola untuk
-peningkatan kualitas SDM, penambahan
-sarana guna peningkatan adaptasi
-teknologi, kegiatan-kegiatan produktivitas
-dengan pengetahuan ekonomi di era
-industri 4.0.
-¥ Adanya program pelatihan berupa seminar
-dan workshop guru dan tenaga
-kependidikan untuk meningkatkan kualitas
-Sumber Daya Manusia.
-¥ Ketersediaan vendor pengembangan
-aplikasi berbasis website dan mobile.
-¥ Pembelajaran jarak jauh karena situasi
-pandemi menyebabkan menurunnya
-semangat belajar peserta didik.
-¥ Adanya kejahatan di dunia maya (cyber
-crime).
-¥ Adanya kebijakan pemerintah terhadap
-kurikulum kerap berubah sewaktu-waktu.
 Prinsip arsitektur akan digunakan
 sebagai panduan dalam proses
 pengambilan keputusan rancangan
@@ -57,4 +37,3 @@ pada sekolah, dilakukan proses analisis
 value chain. Hasilnya digambarkan ke dalam
 bentuk value chain diagram (Gambar 3).
 Gambar 2. Value Chain SMA Negeri 1 Singaraja
-Jurnal Sains dan Teknologi | 321

@@ -1,11 +1,9 @@
-Jurnal Hukum
-Volume 2 Nomor 2 (2024)
 PERLINDUNGAN HUKUM BAGI PEMEGANG PERTAMA MEREK LOKAL JOLLIBEE
 TERHADAP MEREK TERKENAL ASING
 Cika Zulyani Karin 1
 Simona Bustani 2
 1, 2 Fakultas Hukum, Universitas Trisakti, Jakarta
-Article Info Abstract
+Article Info
 Corresponding Author:
 Cika Zulyani Karin
 cikakarin7@gmail.com
@@ -20,6 +18,7 @@ Trademark.
 Kata Kunci:
 Hukum Merek; Perlindungan
 Hukum; Merek Dikenal.
+Abstract
 Brands are included in intellectual property rights where
 the rights holder of the brand is given legal protection
 for both local and foreign brands. The issues raised are
@@ -56,4 +55,3 @@ bagaiamana kesesuaian putusan Hakim Pengadilan
 Niaga dalam memutus sengketa merek Jollibee
 berdasarkan Undang-undang Nomor 20 Tahun 2016
 tentang Merek dan Indikasi Geografis. Penelitian ini
-131

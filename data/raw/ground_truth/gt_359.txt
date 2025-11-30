@@ -1,4 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 menjadikan elevator atau lift
 semakin baik perkembangannya,
 mulai dari mekanik lift, sistem
@@ -17,9 +16,6 @@ pada umumnya menggunakan sistem
 pengendali lift Programmable Logic
 Controller dengan bantuan relay dan
 kontaktor.
-DASAR TEORI
-Sejarah Diciptakannya Elevator
-atau Lift
 Disini peneliti akan
 merancang sebuah prototipe sebagai
 alat peraga yang berfungsi sama
@@ -34,6 +30,9 @@ dengan
 menggunakanMikrokontroler
 ARDUINO ATMEGA328P yang
 memiliki kesamaan.
+DASAR TEORI
+Sejarah Diciptakannya Elevator
+atau Lift
 Elevator atau yang lebih
 akrab dikenal oleh masyarakat luas
 dengan nama lift. Lift adalah salah
@@ -63,4 +62,3 @@ pertama kali dibangun, sistem
 penggerak elevator pada awal
 perkembangannya dimulai dengan
 cara yang sangat sederhana, yaitu
-Vol.4 No.3 September 2013 101

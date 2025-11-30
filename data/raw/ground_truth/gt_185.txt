@@ -1,23 +1,10 @@
-AoSSaGCJ, Vol. 3, Issue 1, (2023) page 9-13 
-Academy of Social Science and Global Citizenship Journal 
-ISSN: 2988-7968 (Online) 
-Journal Homepage: https://jurnal.ucy.ac.id/index.php/AoSSaGCJ/index
-
 Revolusi Teknologi: Masa Depan Kecerdasan 
 Buatan (AI) dan Dampaknya Terhadap Masyarakat 
-Ahmad Rickianto Afandi 
-a,1 
-, Heri Kurnia 
-b,2 
-, 
-ab 
-Universitas Cokroaminoto Yogyakarta, Gambiran, Umbulharjo, Yogyakarta 55161, Indonesia 
-1 
-rickiantoaa@gmail.com ; 
-2 
-herikurnia312@gmail.co; 
-* 
-rickiantoaa@gmail.com
+Ahmad Rickianto Afandia,1, Heri Kurniab,2, 
+abUniversitas Cokroaminoto Yogyakarta, Gambiran, Umbulharjo, Yogyakarta 55161, Indonesia 
+1rickiantoaa@gmail.com ; 
+2herikurnia312@gmail.co; 
+*rickiantoaa@gmail.com
 
 INFO ARTIKEL
 Sejarah Artikel: 
@@ -55,6 +42,7 @@ Technology
 Revolution 
 Public
 
+ABSTRACT
 Abstract, In recent years the development of the world of technology 
 has accelerated. One of the hotly discussed technological developments 
 is Artificial Intelligence. Artificial intelligence is the ability of machines 
@@ -68,12 +56,3 @@ literature study or library research, it can be concluded that the
 development of AI and its impact on society, namely, the impact on 
 work and the economy, the impact on health and medical services, the 
 impact on ethics and privacy, and the impact on education.
-
-How to Cite: Afandi, A., & Kurnia, H. (2023). Revolusi Teknologi: Masa Depan Kecerdasan 
-Buatan (AI) dan Dampaknya Terhadap Masyarakat. Academy of Social Science 
-and Global Citizenship Journal, 3(1), 9-13. 
-https://doi.org/10.47200/aossagcj.v3i1.1837
-
-1. Pendahuluan 
-Dalam beberapa dekade terakhir, kecerdasan buatan atau Artificial Intelligence (AI) 
-telah berkembang pesat dan berdampak signifikan pada berbagai aspek kehidupan manusia.

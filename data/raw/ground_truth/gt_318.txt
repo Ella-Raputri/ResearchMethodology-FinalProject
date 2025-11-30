@@ -1,4 +1,3 @@
-Jurnal Bangkit Indonesia, Vol. 12, No. 01, Bulan Maret 2023
 Microsoft Visio adalah memudahkan orang dalam
 menggambar flowchart, akan tetapi apa yang telah
 digambarkan tidak bisa diketahui hasilnya secara langsung,
@@ -36,8 +35,7 @@ merupakan bagan yang menjelaskan secara rinci Langkah-
 langkah dari proses program. Bagan alir program dibuat dari
 derivikasi bagan alir sistem. Bagan alir program dibuat
 dengan menggunakan simbol-simbol berikut ini:
-TABEL I
-SIMBOL PROGRAM FLOWCHART
+
 II. METODOLOGI PENELITIAN
 Metode dalam penelitian ini adalah kajian pustaka serta
 berdasarkan penelitian terdahulu yang membahas tentang
@@ -77,32 +75,8 @@ dapat bernilai benar atau salah. Instruksi akan
 dilaksanakan manakala kondisi atau syarat bernilai benar,
 dan suatu instruksi tidak akan dikerjakan apabila kondisi
 atau syarat tidak terpenuhi. Pengulangan merupakan
-Simbol Keterangan
-Input/Output
-Simbol digunakan untuk mewakili data
-input/output
-Proses
-proses
-Simbol proses digunakan untuk mewakili suatu
-Simbol garis alir (flow lines symbol)
-digunakan untuk menunjukan arus dari proses
-Simbol penghubung (connector symbol)
-digunakan untuk menunjukkan sambungan dari
-bagan alir yang terputus di halaman yang
-masih sama atau di halaman yang berbeda
-Simbol keputusan (decision)
-Digunakan untuk suatu penyeleksian kondisi di
-dalam program
-Simbol Proses Terdefinisi (predefined process
-symbol)
-Digunakan untuk menunjukkan suatu operasi
-yang rinciannya ditunjukkan di tempat lain
-Simbol persiapan (preparation symbol)
-Digunakan untuk memberi nilai awal suatu
-besaran
-Simbol Titik Terminal (terminal point symbol)
-Digunakan untuk menunjukkan awal dan akhir
-dan suatu proses
+TABEL I
+SIMBOL PROGRAM FLOWCHART
 Artikel jurnal Pembelajaran Dasar Algoritma dan
 Pemrograman Menggunakan El-Goritma Berbasis Web di
 Jurnal Teknik Mesin [9] Pengertian algoritma adalah susunan
@@ -116,5 +90,3 @@ Pembelajaran Pemrograman Komputer di jurnal Inovasi
 Pendidikan Matematika (INDIKTIKA) [10], disimpulkan
 bahwa bahwa hasil belajar mahasiswa setelah diterapkan
 algoritma dalam setiap penyelesain pemrograman lebih baik
-57
-p-ISSN: 2337-4055 e-ISSN: 2776-9267

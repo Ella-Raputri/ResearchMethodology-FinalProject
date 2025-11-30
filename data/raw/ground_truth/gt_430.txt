@@ -1,5 +1,3 @@
-Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : hlm. 1-12
-11
 hubungan jumlah lapis dan beban maksimum dengan model regresi polinominal orde 2,
 persamaannya adalah y = -0,0266x
 2 + 0,7326x + 2,6365 dengan nilai R2

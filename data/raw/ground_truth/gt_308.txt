@@ -1,4 +1,3 @@
-P-ISSN : 2303-3142 E-ISSN : 2548-8570 Vol.10 No 2 Tahun 2021
 Pada penelitian ini tidak menggunakan
 2 (dua) fase terakhir dari TOGAF ADM yaitu
 Phase G: Implementation Governance dan
@@ -15,7 +14,6 @@ HASIL DAN PEMBAHASAN
 Fase Persiapan
 Analisis SWOT dilakukan untuk
 mendapatkan hasil analisis lingkungan
-Tabel 1. Hasil Analisa SWOT Internal dan Eksternal
 bisnis. Proses analisis mencakup kondisi
 internal dan ekternal sekolah. Analisis
 internal terdiri dari proses penilaian terkait
@@ -32,59 +30,4 @@ enterprise sistem informasi di SMA Negeri 1
 Singaraja menggunakan metode SWOT
 yang dijabarkan dalam Tabel 1.
 Internal
-Faktor Kekuatan (Strength) Faktor Kelemahan (Weakness)
-¥ Dukungan dan komitmen Kementerian
-Pendidikan dan Kebudayaan melalui
-Dinas Pendidikan Provinsi Bali terhadap
-SMA Negeri 1 Singaraja.
-¥ Sebagai sekolah tertua di Bali, memiliki
-alumni yang banyak dan beberapa
-memegang posisi penting di pemerintahan
-maupun perusahaan swasta.
-¥ Memiliki teknisi usia muda.
-¥ Memiliki cukup dana operasional yang
-kelola dengan baik untuk melakukan
-pengembangan sistem informasi.
-¥ Memiliki komitmen tinggi untuk selalu
-berkembang serta mengikuti
-perkembangan teknologi informasi dan
-komunikasi (ICT).
-¥ Sebagian unit belum memiliki sistem
-informasi tata kelola yang terintegrasi
-dengan baik.
-¥ Masih banyak sistem informasi yang
-digunakan bersifat eksternal atau dikelola
-oleh pemerintah pusat atau pemerintah
-daerah.
-¥ Memiliki server yang performanya tidak
-maksimal disebabkan oleh faktor usia dan
-sistem operasi yang digunakan pada
-server tergolong tidak up to date.
-¥ Jaringal lokal internet masih belum
-maksimal kualitasnya disebabkan karena
-jumlah bandwidth yang tidak proporsional
-dengan jumlah user, begitu juga dengan
-hotspot yang masih mengandalkan
-perangkat access point berkualitas
-standar sehingga belum maksimal ketika
-dipakai banyak banyak user.
-¥ Belum memiliki perencanaan
-pengembangan sistem informasi.
-¥ Semakin berkembangnya teknologi,
-sehingga penggunaan gadget seperti
-laptop/komputer dan smartphone semakin
-meningkat.
-¥ Adanya situasi pandemi yang memberikan
-momentum untuk menjadikan SDM
-semakin kreatif dalam memanfaatkan
-SI/TI.
-Eksternal
-Faktor Peluang (Opportunity) Faktor Ancaman (Threat)
-¥ Perkembangan teknologi yang sangat
-cepat tapi sarana dan SDM yang ada
-belum optimal dama mengimbangi hal
-tersebut
-¥ Menurunnya ekonomi karena situasi
-pandemi berpengaruh terhadap
-keterlambatan membayar SPP.
-Jurnal Sains dan Teknologi | 320
+Tabel 1. Hasil Analisa SWOT Internal dan Eksternal

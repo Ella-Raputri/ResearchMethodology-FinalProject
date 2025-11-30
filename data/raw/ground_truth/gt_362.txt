@@ -1,4 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 bagian software opensource yang
 memungkinkan kita untuk
 memprogram bahasa Arduino dalam
@@ -10,6 +9,21 @@ Arduino.
 Gambar 2.6 Tampilan Program IDE
 (Integrated Development
 Environtment)
+PROSES PERANCANGAN
+Tinjauan Umum
+Perancangan prototype
+elevator atau lift tiga lantai ini
+mengacu pada lift-lift yang telah ada
+secara umum dengan tujuan agar
+hasil perancangan bisa menyerupai
+lift yang sebenarnya. Namun
+demikian ada beberapa fungsi yang
+tidak diterapkan karena keterbatasan
+dalam segala hal mengenai sistem
+ini.
+Secara garis besar sistem
+prototype elevator atau lift ini terdiri
+dari tiga bagian utama, yaitu :
 ¥ Bagian masukan
 ¥ Bagian pengendali / controller
 ¥ Bagian keluaran
@@ -29,21 +43,6 @@ controller dalam hal ini ATMEGA
 keseluruhan sistem yang mengatur
 kinerja secara keseluruhan. Diagram
 blok dapat dilihat pada gambar 3.1
-PROSES PERANCANGAN
-Tinjauan Umum
-Perancangan prototype
-elevator atau lift tiga lantai ini
-mengacu pada lift-lift yang telah ada
-secara umum dengan tujuan agar
-hasil perancangan bisa menyerupai
-lift yang sebenarnya. Namun
-demikian ada beberapa fungsi yang
-tidak diterapkan karena keterbatasan
-dalam segala hal mengenai sistem
-ini.
-Secara garis besar sistem
-prototype elevator atau lift ini terdiri
-dari tiga bagian utama, yaitu :
 Gambar 3.1 Blok Diagram Sistem
 Berdasarkan masukan yang
 terdiri dari tombol, sensor dan limit
@@ -53,4 +52,3 @@ diolah melalui mikrokontroller
 Arduino Atmega 328P, sehingga
 menghasilkan keluaran motor pintu
 dan motor penggerak sesuai dengan
-Vol.4 No.3 September 2013 104

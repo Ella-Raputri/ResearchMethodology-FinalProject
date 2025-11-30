@@ -1,4 +1,3 @@
-Jurnal Teknologi Elektro, Universitas Mercu ISSN : 2086-9479
 Tabel 4.2 Hasil pengujian
 rangakaian tombol
 Masing-masing tombol yang ditekan
@@ -16,6 +15,13 @@ penuh yang terpasang pada kedua
 sisi daun pintu lift,
 Tabel 4.3 Hasil pengujian
 rangakaian limit switch
+Melalui program dan hasil pengujian
+dapat disimpulkan jika pada saat
+motor pintu bekerja (pintu
+membuka) dan daun pintu lift
+mengenai limit switch open (logika
+1) maka pin 9 akan aktif (logika 1),
+yaitu motor pintu mati (pintu stop)
 yang artinya pintu sudah membuka
 secara penuh. Begitu juga pada saat
 motor pintu bekerja (pintu menutup)
@@ -35,13 +41,6 @@ lah yang berperan untuk membuat
 lift (motor penggerak) berhenti.
 Tabel 4.4 Hasil pengujian
 rangakaian sensor lantai
-Melalui program dan hasil pengujian
-dapat disimpulkan jika pada saat
-motor pintu bekerja (pintu
-membuka) dan daun pintu lift
-mengenai limit switch open (logika
-1) maka pin 9 akan aktif (logika 1),
-yaitu motor pintu mati (pintu stop)
 Berdasarkan program dan hasil
 pengujian dapat disimpulkan jika
 pada saat motor penggerak bergerak
@@ -50,4 +49,3 @@ perintahnya ke lantai tertentu dan
 mengenai sensor lantai tertentu
 (logika 1) sesuai dengan
 perintahnya, maka pin pada arduino
-Vol.4 No.3 September 2013 108

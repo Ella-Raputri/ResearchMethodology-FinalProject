@@ -1,1 +1,35 @@
-topik terkait kecerdasan buatan untuk audit: kolaborasi atau ancaman bagi profesi auditor menarik untuk dibahas lebih mendalam. KAJIAN TEORITIS Audit Menurut Sukrisno Agoes (2012:4) pengertian audit adalah suatu pemeriksaan laporan keuangan yang dilakukan secara kritis dan sistematis oleh pihak auditor independen yang telah  disusun  oleh  manajemen  beserta  catatan-catatan  pembukuan  dan  bukti-bukti pendukungnya  dengan  tujuan  untuk  memberikan  pendapat  mengenai  kewajaran  laporan keuangan perusahaan. Menurut Arens dkk (2015:2) pengertian audit adalah pengumpulan dan evaluasi bukti tentang  informasi untuk menentukan dan melaporkan  derajat  kesesuaian antara informasi yang ada dengan kriteria yang telah ditetapkan.  Berdasarkan pengertian audit di atas dapat disimpulkan bahwa audit adalah sebuah proses sistematis yang digunakan untuk memperoleh dan mengevaluasi secara objektif bukti yang terkait  dengan  laporan  kegiatan  ekonomi,  untuk  menentukan  tingkat  kesesuaian  antara pernyataan tersebut dengan standar yang ditetapkan, dan untuk mengkomunikasikan hasilnya kepada pihak terkait (Hasanah & Putri, 2018).Kecerdasan Buatan Kecerdasan buatan merupakan salah satu bidang studi mengenai pemikiran-pemikiran cerdas yang dapat digunakan sebagai bentuk untuk melakukan sebuah perhitungan (Singh and Singh, 2010). Perhitungan-perhitungan yang dilakukan oleh kecerdasan buatan bertujuan untuk  menciptakan  sistem  komputasi  yang  lebih  terkendali,  memudahkan  pekerjaan  bagi penggunanya, dan menganalisis suatu permasalahan atau dokumen.  Kecerdasan  buatan  diartikan  sebagai  rekayasa  dan  ilmu  yang  ditujukan  untuk menciptakan  mesin  cerdas  atau  program  cerdas  yang  bermanfaat  dalam  memahami  cara berpikir manusia yang tidak terbatas hanya untuk pengamatan biologis (Mccarthy, 2007). Selanjutnya, Mccarthy (2007) menguraikan lagi mengenai intelligence sebagai pencapaian tujuan melalui  pemanfaatan komputasi kemampuan. Sementara itu, artikel dalam  built in menjelaskan bahwa kecerdasan buatan merupakan perpanjangan ilmu komputer yang luas 
+topik terkait kecerdasan buatan untuk audit: kolaborasi atau 
+ancaman bagi profesi auditor menarik untuk dibahas lebih 
+mendalam. KAJIAN TEORITIS Audit Menurut Sukrisno Agoes (2012:4) 
+pengertian audit adalah suatu pemeriksaan laporan keuangan yang 
+dilakukan secara kritis dan sistematis oleh pihak auditor 
+independen yang telah  disusun  oleh  manajemen  beserta  
+catatan-catatan  pembukuan  dan  bukti-bukti pendukungnya  
+dengan  tujuan  untuk  memberikan  pendapat  mengenai  kewajaran  
+laporan keuangan perusahaan. Menurut Arens dkk (2015:2) 
+pengertian audit adalah pengumpulan dan evaluasi bukti tentang  
+informasi untuk menentukan dan melaporkan  derajat  kesesuaian 
+antara informasi yang ada dengan kriteria yang telah ditetapkan.  
+Berdasarkan pengertian audit di atas dapat disimpulkan bahwa 
+audit adalah sebuah proses sistematis yang digunakan untuk 
+memperoleh dan mengevaluasi secara objektif bukti yang terkait  
+dengan  laporan  kegiatan  ekonomi,  untuk  menentukan  
+tingkat  kesesuaian  antara pernyataan tersebut dengan standar 
+yang ditetapkan, dan untuk mengkomunikasikan hasilnya kepada
+pihak terkait (Hasanah & Putri, 2018).Kecerdasan Buatan 
+Kecerdasan buatan merupakan salah satu bidang studi mengenai 
+pemikiran-pemikiran cerdas yang dapat digunakan sebagai bentuk 
+untuk melakukan sebuah perhitungan (Singh and Singh, 2010). 
+Perhitungan-perhitungan yang dilakukan oleh kecerdasan buatan 
+bertujuan untuk  menciptakan  sistem  komputasi  yang  lebih  
+terkendali,  memudahkan  pekerjaan  bagi penggunanya, dan 
+menganalisis suatu permasalahan atau dokumen.  Kecerdasan  
+buatan  diartikan  sebagai  rekayasa  dan  ilmu  yang  ditujukan  
+untuk menciptakan  mesin  cerdas  atau  program  cerdas  yang  
+bermanfaat  dalam  memahami  cara berpikir manusia yang tidak 
+terbatas hanya untuk pengamatan biologis (Mccarthy, 2007). 
+Selanjutnya, Mccarthy (2007) menguraikan lagi mengenai 
+intelligence sebagai pencapaian tujuan melalui  pemanfaatan 
+komputasi kemampuan. Sementara itu, artikel dalam  built in 
+menjelaskan bahwa kecerdasan buatan merupakan perpanjangan ilmu 
+komputer yang luas 

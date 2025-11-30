@@ -1,5 +1,3 @@
-Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
-Online: https://ejournal3.undip.ac.id/index.php/jtm
 Gambar 5 Diagram alir penelitian
 3.2 Pemodelan
 Konsep pemodelan demo kit penjejak satelit, terdapat beberapa prinsip-prinsip dasar yang harus diperhatikan sehinga
@@ -18,4 +16,3 @@ menjejaknya [9]. Selebihnya kualitas atau performa komunikasi tergantung pada gr
 [10]. Merujuk pada hal tersebut ground station maka perlu sebuah perangkat yang bernama antena penjejak satelit. Dengan
 adanya perangkat ini komunikasi dengan satelit dapat berjalan dengan lancar, namun untuk mencapai performa yang bagus
 terdapat beberapa hal yang harus dipertimbangkan. Satelit LEO yang mengorbit sama dengan arah bumi disebut direct orbit
-JTM (S-1) Ğ Vol. 11, No. 2, April 2023:125-138 130

@@ -1,6 +1,6 @@
 I. PENDAHULUAN
 Teknologi Blockchain hadir diperkenalkan pada
-tahun 2008. Awal mula difungsikan sebagai peer-topeer Ledger akan didaftarkan transaksi Bitcoin
+tahun 2008. Awal mula difungsikan sebagai peer-to-peer Ledger akan didaftarkan transaksi Bitcoin
 cryptocurrency [1]. Tujuannya adalah untuk
 memungkinkan pengguna dalam melakukan transaksi
 mereka secara langsung serta dapat menghilangkan

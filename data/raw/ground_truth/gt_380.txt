@@ -1,79 +1,113 @@
-Jurnal Explore STMIK Mataram Ð Volume 8 No 1 Tahun 2018 ISSN: 2087-894X
-MEMBANGUN WEBSITE SIMPAN PINJAM PADA KOPERASI SIMPAN PINJAM
-(KSP) ÒHARAPAN BERSAMAÓ
-Salman 1)
-, Bq. Ajeng Liesna Putri Dende Kirana 2)
-, Zaenudin 3)
-STMIK Mataram 1,2)
-Universitas Bina Nusantara 1)
-Universitas Islam Indonesia 3)
-asal.lombok@gmail.com,
-Abstrak - Pengelolaan data yang baik akan sangat membantu dalam penyelesaian suatu pekerjaan,
-maka dari itu diperlukan manajemen yang baik pula dan dapat diharapkan mengakses data secara cepat
-dan akurat. Website merupakan salah satu program yang digunakan
-untuk membangun atau mendesain sebuah aplikasi. Dengan menggunakan Website, kita dapat membuat
-sebuah aplikasi dengan tampilan yang menarik sesuai dengan keinginan. Penulis mengusulkan agar
-menggunakan program aplikasi yang berbasis database. Hal ini bertujuan agar mempermudah petugas
-dalam melakukan pengolahan data. Aplikasi ini dibuat untuk menghasilkan sistem informasi simpan
-pinjam pada KSP ÒHARAPAN BERSAMAÓ dan metode yang digunakan adalah waterfall.
-Kata Kunci : Website, Aplikasi, Program, Simpanan, Koperasi
-1. Latar Belakang
-Perkembangan dunia perekonomian mengalami
-kemajuan sangat pesat baik dalam hal teknologi
-maupun pemikiran. Salah satunya adalah
-kegiatan di bidang keorganisasian yaitu koperasi.
-Koperasi merupakan bentuk organisasi ekonomi
-yang mempunyai peran penting dan berkaitan
-erat dengan sistem perekonomian di Indonesia
-saat ini, yang merupakan pilar ekonomi berbasis
-kekeluargaan dan kegotong royongan. Seperti
-yang terjadi pada KSP Harapan Bersama.
-Sistem akuntansi yang digunakan pada KSP
-Harapan Bersama masih belum terkomputerisasi,
-karena segala aktifitas koperasi tersebut masih
-manual. Kegiatan operasional koperasi dalam hal
-ini sering terjadi kesalahan dalam sistem
-pencatatan, ini terjadi diakibatkan kurang baiknya
-sistem pencatatan yang digunakan sehingga
-dalam pemrosesan data transaksi menjadi
-lambat. Sistem informasi akuntansi simpan
-pinjam yang terjadi pada KSP Harapan Bersama
-berasal dari Simpanan yang sering terjadi pada
-periode akhir bulan untuk pemasukan data kas
-yang masuk setiap bulannya. Bagian yang terlibat
-dalam pembuatan laporan simpanan ditempat
-praktek kerja lapangan yaitu bagian Kasir dan
-Pembukuan. Bagian Kasir sering mengalami
-kesalahan dalam penginputan data pada saat
-adanya transaksi simpanan setiap harinya, dan
-pembukuan masih mengalami kesulitan dalam
-pembuatan laporan bulanan karena banyak
-terjadi selisih saat menghitung secara manual,
-Untuk masalah ini setidaknya diperlukan
-beberapa alternatif pemecahan yang mungkin
-dapat berguna bagi sistem operasional
-perusahaan terutama sistem informasi simpanan
-koperasi.
-2. Kajian Pustaka
-Sistem Informasi
-Sistem didefinisikan sebagai kumpulan elemen
-yang saling berhubungan dan berinteraksi dalam
-satu kesatuan untuk menjalankan suatu proses
-pencapaian suatu tujuan utama (Sirait, Sutarman,
-& Rahim, 2015).
-Informasi adalah sekumpulan fakta (data) yang
-diorganisasikan dengan cara tertentu sehingga
-mereka mempunyai arti bagi si penerima (Sirait et
-al., 2015). Akhirnya pengertian sistem informasi
-adalah suatu sistem didalam suatu organisasi
-yang mempertemukan kebutuhan pengolahan
-transaksi harian yang mendukung fungsi operasi
-organisasi yang bersifat manajerial dengan
-kegiatan strategi dari suatu organisasi untuk
-dapat menyediakan kepada pihak luar tertentu
-dengan laporan-laporan yang diperlukan (Sutabri,
-2012).
-Unified Modeling Language (UML)
-UML merupakan bahasa visual untuk pemodelan
-dan komunikasi mengenai sebuah sistem dengan
-1
+menggunakan diagram dan teks - teks
+pendukung. UML hanya berfungsi untuk
+melakukaan pemodelan. Jadi penggunaan UML
+tidak terbatas pada metodologi tertentu,
+meskipun pada kenyataannya UML paling
+banyak digunakan pada metodologi berorientasi
+objek(Rosa A.S & Shalahuddin, 2015). Unified
+Modeling Language (UML) terdiri atas dua
+diagram yaitu :
+a) Use Case merupakan pemodelan untuk
+kelakukan (bahavior) sistem informasi yang
+akan dibuat. Use Case mendeskripsikan
+sebuah interaksi antara satu atau lebih aktor
+dengan sistem informasi yang akan dibuat.
+Secara kasar, use case digunakan untuk
+mengetahui fungsi apa saja yang ada di
+dalam sebuah sistem informasi dan siapa saja
+yang berhak menggunakan fungsi Ð fungsi itu
+(Rosa A.S & Shalahuddin, 2015).
+b) Activity Diagram merupakan Administrator
+yang menentukan parameter penyusunan
+jurnal untuk mendapatkan data Ð data yang
+akan diproses dan disusun ke dalam bentuk
+antara objek di dalam proses penyusunan
+jurnal. Pada proses ini admin yang berperan
+sebagai actor mengisi parameter jurnal
+berdasarkan tanggal transaksi jurnal pada
+form. Form akan mengecek data jurnal sesuai
+dengan tanggal yang diinginkan ke session.
+Session di dalam proses ini bertugas untuk
+mengambil data - data yang dibutuhkan dari
+entity. Berikutnya form akan menampilkan
+jurnal yang terbentuk dari data Ð data yang
+diperoleh. Admin memiliki hak untuk
+melakukan proses posting atau penyimpanan
+jurnal (Rosa A.S & Shalahuddin, 2015).
+
+Flowchart
+
+Flowchart adalah simbol - simbol pekerjaan yang
+menunjukan bagan aliran proses yang saling
+terhubung. Jadi, setiap simbol flowchart
+melambangkan pekerjaan dan intruksinya (eWolf
+Community, 2011:16).
+
+Database
+
+Sistem basis data adalah sistem terkomputerisasi
+yang tujuan utamanya adalah memelihara data
+yang sudah diolah atau informasi dan membuat
+informasi tersedia saat dibutuhkan (Rossa dan
+M.Shalahuddin, 2015:43).
+a) Entity Relationship Diagram (ERD) Entity
+Relationship Diagram adalah diagram yang
+menggambarkan keterkaitan antar tabel
+beserta dengan field - field di dalamnya pada
+
+suatu database sistem (S. H. Pratama,
+Meilani, & Kamil, 2014)
+b) Terdapat tiga buah jenis relasi antar tabel
+didalam bagan ERD. Ketiga relasi tersebut
+yaitu (S. H. Pratama et al., 2014) :
+a. One to One (Satu ke Satu)
+b. One to many (Satu ke Banyak)
+c. Many to Many (Banyak ke Banyak)
+c) Normalisasi Proses normalisasi merupakan
+proses pengelompokan elemen data menjadi
+tabel Ð tabel yang menunjukan entitas dan
+relasinya. Proses ini selalu diuji pada
+beberapa kondisi. Apakah ada kesulitan pada
+saat menambah (insert), menghapus (delete),
+mengubah (update), atau membaca (retrieve)
+pada suatu database. Bila ada kesulitan pada
+pengujian tersebut maka relasi dapat
+dipecahkan dalam beberapa tabel lagi
+(Sutabri, 2012).
+Tahapan normalisasi menurut (Latief, 2016)
+adalah sebagai berikut :
+a. Bentuk tidak normal
+b. Bentuk Normal pertama (1NF)
+c. Bentuk Normal kedua (2NF)
+d. Bentuk Normal ketiga (3NF).
+
+Definisi Koperasi
+
+Badan usaha yang beranggotakan orang seorang
+atau badan hukum koperasi dengan
+melandaskan kegiatannya berdasarkan prinsip
+koperasi sekaligus sebagai gerakan ekonomi
+rakyat yang berdasarkan asas kekeluargaan.
+(Diunduh dari
+http://www.academia.edu/7434430/DEFINISI_KO
+PERASI pada tanggal 3 Juli 2018).
+
+Perangkat lunak pengembangan system
+
+- XAMPP - Xampp adalah sebuah paket
+kumpulan sofware yang terdiri dari Apache,
+MySQL, PHPMyAdmin, PHP, Perl, Filezilla
+dan lain-lain Xampp berfungsi untuk
+memudahkan instalasi lingkungan PHP,
+dimana biasanya lingkungan pengembangan
+web memerlukan PHP, Apache, MySQL dan
+PHPMyAdmin serta software - Software yang
+terkait dengan pengembangan web (Apache
+Friends, 2017).
+- Notepad++ - Notepad++ adalah program
+aplikasi pengembang yang berguna untuk
+mengedit teks dan skrip kode pemrograman.
+Versi terbaru program ini adalah Notepad++
+v5.9, yang dirilis pada tanggal 06 April 2012.
+Software Notepad++ dibuat dan
+dikembangkan oleh Tim Notepad++.

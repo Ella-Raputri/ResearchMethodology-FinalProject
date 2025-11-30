@@ -1,5 +1,3 @@
-Jurnal FUSE-Teknik Elektro 23
-| Vol. 2 | No. 1 | Halaman 21-30 [Juni] [2022]
 2. Komponen elektronik pada mesin memiliki fungsi beragam sesuai dengan
 kebutuhan pada mesin yaitu: Cronos CNC Board yang berfungsi sebagai papan
 sirkuit utama yang menghubungkan driver aktuator dengan mikrokontroler, motor
@@ -27,6 +25,3 @@ berakhir apabila seluruh perintah blok G-Code selesai dieksekusi.
 2.4 Flowchart Perancangan Mesin Laser Engraving 2-D
 Tahapan yang dilakukan pada perancangan mesin laser engraving 2-D berbasis
 mikrokontroler Arduino uno adalah sebagaimana diperlihatkan pada gambar 2.
-Journal Homepage: https://journal.uniga.ac.id/index.php/JFT/index
-ISSN 2797-815X
-P-ISSN 2797-8745

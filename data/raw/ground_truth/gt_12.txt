@@ -1,24 +1,9 @@
 merumuskan research     question yang     efektifdiperlukan    ketentuan Population,    Intervention, Comparison,  Outcomes dan Context (PICOC)yang merupakan  lima  faktor  utama  dalam  menentukan research  question sehingga mempermudahpeneliti dalam  perumusan  RQ.  Format  dari  PICOC  sendiri  tidak  memiliki  kriteria  tertentu,  sehingga  peneliti bebas  mementukan  format  seperti  apa  yang  paling sesuai  dengan  peneliti.  Pada  penelitian  ini,  format tabel  yang  digunakan  penelitidapat  dilihat  di tabel4.1
 
 Tabel 4.1 Faktor PICOC
-Faktor
-Population: Twitter
-Intervention: Metode deteksi topik
-Comparison: Metode deteksi topik dan tingkat keberhasilan
-Outcomes: Metode deteksi topik dan tingkat keberhasilan
-Context: Akurasi metode deteksi topik 
 
 Dari kelima faktor PICOC diatas maka dirumuskanlah research question yang dapat dilihat pada tabel 4.2.
 Tabel 4.2 Research Question
-
-Tabel 4.2 Research Question
-ID Research Question 
-RQ1 Apa jenis-jenis metode yang digunakan dalam riset pendeteksian topik pada twitter?
-RQ2 Apa metode yang paling seirng digunakan dalam riset pendeteksian topik pada twitter?
-RQ3 Apa metode dengan tingkat akurasi tertinggi yang digunakan dalam riset pendeteksian topik pada twitter?
-RQ4 Asal dari sumber data dan berapa banyak data yang digunakan dalam riset pendeteksian topik pada twitter?
-RQ5 Siapa penulis yang paling sering melakukan riset pendeteksian topik pada twitter?
-RQ6 Jurnal dan conference apa yang paling sering menjadi event untuk topik deteksi?
 
 4.2 Conducting
 Pada   tahap conducting, yang   pertama   kali dilakukan    ialah    mencari    atau    mengidentifikasi penelitian yang relevan dengan penelitian yang akan dilakukan.  Pencarian  atau  identifikasi  pada   digital library dihasilkan  dari  memasukkan key  word pada mesin  pencarian  yang  sebelumnya  telahditentukan. Penggunaan key  worddilakukan  secara  konsisten pada setiap pencarian literatur pada mesin pencarian digital   library   untuk memaksimalkan   pencarian literature yang relevan.

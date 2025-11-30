@@ -1,1 +1,85 @@
-umpan balik yang lebih spesifik dan akurat (Wahyudi, 2020). Hal ini sangat relevan dalam konteks pendidikan Islam, di mana pemahaman mendalam dan internalisasi nilai-nilai agama sangat ditekankan. Namun demikian, integrasi teknologi dan kecerdasan buatan dalam pendidikan Islam juga menghadirkan sejumlah tantangan. Salah satunya adalah kesenjangan digital yang masih ada di kalangan masyarakat. Tidak semua peserta didik memiliki akses yang  sama  terhadap  teknologi,  yang  bisa  menyebabkan  ketimpangan  dalam  memperoleh  pendidikan  berkualitas  (Fauzi, 2018). Selain itu, ada kekhawatiran terkait dengan aspek etika dan privasi, mengingat AI mengumpulkan dan menganalisis data  pribadi  pengguna.  Lebih  lanjut,  ada  juga  tantangan  dalam  memastikan  bahwa  konten  yang  disampaikan  melalui teknologi dan AI tetap autentik dan sesuai dengan ajaran Islam. Pengembangan teknologi dalam pendidikan Islam harus melibatkan ahli agama untuk memastikan integritas dan keakuratan materi pembelajaran (Mulyadi, 2017). Penerapan teknologi dalam  pendidikan Islam dapat dilihat dari berbagai aspek, seperti penggunaan platform  e-learning, aplikasi  pendidikan  berbasis  AI,  serta  analisis  data  untuk  personalisasi  pembelajaran.  Misalnya,  platform  e-learning memungkinkan siswa untuk mengakses materi pendidikan kapan saja dan di mana saja, sehingga pembelajaran menjadi lebih fleksibel dan inklusif. Di sisi lain, AI dapat digunakan untuk mengembangkan sistem tutor cerdas yang mampu memberikan umpan  balik  secara  real-time,  membantu  siswa  memahami  konsep-konsep  yang  sulit,  serta  memonitor  perkembangan belajar mereka. Integrasi teknologi dan AI dalam pendidikan Islam tidak hanya meningkatkan efisiensi pembelajaran, tetapi juga dapat meningkatkan motivasi dan partisipasi siswa. Penelitian ini menemukan bahwa penggunaan aplikasi pendidikan berbasis  AI  mampu  meningkatkan  hasil  belajar  siswa secara  signifikan,  karena  teknologi  ini  dapat  menyesuaikan  materi pembelajaran sesuai dengan kebutuhan individu siswa (Fauzi, 2021). Selain itu, integrasi teknologi dalam pendidikan Islam juga dapat mendukung pengembangan keterampilan abad 21, seperti berpikir  kritis,  kreativitas,  kolaborasi,  dan  komunikasi.  Teknologi  memberikan  alat  dan  platform  bagi siswa  untuk berkolaborasi  secara  virtual,  mengakses  berbagai  sumber  informasi,  serta  mengembangkan  proyek-proyek  kreatif  yang relevan dengan konteks kehidupan nyata. Namun demikian, tantangan dalam penerapan teknologi dan AI dalam pendidikan Islam  juga  tidak  dapat  diabaikan.  Beberapa  isu  yang  perlu  diperhatikan  antara  lain  kesiapan  infrastruktur  teknologi  di berbagai daerah, kompetensi digital para pendidik, serta kebutuhan untuk memastikan bahwa nilai-nilai Islam tetap terjaga dalam  proses  pembelajaran  berbasis  teknologi.  Oleh karena  itu,  dibutuhkan  strategi  yang  komprehensif  dan  kolaboratif antara pemerintah, lembaga pendidikan, dan komunitas untuk mengoptimalkan manfaat teknologi dan AI dalam pendidikan Islam. Oleh karena itu, penelitian ini bertujuan untuk mengkaji potensi dan tantangan integrasi teknologi dan kecerdasan buatan dalam meningkatkan pendidikan Islam. Diharapkan hasil penelitian ini dapat memberikan rekomendasi yang konstruktif bagi pengembangan pendidikan Islam yang lebih inovatif dan inklusif di masa depan. 2. Tinjauan PustakaPendidikan  Islam  yaitu  proses  transinternalisasi  pengetahuan  dan  nilainilai  Islam  terhadap  peserta  didik  dengan  adanya pengajaran,  pembiasaan,  bimbingan,  pengasuhan,  pengawasahan,  serta  pengembangan  potensinya,  untuk  mencapai keselarasan hidup di dunia maupun di akhirat (Ramayulsi, 2013). Pendidikan Islam merupakan bagian integral dari sistem pendidikan yang bertujuan untuk membentuk individu yang tidak hanya unggul dalam ilmu pengetahuan dan teknologi, tetapi juga memiliki karakter dan nilai-nilai Islami yang kuat. Dalam era digital saat ini, integrasi teknologi dan kecerdasan buatan (Artificial   Intelligence/AI)  menawarkan  peluang  besar  untuk  meningkatkan  efektivitas  dan  efisiensi  proses pembelajaran. AI adalah Kecerdasan Buatan, seperti kepanjangan AI yaitu Artificial Intelligence, AI merupakan teknologi yang dirancang untuk membuat sistem komputer mampu meniru kemampuan intelektual manusia. AI memungkinkan komputer untuk  belajar  dari  pengalaman,  mengidentifikasi  pola,  membuat  keputusan,  dan  menyelesaikan  tugas-tugas  kompleks dengan cepat dan efisien (Ismail,2023). Penggunaan teknologi dalam pendidikan telah berkembang pesat dalam beberapa dekade terakhir. Teknologi informasi dan komunikasi (TIK) telah membuka akses luas terhadap sumber daya pendidikan, memungkinkan pembelajaran jarak jauh, serta menyediakan alat bantu belajar yang interaktif. Beberapa studi menunjukkan bahwa teknologi dapat meningkatkan motivasi belajar, keterlibatan siswa, dan hasil belajar. E-Learning atau pembelajaran elektronik adalah salah satu bentuk implementasi teknologi dalam pendidikan. Melalui platform e-learning, siswa dapat mengakses materi belajar kapan saja dan 
+umpan balik yang lebih spesifik dan akurat (Wahyudi, 2020). 
+Hal ini sangat relevan dalam konteks pendidikan Islam, 
+di mana pemahaman mendalam dan internalisasi nilai-nilai 
+agama sangat ditekankan. Namun demikian, integrasi teknologi 
+dan kecerdasan buatan dalam pendidikan Islam juga menghadirkan 
+sejumlah tantangan. Salah satunya adalah kesenjangan digital 
+yang masih ada di kalangan masyarakat. Tidak semua peserta 
+didik memiliki akses yang  sama  terhadap  teknologi,  
+yang  bisa  menyebabkan  ketimpangan  dalam  memperoleh  
+pendidikan  berkualitas  (Fauzi, 2018). Selain itu, ada 
+kekhawatiran terkait dengan aspek etika dan privasi, mengingat 
+AI mengumpulkan dan menganalisis data  pribadi  pengguna.  
+Lebih  lanjut,  ada  juga  tantangan  dalam  memastikan  bahwa  
+konten  yang  disampaikan  melalui teknologi dan AI tetap 
+autentik dan sesuai dengan ajaran Islam. Pengembangan teknologi 
+dalam pendidikan Islam harus melibatkan ahli agama untuk 
+memastikan integritas dan keakuratan materi pembelajaran 
+(Mulyadi, 2017). Penerapan teknologi dalam  pendidikan Islam 
+dapat dilihat dari berbagai aspek, seperti penggunaan platform  
+e-learning, aplikasi  pendidikan  berbasis  AI,  serta  
+analisis  data  untuk  personalisasi  pembelajaran.  Misalnya,  
+platform  e-learning memungkinkan siswa untuk mengakses materi 
+pendidikan kapan saja dan di mana saja, sehingga pembelajaran 
+menjadi lebih fleksibel dan inklusif. Di sisi lain, AI dapat 
+digunakan untuk mengembangkan sistem tutor cerdas yang mampu 
+memberikan umpan  balik  secara  real-time,  membantu  siswa  
+memahami  konsep-konsep  yang  sulit,  serta  memonitor  
+perkembangan belajar mereka. Integrasi teknologi dan AI dalam 
+pendidikan Islam tidak hanya meningkatkan efisiensi pembelajaran,
+tetapi juga dapat meningkatkan motivasi dan partisipasi siswa. 
+Penelitian ini menemukan bahwa penggunaan aplikasi pendidikan 
+berbasis  AI  mampu  meningkatkan  hasil  belajar  siswa secara  
+signifikan,  karena  teknologi  ini  dapat  menyesuaikan  materi 
+pembelajaran sesuai dengan kebutuhan individu siswa (Fauzi, 2021).
+Selain itu, integrasi teknologi dalam pendidikan Islam juga 
+dapat mendukung pengembangan keterampilan abad 21, seperti 
+berpikir  kritis,  kreativitas,  kolaborasi,  dan  komunikasi.  
+Teknologi  memberikan  alat  dan  platform  bagi siswa  untuk 
+berkolaborasi  secara  virtual,  mengakses  berbagai  sumber  
+informasi,  serta  mengembangkan  proyek-proyek  kreatif  yang 
+relevan dengan konteks kehidupan nyata. Namun demikian, 
+tantangan dalam penerapan teknologi dan AI dalam pendidikan 
+Islam  juga  tidak  dapat  diabaikan.  Beberapa  isu  yang  
+perlu  diperhatikan  antara  lain  kesiapan  infrastruktur  
+teknologi  di berbagai daerah, kompetensi digital para pendidik, 
+serta kebutuhan untuk memastikan bahwa nilai-nilai Islam tetap 
+terjaga dalam  proses  pembelajaran  berbasis  teknologi.  
+Oleh karena  itu,  dibutuhkan  strategi  yang  komprehensif  
+dan  kolaboratif antara pemerintah, lembaga pendidikan, dan 
+komunitas untuk mengoptimalkan manfaat teknologi dan AI dalam 
+pendidikan Islam. Oleh karena itu, penelitian ini bertujuan 
+untuk mengkaji potensi dan tantangan integrasi teknologi dan 
+kecerdasan buatan dalam meningkatkan pendidikan Islam. Diharapkan 
+hasil penelitian ini dapat memberikan rekomendasi yang 
+konstruktif bagi pengembangan pendidikan Islam yang lebih 
+inovatif dan inklusif di masa depan. 
+2. Tinjauan Pustaka
+Pendidikan  Islam  yaitu  proses  transinternalisasi  
+pengetahuan  dan  nilainilai  Islam  terhadap  peserta  didik  
+dengan  adanya pengajaran,  pembiasaan,  bimbingan,  
+pengasuhan,  pengawasahan,  serta  pengembangan  potensinya,  
+untuk  mencapai keselarasan hidup di dunia maupun di akhirat 
+(Ramayulsi, 2013). Pendidikan Islam merupakan bagian integral 
+dari sistem pendidikan yang bertujuan untuk membentuk individu 
+yang tidak hanya unggul dalam ilmu pengetahuan dan teknologi, 
+tetapi juga memiliki karakter dan nilai-nilai Islami yang kuat. 
+Dalam era digital saat ini, integrasi teknologi dan kecerdasan 
+buatan (Artificial   Intelligence/AI)  menawarkan  peluang  
+besar  untuk  meningkatkan  efektivitas  dan  efisiensi  proses 
+pembelajaran. AI adalah Kecerdasan Buatan, seperti kepanjangan 
+AI yaitu Artificial Intelligence, AI merupakan teknologi yang 
+dirancang untuk membuat sistem komputer mampu meniru kemampuan 
+intelektual manusia. AI memungkinkan komputer untuk  belajar  
+dari  pengalaman,  mengidentifikasi  pola,  membuat  keputusan,  
+dan  menyelesaikan  tugas-tugas  kompleks dengan cepat dan 
+efisien (Ismail,2023). Penggunaan teknologi dalam pendidikan 
+telah berkembang pesat dalam beberapa dekade terakhir. Teknologi 
+informasi dan komunikasi (TIK) telah membuka akses luas terhadap 
+sumber daya pendidikan, memungkinkan pembelajaran jarak jauh, 
+serta menyediakan alat bantu belajar yang interaktif. Beberapa 
+studi menunjukkan bahwa teknologi dapat meningkatkan motivasi 
+belajar, keterlibatan siswa, dan hasil belajar. E-Learning atau 
+pembelajaran elektronik adalah salah satu bentuk implementasi 
+teknologi dalam pendidikan. Melalui platform e-learning, siswa 
+dapat mengakses materi belajar kapan saja dan 

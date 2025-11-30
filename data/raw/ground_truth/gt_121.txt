@@ -4,6 +4,7 @@ pertanian dengan rincian 6 paper berupa implmentasi
 serta 6 paper berupa ulasan (survey). Ulasan
 mengenai 12 artikel ilmiah tersebut disajikan pada
 Tabel 2.
+Tabel 2 Hasil Studi Literatur
 Perpaduan blockchain dan kecerdasan buatan
 dapat meningkatkan keamanan dan kepercayaan dari
 suatu sistem cerdas atau dapat pula meningkatkan

@@ -2,7 +2,7 @@ digerakkan oleh AI memberdayakan perpustakaan untuk memberikan layanan yang
 lebih canggih dan mudah beradaptasi kepada para pelanggannya. Selain itu, mereka
 juga berpotensi meningkatkan aksesibilitas, kemampuan pencarian, dan administrasi
 sumber daya perpustakaan secara keseluruhan.
-• Chatbots
+Chatbots
 Perpustakaan memiliki kemampuan untuk mengintegrasikan chatbots yang
 didukung oleh AI untuk menjawab pertanyaan umum dari pengunjung. Chatbot
 berbasis AI ini mampu memberikan informasi mengenai jam buka, koleksi, peraturan
@@ -26,7 +26,7 @@ dalam percakapan, di mana salah satu peserta adalah entitas otomatis. Namun
 demikian, entitas otomatis ini memiliki kemampuan untuk memahami instruksi dan
 segera memberikan tanggapan yang akurat terhadap pertanyaan yang diajukan oleh
 penggunat
-• Analisis Penggunaan
+Analisis Penggunaan
 Kecerdasan buatan dapat digunakan untuk menganalisis penggunaan
 perpustakaan, mencakup data pinjaman dan kunjungan. Pendekatan analitis ini
 memungkinkan perpustakaan untuk memahami kebutuhan pelanggan dan

@@ -1,1 +1,44 @@
-LATAR BELAKANG Selama  beberapa  tahun  terakhir,  telah  terjadi  peningkatan  luar  biasa  terhadap penipuan  dan  kecurangan  di  bidang  akuntansi.  Hal  ini  pada  akhirnya  merugikan  bagi berbagai pihak seperti investor, kreditur, pemerintah, auditor, hingga kantor akuntan publik itu sendiri. Selaras dengan hasil laporan yang dikemukakan oleh salah satu kantor akuntan publik terkemuka yaitu Pwc, mengatakan bahwa sebanyak $1 Triliun dibayarkan setiap tahun untuk suap dan $2 Triliun hilang hanya karena korupsi. Pada dasarnya kejahatan ini dapat dicegah apabila ada pengembangan yang signifikan di bidang ilmu pengetahuan akuntansi terutama dalam mendeteksi kecurangan maupun manipulasi laporan keuangan, salah satunya yaitu pengembangan kecerdasan buatan di bidang audit.  Kecerdasan buatan di bidang audit diciptakan untuk memungkinkan auditor untuk bekerja lebih baik dan lebih cerdas. Penggunaan kecerdasan buatan di bidang audit dapat memecahkan masalah terkait efisiensi dan nilai tambah yang rendah sehingga pekerjaan audit akan  menjadi  lebih  efektif  dengan  bantuan  kecerdasan  buatan,  data  dapat  ditambah  dan digabungkan sehingga menawarkan pemahaman yang lebih baik tentang berbagai tahapan proses audit (Albawwat dan Frijat, 2021). Namun, disisi yang lain kecerdasan buatan di bidang audit sendiri dapat mengancam profesi auditor di masa depan. Menurut penelitian yang dilakukan oleh University of Oxford pada tahun 2015, profesi yang berhubungan dengan akuntansi memiliki peluang 95 persen akan  kehilangan  pekerjaan  karena  adanya  kecerdasan  buatan  yang  akan  mengambil  alih dalam  peran  menganalisis  sebuah  data  maupun  angka.  Namun,  laporan  yang  sama  ini menemukan bahwa seiring kemajuan teknologi, beberapa pekerjaan dihilangkan sementara yang lain diciptakan (Griffin, 2016). Perkembangan terbaru dalam kecerdasan buatan telah memperkenalkan  perubahan  dramatis  pada  praktik  banyak  profesi  tradisional,  termasuk akuntansi.  Hal ini serupa dengan penelitian yang dilakukan oleh Afroze & Aulad pada tahun 2020 yang menyatakan bahwa para profesional setuju atau sangat setuju dengan fakta bahwa kecerdasan  buatan  merupakan  ancaman  langsung  terhadap  pekerjaan  yang  dilakukannya termasuk profesi auditor sedangkan penelitian yang dilakukan Soeprajitno pada tahun 2019 menyatakan bahwa setidaknya terdapat tiga tantangan yang akan dihadapi auditor di masa mendatang  terkait  penerapan  kecerdasan  buatan  yaitu  berkurangnya  kemampuan  dan pengalaman auditor, kesediaan, kejujuran dan relevansi data Perusahaan yang menggunakan jasa audit, dan ekspektasi dari pembuat regulasi dan pengguna jasa audit. Oleh karena itu, 
+LATAR BELAKANG Selama  beberapa  tahun  terakhir,  telah  
+terjadi  peningkatan  luar  biasa  terhadap penipuan  dan  
+kecurangan  di  bidang  akuntansi.  Hal  ini  pada  akhirnya 
+merugikan  bagi berbagai pihak seperti investor, kreditur, 
+pemerintah, auditor, hingga kantor akuntan publik itu sendiri. 
+Selaras dengan hasil laporan yang dikemukakan oleh salah satu 
+kantor akuntan publik terkemuka yaitu Pwc, mengatakan bahwa 
+sebanyak $1 Triliun dibayarkan setiap tahun untuk suap dan $2 
+Triliun hilang hanya karena korupsi. Pada dasarnya kejahatan ini 
+dapat dicegah apabila ada pengembangan yang signifikan di bidang 
+ilmu pengetahuan akuntansi terutama dalam mendeteksi kecurangan 
+maupun manipulasi laporan keuangan, salah satunya yaitu 
+pengembangan kecerdasan buatan di bidang audit.  Kecerdasan 
+buatan di bidang audit diciptakan untuk memungkinkan auditor 
+untuk bekerja lebih baik dan lebih cerdas. Penggunaan kecerdasan 
+buatan di bidang audit dapat memecahkan masalah terkait 
+efisiensi dan nilai tambah yang rendah sehingga pekerjaan audit 
+akan  menjadi  lebih  efektif  dengan  bantuan  kecerdasan  
+buatan,  data  dapat  ditambah  dan digabungkan sehingga 
+menawarkan pemahaman yang lebih baik tentang berbagai tahapan
+proses audit (Albawwat dan Frijat, 2021). Namun, disisi yang 
+lain kecerdasan buatan di bidang audit sendiri dapat mengancam 
+profesi auditor di masa depan. Menurut penelitian yang dilakukan 
+oleh University of Oxford pada tahun 2015, profesi yang 
+berhubungan dengan akuntansi memiliki peluang 95 persen akan 
+kehilangan  pekerjaan  karena  adanya  kecerdasan  buatan  yang  
+akan  mengambil  alih dalam  peran  menganalisis  sebuah  data  
+maupun  angka.  Namun,  laporan  yang  sama  ini menemukan bahwa 
+seiring kemajuan teknologi, beberapa pekerjaan dihilangkan 
+sementara yang lain diciptakan (Griffin, 2016). Perkembangan 
+terbaru dalam kecerdasan buatan telah memperkenalkan  perubahan  
+dramatis  pada  praktik  banyak  profesi  tradisional,  termasuk 
+akuntansi.  Hal ini serupa dengan penelitian yang dilakukan oleh 
+Afroze & Aulad pada tahun 2020 yang menyatakan bahwa para 
+profesional setuju atau sangat setuju dengan fakta bahwa 
+kecerdasan  buatan  merupakan  ancaman  langsung  terhadap  
+pekerjaan  yang  dilakukannya termasuk profesi auditor sedangkan 
+penelitian yang dilakukan Soeprajitno pada tahun 2019 menyatakan 
+bahwa setidaknya terdapat tiga tantangan yang akan dihadapi 
+auditor di masa mendatang  terkait  penerapan  kecerdasan 
+buatan  yaitu  berkurangnya  kemampuan  dan pengalaman auditor, 
+kesediaan, kejujuran dan relevansi data Perusahaan yang 
+menggunakan jasa audit, dan ekspektasi dari pembuat regulasi dan 
+pengguna jasa audit. Oleh karena itu, 
