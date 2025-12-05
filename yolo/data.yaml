@@ -1,0 +1,8 @@
+names:
+- Caption
+- PageNumber
+- Picture
+nc: 3
+path: preprocess_and_training/split10
+train: remain/images
+val: test/images
