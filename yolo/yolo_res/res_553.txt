@@ -1,0 +1,1 @@
+21. Setelah restart otomatis beberapa kali, nanti diminta memasukan data nama dan pengaturan, bisa diisi bebas. gambar jendela 10 22. Setelah muncul halaman Windows 10 seperti di bawah ini, berarti proses instalasi telah selesai

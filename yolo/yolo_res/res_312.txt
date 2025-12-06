@@ -1,0 +1,1 @@
+Untuk menunjang usulan solusi pada Tabel Tabel 4. Rekomendasi Hardware 2, maka diberikan rekomendasi topologi jaringan yang dapat dilihat pada Gambar 7 dan rekomendasi software yang dapat dilihat pada Tabel 3 serta rekomendasi hardware yang dapat dilihat pada Tabel 4. ; Tabel 3. Rekomendasi Software

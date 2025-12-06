@@ -1,0 +1,1 @@
+Tabel 2 Data input concrete damage plasticity perilaku tekan dan tarik Tabel 3 data tegangan regangan wiremesh   3. Hasil dan Pembahasan 3.1. Pengaruh ukuran mesh pada hasil studi parametrik Pada analisis ini dicoba ukuran mesh yang mendekati hasil eksperimen. Ukuran mesh yang digunakan 10,20,27,30 , 40 dan 50 mm yang hasilnya dapat dilihat pada Gambar 7.

@@ -16,3 +16,4 @@ Include
 Scripts
 share
 *.env
+detect_result
