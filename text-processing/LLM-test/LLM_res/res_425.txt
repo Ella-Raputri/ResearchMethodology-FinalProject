@@ -1,0 +1,48 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : hlm. 1-12
+
+Keterangan:
+σₜ = Tegangan tarik
+fₜ = Tegangan tarik puncak
+εcr = Regangan tarik puncak
+εₜ = Regangan tarik
+n = Koefisien tarik (1; 0,75; 0,5; 0,4)
+
+Persamaan 8 untuk mengetahui nilai tegangan tarik pada saat regangan tarik lebih kecil daripada nilai regangan puncak:
+
+σ = E εₜ
+
+Persamaan 9 untuk mengetahui nilai damage parameter tekan:
+
+D𝑐 = 1 − √1 − (1 − 𝑐𝑏𝑐) 
+ε𝑐 / ε𝑐𝑟
+
+Keterangan:
+D𝑐 = Damage parameter tekan
+
+Persamaan 10 untuk mengetahui nilai damage parameter tarik:
+
+Dₜ = 1 − √1 − (1 − 𝑐𝑏𝑡) 
+εₜ / ε𝑐𝑟
+
+Keterangan:
+Dₜ = Damage parameter tarik
+
+Persamaan 11 untuk mengetahui nilai regangan plastis tekan:
+
+ε𝑐 𝑝𝑙 = ε𝑐 − σ𝑐 / E₀
+
+Keterangan:
+ε𝑐 𝑝𝑙 = Regangan plastis tekan
+ε𝑐 = Regangan tekan setelah ε𝑐𝑟
+ε₅₀ = Regangan tekan pada tegangan 50% dari nilai tegangan puncak
+
+Persamaan 12 untuk mengetahui nilai regangan plastis tarik:
+
+εₜ 𝑝𝑙 = εₜ − σₜ / E
+
+Keterangan:
+εₜ 𝑝𝑙 = Regangan plastis tarik
+εₜ = Regangan tarik
+E = Modulus elastisitas
+
+Pada material beton digunakan parameter dilation angle sebesar 35, eccentricity sebesar 0,1, f𝑏₀/f𝑐₀ sebesar 1,16, K sebesar 0,67 dan viscosity parameter sebesar 0,007985. Modulus elastisitas pada beton sebesar 1019,92 MPa dan modulus elastisitas wiremesh sebesar 708260,59 MPa dengan poisson ratio wiremesh sebesar 0,3. Data perilaku tekan dan tarik beton dapat dilihat pada tabel 2 sedangkan data tegangan regangan wiremesh dapat dilihat pada tabel 3.

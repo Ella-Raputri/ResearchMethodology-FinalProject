@@ -1,0 +1,37 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021: hlm. 1-12
+
+Hasil perhitungan secara numerik balok ferogeopolymer dengan variasi 7 lapisan wiremesh
+
+HN-VWL7
+
+Hasil perhitungan secara numerik balok ferogeopolymer dengan variasi 9 lapisan wiremesh
+
+HN-VWL9
+
+Hasil perhitungan secara numerik balok ferogeopolymer dengan variasi 11 lapisan wiremesh
+
+HN-VWLI11
+
+Metode analisis yang digunakan pada penelitian ini dengan menggunakan Software Abaqus. Penggunaan Software diawali dengan memasukkan desain gambar di module part sesuai spesifikasi gambar 1 sampai gambar 5. Kemudian dilanjutkan dengan memasukkan parameter material yang berupa beton dan baja pada menu properties.
+
+Software Abaqus memberikan kemampuan mensimulasikan kerusakan menggunakan salah satu dari tiga model retak untuk elemen beton bertulang: (1) Model beton retak berlubang, (2) Model beton retak rapuh, dan (3) Model plastisitas beton rusak (CDP). Dari tiga model retak beton, model plastisitas beton yang rusak dipilih dalam penelitian ini karena teknik ini memiliki potensi untuk mewakili perilaku inelastik lengkap dari beton baik dalam ketegangan dan kompresi termasuk karakteristik kerusakan.
+
+Untuk mensimulasikan perilaku lentur balok ferrogeopolymer dengan perkuatan wiremesh secara lengkap pada software Abaqus digunakan prinsip Post failure stress-strain relationship (Gambar 6) dengan memasukkan parameter yang dihitung menggunakan persamaan CEB-FIP 1990 yang dapat dilihat di bawah ini:
+
+(b)
+Gambar 4 (a) Model elastoplastic hardening damage (b) Model plastic softening damage (c) Plastic softening damage
+
+(Voyiadjis2008)
+
+ε = (0,71 x σcu + 2000) x 10^-6 (1)
+Keterangan:
+
+ε = Regangan puncak
+
+σcu = Tegangan puncak
+
+Persamaan 2 untuk mengetahui nilai tegangan tekan pada saat nilai regangan lebih kecil dari nilai regangan puncak
+
+σ = σcu x (ε/ε0)/(3 - (ε/ε0)^2) (2)
+
+Keterangan:

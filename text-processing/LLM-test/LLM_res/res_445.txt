@@ -1,0 +1,28 @@
+210
+
+berbahasa Jawa. Pada data penelitian kuantitatif didapatkan dari hasil proses guru mengajar narasi berbahasa Jawa menggunakan media gambar berseri. Kemudian tahap terakhir yaitu peneliti mengolah dan menganalisis data yang didapatkan, menyusun hasil penelitian, pembahasan hasil dan menyimpulkan hasil penelitian.
+
+Reaksi siswa sebelum memakai media gambar berseri adalah menolak mapel basa Jawa karena dianggap sulit, namun saat pembelajaran dijelaskan menggunakan media gambar berseri peserta didik menjadi ingin tahu dan ingin mencoba bercerita sesuai dengan gambar yang disajikan. Media gambar berseri cocok diterapkan di kelas III karena siswa terbilang sangat aktif dan sulit dikondisikan, dengan adanya media gambar siswa menjadi terarah dan bisa dikondisikan. Peserta didik antusias memberikan tanggapan pada guru.
+
+Dalam penelitian ini, data tentang keterampilan menulis narasi berbahasa Jawa siswa diperoleh dari nilai pre-test dan post-test. Pre-test dibagikan pada pertemuan pertama sebelum perlakuan dan post-test dibagikan pada pertemuan setelah perlakuan. Sebelum menggunakan media gambar berseri, siswa mengalami kesulitan mengarang cerita dan sulit untuk mengungkapkan ide-ide mereka. Peserta didik tertarik menulis narasi setelah diberikan pembelajaran dengan media gambar berseri.
+
+Tabel 2. Rekapitulasi pre-test dan post-test
+
+Deskripsi Statistik
+N Minimal Maksimal Rata-rata Std. Deviasi
+Pre-test 31 35 75 55.97 9.697
+Post-test 31 60 100 82.42 9.387
+
+Valid N (listwise) 31
+
+Nilai pre-test siswa sebelum penerapan media gambar berseri ditunjukkan dalam tabel. Hasil terkecil siswa adalah 35, dan nilai terbesar adalah 75. Kemudian pada nilai tengah pre-test yaitu 55,97. Hasil post-test setelah diterapkannya media gambar berseri nilai terkecil siswa yaitu 60 dan nilai terbesar 100. Dan nilai tengah yang didapatkan yaitu 82,42.
+
+Tabel 3. Uji normalitas
+Tests of Normality
+
+Kolmogorov-Smirnovᵃ Shapiro-Wilk
+Statistic df Sig. Statistic df Sig.
+Pretest .145 31 .095 .965 31 .403
+Posttest .145 31 .095 .938 31 .074
+
+Berdasarkan hasil uji normalitas yang dihitung menggunakan SPSS 15 pada tes keterampilan menulis narasi berbahasa Jawa didapatkan hasil statistik sebesar 0,965 pada pre-test serta nilai statistik sebesar 0,938 pada data post-test. Diketahui bahwa nilai perhitungan uji Shapiro-Wilk nilai pre-test diperoleh taraf signifikan 0,403 > 0,05 yang artinya data keterampilan menulis siswa pada tes awal berdistribusi normal. Dan pada nilai post-test diperoleh taraf signifikan 0,074 > 0,05 yang berarti data nilai keterampilan menulis siswa pada tes akhir berdistribusi normal. Selanjutnya uji hipotesis menggunakan uji paired sample t-test, hasil uji ditunjukkan pada tabel bawah ini.

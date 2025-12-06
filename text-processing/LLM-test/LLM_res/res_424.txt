@@ -1,0 +1,44 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : hlm. 1-12
+
+ocu = Tegangan puncak tekan
+o = Tegangan tekan
+€o = Regangan puncak
+e = Regangan
+
+Persamaan 3 untuk mengetahui nilai tegangan tekan pada saat regangan lebih besar daripada nilai regangan puncak
+
+o = ocu x (e/eo) / (1+(e/eo)^2) (3)
+
+Keterangan :
+ocu = Tegangan puncak tekan
+o = Tegangan tekan
+€o = Regangan tekan puncak
+e = Regangan tekan
+Ecy = Regangan tekan ultimate
+
+Persamaan 4 untuk mengetahui modulus elastisitas
+
+E = 0,5 x ocu / €50 (4)
+
+Keterangan :
+ocu = Tegangan puncak tekan
+€50 = Regangan tekan pada tegangan 50% dari nilai tegangan puncak
+E = Modulus elastisitas
+
+Persamaan 5 untuk mengetahui nilai regangan tarik puncak
+
+Ecy = eo (5)
+Keterangan :
+Fc’ = Mutu beton
+Ecy = Regangan tarik puncak
+E = Modulus elastisitas
+
+Persamaan 6 untuk mengetahui tegangan tarik puncak
+
+ft = 0,33 x √fc (6)
+Keterangan :
+Ft = Tegangan tarik puncak
+
+Persamaan 7 untuk mengetahui nilai tegangan tarik pada saat regangan tarik lebih besar dari nilai regangan puncak
+
+o = ft x (e/ey) / (1+(e/ey)^2) (7)

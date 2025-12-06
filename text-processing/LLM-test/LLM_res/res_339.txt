@@ -1,0 +1,51 @@
+JURNAL TEKNIK MESIN
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3-undip.ac.id/index.php/jtm
+
+To satellite
+
+West
+
+South Elevation ¥, Ground station North
+of 7
+> —— Azimuth
+Compass’
+bearing East
+
+Gambar 3. Sudut azimuth dan elevasi [4].
+
+Untuk memplot nilai azimuth dan elevasi kami memerlukan persamaan matematikanya yang nantinya akan digunakan sebagai coding live script pada micro controller. Persamaan elevasi yang ada merupakan untuk satelit GEO namun juga bisa untuk satelit yang lain [7].
+
+rₑ
+cos L cos Φ − r sat
+Elevasi = tan⁻¹[ √(1−cos² L cos² Φ) ]
+
+Keterangan:
+
+Elevasi = Sudut simpangan ketinggian antena terhadap satelit (derajat)
+rₑ = Jari-jari bumi (km)
+r sat = jari-jari geosentrik satelit (km)
+Φ = latitude antena penjejak (derajat)
+L = selisih antara longitude antena dengan satelit (derajat)
+
+Di atas merupakan persamaan elevasi yang akan digunakan dengan beranggapan bahwa bumi itu bulat, selebihnya persamaan azimuth yang akan digunakan juga mengasumsikan bahwa bumi memiliki bentuk bulat atau persamaan ini merupakan turunan dari persamaan haversine [8].
+
+Sin Δλ Cos φ₂
+θ = tan⁻¹[ Cos φ₁ Sin φ₂ − Sin φ₁ Cos φ₂ Cos Δλ ]
+
+Keterangan :
+θ = Sudut azimuth (derajat)
+Δλ = Selisih longitude antara satelit dengan antena (Δλ = λsatelit - λantena)
+φ₁ = Latitude antena (derajat)
+φ₂ = Latitude satelit/objek (derajat)
+
+Persamaan tersebut yang akan digunakan pada live script coding yang nantinya akan diterapkan pada koding, sebagai catatan pada software yang digunakan jangan lupa untuk merubah dari input satuan derajat dirubah ke radian kemudian setelah mendapatkan hasilnya dirubah lagi ke satuan derajat.
+
+2.5 Mikro Kontroller
+
+Mikrokontroler merupakan sebuah device kontroler atau yang berukuran mikro yang didalamnya terdapat inti prosesor, memori (memori RAM dan memori program) atau disebut juga dengan chip, dan komponen untuk port input serta output. Secara garis besar disimpulkan mikrokontroler ialah suatu alat elektronika digital yang mempunyai input dan output serta kendali dengan program yang dapat dimodifikasi yang telah tertanam di dalamnya. Mikrokontroler pada hakikatnya merupakan komputer berukuran mini, yang tertanam di dalamnya terdapat memori, jalur port untuk Input/Output (I/O), mikroprosesor, dan perangkat pendukung lainnya. Jika dibandingkan kecepatan pengolahan data pada mikrokontroler dengan PC maka mikrokontroler jauh lebih rendah daripada PC. Pada perangkat PC kecepatan mikroprosesor yang digunakan saat ini bisa mencapai angka GHz, sedangkan kecepatan pada mikrokontroler pada umumnya berkisar antara 1-16 MHz. Begitu juga kapasitas RAM dan ROM yang terpasang pada PC yang bisa mencapai orde Gbyte, dibandingkan dengan mikrokontroler yang hanya berkisar pada orde byte/Kbyte.
+
+Untuk saat ini mikrokontroler yang banyak digunakan saat ini adalah arduino. Arduino merupakan salah satu dari sekian banyak produk edukasi mikrokontroler sebagai proyek rintisan open-source yang fleksibel dan mudah digunakan baik
+
+JTM (S-1) — Vol. 11, No. 2, April 2023:125-138 128
