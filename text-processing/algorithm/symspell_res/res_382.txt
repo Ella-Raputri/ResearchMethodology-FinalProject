@@ -1,0 +1,74 @@
+dural Explore STMIK Mataram — Volume 8 No 1 Tahun 2018 ISSN: 2087-894X
+
+7. Kemudian kasir mencatat jumlah - jumlah
+simpanan / penarikan ke dalam buku
+simpanan. a
+
+8. Kemudian kasir menyerahkan kembali
+buku tabungan kepada anggota setelah
+penarikan selesai di catat. cass a
+
+9. Jumlah simpanan dan penarikan yang di a,
+catat dalam buku simpanan dijadikan ‘ \\ ews LF
+laporan dan di serahkan’ kepada rccs
+pengurus. _ =
+
+b. Sistem alteratif (Sistem Baru)
+Untuk mengatasi permasalahan yang
+dihadapi dalam pelayanan simpanan koperasi
+pada KSP “Harapan Bersama’” dikembangkan
+
+sistem baru yang akan memudahkan petugas Gambar 3. Use Case Diagram
+koperasi untuk mendata dan mengelola data ,
+
+simpanan dan penarikan. Sistem baru _ Use Case Diagram untuk penggunaan
+tersebut dapat dijelaskan pada Gambar 2. sistem dapat di lihat seperti gambar 3. Sistem
+Alur Sistem Baru : dapat di akses oleh admin dan petugas kasir,
+
+yang dimana Admin diberikan akses penuh
+terhadap sistem sedangkan untuk petugas
+kasir akses untuk sitem di batasi seperti data
+petugas kasir tidak dapat menambahkan data
+petugas kasir.
+
+sistem Baru
+
+“Anggota Petugas Lapangan
+
+b) Entity Relationship Diagram (ERD)
+
+ERD untuk sistem simpan pinjam KSP
+Harapan Bersama terdiri dari 4 entitas yaitu
+petugas, anggota, transaksi, dan login. Untuk
+lebih jelasnya dapat dilihat pada gambar 4.
+
+petugas
+no_petugas (PK)
+Oo no_anggota (PK) alamat
+
+1ama_anggota
+alamat
+
+Gambar 2. Alur Sistem Baru
+
+c. Unifield Modeling Language (UML)
+a) Use Case Diagram
+
+login
+username (PK)
+password
+
+level
+
+Gambar 5. Entity Relationship Diagram
+
+c
+
+Arsitektur Program (Struktur Program)
+
+Pada perancangan sistem _informasi
+Simpanan Koperasi pada KSP “Harapan
+Bersama ini terdata arsitektur program
+yang dirancang sebagai gambaran singkat
+dari sistem informasi tersebut. Stuktur
+program ini menampilkan menu beranda,

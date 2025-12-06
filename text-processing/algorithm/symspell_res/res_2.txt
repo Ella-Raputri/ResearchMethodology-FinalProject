@@ -1,0 +1,63 @@
+SINERGI MANUSIA-ROBOT:
+PENGGUNAAN ROBOT BANTU-SOSIAL
+sebagat INTERVENSI PSIKOLOGI
+
+Syurawasti Muhiddin
+proram Studi Psikologi, Fakultas Psikologi, Universitas Hasanuddin,
+Makassar Indonesia
+
+*syurawasti@unhas.ac.id
+
+ABSTRAK
+
+Perkembangan dalam bidang komputer telah mendorong berkembangnya kecerdasan buatan atau artificial
+intelligence (AI) dan teknologi robot. Artikel ini menjelaskan secara singkat penggunaan robot bantu sosial atau
+Socially Assistive Robotics (SAR) sebagai bentuk intervensi psikologi. Dalam bidang psikologi, SAR dapat
+digunakan untuk mendorong perubahan jenis perilaku pada level tertentu, serta banyak digunakan dalam
+pelayanan kesehatan mental seperti sebagai pendamping, asisten terapi, dan pelatih atau instruktur.
+Penggunaan SAR semakin menjanjikan kedepannya yang memberikan implikasi pada perkembangan studi
+robotic psychology dan Moral Human-Robotic Interaction (hri) untuk lebih memahami dinamika hubungan
+manusia-robot dalam kaitannya dengan efek yang diberikan robot pada manusia serta isu-isu moral dan etika
+dalam hubungan tersebut.
+
+Kata kunci: Intervensi Teknologi, Psikologi Teknologi, Robot Bantu Sosial, Socially Assistive Robotics,
+Teknologi Positif.
+
+ABSTRACT
+
+Evolution in the computer field have been contributing to the development of artificial intelligence (AI) and
+robot technology. This article briefly describes the use of Socially Assistive Robotics (SAR) as a form of
+technological intervention in psychology. SAR can be used to encourage changes in types of behavior at a
+certain level, and is widely used in mental health services, for example as a companion, therapy assistant, and
+coach or instructor. The use of SAR is increasingly promising in the future, which has implications for the
+development of the study of robotic psychology and Moral Human-Robotic Interaction (hri) to better
+understand the dynamics of human-robot relationship such as the effects that robots have on humans as well as
+moral and ethical issues in those relationships.
+
+Keywords: Positive Technology, Psychology of Technology, Socially Assisstive Robotics, Technological
+Intervention .
+
+PENDAHULUAN
+
+Saat ini, manusia hidup pada era ketika
+globalisasi dan evolusi teknologi digital yang
+cepat membawa perubahan signifikan dalam
+berbagai bidang kehidupan �masyarakat,
+Perkembangan dramatis dalam _ bidang
+komputer mendorong berkembangnya Internet
+of Things (IoT), kecerdasan buatan atau
+Artificial Intelligence (AI) dan teknologi robot.
+Lingkungan dan nilai-nilai masyarakat menjadi
+semakin beragam dan kompleks di semua
+
+aspek (Fukuyama, 2018; shiroishi dkk., 2018)
+Pada saat yang sama, dunia masih menghadapi
+tantangan-tantangan yang berskala global.
+Tantangan tersebut seperti menipisnya sumber
+daya alam, pemanasan global, masalah
+kesenjangan ekonomi, dan terorisme. Zaman
+ini dianggap menjadi sebuah ketidakpastian
+yang menantang (shiroishi dkk., 2018).
+
+Sebagai upaya untuk melalui tantangan-
+tantangan yang ada, inovasi teknologi pada

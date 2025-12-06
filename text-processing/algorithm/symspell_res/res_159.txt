@@ -1,0 +1,50 @@
+Alat-alat berbasis Al, seperti perangkat lunak untuk analisis data, pengecekan tata
+bahasa, hingga penyusunan referensi, telah memberikan kemudahan dan efisiensi
+bagi peneliti, terutama mahasiswa yang tengah menempuh studi di perguruan
+tinggi (Jayanegara et al., 2023).
+
+Bagi Universitas Pasifik (unipas) Morotai, yang terletak di wilayah 3T
+(tertinggal, terdepan dan terluar), pengenalan AI kepada mahasiswa menjadi
+langkah strategis untuk mengatasi keterbatasan dalam pemahaman teknologi
+yang masih rendah. Tantangan ini mendorong dosen PGSD unipas untuk
+memberikan eksplorasi yang lebih luas mengenai AI sebagai solusi inovatif yang
+dapat memperkuat kapasitas mahasiswa, terutama dalam hal penulisan artikel
+ilmiah yang berkualitas.
+
+Keunikan mahasiswa unipas di daerah 3T menambah daya tarik tersendiri
+dalam konteks pengabdian masyarakat dan riset. Mereka memiliki potensi besar
+untuk berkembang, namun sering kali terbatas oleh akses terhadap teknologi.
+Memperkenalkan alat-alat berbasis Al, seperti subspace, membuka peluang bagi
+mahasiswa untuk mengembangkan kemampuan akademis dan profesional
+mereka di tengah keterbatasan ini (febrianto et al., 2024). subspace, dengan fitur
+unggulanya seperti perbaikan tata bahasa, struktur kalimat, deteksi plagiarisme,
+dan pengelolaan referensi otomatis, memberikan kemudahan bagi mahaiswa
+dalam menghasilkan karya ilmiah yang lebih efisien, akurat dan profesional.
+
+Namun, meskipun teknologi AI telah menunjukkan potensi besar dalam
+meningkatkan kualitas dan efisiensi penulisan ilmiah, banyak mahasiswa yang
+masih belum memanfaatkanya secara optimal (Gunawan et al., 2024). Hal ini
+disebabkan oleh beberapa faktor, termasuk kurangnya pengetahuan dan
+keterampilan dalam menggunakan AI. Padahal, kemampuan untuk menulis artikel
+ilmiah dengan baik merupakan keterampilan esensial yang harus dimiliki oleh
+mahasiswa, terutama dalam upaya mereka berkontribusi pada pengembangan
+ilmu pengetahuan (Nuraini et al., 2023).
+
+subspace adalah platform yang memanfaatkan kecerdasan buatan (AI) untuk
+mendukung peneliti dan mahasiswa dalam berbagai aspek penulisan ilmiah dan
+penelitian (Maru et al., 2024). subspace membantu penulis dalam memperbaiki
+tata bahasa, struktur kalimat, dan gaya penulisan sehingga artikel menjadi lebih
+jelas dan profesional. Platform ini juga menawarkan fitur untuk mendeteksi
+potensi plagiarisme, membantu penulis memastikan orisinalitas karya mereka.
+Dengan berbagai fitur otomatisasi, subspace membantu peneliti menghemat waktu
+dalam penulisan, pengeditan dan manajemen referensi, sehingga peneliti bisa
+fokus pada penelitian inti. Dengan memanfaatkan Al, mahasiswa dapat
+meningkatkan efisiensi dan kualitas penulisan mereka, membuat proses
+penelitian menjadi lebih mudah, terorganisir, dan sesuai dengan standar akademik
+yang tinggi (Side et al., 2024).
+
+Melalui program pengabdian ini, mahasiswa dilatih untuk memahami dan
+memanfaatkan AI sebagai pendukung utama dalam penelitian. Pengenalan dan
+pelatihan AI diharapkan dapat meningkatkan kapasitas mahasiswa dalam menulis
+artikel ilmiah sesuai standar akademik yang tinggi, sehingga mereka tidak hanya
+mampu berkontribusi dalam pengembangan ilmu pengetahuan, tetapi juga

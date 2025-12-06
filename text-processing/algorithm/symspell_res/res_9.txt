@@ -1,0 +1,103 @@
+Berkaitan dengan interaksi manusia-robot, para
+ilmuwan sosial mulai mengajukan pertanyaan
+tentang etika dalam desain robotik (misalnya,
+Sharkey & Sharkey, 2012). Istilah Moral
+Human Robotic Interaction (Moral hri)
+menjadi disiplin studi yang penting sebagai
+dimensi di dalam robotic psychology. Moral
+hri mencoba mempelajari cara orang
+menghubungkan moralitas dengan robot.
+Sebagaimana diketahui bahwa moralitas
+menjadi bagian penting dari interaksi sosial
+dan kode etik yang mencegah kita
+menyebabkan kerusakan fisik atau bahkan
+psikologis kepada orang lain. Tampaknya
+wajar untuk mengharapkan robot, terutama
+robot interaktif yang ramah, untuk mematuhi
+norma-norma etika dalam interaksi tersebut
+(Kool & agrawal, 2016).
+
+Contoh penelitian yang dilakukan di bidang
+Moral hri diperoleh dari dua eksperimen
+online yang dilaporkan oleh Malle, Scheutz,
+Amold, Voiklis, dan Cusimano (2015)
+Dengan menggunakan jenis skenario dilema
+moral yang sama dengan yang didasari oleh
+studi Kohlberg tahun 1976 tentang
+perkembangan moral pada manusia, penulis
+menyimpulkan bahwa dibandingkan dengan
+rekan manusia mereka, robot diharapkan untuk
+lebih = mematuhi nilai-nilai utilitarian,
+Kemudian, ketika perilaku mereka terbukti
+
+KESIMPULAN
+
+Masyarakat 5.0 yang membawa  misi
+mengintegrasikan teknologi dalam masyarakat
+berfokus pada upaya mencapai kesejahteraan
+manusia dan keberlanjutan. Hal ini mengarah
+pada penggunaan teknologi positif sebagai
+bentuk intervensi psikologi. Perkembangan
+dalam bidang = komputer _ mendorong
+berkembangnya kecerdasan buatan atau
+Artificial Intelligence (AI) dan teknologi robot.
+SAR atau robot bantu sosial adalah kelompok
+robot yang berkembang pesat pada abad ke-21
+untuk membantu manusia sekaligus menjadi
+teman. SAR dapat digunakan sebagai bentuk
+intervensi psikologi, seperti dalam perubahan
+perilaku dan peningkatan kesehatan mental.
+Dalam pelayanan kesehatan mental SAR
+digunakan sebagai pendamping (companion),
+rekan bermain dalam terapi, dan sebagai
+
+sebaliknya, kemungkinan menyalahkan mereka
+lebih besar daripadaketika ~ manusia
+berperilaku dengan cara yang sama. Jadi,
+tampaknya atribusi manusia terhadap moralitas
+berubah tergantung pada apakah manusia
+berinteraksi dengan sesamanya atau dengan
+mesin.
+
+Kelihatannya, manusia memang  masih
+memegang kendali atas interaksinya dengan
+robot sebagai pendesain robot _ tersebut.
+Berdasarkan Handbook of Robotics (roeland
+& wasserman, 2016), robot harus mematuhi
+'The Three Laws':
+
+a. Robot tidak boleh melukai manusia,
+meskipun interaksi tersebut memang
+memungkinkan manusia berada dalam
+bahaya.
+
+b. Robot harus mematuhi perintah yang
+diberikan oleh manusia kecuali  jika
+perintah tersebut akan _bertentangan
+dengan Hukum Pertama.
+
+c. Robot harus melindungi keberadaannya
+sendiri selama perlindungan tersebut tidak
+bertentangan dengan Hukum Pertama atau
+Kedua
+
+Implikasi terbesar dari berkembangnya sinergi
+manusia-robot adalah dibentuknya hukum
+ataupun kebijakan baru yang mengatur bentuk
+kehidupan sosial manusia-robot tersebut.
+
+instruktur atau pelatih. Meningkatnya sinergi
+manusia-robot memunculkan implikasi berupa
+berkembangnya studi baru seperti robotic
+psychology dan Moral  Human-Robot
+Interaction untuk lebih memahami dinamika
+hubungan antara manusia dan robot. Misalnya,
+dampak yang diberikan robot kepada aspek
+fisik, emosi dan sosial dalam kehidupan
+manusia, serta isu moral dan etika dalam
+hubungan manusia dan mesin _ tersebut.
+Pembentukan nilai-nilai, norma sosial dan
+aturan atau kebijakan baru sangat mungkin
+terjadi untuk mengatur populasi_ masyarakat
+yang hidup berdampingan bersama robot di
+masa yang akan datang. .

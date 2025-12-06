@@ -1,0 +1,108 @@
+Aplikasi Kajian DNA Molekuler dan Fenotipik Pada Program pelepasliaran Burung Kakatua
+
+sebagai gen barcode pada burung kakatua di
+Indonesia memiliki kinerja dan resolusi tinggi
+memisahkan antar jenis burung kakatua secara
+jelas.
+
+Jarak genetik interspesifik yang tinggi (3,1-
+11,6%) dapat membentuk pohon filogenetik
+yang menunjukkan hubungan garis keturunan
+dari masing-masing spesies burung kakatua. Hal
+ini memberi gambaran kecepatan dan pola-pola
+perubahan yang terjadi pada DNA dimana tiap
+kelompok (branch) mewakili clade atau kelompok
+monophyletic, sebuah kelompok keturunan dari
+satu garis nenek moyang. Hasil rekonstruksi
+pohon filogeni dari lima spesies burung kakatua
+(Psittacidae) menggunakan sekuen gen coi
+terdapat dua clade monophyletic dengan nilai
+bootstrap 96% terhadap kakatua raja (P.
+aterrimus). Clade 1 terdiri dari subclade I-A
+yang terdiri dari C. galerita dan C. sulphurea
+merupakan sister species dengan nilai bootstrap
+96%, sedangkan subclade I-B merupakan sister
+species antara C. alba dan C. moluccensis
+dengan nilai bootstrap 78%. Pada clade II
+hanya terdapat satu spesies, yaitu C. goffiniana.
+Hasil kajian lain C. goffiniana merupakan sister
+species dengan C. sanguinea (Astuti &
+Sulandari 2010). Hal ini dapat dikatakan bahwa
+C. galerita dan C. sulphurea serta C. alba dan
+C. moluccensis masing-masing memiliki garis
+keturunan dekat. Menurut podang (2010) sister-
+group diartikan sebagai istilah relatif dengan
+penekanan hanya pada kerabat terdekat yang
+dimasukkan dalam analisa diantara kelompok,
+jenis atau spesimen.
+
+Hasil Koreksi Analisa DNA dan Fenotipik
+Hasil rekonstruksi pohon filogenetik pada
+burung kakatua di Indonesia menunjukkan jenis
+C. galerita memiliki situs polimorfik tinggi,
+yaitu terdapat 11 haplotipe dan 10 garis
+keturunan berdasarkan sekuen gen coi DNA
+mitokondria dan terdapat tujuh haplotipe dan
+enam garis keturunan pada C. galerita yang
+terpilih untuk dilepas di habitat asli. Keragaman
+haplotipe ini sebagai indikator bahwa burung
+kakatua dari jenis C. galerita yang dipelihara
+masyarakat berasal dari berbagai lokasi yang
+mempunyai sebaran luas. Seperti diketahui
+distribusi C. galerita di Indonesia meliputi
+wilayah Papua dan pulau pulau kecil di sekitarnya. Di
+
+Australia, distribusi C. galerita meliputi Australia
+Barat, Australia Timur (Queensland), Australia
+Selatan (Victoria dan Tasmania). Introduksi C.
+galerita pernah dilakukan di pulau Seram
+(Indonesia) dan New Zealand (Sibley & Monroe
+1990). Berdasarkan anak jenis, distribusi C.
+galerita meliputi C. g. eleonora di pulau Aru,
+C. g. triton di Papua, C. g. fitzroyi di Australia
+Utara, dan C. g. galerita di Australia Timur.
+
+Berdasarkan variasi genetik yang tinggi
+dari sekuen gen coi C. galerita, maka analisa
+ini telah berhasil melakukan koreksi terhadap
+kesalahan identifikasi secara morfologi (Tabel
+4). Pada awal identifikasi spesies secara
+morfologi di lapangan terhadap lima individu
+diketahui sebagai C.sulphurea parvula dan C.
+galerita eleonora. Hasil pengukuran panjang
+tubuh, terhadap 3 ekor (Kode 330826, 330807,
+dan 330823) yang terkoreksi mempunyai
+panjang tubuh 460 mm, 390 mm dan 390 mm,
+sehingga hasil analisis genetik terhadap ketiga
+ekor burung tersebut sudah sesuai dengan
+parameter ukuran tubuh C. galerita yang berkisar 380-
+510 mm, sedangkan untuk dua ekor (Kode
+320824 dan 320835 ) memiliki panjang tubuh
+470 mm dan 383 mm teridentifikasi sebagai C.
+galerita eleonora termasuk dalam kisaran C.
+galerita (380-510 mm) dan hasil analisis molekuler
+menunjukkan bahwa kedua ekor burung tersebut
+adalah C. galerita triton. Hal ini sesuai dengan
+Beehler et al. (2001) bahwa kisaran panjang tubuh
+C. galerita antara 380-510 mm dan panjang tubuh C.
+sulphurea berkisar 330-350 mm (Bishop &
+Coates 1997). Adanya perbedaan hasil identifikasi
+secara morfologi disebabkan oleh parameter
+berat badan yang berkisar 420-578 gram yang
+lebih kecil dibandingkan rata-rata berat badan C.
+galerita triton betina 620,33+166,89 gram dan C.
+galerita triton jantan 712,29 +102,29 gram
+( Tabel 5).
+
+Hasil pengamatan bertahap yang dilakukan
+meliputi kebugaran individu, karakter fenotipik,
+barcode DNA, identifikasi jenis, kesehatan, dan
+pertimbangan berbagai segi maka 19 ekor C. g.
+triton tersebut telah dilepasliarkan oleh Kementerian
+Lingkungan Hidup dan Kehutanan di Kawasan
+Cagar Alam Cyclops, Jayapura, Papua pada
+tanggal 17 Desember 2015. Sisa yang tidak
+memenuhi syarat pelepasliaran ke habitat alam
+dipelihara di institusi konservasi untuk kepentingan
+
+167

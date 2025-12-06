@@ -1,0 +1,51 @@
+Untuk memastikan kualitas dan relevansi literatur yang dipilih, ditetapkan kriteria inklusi dan eksklusi. Kriteria inklusi
+mencakup:
+ Publikasi dalam 10 tahun terakhir untuk mendapatkan informasi terkini.
+ Artikel yang membahas teknologi, kecerdasan buatan, dan pendidikan Islam.
+ Artikel yang peer-reviewed atau diterbitkan oleh institusi akademik yang kredibel.
+Kriteria eksklusi mencakup:
+ Artikel yang tidak relevan dengan topik.
+ Publikasi yang tidak peer-reviewed atau dari sumber yang kurang terpercaya.
+
+3) Pengumpulan Data
+Setelah literatur yang relevan diidentifikasi, tahap berikutnya adalah pengumpulan data. Data yang dikumpulkan
+mencakup informasi tentang bagaimana teknologi dan kecerdasan buatan diterapkan dalam pendidikan Islam,
+manfaat yang diperoleh, serta tantangan dan solusi yang dihadapi.
+
+4) Analisis Data
+Data yang telah dikumpulkan dianalisis secara kualitatif. Analisis dilakukan dengan metode konten, yaitu
+mengidentifikasi tema-tema utama, pola, dan tren dalam literatur yang ada. Proses ini melibatkan pembacaan
+mendalam dan penandaan bagian-bagian penting dalam setiap sumber literatur.
+
+5) Sintesis Temuan
+Langkah terakhir adalah sintesis temuan dari berbagai literatur yang dianalisis. Sintesis ini bertujuan untuk
+menyatukan informasi yang diperoleh menjadi pemahaman yang komprehensif mengenai integrasi teknologi dan
+kecerdasan buatan dalam pendidikan Islam. Hasil sintesis ini kemudian disusun secara sistematis dalam bentuk
+tulisan yang terstruktur.
+
+6) Penarikan Kesimpulan
+Berdasarkan sintesis temuan, penelitian ini menarik kesimpulan mengenai dampak integrasi teknologi dan
+kecerdasan buatan terhadap pendidikan Islam. Kesimpulan ini mencakup manfaat, tantangan, serta rekomendasi
+untuk pengembangan lebih lanjut.
+
+4. Hasil dan Pembahasan
+A. Manfaat Integrasi Teknologi Al
+ Akses Terhadap Materi Pembelajaran yang Lebih Luas
+Teknologi informasi memungkinkan siswa mengakses berbagai sumber pembelajaran Islam dari seluruh dun
+
+Platform digital seperti perpustakaan online, kursus daring, dan aplikasi mobile menyediakan akses ke buku-
+buku klasik, tafsir, hadis, dan materi-materi modern yang mendukung pemahaman yang lebih komprehensif
+
+ Penggunaan Al untuk Personalisasi Pembelajaran
+Kecerdasan buatan dapat membantu dalam personalisasi pembelajaran. Dengan menganalisis data siswa, Al
+dapat mengidentifikasi kelemahan dan kekuatan individu, kemudian merekomendasikan materi atau metode
+pembelajaran yang paling sesuai. Ini penting dalam pendidikan Islam di mana pemahaman mendalam terhadap
+materi seringkali bersifat individual
+
+ Pembelajaran Interaktif dan Partisipatif
+Teknologi interaktif seperti aplikasi pembelajaran berbasis Al, simulasi, dan game edukatif dapat membuat
+pembelajaran lebih menarik dan meningkatkan partisipasi siswa. Misalnya, game edukatif yang mengajarkan
+sejarah Islam atau aplikasi yang membantu menghafal Al-Qur'an dapat meningkatkan keterlibatan siswa secara
+signifikan
+
+* _ Efisiensi dan Efektivitas Pengajaran

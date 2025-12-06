@@ -1,0 +1,61 @@
+Penerapan Diagram Sebab Akibat (fishbone Diagram) pada Identifikasi Kerusakan Mekanisme Pengumpan dan
+
+148
+
+penyusuan Standard Operating Procedure Mesin Skrap
+
+dan ketebalan diatur dengan menggeser eretan pahat. Adapun langkah persiapan
+penyerapan bidang mendatar yaitu :
+1. Pemasangan benda kerja pada ragum
+Pemasangan pahat rata
+Pengaturan panjang langkah pahat
+Pengaturan kecepatan langkah pahat
+
+Pengaturan gerakan meja secara otomatis
+
+Aw PF YN
+
+Setting pahat terhadap benda kerja.
+Penentuan ketebalan penyayatan pahat. Untuk pemakanan banyak digunakan
+pahat kasar. Besarnya feeding diambil = 1/3 dari tebal pemakanan alat
+
+(2) Kedalaman pemotongan dilakukan dari eretan alat potong
+
+(3) Feeding dilakukan oleh gerakan meja
+
+(4) Meja bergeser pada saat lengan luncur bergerak mundur.
+
+. penyerapan tegak
+
+Pada penyerapan tegak, yang bergerak adalah eretan pahat naik turun.
+Pengaturan ketebalan dilakukan dengan menggeser meja. Pahat harus diatur
+
+sedemikian rupa (menyudut) sehingga hanya bagian ujung saja yang menyayat dan
+
+bagian sisi dalam keadaan bebas. Tebal pemakanan di atur tipis + 50 mm. Langkah
+kerja penyerapan tegak sesuai dengan penyerapan yang datar.
+
+1. Kedalaman pemotongan dilakukan oleh gerakan meja
+
+2. Feeding dilakukan oleh gerakan eretan alat potong.
+
+. penyerapan menyudut
+
+penyerapan bidang menyudut adalah penyerapan benda kerja agar menghasilkan
+permukaan yang miring/sudut. Pada penyerapan ini yang bergerak adalah eretan pahat
+maju mundur. Pengaturan ketebalan dilakukan dengan memutar eretan pahat sesuai
+dengan kebutuhan sudut pemakanan :
+
+1. Kedalaman pemotongan dilakukan oleh gerakan meja
+
+2. Feeding dilakukan oleh eretan alat pemotong.
+
+. penyerapan alur
+
+Menurut alur penyerapan, Mesin Sekrap dapat digunakan untuk membuat alur :
+(1) Alur terus luar
+(2) Alur terus dalam
+(3) Alur buntu
+(4) Alur tembus.
+
+MARS - VOLUME 3 NOMOR 1, TAHUN 2025

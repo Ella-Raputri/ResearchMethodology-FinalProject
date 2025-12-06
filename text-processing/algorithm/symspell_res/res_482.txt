@@ -1,0 +1,61 @@
+Zein dkk
+
+Tabel 5. Karakter morfologi jenis C. galerita triton yang dilepasliarkan setelah identifikasi secara molekuler
+
+nota _ Jenis Sex Bobot Tubuh Panjang Panjang Kepala-
+(gram) Tubuh Paruh (mm)
+(mm)
+330826 Cacatua galerita triton Betina 578 460 68.9
+330825 Cacatua galerita triton Betina 926 510 94.4
+320824 Cacatua galerita triton Betina 490 470 T4.4
+330829 Cacatua galerita triton Betina 600 455 65.0
+330830 Cacatua galerita triton Betina 610 450 72.2
+330807 Cacatua galerita triton Betina 420 390 70.1
+330822 Cacatua galerita triton Betina 470 390 67.7
+330808 Cacatua galerita triton Betina 850 470 80.8
+330810 Cacatua galerita triton Betina 590 430 79.0
+320835 Cacatua galerita triton Betina 420 383 69.9
+330834 Cacatua galerita triton Betina 690 470 74.6
+330836 Cacatua galerita triton Betina 800 480 82.4
+620.334166,89 446.50+ 40,18 74.95+8.14
+330827 Cacatua galerita triton Jantan 7719 480 82.2
+330824 Cacatua galerita triton Jantan 808 600 98.6
+330823 Cacatua galerita triton Jantan 704 520 80.2
+330822 Cacatua galerita triton Jantan 605 470 87.8
+330828 Cacatua galerita triton Jantan 710 445 717.8
+330331 Cacatua galerita triton Jantan 780 460 76.4
+320832 Cacatua galerita triton Jantan 540 450 75.0
+Rata-rata 712.294102,29 489.29+4.80 82.57+8.24
+Tabel 6. Hasil statistik Anova dengan SPSS 16.0 terhadap Cacatua galerita triton
+Parameter Sex Jumlah —_Rataan Std.Dev Minimum Maksimum df F
+Jantan 7 712,29 102,3 540 808 1
+Bobot Badan Betina 12 620,33 166,9 420 926 17 1.721
+Total 19 654,21 150,29 420 926 18
+Jantan 7 489,29 54,8 445 600 1
+Panjang Total = Betina 12 446,5 40,19 383 510 17 3.844
+Total 19 462,26 49,37 383 600 18
+. Jantan 7 82,57 8,25 75 98,6 1
+ate Kepala- Retina 12 7495 814 65 94,4 173.837
+Total 19 77,76 8,8 65 98,6 18
+
+2012). Burung di Belanda intraspesifik rata-rata
+0,29% dan interspesifik rata-rata 9,54%, selain
+itu 95% jenis yang dianalisa mempunyai sekuen
+DNA barcode unik, sedangkan sisanya dijelaskan
+adanya proses hibridisasi sehingga terdapat
+anak jenis (Aliabadian et al. 2013). Hasil kajian
+pada burung di Skandinavia juga dilaporkan
+sangat efektif menggunakan sekuen gen COI
+DNA mitokondria (Jonhson et al. 2009).
+
+166
+
+Gen COI juga telah dibuktikan memiliki
+resolusi dan tampilan tinggi pada pengujian
+terhadap burung di wilayah Amerika Utara
+(Hebert et al. 2004). Hal ini juga dilaporkan Kevin et
+al. (2007). Oleh karena itu jarak genetik intraspesifik
+dan interspesifik pada burung kakatua di Indonesia
+berada pada kisaran hasil penelitian di negara
+lain dengan menggunakan gen COI DNA
+mitokondria. Penggunaan gen COI DNA mitokondria

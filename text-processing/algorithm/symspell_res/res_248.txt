@@ -1,0 +1,45 @@
+temuan Van Esch dkk. (2019), yang menyoroti bahwa chatbot AI meningkatkan
+keterlibatan pelanggan dengan menawarkan dukungan 24/7 [21].
+
+Selain aplikasi yang berhadapan langsung dengan pelanggan, AI telah terbukti
+merampingkan proses bisnis internal. Studi oleh Davenport dkk. (2018) menunjukkan
+bahwa AI dapat mengotomatiskan manajemen inventaris, operasi rantai pasokan, dan
+peramalan permintaan, sehingga mengurangi biaya operasional dan meningkatkan
+efisiensi [22]. Demikian pula, Berman dan peterson-Townes (2019) membahas
+bagaimana analisis keuangan berbasis AI dapat membantu pengusaha dalam mengelola
+keuangan mereka secara lebih efektif [23].
+
+Potensi AI untuk mendorong inovasi adalah manfaat penting lainnya. Li dkk. (2020)
+berpendapat bahwa AI memungkinkan wirausahawan untuk bereksperimen dengan
+model dan strategi bisnis baru dengan memberikan wawasan prediktif dan
+mensimulasikan berbagai skenario [24]. Selain itu, penelitian oleh Wilson dan Daugherty
+(2018) menyoroti bahwa AI dapat meningkatkan kreativitas manusia dengan
+menghasilkan ide dan solusi baru [25].
+
+Integrasi AI dalam pemasaran digital dieksplorasi lebih lanjut oleh Duan dkk. (2019),
+yang menemukan bahwa kampanye pemasaran berbasis AI lebih efektif dalam
+menjangkau dan melibatkan audiens target dibandingkan dengan metode tradisional [26].
+Hal ini didukung oleh penelitian Rust dan Huang (2018), yang menunjukkan bahwa AI
+dapat mengoptimalkan pengeluaran iklan dengan mengidentifikasi prospek dan saluran
+yang paling menjanjikan [27].
+
+Selain itu, peran AI dalam meningkatkan keamanan siber bagi pengusaha digital dibahas
+oleh studi Al-Garadi dkk. (2020). Mereka mengungkapkan bahwa algoritme AI dapat
+mendeteksi dan memitigasi ancaman siber secara real time, sehingga melindungi aset
+bisnis dan informasi sensitif [28]. Pentingnya AI dalam memastikan privasi dan
+kepatuhan data lebih lanjut ditekankan oleh penelitian Vassakis dkk. (2018), yang
+membahas implementasi alat kepatuhan berbasis AI [29].
+
+Terakhir, skalabilitas solusi AI disoroti oleh lietzmann dkk. (2018), yang berpendapat
+bahwa AI dapat mendukung pertumbuhan bisnis digital dengan menyediakan solusi yang
+dapat diskalakan yang beradaptasi dengan perubahan kondisi pasar [30]. Hal ini didukung
+oleh studi Kowalkowski dkk. (2020), yang menunjukkan bahwa teknologi AI dapat
+membantu wirausahawan memperluas operasi mereka dan memasuki pasar baru dengan
+lebih efisien [31].
+
+Singkatnya, literatur yang ditinjau memberikan bukti kuat tentang berbagai manfaat yang
+ditawarkan AI kepada pengusaha digital. Manfaat ini mulai dari meningkatkan
+keterlibatan pelanggan dan mempersonalisasi pengalaman hingga mengotomatisasi
+operasi dan mendorong inovasi. Integrasi AI dalam kewirausahaan digital tidak hanya
+menjawab tantangan praktik bisnis tradisional, tetapi juga membuka peluang baru untuk
+pertumbuhan dan kesuksesan.

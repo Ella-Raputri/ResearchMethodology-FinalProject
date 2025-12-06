@@ -1,0 +1,141 @@
+Berdasarkan hasil klasifikasi, terdapat 12
+artikel terkait blockchain dan kecerdasan buatan di
+pertanian dengan rincian 6 paper berupa implementasi
+serta 6 paper berupa ulasan (survey). Ulasan
+mengenai 12 artikel ilmiah tersebut disajikan pada
+Tabel 2.
+
+Tabel 2 Hasil Studi Literatur
+
+No_Referensi Deskripsi
+
+1 (Munir, - Pengembangan prototype Smart Watering
+Bajwa & System (SWS) di Pakistan.
+
+cheena, Sistem berbasis logika fuzzy digunakan
+2019) memutuskan tindakan berdasarkan_nilai
+variabel input,
+= Sistem yang diusulkan aman dan efisien
+untuk proses penyiraman tanaman,
+
+2 (akshay - _Integrasi model big data dengan teknologi
+ini  & blockchain untuk sinkronisasi permintaan
+Pela. dan Penawaran dalam produk pertanian di
+2020) Blockchain digunakan untuk mengurangi
+
+peran perantara (tengkulak).
+
+= Model secara efektif -meningkatkan
+kualitas sistem pertanian  berdasarkan
+tingkat kesesuaian permintaan dan
+penawaran,
+
+3 (Khan, = Pengembangan SCM dalam industri 4.0
+Byun & dalam sektor pangan akan lebih optimal
+50) jika diintegrasikan teknologi_IOT,
+
+blockchain dan kecerdasan buatan.
+
+= Penggunaan recurrent Neural Network
+(mn) untuk prediksi penjualan produk
+pertanian. Optimisasi algoritma genetika
+(GA) secara bersama sama untuk
+mengoptimalkan parameter model hibrida.
+= Model digunakan untuk membantu para
+praktisi rantai pasokan untuk mengambil
+keputusan sesuai hasil prediksi.
+4 (kadaver - Evaluasi pelaksanaan _penerapan
+al.,2020) _blockchain dalam rantai pasok pertanian di
+India menggunakan pendekatan Fuzzy.
+~ Penerapan model evaluasi menggunakan
+Total Interpretive Structural Modeling
+(tim), System Dynamics Modelling
+(SDM). Hambatan yang ada
+dikelompokkan menjadi dalam kelompok
+yang cocok menggunakan Fuzzy-
+MICMAC.
+5 (Salah et - Memberikan framework yang jelas atas
+al., 2018) penerapan AI dan Blockchain di berbagai
+bidang termasuk pertanian
+= Memberikan taksonomi yang _jelas
+mengenai penerapan AI dan Blockchain
+~ Memberikan ulasan yang jelas mengenai
+peran AI dalam meningkatkan sistem
+blokchain dan ulasan mengenaiperan
+blockchain dalam memperkuat sistem Al.
+6 (Rabah, - - Menggambarkan konsep blockchain, 1OT,
+2018) Al dan big data di berbagai bidang
+~ Penerapan blockchain dan AI di pertanian
+tidak secara spesifik dijelaskan
+7 (Singh, -  Mengulas penerapan blockchain, Al dan
+Rathore IOT di berbagai bidang
+& Park, _ Penerapan blockchain dan AI di pertanian
+2019) tidak secara spesifik dijelaskan
+
+No_ Referensi deskripsi
+8 (leche - Ulasan terhadap teknologi blockchain, AT,
+etat, IOT dan Big data dalam era agrifood 4.0
+2020) = Masa depan pertanian adalah dalam
+penciptaan sistem pertanian yang tangguh
+dan berkelanjutan, __-Pengelolaan
+manajemen  ketidakpastian _berbasis
+pertanian yang telah diidentifikasi
+meliputi_ Produk, Proses, Pasar dan
+Lingkungan,
+9 (Xiong et - Ulasan mengenai penerapan_teknologi
+al., 2020) blockchain dalam rantai__ pasokan
+makanan, asuransi_ pertanian, smart
+_farming, transaksi produk pertanian dalam
+perspektif teoretis dan praktis.
+~  Keterbatasan dalam penerapan blockchain
+di bidang pertanian meliputi diperlukan
+motivasi kepada pihak yang bertansaksi
+untuk memberikan informasi yang asli dan
+tepat dalam blockchain, implementasi
+blockchain pada sistem  sebelumnya
+belum tentu berjalan dengan baik, biaya
+untuk menyimpan data dalam blockchain
+bisa jadi sangat mahal dan tidak sebanding
+dengan harga komoditas pertanian pada
+umumnya.
+10 (Alam et - Ulasan mengenai penerapan_teknologi
+al., 2020) blockchain, dan Al.
+~ Memberikan usulan berupa framework
+untuk konsep neoteric smart &
+sustainable farming environment
+berdasarkan blockchain dan Al.
+11 (Awan et - Mengembangkan ute protokol guna
+al.,2020) menghapus data yang berlebihan melalui
+pendekatan clustering.
+~ meningkatkan kinerja sistem jaringan
+Blockchain 1OT dalam smart agriculture
+12 (Mao et - Implementasi pada kasus Blockchain IOT
+al., 2020) untuk produk teh di China.
+~ Pendekatan AMP digunakan untuk
+membantu menentukan nodes yang tepat.
+- Membuat sitem ketelusuran dari produk
+teh bekerja ebih baik.
+
+Perpaduan blockchain dan kecerdasan buatan
+dapat meningkatkan keamanan dan kepercayaan dari
+suatu sistem cerdas atau dapat pula meningkatkan
+kinerja sistem blockchain secara cerdas Hal ini
+merupakan bagian dari konsep blockchain for AI
+maupun AJ for blockchain. konsep blockchain for AI
+adalah penggunaan dlockchain untuk mendukung
+keamanan data dari sistem AI, sedangkan konsep 4/
+for blockchain merupakan penggunaan AI untuk
+dapat meningkatkan kinerja blockchain (Salah et al.,
+2018). Penelitian (Salah et al., 2018) kemudian
+menjadi rujukan untuk pengembangan  konsep
+blockchain dan kecerdasan buatan termasuk dalam
+bidang pertanian.
+
+Posisi riset blockchain dan kecerdasan buatan
+dalam pertanian dapat dilihat pada Gambar 2 dan
+Gambar 3. Dari Gambar 2 terlihat peningkatan
+publikasi dari riset blockchain dan kecerdasan buatan
+dari 1 buah publikasi di tahun 2019 menjadi 5 buah di
+tahun 2020 dengan total sebanyak 6 buah publikasi.
+Dari total tersebut 3 artikel masuk dalam konsep
+

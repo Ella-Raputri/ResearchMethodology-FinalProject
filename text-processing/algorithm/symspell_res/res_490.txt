@@ -1,0 +1,103 @@
+Sumerta & Kanti
+
+Tabel 1. Perolehan isolat khamir pada makanan fermentasi dan hasil blast
+
+Karakteristik
+
+Jumlah
+
+Metode Sampel . Kode isolat Jenis yang identik
+sampel isolat
+Metode Terasi Sumber N 0 - -
+langsung Cincalok Sumber N 2 Y15kr097 Candida melanoides
+Y15Kr098 Candida melanoides
+Tapai singkong Sumber C 2 Y15Kr093 Saccharomyces cerevisiae
+Y15Kr094 torulaspora globosa
+Tapai ketan Sumber C 2 Y15Kr095 saccharomycopsis fibuligera
+Y15Kr096 kodama ohmori
+Ragi Starter (tidak dilakukan)
+Metode Terasi Sumber N 0 - -
+pengayaan Cincalok Sumber N 0 - -
+Tapai singkong Sumber C 3 Y15Kr105 pichia kudriavzevii
+Y15Kr106 pichia kudriavzevii
+Y15kr107 Saccharomyces cerevisiae
+Tapai ketan Sumber C 3 Y15Kr108 Candida glabrata
+Y15Kr109 pichia kudriavzevii
+Y15Kr110 Candida glabrata
+Ragi Starter 3 Y15Kr102 saccharomycopsis fibuligera
+Y15Kr103 torulaspora delbrueckii
+Y15Kr104 torulaspora delbrueckii
+Total 15
+
+Aktifitas fermentasi dan produksi etanol
+
+Aktivitas khamir dalam proses fermentasi
+dapat dilihat secara kualitatif melalui gas yang
+terperangkap pada tabung durham. Aktivitas
+tersebut selanjutnya dikuantifikasi untuk melihat
+kadar etanol yang dihasilkan. Sebagian besar
+isolat menunjukkan aktivitas fermentasi (Tabel
+2). Hal tersebut berkorelasi dengan variasi persentase
+volume etanol yang dihasilkan (Gambar 1). Persentase
+etanol yang paling tinggi dihasilkan oleh
+Saccharomyces cerevisiae Y15Kr107 sebesar 3,32%
+(vv) diikuti oleh torulaspora delbrueckii Y15Kr104
+sebesar 1,63% (v/v), S. cerevisiae Y15Kr093 sebesar
+1,58% (v/v), dan Candida glabrata Y15Kr110
+yaitu 1,4% (v/v). saccharomycopsis fibuligera
+Y15Kr095, Y15Kr102 dan Candida melaniodes
+Y15Kr097, Y15Kr098 tidak menghasilkan gas
+sehingga tidak dihasilkan etanol.
+
+Posisi filogenetik menunjukkan hubungan
+kekerabatan antar jenis khamir dari makanan
+fermentasi. Identifikasi sekuen isolat khamir dari
+makanan fermentasi, dilakukan melalui penyejajaran
+dengan type strain dan out group dari anggota
+Divisi basidiomycetes hingga terbentuk pohon
+filogenetik (Gambar 3). Hasil konstruksi filogenetik
+dari sekuen daerah D1/D2 LSU 26S rDNA tergambar
+sebanyak 7 clade khamir yaitu torulaspora,
+Saccharomyces, saccharomycopsis, Nakaseomyces,
+Kurtzmaniella, kodama, dan pichia. Selain itu,
+pohon filogenetik menunjukkan isolat khamir
+
+64
+
+makanan fermentasi teridentifikasi ke dalam 8
+Jenis yaitu S. cerevisiae, Sm. fibuligera, P. kudriavzevii,
+T. globosa, T. delbrueckii, C. glabrata, C. melanoides
+dan K. ohmori dengan taraf kepercayaan di atas
+50%. Selain itu, pohon filogenetik dikonstruksi
+berdasarkan hasil analisa aktivitas fermentasi dan
+kemampuan menghasilkan etanol sehingga terbentuk
+kelompok atau clade khamir penghasil etanol.
+Posisi clade saccharomycopsis dan Kurzt maniella
+terpisah karena tidak memiliki aktivitas
+fermentasi dan tidak menghasilkan etanol yang
+signifikan.
+
+Tabel 2. Hasil pengamatan kualitatif aktivitas
+fermentasi isolat khamir.
+
+No Kode Jenis khamir Aktivitas
+isolat fermentasi
+1 Y15Kr093_ Saccharomyces cerevisiae ++
+2  Y15Kr094 = torulaspora globosa ++
+3. YI15Kr095 saccharomycopsis fibuligera
+4  Y15Kr096 kodama ohmori ++
+5 Y15kr097_ Candida melanoides
+6 Y1S5SKr098 Candida melanoides
+7 Y1SKr102  saccharomycopsis fibuligera
+8  Y15Kr103 torulaspora delbrueckii ++
+9  Y15Kr104  torulaspora delbrueckii ++
+10 YI5Kr105 pichia kudriavzevii +
+11 YISKr106 = pichia kudriavzevii +
+12. Y15kr107_ Saccharomyces cerevisiae +++
+13. YISKr108 Candida glabrata +
+14 YISKr109_— pichia kudriavzevii +
+15 Y15Kr110_ Candida glabrata t+
+
+Keterangan: (+) ada aktivitas fermentasi; (-) tidak ada
+aktivitas fermentasi. Jumlah (+) menggambarkan volume
+gas pada Durham.

@@ -1,0 +1,24 @@
+Perangkat keras
+
+Penjelasan:
+
+1. Power Supply (Sumber Daya Listrik)
+
+2. CD-ROM/DVDROM Drive (Mampu membaca DVD/CD)
+
+3. Hard Drive (Penyimpanan Data Sekunder dan berisi Piringan
+Magnetis)
+
+4. Floppy Drive (Media penyimpanan yang terdiri dari media
+penyimpanan magnetis tipis dan fleksibel).
+
+5. Disk Controllers (Meneruskan data dan intruksi ke Disk Drive).
+Expansion Slot (Intergrasi dari Circuit Boards ke Mother Board).
+
+7. Video Card (Menerjemahkan informasi gambar ke dalam berbagai
+arus listrik yang diperlukan untuk menampilkan gambar pada
+monitor).
+
+8. Sound Card (Merekam dan Mereproduksi suara multimedia).
+
+BEG | chon Ajar Aplikasi Komputer

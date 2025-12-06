@@ -1,0 +1,41 @@
+Gambar : 2.7
+
+2.21 CARA KERJA GARIS VEKTOR
+
+Garis vektor, juga disebut sebagai "jalur", dibentuk dengan menghubungkan dua atau lebih titik
+diskrit. Titik-titik ini menentukan awal dan titik akhir dari sebuah garis, dan mereka juga dapat
+ditempatkan di sepanjang garis jika Anda berencana untuk mengubah arah atau kurva. Dengan Tool
+dan elemen vektor ini, mudah untuk membuat garis dan kurva yang ditentukan dengan tepat:
+
+2.22 POIN VEKTOR
+
+Titik vektor, juga dikenal sebagai simpul vektor, adalah blok bangunan paling dasar dari gambar
+vektor. Titik-titik ini disimpan dalam file vektor sebagai data matematika menggunakan geometri
+koordinat. Saat Anda menambahkan titik vektor ke seni Anda, lokasinya ditentukan pada sumbu x/y
+pada bidang kartesius, dan koordinat tepatnya disimpan saat Anda menyimpan file. Garis dan bentuk
+vektor dibuat menggunakan titik, jadi semua seni vektor seluruhnya terdiri dari titik terlepas dari apa
+yang Anda desain.
+
+Meskipun data gambar vektor disimpan sebagai titik, Anda tidak hanya melihat titik saat membuka
+file seni vektor. Poin saja tidak akan dapat membuat gambar vektor seperti yang biasa Anda lihat. Ini
+menggabungkan titik bersama dengan garis yang memungkinkan anda membuat desain vektor. Garis
+vektor dapat terbuka atau tertutup, dengan garis terbuka menghubungkan dua titik dan garis
+tertutup dimulai dan diakhiri pada titik yang sama. Anda dapat membuat gambar yang jauh lebih
+detail dan kompleks dengan menggabungkan beberapa garis vektor. Garis vektor bisa lurus atau
+melengkung  jalur vektor melengkung juga disebut kurva bier.
+
+2.23 yaitu KURVA bezier?
+
+Kurva bier, dinamai menurut nama insinyur Prancis Pierre bier , adalah garis lengkung yang
+dapat Anda buat menggunakan perangkat lunak gambar vektor. Seperti garis vektor lurus, kurva
+bier didefinisikan menggunakan rumus matematika. Ini berarti kurva bier dapat diskalakan tanpa
+batas tanpa kehilangan kualitas, manfaat mendasar dari gambar vektor
+
+Satu set dua titik kontrol vektor menentukan titik awal dan akhir kurva. Kedua titik ini juga dapat
+menentukan bentuk kurva secara keseluruhan. Semakin banyak node vektor yang Anda tambahkan
+ke jalur melengkung Anda, semakin Anda dapat memanipulasi bentuk kurva yang tepat atau
+membuat banyak kurva dalam satu baris. Untuk mengubah bentuk kurva vektor, klik dan seret untuk
+menyesuaikan titik pengambilan atau "pegangan" kurva bier. Anda dapat menyempurnakan posisi
+titik kontrol vektor dengan tangan bebas atau menggunakan kisi untuk lebih presisi.
+
+20

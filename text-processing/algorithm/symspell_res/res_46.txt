@@ -1,0 +1,79 @@
+tugas perguruan tinggi adalah penelitian dan
+pengembangan yang dilakukan oleh dosen
+dan mahasiswa. Penelitan mahasiswa dapat
+dilihat dari hasil skripsi mereka. Selain itu
+penelitian mahasiswa melalui skripsi juga
+merupakan tolak ukur tingkat penyerapan
+kampus terhadap perkembangan teknologi
+yang terjadi saat ini. Namun demikian
+perkembangan informasi dan
+komunikasi (TIK) begitu cepat dan massif,
+dan masih sulit bagi mahasiswa khususnya
+program untuk ~mengikuti
+perkembangan TIK dimaksud. Sebagai
+
+teknologi
+
+Sarjana
+
+akibatnya, terjadi kesenjangan  antara
+penelitian skripsi mahasiswa dengan
+perkembangan TIK.
+
+Permasalahan yang sering dihadapi
+oleh perguruan tinggi adalah bagaimana
+
+metode yang secara efektif dan efisien
+
+mampu mengukur_ kesenjangan  antara
+penelitian skripsi mahasiswa dengan
+perkembangan TIK terkini.
+
+Di sisi lain, informasi mengenai
+perkembangan TIK dapat diperoleh dari
+berbagai sumber. Penelitian Akhriza dkk
+(2017) dan lecky dkk (2010) menggunakan
+iklan lowongan kerja sebagai sumber
+informasi mengenai skillet yang dibutuhkan
+oleh industry TIK. Di penelitian lain, Son
+dkk (2015) menggunakan social media
+
+sebagai sumber informasi perkembangan
+
+TIK yang mutakhir. Para peneliti tersebut
+menggunakan __teknik
+
+visualisasi informasi untuk menggambarkan
+
+clustering dan
+
+kesenjangan antara topik penelitian dengan
+topik yang dibicarakan di jejaring social
+media.
+
+Artikel ini mengusulkan metode
+untuk mengukur kesenjangan antara topik
+penelitian skripsi mahasiswa dengan
+perkembangan TIK mutakhir dengan cara
+membandingkan abstrak
+abstrak riset yang di publikasi ilmiah baik
+
+jurnal maupun prosiding konferensi. Dataset
+
+skripsi dengan
+
+skripsi mahasiswa program Sarjana diambil
+dari STMIK Pradnya Paramita Malang
+(stomata), sedangkan dataset abstrak riset
+dikumpulkan dari IEEE Explore. Pendekatan
+eksploitasi Association Rule (AR mining)
+digunakan untuk menemukan hubungan kata-
+kata yang sering muncul (frequent termoset)
+dari kedua dataset tersebut.
+
+Hasil implementasi metode yang
+diusulkan berhasil menemukan topik-topik
+penelitian yang sering dibahas di jurnal dan
+prosiding konferensi namun belum pernah
+dibahas di penelitian skripsi mahasiswa: dan
+sebaliknya.

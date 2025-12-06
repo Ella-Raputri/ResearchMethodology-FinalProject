@@ -1,0 +1,22 @@
+Gambar 4, Narasumber menyampaikan materi tentang ai subspace
+
+Implementasi sesi subspace ini dilakukan secara bertahap untuk
+memastikan pemahaman yang mendalam. Langkah awal adalah simulasi
+pencarian referensi (gambar 5), peserta diajak untuk mencari artikel yang sesuai
+dengan topik penelitian mereka dan memasukkan hasil pencarian tersebut ke
+dalam naskah. Langkah berikutnya adalah pengeditan naskah, peserta diajari cara
+mengatur struktur tulisan mereka agar sesuai dengan standar ilmiah. Para peserta
+juga diberi penjelasan tentang cara menggunakan fitur kolaboratif di subspace,
+yang memungkinkan mereka bekerja dalam tim dan memberikan komentar atau
+revisi secara langsung dalam satu dokumen.
+
+. subspace Literature Review
+
+Gambar 5. Pencarian referensi
+
+Setelah pengenalan dan simulasi penggunaan fitur, peserta diberikan
+kesempatan untuk melakukan praktik langsung. Dalam sesi ini, peserta dilatih
+untuk memasukkan artikel rujukan dan memasukkannya dalam subspace,
+selanjutnya subspace bekerja menganilisis data dalam bentuk deskripsi atau
+kualitatif meliputi latar belakang penelitian, literature yang digunakan, metode
+penelitian, gap penelitian hingga kesimpulan dari setiap artikel rujukan.

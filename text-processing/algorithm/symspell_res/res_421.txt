@@ -1,0 +1,52 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : hlm. 1-12
+
+1. Pendahuluan
+
+Pertumbuhan jumlah penduduk indonesia semakin meningkat dari tahun ke tahun. Berdasarkan
+data dari Badan Pusat Statistik jumlah penduduk Indonesia pada tahun 2018 telah mencapai 265
+juta jiwa. Peningkatan jumlah penduduk ini juga berdampak pada pembangunan infrastruktur,
+terutama pembangunan perumahan, jalan, jembatan, bandara, dan pelabuhan. Pembangunan
+infrastruktur yang semakin meningkat tentu berdampak pada permintaan terhadap material
+pendukung pembangunan infrastruktur salah satunya ialah beton. Peningkatan permintaan
+kebutuhan akan beton sebagai material pembangunan infrastruktur dapat menimbulkan efek negatif
+terhadap lingkungan. Terutama penggunaan semen Portland sebagai bahan pengikat beton, karena
+dalam produksi semen terjadi pelepasan karbon dioksida (CO) yang banyak ke atmosfer dapat
+merusak lapisan atmosfer. Karena itu usaha untuk mendapat material alternatif baru terus dilakukan
+baik dari material atau bahan penyusunnya. Salah satu material alternatif pengganti beton yang
+lebih ramah lingkungan ialah FERROGEOPOLYMER.
+
+Ferrogepolymer adalah elemen bertulang berdinding tipis yang dibuat dari mortar semen
+geopolymer yang diperkuat dengan lapisan yang rapat dari kawat wireless berdiameter kontinu
+dan berukuran relatif kecil (American Concrete Institute Committee 549). Ferrogeopolymer
+mempunyai beberapa keunggulan dibandingkan beton bertulang konvensional biasa yaitu lebih
+tipis, menggunakan semen geopolymer dan dapat dimodelkan dalam berbagai ukuran. Hal ini
+berbeda dengan beton bertulang kovensional, karena tidak memerlukan kerangka/frame ketika
+dibentuk, memilki daktilitas, daya tahan , kekuatan , kemampuan mengalami defleksi besar
+sebelum runtuh dan daya tahan terhadap retak dibandingkan beton bertulang biasa.Untuk
+menggunakan ferrogeopolymer sebagai material pengganti beton kovensional maka perlu diketahui
+perilaku lentur dari ferrogeopoymer, oleh karena itu diperlukan pemodelan atau eksperimen
+dilaboratorium. Beberapa penelitian sebelumnya sudah dilakukan penelitan secara eksperimen,
+penelitian secara ekseperimen sebelumnya sudah dilakukan oleh Petrus Lubalu dan Partogi
+Simatupang. Namun penelitian studi secara numerik terhadap perilaku mekanik ferrogeopolymer
+belum banyak dilakukan, sehingga pada penelitian ini dilakukan kajian numerik dan studi
+parametrik menggunakan bantuan software ABAQUS.
+
+2. Bahan dan Metode
+
+Pada penelitian ini menggunakan data hasil experimen yang dilakukan oleh Petrus Lubalu
+yaitu sebanyak 5 variasi sempel dengan variasi jumlah lapisan wireless 3,5,7,9 dan 11 lapisan
+yang dianalisis menggunakan software Abaqus . Balok yang dimodelkan pada software abaqus
+adalah balok dengan perletakan sendi rol dan diberi beban pada tengah bentang atau jarak 300 mm.
+Adapun detail variasi model dapat dilihat pada gambar 1 sampai gambar 5 dan kode variasi sampel
+dapat dilihat pada tabel 1
+
+F——Topian iremesh [Loin wtemesh
+A tat
+J Tn
+2000 cm
+4000 om 2100 on
+(0000 cm 90 eq 10.000 om
+4000 om 00 on
+1.000 on i m
+
+Gambar 1 Detail variasi 3 lapisan wireless Gambar 2 detail variasi 5 lapisan wireless

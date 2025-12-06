@@ -1,0 +1,40 @@
+bahwa metode ini dapat memberikan hasil berkualitas tinggi tampa adanya bias atau
+batasan kontekstual lainnya dalam data. Padahal, seperti halnya metode statistik lainnya,
+kualitas hasil akhir dari penggunaan AI juga sangat dipengaruhi oleh kualitas data awal
+yang tersedia. Oleh karena itu, meskipun penggunaan AI telah menunjukkan potensi yang
+menjanjikan dalam mengolah data kompleks yang penting untuk pembuatan kebijakan,
+hasil akhirnya tetap bergantung pada kualitas data masukan atau input yang diberikan
+(bory, 2021).
+
+F. Potensi Implementasi kecerdasan buatan dalam meningkatkan  efisiensi
+pengambilan keputusan publik
+
+Menurut Undang-Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik,
+pelaksanaan pelayanan publik yang dinamis mendorong penyelenggara pelayanan publik
+untuk terus berinovasi dan memberikan terobosan baru. Sebagaimana diatur dalam Pasal
+25 ayat 1 dan 4, terobosan tersebut diarahkan untuk meningkatkan kualitas layanan publik
+yang efektif, efisien, transparan, akuntabel, dan berkesinambungan serta bertanggung
+jawab. Namun, keterbatasan anggaran publik dan meningkatnya tuntutan menimbulkan
+hambatan besar dalam memenuhi harapan tersebut. Dampak dari kondisi ini termasuk
+penundaan dalam penyelesaian masalah, kekurangan tenaga kerja yang terampil, dan
+penurunan efisiensi di kalangan administrator publik (lehrke, 2014).
+
+Perkembangan teknologi dan digitalisasi memberikan solusi yang relevan untuk
+digunakan baik di sektor publik maupun swasta. Beberapa ahli telah menyoroti potensi
+integrasi kecerdasan buatan (AI) dalam memberikan dampak positif terhadap lingkungan
+dan produktivitas global (vines et al., 2020). Sejumlah penelitian telah menunjukkan
+bahwa penerapan kecerdasan buatan telah secara luas digunakan untuk mengatasi berbagai
+masalah serta untuk membangun dan menjaga tata kelola yang efisien. Chen et al. (2023)
+menekankan potensi teknologi ini dalam meningkatkan efisiensi dan kualitas layanan
+publik, serta mendukung proses pengambilan keputusan. Penelitian ini juga menunjukkan
+bahwa penggabungan analisis prediksi dengan algoritma machine learning dapat efektif
+digunakan untuk menganalisis data yang kompleks dan menghasilkan wawasan yang
+berguna dalam proses perumusan kebijakan, evaluasi risiko, dan alokasi sumber daya
+(Alexopoulos et al., 2019). Lembaga pemerintah, dengan menggunakan algoritma AI, dapat
+mengidentifikasi tren, pola, dan hubungan dalam data besar untuk membuat keputusan
+yang lebih informasional.
+
+Para peneliti juga menunjukkan bahwa sistem pendukung pengambilan keputusan
+berbasis AI akan sangat bermanfaat dalam simulasi dan analisis skenario. Hal ini bermanfaat
+karena membuka kemungkinan pemerintah untuk memperkirakan dampak yang mungkin
+dari ditetapkannya berbagai macam kebijakan yang berbada. Akan tetapi, terdapat

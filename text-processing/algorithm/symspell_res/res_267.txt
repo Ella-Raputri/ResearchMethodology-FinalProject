@@ -1,0 +1,107 @@
+Keywords: COVID-19; artificial intelligence, deep learning; CNN; CT Scan.
+
+1. PENDAHULUAN
+
+COVID-19, juga = dikenal ~ sebagai
+Coronavirus 2019, disebabkan oleh virus Severe
+Acute Respiratory Syndrome coronavirus 2
+(SARS-CoV-2). Penyebarannya terus berlangsung
+dengan cepat dan agresif, dengan tingkat kematian
+sekitar 7%. Hingga saat ini, sudah ada 213 negara
+dan wilayah di seluruh dunia yang melaporkan
+7.817.195 kasus yang terkonfirmasi, dengan
+jumlah kematian sekitar 430.397. COVID-19
+pertama kali muncul di distrik Wuhan, China
+(Provinsi Hubei), ketika pasien melaporkan gejala
+yang mirip dengan pneumonia. Pada tanggal 11
+Maret 2020, Organisasi Kesehatan Dunia (WHO)
+menyatakan COVID-19 sebagai pandemi
+(Mohanty, Rashid, et al., 2020) (Mohanty, Harun
+AI Rashid, et al., 2020). Sebelum adanya COVID-
+19, China telah mengalami beberapa wabah virus
+dalam tiga dekade terakhir, termasuk wabah flu
+burung pada tahun 1997, sindrom pernafasan akut
+yang parah (SARS) pada tahun 2003, dan demam
+parah dengan sindrom trombositopenia (sts)
+pada tahun 2010 [1].
+
+Sampai saat ini, COVID-19 (Coronavirus)
+telah menimbulkan krisis kesehatan global yang
+mendorong industri medis untuk terus mencari
+teknologi inovatif guna memantau dan
+mengendalikan penyebaran pandemi COVID-19
+(Coronavirus).
+
+Mayoritas tenaga medis saat ini berpendapat
+bahwa belum ada obat atau prosedur terapi yang
+dapat menjamin kesembuhan pasien COVID-19.
+Beberapa obat, seperti. __lopinavir-ritonavir,
+remdesivir, hydroxychloroquine, dan azitromisin,
+telah menjalani uji klinis, tetapi belum ada bukti
+yang meyakinkan bahwa obat-obatan tersebut
+dapat menyembuhkan pasien dengan [2].
+
+Selain masalah penanganan, isu lain yang
+muncul terutama di Indonesia adalah proses
+pendeteksian individu yang terinfeksi COVID-19.
+Proses ini masih dianggap memiliki kendala dalam
+menghasilkan keputusan positif atau negatif
+COVID-19 yang akurat. Di Indonesia, terdapat dua
+metode yang umum digunakan, yaitu PCR Swap
+dan Rapid Tes. Hasil dari pemeriksaan PCR Swap
+dianggap memakan waktu yang cukup lama,
+sehingga individu yang ingin mengetahui statusnya
+harus menunggu minimal sekitar 3 hari, terutama
+bagi pasien yang tinggal di Jakarta. Namun, di luar
+
+Jakarta, waktu yang diperlukan bisa lebih lama
+Karena membutuhkan proses pengiriman. Selain
+itu, masalah yang kadang muncul dalam hasil
+pemeriksaan Rapid Tes adalah tingkat akurasi.
+Beberapa kasus mengalami kesalahan dalam
+keputusan hasil Rapid Test.
+
+Sektor teknologi kesehatan digital telah
+berperan penting dalam mengembangkan strategi
+dan respons terhadap pandemi COVID-19 dengan
+berbagai cara. Salah satu cara yang sangat
+berpotensi adalah melalui pemanfaatan teknologi
+Artificial Intelligence (AI) yang diyakini dapat
+memberikan manfaat besar dalam mengatasi
+masalah yang telah dibahas sebelumnya. AI
+merupakan salah satu teknologi yang dapat dengan
+mudah melacak penyebaran virus ini,
+mengidentifikasi pasien yang berisiko tinggi, serta
+membantu mengendalikan infeksi secara real-time.
+Selain itu, AI juga dapat memprediksi risiko
+kematian dengan menganalisis data pasien
+sebelumnya secara lengkap. Dalam upaya melawan
+virus ini, AI dapat memberikan kontribusi melalui
+skrining populasi, bantuan medis, pemberitahuan,
+serta saran tentang pengendalian penyebaran yang
+efektif [3].
+
+Ada banyak penelitian terdahulu mengenai
+pemanfaatan AI dalam kasus COVID-19 ini, antara
+lain : (1) Penelitian yang dilakukan oleh Jocelyn
+Zhu, dkk. Berjudul Deep transfer learning artificial
+intelligence accurately stages COVID-19 lung
+disease severity on portable chest radiographs,
+dengan hasil penelitian bahwa Deep-learning CNN
+secara akurat dapat menentukan tingkat keparahan
+penyakit pada rontgen dada portabel untuk infeksi
+paru-paru COVID-19 (2) Penelitian yang
+dilakukan oleh Xiaowei Xu dkk., berjudul A Deep
+Learning System to Screen Novel Coronavirus
+Disease 2019 Pneumonia, dengan hasil penelitian
+Deep Learning yang ditetapkan dalam penelitian
+ini efektif untuk skrining awal pasien COVID-19
+dan terbukti menjadi metode diagnostik tambahan
+yang menjanjikan untuk dokter klinis garis depan,
+(3) Penelitian yang dilakukan oleh Lin Li, BS.,
+lixin Qin, PhD., dkk berjudul Using Artificial
+Intelligence to Detect COVID-19 and Community-
+acquired Pneumonia Based on Pulmonary CT:
+Evaluation of the Diagnostic Accuracy, dengan
+hasil penelitian Sensitivitas dan spesifisitas per
+pemindaian untuk mendeteksi CAP dalam set uji

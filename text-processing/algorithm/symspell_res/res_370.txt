@@ -1,0 +1,20 @@
+Jurnal Teknologi Elektro, Universitas Mercu
+
+ISSN : 2086-9479
+
+Pemrogramannya dengan
+Bahasa C pada WinAVR.
+Bandung : Informatika.
+
+7. Arduino. 2014. Examples.
+http://arduino.cc/en/Tutorial/Hom
+page. 5 Januari 2014.
+
+8. samlout. 2014. ardi.
+
+http://www.samlout.com/a/produ
+cts/ardi/. 25 Maret 2014.
+
+Vol.4 No.3 September 2013
+
+112

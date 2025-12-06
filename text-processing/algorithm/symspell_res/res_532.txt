@@ -1,0 +1,20 @@
+terakhir ini adalah Microsoft Excel yang banyak digunakan di kalangan
+masyarakat, pelajar, mahasiswa, dan pegawai dilingkungan perkantoran
+
+Lembar kerja Microsoft Excel terdiri dari 1.048.576 baris, yang
+digambarkan dengan nomor 1 hingga 1.048.576, dan 16.384 kolom yang
+digambarkan dengan huruf A hingga xfd. Setiap titik pertemuan antara
+kolom dengan baris disebut dengan istilah sel (cell), yang masing-masing
+dapat diisi dengan data.
+
+Membuka Excel
+
+Microsoft Office Excel dapat dibuka dengan menggunakan beberapa
+cara yang berbeda. Jika icon Microsoft Excel terdapat pada Desktop,
+dapat dibuka dengan menggunakan dobel klik pada icon tersebut untuk
+membuka layar Excel.
+
+Dapat juga membuka Excel dengan cara Klik Start - All Programs -
+Microsoft Office - Microsoft Excel
+
+BES 8chon Ajar aplikasi Komputer

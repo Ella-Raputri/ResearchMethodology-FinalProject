@@ -1,0 +1,85 @@
+topik yang dibahas. Dan akan terlihat
+topik yang sering gunakan di skripsi,
+namun tidak pernah digunakan di
+riset ataupun topik yang jarang
+diangkat untuk
+dibahas.
+
+tetapi menarik
+
+Rancangan Eksperimen
+
+Data abstrak yang digunakan pada
+penelitian ini ada dua macam, yaitu data
+abstrak skripsi dan data abstrak riset yang di
+publikasi. Data abstrak skripsi diperoleh
+abstrak skripsi program sarjana dari STMIK.
+ppki Pradnya Malang
+(stomata) prodi sistem informasi dengan 5
+periode terakhir dan data abstrak riset
+diperoleh dari situs www.ieee.com dengan
+kata kunci "Information System" filter tahun
+2012-2017, dan artikel yang diambil hanya
+yang dipublikasi di Jurnal dan Konferensi
+
+Paramita
+
+yang diindeks oleh IEEE Explore.
+
+Pada penelitian ini, ambang batas
+data abstrak skripsi diatur minsu 3 dan
+moncong 30% dan pada data abstrak riset
+dengan minsu 10 dan moncong 50%,
+setelah itu. pada data abstrak  skripsi
+mengambil fokus pencarian kata kunci
+sistem informasi, sistem penunjang,
+sistem berbasis dan database, dan pada
+abstrak publikasi focus pencarian pada kata
+kunci decision
+
+system  information,
+
+support, database dan web. Filtering
+digunakan sebagai acuan untuk menentukan
+pola tertentu.
+
+Jika filtering sudah dilakukan dengan
+menggunakan kata kunci dan diperoleh hasil,
+maka selanjutnya dilakukan pembandingan
+antara hasil filtering data skripsi dan filtering
+abstrak publikasi. Dalam penelitian ini
+menggunakan
+matematika, yaitu irisan, sehingga dapat
+
+pembandingan operasi
+mengungkap topik yang sering digunakan di
+riset, namun tidak pernah digunakan pada
+skripsi dan topik yang sering digunakan di
+skripsi, namun belum pernah digunakan di
+mengungkap
+kesenjangan dengan membandingkan topik
+yang dibahas.
+
+riset. hal tersebut dapat
+
+HASIL PENELITIAN
+PEMBAHASAN
+
+Hasil dari penelitian ini dapat di lihat
+dari tabel berikut. Pada Tabel 1 adalah hasil
+
+DAN
+
+filtering dari frequent termset AR mining
+data abstrak skripsi. Pada tabel tersebut ada
+pembahasan scaffolding = android informasi
+sistem (3, 33.3333) pada abstrak skripsi,
+artinya jika mahasiswa membahas android,
+system dan informasi, maka mahasiswa juga
+scaffolding. Angka 3
+adalah menunjukkan
+menunjukkan bahwa
+
+pasti membahas
+didalam kurung
+support, yaitu

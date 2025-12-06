@@ -1,0 +1,106 @@
+P-ISSN : 2303-3142 _E-ISSN : 2548-8570
+
+Vol.10 No 2 Tahun 2021
+
+D
+
+Modem 60 Mbps|
+
+|
+
+we) w) Mi
+
+J | 3)
+Lab Kimia Lab Biologi
+*
+
+» |
+
+trrc
+
+)
+
+t >
+(ya) Lab Fisika
+” GEE)
+ow Kantin
+Mikrotik ae tamai : fi
+[oe Gate) Ruang Wakasek ae
+——s ws
+co) 1) Gyo)
+Lantai2_— 1 tantai3 |__ _
+ociicad oad 6 Utama J——-t JG. Utama |G JR. Guru
+a E Lantai 2 Lantai 3
+Gut = =}G. Utama =e
+Lb Lab. Komputer 1 rr) ama) — CE) GED ua
+vi a
+-—— Ga Lantai 2 __| __|_Lantai 3
+— G. Ut yf “JG. Utama
+7 [ 32092772) Gedung Baru Lt. 2 ame tasasasata (=)
+— Lab. Komputer 2 oy wa 7 i
+ome - cee, LAPANGAN
+f > f =upacara =
+—— =}Pos Sat
+EF Gedung Baru Lt. 2 [es sata
+Ls Lab. Komputer 3 ferit:ti0 | lert e uKs
+Perpustakaan
+-— |__ Lapangan
+i
+Lb caas -—
+= tah: Komputer Lobby Gedung Baru fr uJ
+|
+Ruang TU _—
+
+Gambar 7. Rekomendasi Topologi Jaringan
+
+Fase Peluang dan Solusi
+
+Hasil pada fase peluang dan solusi
+adalah berupa analisa kesenjangan sistem
+informasi dan infrastruktur teknologi
+informasi. Kesenjangan sistem _informasi
+menggambarkan kondisi sistem informasi
+saat ini dengan kondisi sistem informasi yang
+akan datang serta memberikan rekomendasi
+berupa penambahan, pembaruan ataupun
+tetap dioperasikan. Kesenjangan sistem
+informasi dapat dilihat pada Gambar 8.
+Kesenjangan teknologi informasi
+menggambarkan kondisi teknologi saat ini
+dengan kondisi teknologi informasi yang
+akan datang serta memberikan rekomendasi
+berupa penambahan ataupun penggantian
+alat. Kesenjangan teknologi informasi dapat
+dilihat pada Gambar 9.
+
+Fase Rencana Migrasi
+
+Hasil dari analisa urutan implementasi
+aplikasi menggunakan pemetaan McFarland
+
+Strategic adalah sebagai berikut.
+Adapun _aplikasi
+
+Pada kuadran Strategic ditempati
+
+SI_AGENDA. Pada kuadran Support
+ditempati oleh SI_ALUMNI.
+Berdasarkan urutan  implementasi
+
+tersebut dan dipadukan dengan ketersedian
+
+resource serta_ tingkat kesulitan
+
+pembuatan sistem informasi, maka roadmap
+
+implementasi dapat dilihat pada Tabel 5.
+
+Jurnal Sains dan Teknologi | 325
+
+yang menempati
+kuadran Key Operational ditempati oleh
+SI_DU, SI_UJI, silas, SI_SIS, dan SI_GP.
+oleh
+SI_JADWAL, SI_ABSEN, SI_SKL, SI_IB,
+dan SI_PUS. Pada kuadran High Potential
+ditempati oleh SI_BEA, SI_LANGGAR, dan

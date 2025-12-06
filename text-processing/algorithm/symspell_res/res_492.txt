@@ -1,0 +1,129 @@
+Sumerta & Kanti
+
+saccharomycopsis javanensis strain nrl Y-1483 ' EU057548
+saccharomycopsis selenospora strain nrl Y-1357 EU0S7557
+
+100
+
+75 Y15Kr102
+100 | Y15Kr095
+
+-— Candida oleophila U45793
+Candida melanoides ? U45832
+
+Lv1skeos7
+°8 ly1sKr098
+
+B 100
+
+| Kurtzmaniella
+
+~~ 4g | Torulaspora delbrueckii strain nrl Y-866 * 3Q689018
+r{viskos
+
+Y15Kr103
+
+i Torulaspora globosa strain LB3761 " KJ159059
+
+og 1Y15Kr094
+
+-— Saccharomyces balanus nrl Y-126247 AY048156
+
+U Saccharomyces cerevisiae nrl Y-12632" AY048154 | saccharomyces
+
+9
+
+8
+
+Torulaspora
+
+16
+
+9
+
+Y15Kr093
+95 ” ly1sKr107
+
+Candida castellii' U69876
+Candida nivariensis strain CBS 10161? EF0S6323
+Too Candida glabrata ™ U44808
+nara 5Kr108
+74! Y15Kr110
+kodama kakahuensis strain 98-119.2? AF092279
+Hi kodama ohmori * U45702
+
+14
+
+Nakaseomyces
+
+1 100
+: 100 |! Y1SKr096
+
+' ————— pichia norvegensis strain nrl Y-7687  EF550239
+
+fron
+
+saccharomycopsis fibuligera strain nrl Y-2388 ' JX141336
+
+100 Y15Kr105
+100 | Y15Kr106
+Y15Kr109
+
+‘ pichia kudriavzevii strain nrl Y-5396" EF550222
+
+Rhodotorula graminis * AFO70431
+
+pichia
+
+Gambar 2. Hasil identifikasi isolat khamir penghasil etanol pada pohon filogenetik melalui analisis daerah
+D1/D2LSU rDNA menggunakan metode Neighbor-Joining (NJ).
+
+etanol tergambar dalam konstruksi filogenetik
+yang hanya mengarah pada Divisi ascomycetes
+yaitu lima clade. Namun di luar clade penghasil
+etanol, saccharomycopsis fibuligera tidak memiliki
+aktivitas fermentasi sehingga etanol yang dihasilkan
+sangat tidak signifikan. Dalam beberapa penelitian
+disebutkan bahwa saccharomycopsis fibuligera
+lebih berperan utama dalam mengubah pati
+menjadi gula sederhana (Kuriyama et al. 1997;
+limtong et al. 2005; Aidoo et al. 2006; Fleet
+2011). Berbeda dengan C. melanoides tidak
+melakukan aktivitas fermentasi dan tidak
+menghasilkan etanol sehingga perannya dalam
+proses fermentasi belum diketahui. Fleet (2011)
+menyatakan jenis khamir tersebut bersifat
+oportunis sehingga sering menjadi kontaminan
+pada makanan dan juga dapat bertahan pada
+kondisi suhu yang rendah.
+
+Dalam penelitian ini, S. cerevisiae Y15Kr107
+menghasilkan etanol yang paling tinggi dibandingkan
+dengan isolat lainnya. Hal tersebut didukung
+oleh karakteristik S. cerevisiae, melalui modifikasi
+
+66
+
+genetik, dapat memproduksi etanol dalam kondisi
+oksigen terbatas dan juga mampu memanfaatkan
+kondisi tersebut untuk tumbuh (Heux et al. 2006;
+Merico et al. 2007); toleran terhadap etanol
+yang dihasilkannya (D’Amore et al. 1990; de
+Oliva-Neto et al. 2013); dapat direkayasa genetik dan
+rekayasa metabolik (Kuhad et al. 2011; buijs et
+al. 2013; Nielsen et al. 2013). Karakteristik
+tersebut menjadi perhatian khusus bagi para
+peneliti bioetanol dan dewasa ini penelitian
+tentang S. cerevisiae lebih cenderung ke arah
+modifikasi genetik dan metabolik.
+
+Jenis khamir lain penghasil etanol yang
+diisolasi dari makanan fermentasi yaitu 7: delbrueckii,
+T. globosa, P. kudriavzevii, K. ohmori, dan C.
+glabrata. Jenis khamir tersebut tidak menghasilkan
+etanol dalam persentase yang tinggi namun
+perannya dapat mendukung proses fermentasi
+dan organoleptik produk. Keberadaan T.
+delbrueckii dilaporkan dapat memberikan aroma
+pada makanan fermentasi (Azzolini et al. 2012)
+dan mampu memfermentasi substrat dengan

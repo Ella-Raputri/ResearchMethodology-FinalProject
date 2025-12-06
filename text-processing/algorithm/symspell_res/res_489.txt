@@ -1,0 +1,106 @@
+Keragaman Jenis Khamir Penghasil Etanol yang Diisolasi dari Makanan Fermentasi
+
+Isolasi sampel dilakukan di Laboratorium
+biosistematik Mikrob, Pusat Penelitian Biologi,
+Lembaga Ilmu Pengetahuan Indonesia. Teknik
+isolasi dilakukan melalui dua metode. Metode
+pertama melalui teknik pengenceran sampel
+yang ditanam pada media isolasi. Media isolasi
+yang dipergunakan yaitu RBCA (Rose Bengal
+Chlorampenicol Agar) 32 g/L (ovoid CM0549)
+dan PDA (potato Dextrose Agar) 40 g/L (ovoid
+CM0139)+chlorampenicol | g/L. Metode kedua yaitu
+sampel ditumbuhkan pada media pengayaan dengan
+komposisi Yeast Nitrogen Base (disco 239210)
+26,8 g/L, glukosa 10 g/L, sodium propionat 2
+g/L (Sigma 1001924056), chloramphenicol 1,2
+g/L (Sigma C-0378) untuk mengisolasi khamir
+penghasil etanol. Khamir yang tumbuh
+dipreservasi melalui penyimpanan metode deep
+freezing suhu -80°C pada gliserol 10% ditambah
+dengan trehalosa 5%.
+
+Proses identifikasi molekuler isolat khamir
+mengikuti metode Hamby ef al. (2012) dengan
+beberapa modifikasi. Ekstraksi DNA menggunakan
+lysis buffer (20 mM Tris-HCl; 5 mM EDTA;
+400 mM NaCl; 0,3% SDS) dan melalui pemanasan
+suhu 98°C. Amplifikasi daerah D1/D2 LSU 26S
+1DNA pada reaksi PCR menggunakan primer NL1
+(6’-CATATCAATAAGCGAAAAG-3’) dan NL4
+(8’-GGTCCGTGTTTCAAGACGG-3’) (Kurtzman
+& robnett, 1998). Optimasi reaksi PCR yaitu
+pada 95°C denaturasi awal diikuti 30 siklus
+reaksi (denaturasi 95°C selama 30 detik, penempelan
+pada suhu 55°C selama 30 detik, dan pemanjangan
+pada suhu 72°C selama 60 detik) dilanjutkan
+pemanjangan akhir pada suhu 72°C selama 5
+menit. Sekuen hasil PCR dikompilasi dengan
+membandingkan data khamir di basis data GenBank/
+ddbj/embi menggunakan program Basic Local
+Search Tool (BLAST) (Altschul et al. 1990).
+
+Posisi filogenetik isolat khamir dikompilasi
+dengan pembanding dari type strain yang telah
+dirangkum oleh Kurtzman et al (2011) kemudian
+disejajarkan dengan MUSCLE (Multiple Sequence
+Comparison by Log-Expectation) (Edgar 2004)
+pada progam MEGA (Molecular Evolutionary
+Genetic Analysis) versi 6.0. Konstruksi pohon
+filogenetik menggunakan metode Neighbor-
+Joining (NJ) (saitou & Nei 1987). Penentuan
+jarak filogenetik memakai model Maximum
+Composite Likelihood dengan bootstrap 1.000
+
+replikasi. Nilai bootstrap pada pohon filogenetik yang
+kurang dari 50 dihilangkan untuk meningkatkan
+tarafkepercayaan data konstruksi yang diperoleh.
+
+Kemampuan isolat dalam menghasilkan
+etanol diuji menggunakan metode Brooks (2008)
+melalui beberapa modifikasi. Sekitar 1 koloni
+isolat ditumbuhkan pada 5 mL media dengan
+komposisi glukosa 20 g/L (Merck K43369737),
+yeast extract 3 g/L, pepton 5 g/L (USB 20048).
+Kultur diinkubasi selama 48 jam dan isolat yang
+memiliki kemampuan fermentasi yang baik ditentukan
+melalui volume gas pada tabung Durham. Isolat
+selanjutnya dikultur pada media dengan komposisi
+glukosa 10% selama 72 jam. Semua proses
+kultur tersebut diulang sebanyak 3 kali. Kadar
+etanol kemudian dianalisis menggunakan gas
+chromatography (shimadzu GCMS-QP2010 Ultra).
+Preparasi sampel dilakukan dengan sentrifugasi
+sampel pada kecepatan 17700 x g selama 5
+menit dan bagian supernatan selanjutnya digunakan
+untuk analisis. Kondisi GC yang digunakan
+untuk analisis yaitu suhu oven sebesar 115°C,
+suhu injektor 150°C, suhu detektor (FID) 200°C,
+dan nitrogen sebagai gas perantara (bucket &
+Mundy 1993).
+
+HASIL
+
+Isolasi dan identifikasi khamir
+
+Sampel makanan fermentasi yang diisolasi
+memiliki 3 karakteristik. Makanan fermentasi
+dengan sumber nitrogen yang digunakan sebagai
+bahan baku yaitu terasi dan cincalok, sumber karbon
+yaitu tapai singkong dan tapai ketan serta
+starter atau ragi. Hasil isolasi dari 5 tipe sampel
+diperoleh sebanyak 15 isolat khamir (Tabel 1).
+Sampel terasi yang diisolasi dengan metode langsung
+maupun pengayaan tidak ada khamir yang terisolasi.
+Sementara itu, pada cincalok melalui metode
+langsung diperoleh sebanyak 2 isolat sedangkan
+pada metode pengayaan tidak diperoleh isolat
+khamir. Hasil analisis molekuler daerah D1/D2
+LSU 26S rDNA diperoleh sekuen isolat khamir
+dari makanan fermentasi dengan panjang sekitar
+600 bp. Hasil komparasi kelima belas isolat
+tersebut dengan data base type strain GenBank/
+ddbj/embi diperoleh homologi data sekuen
+berkisar 99-100% yang identik dengan 8 jenis.
+
+63

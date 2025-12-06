@@ -1,0 +1,58 @@
+Meningkatkan Efisiensi Pengambilan Keputusan Publik
+melalui Kecerdasan Buatan
+
+Talitha Hurin Salsabila, Tri Mei Indrawati, Revienda Anita Fitrie
+
+Universitas Negeri Surabaya
+
+Abstrak: Kecerdasan Buatan (Al) telah menjadi fokus utama dalam membentuk masa depan teknologi dan pemecahan
+masalah di berbagai bidang, termasuk dalam konteks pengambilan keputusan publik. Tujuan dari penelitian ini adalah
+untuk mengeksplorasi kemungkinan implementasi AI dalam domain publik dan untuk menemukan sejauh mana AI
+dapat bertanggung jawab mendukung atau mengambil alih keputusan tertentu di lembaga pemerintahan. Penelitian ini
+menggunakan teori pengambilan keputusan oleh Herbert Simon tentang Bounded Rationality (rasionalitas terbatas).
+Penelitian ini menggunakan metode kualitatif berupa studi literatur (literature review) dengan menganalisis berbagai
+artikel, jurnal, dan literatur terkait tentang penerapan kecerdasan buatan dan pengambilan keputusan publik. Melalui
+metode tinjauan literatur yang komprehensif, ditemukan bahwa AI dapat mengoptimalkan proses pengumpulan, analisis,
+dan interpretasi data yang kompleks, serta memfasilitasi prediksi yang lebih akurat. Strategi implementasi Al yang efektif
+mencakup pengembangan model AI yang kuat, pelatihan sumber daya manusia yang berkualitas, serta perancangan
+kebijakan yang memperhatikan aspek etika dan keamanan data. Hasil penelitian ini memberikan pemahaman yang lebih
+baik tentang potensi AI dalam meningkatkan efisiensi pengambilan keputusan publik dan menyoroti pentingnya integrasi
+teknologi ini dalam berbagai bidang administrasi publik. Kesimpulannya, penggunaan AI sangat menjanjikan dalam
+membentuk sistem pengambilan keputusan publik yang lebih responsif, adaptif, dan efisien di era digital ini.
+
+Kata kunci: Kecerdasan Buatan, Digitalisasi, Pengambilan Keputusan Publik.
+
+DOL Abstract: Artificial Intelligence (AI) has become a major focus in shaping the future of
+
+https://doi.org/10.47134/paise.v1i2.2401 technology and problem solving in various fields, including in the context of public
+Correspondence: Talitha Hurin
+
+Salsabila
+Email: talitha.22122@mhs.unesa.ac.id
+
+decision-making. The purpose of this research is to explore the possible implementation
+of Al in the public domain and to discover the extent to which AI can be responsible for
+supporting or taking over certain decisions in government agencies. This research
+
+Received: 01-02-2024 utilizes Herbert Simon's decision-making theory of Bounded Rationality. This research
+Accepted: 15-03-2024 uses a qualitative method in the form of a literature review by analyzing various articles,
+Published: 31-04-2024 journals, and related literature on the application of artificial intelligence and public
+
+decision making. Through a comprehensive literature review method, it was found that
+Al can optimize the process of collecting, analyzing, and interpreting complex data, and
+
+{facilitate more accurate predictions. Effective AI implementation strategies include
+Copyright:  2024 by the authors. oe i in .
+
+r developing robust AI models, training qualified human resources, and designing policies
+Submitted for open access publication that take inti t ethical and dat . 4s. Th s of this studi ide
+cece the tate onid content of the that take into account ethical and data security aspects. The results of this study provide
+Creative. Commons Attribution. @ better understanding of the potential of AI in improving the efficiency of public
+sharealike (CC BY $A) license decision-making and highlight the importance of integrating this technology in various
+(http/creativecommonsorgilicensesby-sa/t0)). areas of public administration. In conclusion, the use of AI holds great promise in
+
+shaping a more responsive, adaptive, and efficient public decision-making system in this
+digital era.
+
+Keywords: Artificial Intelligence, digitalization, Public Decision Making.
+

@@ -1,0 +1,122 @@
+P-ISSN : 2303-3142 _E-ISSN : 2548-8570
+
+Vol.10 No 2 Tahun 2021
+
+Pada penelitian ini tidak menggunakan
+2 (dua) fase terakhir dari togaf ADM yaitu
+Phase G: Implementation Governance dan
+Phase H: Architecture Change Management
+karena fase ini dapat dilakukan ketika
+proses implementasi sedang berjalan.
+
+Tahapan yang terakhir dari prosedur
+penelitian ini adalah melakukan pengujian
+terhadap kelayakan blueprint dan_hasil
+
+rekomendasi implementasi SI dan TI
+menggunakan metode Focus Group
+Discussion (FGD).
+
+HASIL DAN PEMBAHASAN
+Fase Persiapan
+
+mendapatkan
+
+SWOT dilakukan untuk
+hasil analisis lingkungan
+
+Analisis
+
+bisnis. Proses analisis mencakup kondisi
+internal dan ekternal sekolah. Analisis
+internal terdiri dari proses penilaian terkait
+faktor kekuatan/strength dan
+kelemahan/weakness yang dimiliki oleh
+sekolah, sedangkan’ proses _analisis
+eksternal atau dari luar terkait dengan faktor
+peluang/opportunity dan Ancaman/threat.
+Hasilnya digunakan sebagai dasar dalam
+merancang rencana strategi ke depan.
+
+Hasil analisa lingkungan bisnis internal
+dan eksternal dalam perancangan arsitektur
+enterprise sistem informasi di SMA Negeri 1
+Singaraja menggunakan metode SWOT
+yang dijabarkan dalam Tabel 1.
+
+Tabel 1. Hasil Analisa SWOT Internal dan Eksternal
+Internal
+
+Faktor Kekuatan (Strength)
+Dukungan dan komitmen Kementerian
+Pendidikan dan Kebudayaan_ melalui
+Dinas Pendidikan Provinsi Bali terhadap
+SMA Negeri 1 Singaraja.
+
+Sebagai sekolah tertua di Bali, memiliki
+alumni yang banyak dan_ beberapa
+memegang posisi penting di pemerintahan
+maupun perusahaan swasta.
+
+Memiliki teknisi usia muda.
+
+Memiliki cukup dana operasional yang
+kelola dengan baik untuk melakukan
+pengembangan sistem informasi.
+
+Memiliki komitmen tinggi untuk selalu
+berkembang serta mengikuti
+perkembangan teknologi informasi dan
+komunikasi (ICT).
+
+Faktor Kelemahan (Weakness)
+Sebagian unit belum memiliki sistem
+informasi tata kelola yang _terintegrasi
+dengan baik.
+
+Masih banyak sistem informasi yang
+digunakan bersifat eksternal atau dikelola
+oleh pemerintah pusat atau pemerintah
+daerah.
+
+Memiliki server yang performanya tidak
+maksimal disebabkan oleh faktor usia dan
+sistem operasi yang digunakan pada
+server tergolong tidak up to date.
+
+jaringan lokal internet masih belum
+maksimal kualitasnya disebabkan karena
+jumlah bandwidth yang tidak proporsional
+dengan jumlah user, begitu juga dengan
+hotspot yang masih mengandalkan
+perangkat access point berkualitas
+standar sehingga belum maksimal ketika
+dipakai banyak banyak user.
+
+e Belum memiliki perencanaan
+pengembangan sistem informasi.
+Eksternal
+Faktor Peluang (Opportunity) Faktor Ancaman (Threat)
+Semakin  berkembangnya — teknologi, e Perkembangan teknologi yang sangat
+
+sehingga penggunaan gadget seperti
+laptop/komputer dan smartphone semakin
+meningkat.
+
+Adanya situasi pandemi yang memberikan
+momentum untuk menjadikan SDM
+semakin kreatif dalam memanfaatkan
+SI/TI.
+
+cepat tapi sarana dan SDM yang ada
+belum optimal dama mengimbangi hal
+tersebut
+
+Menurunnya ekonomi
+pandemi berpengaruh
+keterlambatan membayar SPP.
+
+karena _ situasi
+terhadap
+
+Jurnal Sains dan Teknologi | 320

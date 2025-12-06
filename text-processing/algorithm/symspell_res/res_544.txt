@@ -1,0 +1,6 @@
+10. Pada tahap ini, komputer virtual akan melakukan booting seperti
+tampilan di bawah. Tunggu hingga muncul tampilan berikutnya.
+
+11. Ketika muncul tampilan berikut di bawah, ini merupakan jendela
+untuk memilih bahasa yang akan digunakan selama penginstallan
+berlangsung. Klik Next untuk melanjutkan.

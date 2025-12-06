@@ -1,0 +1,67 @@
+JURNAL TEKNIK MESIN
+
+Jurnal Teknik Mesin S-1, Vol. 11, No. 3, Tahun 2023
+Online: https://ejournal3 -undip.ac.id/index.php/jlm
+
+yang mana jika kita berada di dekat garis equatorial satelit akan terbit dari timur dan terbenam di barat. Sedangkan orbit yang
+berlawanan arah dengan rotasi bumi disebut dengan retrograde orbit yang pada orbit ini satelit akan terlihat dan memiliki
+AOS time Acquisition of the satellite (time) atau waktu muncul satelit dari arah barat dan memiliki LOS time Loss of the
+satellite (time) arah terbenam di bagian timur. Dari sini antenna penjejak satelit harus mampu bergerak pada sudut azimuth
+dan elevasi, sudut azimuth memiliki rentang 0-360 derajat dari utara, sedangkan sudut elevasi memiliki rentang dari 0-180
+derajat. Terdapat sedikit masalah jika suatu satelit yang tracking mencapai titik zenith atau elevasi tepat pada 90 derajat
+serta jika azimuth akan pada suatu satelit bisa tracking namun untuk periode berikutnya apakah bisa mentracking lagi
+mengingat terdapat komponen yang berputar melebihi 360 derajat, tentu akan muncul masalah terhadap perkabelan atau
+keterbatasan dalam putaran azimuth. Untuk itu kami mencoba mendesain demo kit yang nantinya akan diterapkan pada antena
+penjejak satelit unutk sudut elevasi kami memberikan limit dengan memasang switching, setelah itu kami mencoba
+menggunakan slip cable rotating yang mana alat ini akan tetap mensupport daya menuju ke bagian atas, dan transmisi data
+menggunakan perangkat dua buah bluetooth untuk transmitter dan receiver sebagai komunikasi serialnya.
+
+Pergerakan satelit LEO atau orbit rendah yang sangat cepat, di mana dalam sehari satelit LEO memiliki dua belas
+hingga empat belas berevolusi dalam satu hari untuk satelit yang mengorbit equatorial atau pada garis khatulistiwa. Dengan
+memiliki ketinggian di bawah 3.000 km, tentunya timbul pertanyaan satelit tersebut meskinya memiliki escape velocity yang
+sangat tinggi jika dibanding dengan orbit MEO dan GEO. Semakin rendah suatu satelit terhadap permukaan bumi maka akan
+memiliki escape velocity yang lebih tinggi guna mempertahankan kesetimbangan satelit tersebut pada jalur orbitnya untuk
+melawan gaya gravitasi dari bumi. Pada sebuah percobaan mentracking satelit LAPAN A-2 yang mana memiliki view
+visibility time berkisar 12 menit. Jika dikalkulasi secara kasarnya 12 menit dirubah menjadi detik yaitu setara dengan 720
+detik melintas di atas kita. Lalu jumlah detik sebagai pembagi dalam satu berevolusi, satelit memiliki view visibility
+diasumsikan tidak ada bangunan yang menghadang sama dengan rentang sudut elevasi yaitu 0-180 derajat. Jadi antena
+penjejak satelit harus mampu mengikuti pergerakan satelit LAPAN A-2 dengan bergerak 0,25 derajat/detik dengan asumsi
+yang dipakai adalah fix station atau diam.
+
+3.2.2 Prinsip kerja alat
+
+Prinsip kerja alat demo kit ini berkerja dengan menjejak satelit yang dituju ketika melintas di atas sesuai dengan
+NORAD ID yang dimasukan pada aplikasi. Demo kit memiliki dua motor untuk bergerak pada arah azimuth dan elevasi
+dengan sumber daya 12 V dari power supply. Langkah awalnya dengan mangambil data azimuth dan elevasi dari website
+n2yo.com karena web tersebut yang menyediakan dua data tersebut terhadap satelit secara real time dan beruntungnya website
+tersebut menyediakan data API sehingga bisa diakses data yang kita inginkan. Namun terbatas satu jam maksimal 3000 data,
+sehingga data terupdate setiap empat detik. Setelah kita membuat akun diweb tersebut, selanjutnya membuat aplikasi dengan
+software visual studio code dengan bahasa phyton untuk mengakses kode JASON (Java Script Object Notation). Aplikasi
+yang dibuat dengan visual studio code memiliki inputan data posisi latitude dan longitude atau lintang bujur kita atau data
+GPS (Global Positioning System), NORAD ID yang mana setiap satelit memilik data satelit memiliki nomor tersebut, dengan
+dua inputan tersebut aplikasi sudah mendapatkan data azimuth dan elevasi dari demo kit terhadap satelit. Setelah dijalankan
+aplikasi akan merekap data azimuth dan elevasi satelit terhadap kita, setelah kita cukup sesuai waktu yang kita inginkan
+selanjutnya disate data tersebut, format data yang dibuat aplikasi berupa csv (comma separated vision).
+
+Data csv yang telah disate selanjutnya dirubah menjadi data yang sesuai dengan format excel. Setelah dirubah, kedua
+data mencoba diplot terhadap waktu baik azimuth dan elevasi untuk melihat grafik sudah sesuai atau belum serta mengecek
+data apakah ada yang kurang. Setelah itu untuk plot azimuth diolah agar setelah 360 derajat bisa lanjut ke derajat berikutnya
+agar gerakannya lancar tanpa ada loncatan dari 360 menuju satu derajat, sehingga berbeda data azimuth untuk azimuth
+sebelum diolah dengan setelah diolah sebagai input gerakan motor. Semua data yang telah diolah diesel selanjutnya akan
+diolah dimasukan ke matlab simulink, sebelumnya simulink sudah dibuat animasi dengan menggunakan simscape.
+Simscape merupakan tool yang sama dengan simulink namun dengan tool ini kita dapat mengatur parameter yang kita
+inginkan tanpa mengetahui persamaan yang ada di dalamnya. Dari kedua data dari simulink selanjutnya akan dikirm ke
+STM32F104C8T6 A secara serial dengan kabel USB, namun sebelumnya COM dan biandrate disesuikan dengan blok serial
+configuration yang teredia library. Data azimuth pada mikro kontroler A akan bergerak sesuai perintah yang diberikan oleh
+simulink, data elevasi akan diteruskan dari mikro kontroler A menuju B dengan komunikasi serial bluetooth HM-10. Mikro
+kontroler B akan menerjemahkan data elevasi yang dikirim dari mikro kontroler A selanjutnya akan dirubah menjadi gerakan
+elevasi pada motor, tidak lupa mikro B mendapat daya dari laptop melalui USB selain itu untuk daya juga untuk mengecek
+data yang diterima oleh mikro kontroler B dengan menggunakan serial monitor yang tersedia pada software Arduino IDE.
+
+Keperluan sumber daya demo kit secara keseluruhan memerlukan dua sumber yang berbeda, pertama 5V untuk
+mikro kontroler dan elektronika aktif bersumber dari laptop/pc. Kedua menggunakan tegangan 12V yang digunakan untuk
+menggerakan kedua motor, untuk itu digunakan power supply merubah dari AC 110-220V menjadi DC 12V dengan arus
+3,2A. Tegangan 12V dari power supply masuk ke driver motor DM 556 yang berguna untuk mengatur kecepatan dan arah
+puteran motor NEMA 23HS5628.
+
+jlm (S-1) — Vol. 11, No. 2, April 2023:125-138 131

@@ -1,0 +1,40 @@
+pemecahan masalah dan metode simbolis dieksplorasi secara ekstensif. Selanjutnya, pada
+tahun 1960-an, Departemen Pertahanan Amerika Serikat tertarik dengan bidang studi ini dan
+memulai upaya untuk melatih komputer agar dapat meniru kemampuan penalaran manusia
+yang mendasar. Menurut (Haenlein, Kaplan, Tan, & Zhang, 2019) Kecerdasan buatan (AT)
+menunjukkan kerangka kerja komprehensif yang memiliki kapasitas untuk secara akurat
+memahami data ekstrinsik, memperoleh pengetahuan darinya dengan mahir.
+
+Dengan bantuan kecerdasan yang diperoleh ini, AI mampu mencapai tujuan yang telah
+ditentukan dan melaksanakan tugas yang ditunjuk melalui adaptasi yang dapat disesuaikan.
+Menurut (artifical Intelegen Definitions, 2020) Kecerdasan dapat dicirikan sebagai kapasitas
+untuk memperoleh pengetahuan dan melaksanakan metodologi yang sesuai untuk
+menyelesaikan kesulitan dan mencapai tujuan, dengan mempertimbangkan keadaan di ranah
+yang tidak pasti. Alam berada dalam keadaan fluks yang konstan. Robot industri yang telah
+diprogram sebelumnya memiliki fleksibilitas, presisi, dan konsistensi, namun tidak memiliki
+kecakapan kognitif. Artificial Intelligence (Al), John McCarthy, seorang profesor emeritus di
+Universitas Stanford, didefinisikan olehnya sebagai persimpangan sains dan teknik untuk
+membuat robot yang cerdik.
+
+Manusia telah melakukan penelitian ekstensif dalam pemrograman mesin untuk
+menunjukkan kecerdasan, seperti dalam domain catur, tetapi saat ini, titik fokus terletak pada
+
+mesin yang mampu memperoleh pengetahuan yang mirip dengan manusia.
+
+Perpustakaan
+
+Menurut (isnaryanto, 2019) Perpustakaan merupakan tempat berkumpulnya
+berbagai macam informasi; informasi ini dikumpulkan, disimpan, dirawat, dilestarikan, dan
+disajikan baik dalam bentuk tercetak maupun melalui pemanfaatan media elektronik.
+Informasi tersebut disusun dalam bentuk dokumen, seperti buku atau jenis dokumentasi
+lainnya. Informasi yang ada di dalam perpustakaan dapat ditemukan kembali dengan
+menggunakan berbagai metode atau alat bantu penelusuran, seperti katalog, bibliografi, dan
+indeks. Informasi ini terus berkembang sesuai dengan perkembangannya, dan harus
+
+ditangani secara profesional melalui penggunaan sistem penyimpanan yang beragam.
+
+Temu kembali informasi dilakukan sesuai dengan waktu dan kondisi tertentu.
+Perpustakaan dapat menawarkan informasi yang menarik baik dalam format fisik atau digital
+melalui penggunaan alat pengambilan dan pengambilan informasi. Pengguna sistem umpan.
+
+balik informasi menunjukkan variasi yang cukup besar dalam kebutuhan informasi mereka.

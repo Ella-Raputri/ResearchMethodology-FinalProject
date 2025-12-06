@@ -1,0 +1,82 @@
+P-ISSN : 2303-3142 _E-ISSN : 2548-8570
+
+Vol.10 No 2 Tahun 2021
+
+Tabel 2. Hasil Analisa Kesenjangan Arsitektur Teknologi
+
+No Arsitektur teknologi Usulan solusi Target arsitektur masa
+terkini depan
+1 Internet saat ini Tingkatkan kapasitas Kapasitas dan kecepatan
+menggunakan dua line menjadi minimal 60 mbps akses meningkat terutama
+
+indihome. Line pertama dedicated.
+sebesar 10 mbps shared
+dan Line kedua sebesar 50
+mbps shared.
+2 Tidak adanya firewall pada Memasang firewall pada
+jaringan. jaringan.
+
+3. Distribusi jaringan internet | Memperbaiki distribusi
+
+yang kurang optimal, jaringan dengan
+karena masih ada memberikan usul sebuah
+beberapa blank spot (tidak — topologi jaringan yang
+terjangkau jaringan baru.
+internet) pada wilayah
+sekolah.
+
+4 Access point yang Mengganti access point
+digunakan hanya bisa dengan yang baru
+
+menampung 10-20 orang. — sehingga 1 access point
+
+di jam-jam yang ramai
+pemakaian.
+
+Adanya pos keamanan
+jaringan yang mengontrol
+lalu lintas data.
+
+Semua area sekolah
+terjangkau jaringan
+internet.
+
+Tidak adanya penurunan
+kualitas internet karena
+pemakaian secara
+
+dapat menampung sampe _ bersamaan.
+200 orang.
+5 Jumlah komputer yang Perbanyak jumlah Pelaksanaan kegiatan
+belum memadai. komputer. yang memerlukan jumlah
+
+6  Penggunaan software yang Melakukan update pada
+
+komputer yang banyak,
+dapat berjalan dengan
+lancar.
+
+Penggunaan software yang
+
+tidak up to date software yang digunakan. up to date.
+Untuk menunjang usulan solusi pada Tabel Tabel 4. Rekomendasi Hardware
+2, maka diberikan rekomendasi topologi Komponen Rekomendasi
+jaringan yang dapat dilihat pada Gambar 7 Server e Intel Xeon Silver 4210
+dan rekomendasi software yang dapat dilihat 2.2 Ghz
+pada Tabel 3 serta rekomendasi hardware e RAM 32GB
+yang dapat dilihat pada Tabel 4. e HDD4TB
+; Komputer e Intel Core i3 7020U
+Tabel 3. Rekomendasi Software 2.3 GHz
+Komponen Rekomendasi e RAM4GB
+OS Server Linux e HDD500GB
+Web Server Nginx Firewall e CPU J9100
+DBMS MySQL e 6GE port
+OS Komputer Windows 10 e RAM 8 GB
+Office Software Microsoft Office 2019 e SSD 256 GB
+
+Access Point
+
+e Ubiquity Unifi AP AC
+Lite UAP-AC-Lite
+
+Jurnal Sains dan Teknologi | 324

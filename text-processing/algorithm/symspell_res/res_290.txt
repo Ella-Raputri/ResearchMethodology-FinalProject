@@ -1,0 +1,37 @@
+melakukan upaya yang signifikan untuk mengintegrasikan dan memproses data-data besar
+tersebut melalui tahapan pembersihan data (data cleaning), normalisasi, dan semantic
+alignment Terdapat banyak kasus kegagalan atau kesalahan dalam pemrosesan AI yang
+disebabkan oleh data masukan yang tidak sesuai dengan konteks lapangan dan faktor
+lainnya. Masalah ini sebenarnya dapat diatasi dengan menggunakan data yang sesuai. Oleh
+karena itu, orang-orang yang bertanggung jawab dalam pengumpulan data perlu
+memahami dengan baik jenis data apa yang diperlukan dan data mana yang harus diproses
+oleh AI. Namun, pemahaman itu sendiri merupakan hal yang subjektif dan dapat
+dipengaruhi oleh pandangan personal, sehingga memungkinkan adanya variasi dalam
+penafsiran di kalangan pejabat pemerintah (preece et al., 2018).
+
+Faktor berikutnya yang memengaruhi kejelasan interpretasi output adalah model AI.
+Model terbaik yang dapat dikembangkan merupakan representasi yang sederhana dan
+akurat dari permasalahan dunia nyata yang ingin dipecahkan. Akan tetapi, di dalam model
+tersebut terdapat asumsi-asumsi yang dibuat oleh peneliti tersendiri yang dapat
+menyebabkan bias jika asumsi-asumsi tersebut tidak sesuai dengan kondisi sebenarnya.
+
+Informasi berikutnya yang diperlukan untuk interpretasi berkaitan dengan model.
+Model terbaik tentang bagaimana suatu hasil dikaitkan dengan variabel lain adalah
+simplifikasi yang tepat dari realitas. Namun, model juga tergantung pada asumsi-asumsi
+yang mungkin menghasilkan bias jika asumsi-asumsi tersebut tidak akurat. Hal penting
+lain yang memengaruhi interpretasi output adalah performa atau kinerja model itu sendiri.
+Dalam konteks Machine Learning, terdapat matriks kinerja model yang menggambarkan
+tingkat akurasi prediksi dari model tersebut. Tingkat akurasi yang rendah menghasilkan
+tingkat kepercayaan yang rendah terhadap model, dan sebaliknya.
+
+Informasi tentang data, model dan kinerja model, serta konteks tambahan, semuanya
+merupakan hal yang krusial dalam menguraikan hasil analisis apa pun. Walaupun metode
+analisis lain yang lebih konvensional sudah dikenal luas, kecanggihan dan kompleksitas
+algoritma Machine Learning dapat menyulitkan interpretasi hasilnya.
+
+Pemanfaatan AI dalam sektor publik dapat membantu dalam meningkatkan efisiensi
+dan kualitas layanan publik. Hal ini dapat membantu pemerintah menjamin kesejahteraan
+warganya berdasarkan hukum atau aturan. Namun, terdapat beberapa tantangan lain yang
+muncul dari penggunaan AI di sektor publik, seperti kemungkinan penggunaan AI yang
+mengabaikan etika, memperdalam bias, masalah akuntabilitas, dan memperlebar
+ketidakadilan.

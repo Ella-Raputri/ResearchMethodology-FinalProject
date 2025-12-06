@@ -1,0 +1,82 @@
+mereka, pejabat pemerintah dan kepala
+perusahaan investasi semuanya percaya bahwa
+lingkungan pasar (untuk proyek nirlaba) adalah
+faktor penentu keberhasilan untuk perawatan
+kesehatan inklusif. Ada bukti kuat bahwa
+lingkungan eksternal yang menguntungkan juga
+diperlukan untuk mengimplementasikan layanan
+kesehatan inklusif dengan sukses. Secara khusus,
+kebutuhan pendidikan kedokteran lokal serta
+kesadaran dan penerimaan masyarakat terhadap
+pelayanan kesehatan inklusif merupakan faktor
+yang harus mendapat perhatian khusus.
+
+Adaptasi strategis pemangku kepentingan
+pelayanan kesehatan inklusif dalam inisiatif ini
+diperlukan untuk tetap gesit dan tangguh setiap
+saat, menerima informasi baru, mengevaluasi
+keputusan masa lalu, mengubah arah, dan
+membuat penyesuaian tepat waktu berdasarkan
+perkembangan terbaru. Saat ini, kecerdasan
+buatan semakin banyak digunakan di sektor
+medis, secara signifikan mengubah lanskap
+industri, yang masih mengalami perubahan
+cepat. Dalam lingkungan ini, manajer pelayanan
+kesehatan inklusif memerlukan _fleksibilitas
+strategis untuk mengikuti perubahan dari waktu
+ke waktu. Pengembangan indikator keberhasilan,
+tujuan pengelolaan yang dapat dicapai, dan
+kriteria. merupakan hubungan penting antara
+aspek strategis dan operasional inisiatif.
+Dasar Teoritis dari Teori ER
+
+Salah satu aturan kecerdasan buatan (Al)
+yang paling sering digunakan adalah aturan
+evidential Reasoning (ER). Ini rinci dan
+berdasarkan teori bukti Dempster-Shafer (DS).
+Untuk menerapkan aturan ER, kumpulan
+hipotesis harus saling eksklusif dan lengkap.
+Berikut ini adalah satu bukti yang mendukung
+
+klaim tersebut. Berdasarkan sistem cloud untuk
+
+perawatan kesehatan inklusif, kecerdasan buatan
+modern diperlukan untuk melakukan diagnosis
+jarak jauh menggunakan data medis primer.
+Misalnya, Watson International Business.
+Machines Corporation (IBM sudah dapat belajar
+dari dan membuat penilaian pada banyak catatan
+medis. Tugas yang paling menantang dalam
+diagnosis jarak jauh adalah pemrosesan dan
+diagnosis gambar medis. Tugas ini menantang
+karena gambar medis adalah data tidak
+terstruktur dan berbeda dari hasil diagnostik
+terstruktur. Hasil diagnosis terstruktur dapat
+langsung dimasukkan ke dalam model patologis
+untuk analisis. Namun, untuk data yang tidak
+terstruktur seperti citra _medis, pendekatan
+tradisional menantang untuk digunakan secara
+langsung untuk memeriksa dan membuat
+kesimpulan. Oleh karena itu, mereka biasanya
+ditafsirkan dan dianalisis oleh ahli_ radiologi.
+Namun, karena sumber daya medis perawatan
+medis primer relatif terbatas, intervensi manusia
+jarak jauh membutuhkan sejumlah besar tenaga
+kerja dan input modal, belum lagi kesulitan
+merekrut sejumlah besar tenaga medis secara
+terburu-buru.
+
+Program perawatan kesehatan universal
+perlu untuk mengembangkan metode diagnostik
+pencitraan telemedicine berbasis Al yang cocok
+untuk skenario ini. Di satu sisi, menggunakan Al
+untuk memproses gambar dapat mengurangi
+biaya unit pengenalan gambar medis. Karena
+layanan kesehatan inklusif memiliki cakupan yang
+komprehensif, banyak data citra medis perlu
+diproses dan dikenali di cloud. Dibandingkan
+dengan algoritma Al yang unik, kecepatan dan
+biaya identifikasi manusia konvensional akan
+berada pada posisi yang kurang menguntungkan.
+
+Oleh karena itu, metode pengenalan citra medis

@@ -1,0 +1,67 @@
+Jurnal Forum Teknik Sipil UNC, 2020, Vol. 1, No 1, Mei 2021 : him. 1-12
+
+Grafik Nilai koefisien n
+
+~~ hasileksperimen
+
+—1l
+
+Beban(Kn)
+
+mld
+nS
+
+00,75
+
+0 5 10 5 » 6
+(um)
+
+Gambar 8 Hasil analisis pengaruh koefisien n pada model persamaan tegangan-regangan tarik
+
+Berdasarkan hasil analisis nilai koefisien n yang cocok digunakan pada penelitian ini adalah
+koefisien n dengan nilai 0,75.
+
+3.5. Perbandingan hasil eksperimental dan hasil perhitungan secara numerik
+
+Hasil yang di dimodelkan menggunakan abacus kemudian dibandingkan dengan hasil eksperimen
+untuk melihat perbedaan hasil penelitian secara numerik dan hasil ekperimen, hasil tersebut dapat
+dilihat pada gambar 11 dan tabel 4 dibawah ini:
+
+pass.
+
+---V
+Ww
+Ems
+---engels
+Ew
+= +E
+- =i
+am
+
+enn
+
+‘ 5 w i » 8 »
+
+Sen)
+
+Gambar 9 Grafik perbandingan hasil eksperimental dan hasil perhitungan secara numerik
+
+Tabel 4 Perbandingan hasil ekperimen dan hasil perhitungan secara numerik
+
+% perbedaan hasil
+
+Jumlah P Eksperimen numerik A maksimum . .
+eksperimen dan hasil
+
+lapisan (KN) (KN) (mm) numerik
+3 2.56 3.360 4.07 31.26%
+5 5.60 5.626 14.02 0.46%
+7 6.70 6.510 23.84 2.84%
+9 - 6.983 - -
+11 7.90 7.455 25.55 5.64%
+
+Berdasarkan gambar 11 dan tabel 4. diatas dapat dilihat bahwa variasi jumlah lapisan wireless
+pada penelitan secara numerik dan hasil eksperimen berpengaruh terhadap kekuatan balok
+ferrogeopolymer. Pada balok ferrogeopolymer dengan variasi 3 lapisan wireless nilai
+displacement maksimun hasil eksperimen dapat dicapai perhitungan secara numerik sebelum grafik
+mengalami trend penurunan tetapi pada variasi 5, 7 dan 11 lapisan wireless dicapai pada saat

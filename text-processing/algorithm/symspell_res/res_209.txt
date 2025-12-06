@@ -1,0 +1,43 @@
+tidaknya sebuah penilaian bagi sebuah aset (Wellington, 2016) sehingga peran auditor masih
+
+dibutuhkan dalam pengimplementasian dari teknologi kecerdasan buatan ini.
+
+METODE PENELITIAN
+
+Dari tiga jenis artikel yang ada berdasarkan tujuannya yakni eksploratori, deskriptif,
+dan eksplanatori, artikel ini merupakan artikel deskriptif kualitatif yang berbasis pada studi
+literasi dengan mengumpulkan jurnal dan publikasi yang berfokus pada ilmu sosial dan
+teknologi seperti ebsco, IEEE, Science Direct, ProQuest, SCOPUS, SINTA, dan
+sebagainya. Jurnal dan publikasi tersebut merupakan jurnal dan publikasi yang dapat
+mendukung atau memperlengkapi topik pada artikel ini. Untuk memperoleh data yang
+diperlukan dalam artikel ini, peneliti juga mengakses beberapa penelusuran pada jejaring web
+(web surfing) yang ada kaitannya dengan topik artikel guna mendapatkan kerangka konsep
+berpikir dan memahami konteks dari artikel secara mendalam. Penggunaan literatur dapat
+membantu memberikan gambaran mengenai sesuatu yang sudah diketahui maupun yang
+belum diketahui dari suatu fenomena khusus. Penggunaan literatur pada artikel bersifat
+kualitatif bertujuan untuk mempertahankan kealamian data (ariyanti, 2005).
+
+HASIL DAN PEMBAHASAN
+Kontribusi kecerdasan buatan dalam bidang audit
+
+Penelitian yang dilakukan oleh Albawwat dan frigat (2021)
+
+Type of Artificial Mean Std. Deviation P-value of t-test
+Intelligence
+
+Assisted AI 3.4450 0.56111 .000*
+systems
+
+Augmented AI 3.2445 0.62225 .000*
+systems
+
+Autonomous AI 3.0955 0.51860 .000*
+system
+
+Sumber: data diolah peneliti (2023).
+
+Berdasarkan hasil penelitian yang dilakukan oleh Albawwat dan frigat (2021)
+menyatakan bahwa kecerdasan buatan memiliki hasil tertinggi dalam menyumbang
+kontribusi dalam bidang audit. Pada pendekatan beberapa penelitian yang dilakukan
+
+penggunaan kecerdasan buatan dalam audit masih menjadi pertimbangan penting bagi para

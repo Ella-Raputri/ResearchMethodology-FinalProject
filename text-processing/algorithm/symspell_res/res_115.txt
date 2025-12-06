@@ -1,0 +1,59 @@
+BLOCKCHAIN DAN KECERDASAN BUATAN DALAM PERTANIAN :
+STUDI LITERATUR
+
+Fajar Delli Wihartiko*', Sri nurdiati?, Agus Buono*, Edi Santosa*
+
+'Departemen iimu Komputer, Institut Pertanian Bogor & Program Studi iimu Komputer, Universitas Pakuan.
+?Departemen Matematika, Institut Pertanian Bogor, *Departemen iimu Komputer, Institut Pertanian Bogor.
+Departemen Agronomi dan Hortikultura, Institut Pertanian Bogor.
+
+Email: 'zanardelli@apps.ipb.ac.id, 2nurdiati@apps.ipb.ac.id,
+Sagusbuono@apps.ipb.ac.id, edisang@gmail.com
+*Penulis Korespondensi
+
+(Naskah masuk: 11 September 2020, diterima untuk diterbitkan: 02 Februari 2021)
+Abstrak
+
+Dewasa ini teknologi blockchain dan kecerdasan buatan (artificial intelligence! Al) telah diimplementasikan dalam
+bidang pertanian. Teknologi blockchain menjanjikan keamanan dan peningkatan kepercayaan untuk pengguna.
+Teknologi kecerdasan buatan menjanjikan berbagai kemudahan bagi pengguna. Perpaduan kedua teknologi
+tersebut dapat meningkatan kepercayaan terhadap sistem kecerdasan buatan (blockchain for Al) atau dapat juga
+digunakan untuk meningkatkan kinerja sistem blockchain (AI for blockchain). Tujuan penelitian ini mengulas
+kedua teknologi tersebut dalam studi literatur serta memberikan tantangan riset ke depan terkait implementasinya
+di bidang pertanian. Metodologi yang digunakan adalah Systematic Literature Review (SLR) dan text mining. Text
+mining digunakan untuk memberikan deskripsi riset yang ada berdasarkan kata-kata di setiap artikel terpilih. SLR.
+digunakan untuk memberikan ulasan yang komprehensif terkait riset Blockchain dan kecerdasan Buatan dalam
+pertanian. Hasil penelitian menunjukan bahwa terdapat 10 % penelitian terkait penerapan blockchain dan Al dalam
+pertanian. Riset tersebut memiliki potensi besar untuk berkembang terlihat dari peningkatan jumlah publikasi
+dalam 2 tahun terakhir. Kontribusi penelitian ini meliputi posisi riset terkini dan usulan riset ke depan dengan
+mempertimbangkan kondisi pertanian Indonesia. Posisi riset tersebut didominasi komunitas peneliti dari negara-
+negara di Asia seperti India (33%), Pakistan (33%), China (14%) dan Korea (14%). Originalitas penelitian ini
+terletak pada studi literatur dari integrasi teknologi blockchain dan kecerdasan buatan dalam bidang pertanian
+menggunakan SLR dan text mining.
+
+Kata kunci: blockchain, kecerdasan buatan, pertanian
+
+BLOCKCHAIN AND ARTIFICIAL INTELLIGENCE IN AGRICULTURE :
+A SYSTEMATIC LITERATURE REVIEW
+
+Abstract
+
+Artificial intelligence and blockchain technology are being developed and implemented in Agriculture. Blockchain
+technology promises security and trust for users. Moreover, artificial intelligence technology promises
+convenience for users. The combination of these two technologies will increase trust in artificial intelligence
+systems. Besides, this combination can also increase security on the blockchain system through the application of
+artificial intelligence. This paper summarizes the application of both technologies and reviews them in a systematic
+literature review, presents a description of articles based on text mining, and provides future research challenges
+related to the implementation of blockchain and artificial intelligence in agriculture. The methodologies used are
+Systematic Literature Review (SLR) and text mining. Text mining is used to describe a description of existing
+research based on the words in each selected article. SLR is used to provide a comprehensive review of Blockchain
+research and Artificial intelligence in agriculture. The results showed that there were 10% of research related to
+the application of blockchain and AI in agriculture. This research has great potential for growth as seen from the
+increase in the number of publications in the last 2 years. The contribution of this research includes the latest
+research positions and future research proposals taking into account the conditions of Indonesian agriculture.
+The research position is dominated by the research community from countries in Asia such as India (33%),
+Pakistan (33%), China (14%) and Korea (14%). The originality of this research is a literature study on the
+integration of blockchain and artificial intelligence in agriculture using SLR and text mining.
+
+Keywords: blockchain, Artificial intelligence, agriculture
+

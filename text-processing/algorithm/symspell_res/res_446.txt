@@ -1,0 +1,55 @@
+211
+
+Tabel 4. Uji Paired Sample t-test
+Paired Samples Statistics
+
+Std. Error
+Mean N Std. Deviation Mean
+Pair1 pretest 55.97 31 9.697 1.742
+posttest 82.42 31 9.387 1.686
+
+Paired Samples Test
+
+Paired Differences
+
+95% Confidence Interval of the
+Std. Error difference
+Mean Std. Deviation Mean Lower Upper t df Sig. (2-tailed)
+
+Pair! pretest-posttest + -26.452 5.383 961 -28.415 -24.488 — -27.512 30 000
+
+Menurut Sujarweni (2021), uji t test sampel dimanfaatkan untuk mengerti apakah ada
+ketidaksamaan nilai tengah dari dua sampel bebas. Hasil uji sampel uji t-test terhadap pre-test
+dan post-test menunjukkan bahwa nilai Sig. (2-tailed) = 0,000 < 0,05, yang menyatakan bahwa
+Ho ditolak dan H, diterima sesuai dengan kriteria nilai Sig. P < 0,05. Hasil ini menjelaskan
+terdapat ketidak samaan yang signifikan dari skor rata-rata siswa pada sebelum dan setelah
+tes.Sehingga disimpulkan terdapat pengaruh hasil dari keterampilan menulis narasi berbahasa
+siswa pada sebelum dan setelah diberi perlakuan dengan media gambar berseri untuk peserta didik
+kelas 3 SDN Pati Wetan 01 Pati.
+
+Tabel 5.Hasil Uji N-Gain
+
+Descriptive Statistics
+
+minimum maximus Std.
+N m m Mean Deviation
+ngain 31 33 1.00 6215 14973
+
+Valid N 31
+(bitwise)
+
+Dari hasil data diatas dapat dilihat bahwa rata-rata N-gain yaitu 0,62 sehingga menunjukkan
+bahwa terdapat peningkatan keterampilan menulis narasi berbahasa jawa siswa dengan
+menggunakan media gambar berseri mencapai kriteria sedang. Hasil dari N-Gain digunakan
+untuk mengetahui terdapat peningkatan keterampilan menulis narasi berbahasa jawa siswa
+sebelum dan sesudah menggunakan media gambar berseri, setelah peneliti menguji nilai pretest
+dan posttest dengan uji N-Gain diperoleh nilai 0,62 dengan kategori sedang. Sehingga dapat
+diketahui bahwa nilai siswa meningkat setelah dilaksanakan pembelajaran dengan media gambar
+berseri.
+
+Berdasarkan hasil penelitian terbukti media gambar berseri efektif digunakan pada materi
+ketrampilan menulis narasi berbahasa jawa siswa. Hasil dari rata-rata pretest 55,97. Setelah
+peneliti melaksanakan dan mendapatkan hasil data dari pretest menulis narasi berbahasa jawa,
+maka selanjutnya adalah memberi perlakuan dengan menerapkan media gambar berseri pada
+ketrampilan menulis narasi berbahasa jawa. Hasil keterampilan peserta didik setelah perlakuan
+mendapatkan rata rata 82,42. Dari rata-rata tersebut terdapat peningkatan sebesar 26,45.

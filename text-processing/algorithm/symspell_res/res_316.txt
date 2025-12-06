@@ -1,0 +1,107 @@
+P-ISSN : 2303-3142 _E-ISSN : 2548-8570
+
+Vol.10 No 2 Tahun 2021
+
+ini adalah pada proses mengubah
+kebiasaan para guru, pegawai dan siswa
+yang telah sekian lama mengandalkan
+pekerjaan secara manual. Serta faktor
+usia pada guru dan pegawai juga akan
+menjadi penghambat dalam _ proses
+penyesuaian tersebut.
+
+Berdasarkan kesimpulan yang telah
+diuraikan di atas maka dapat diberikan
+saran-saran sebagai berikut.
+
+1. Bagi SMA Negeri 1 Singaraja
+Apabila rekomendasi dari penelitian ini
+diimplementasikan oleh sekolah, maka
+diharapkan sekolah melakukan
+kerjasama dengan pihak yang memiliki
+pengetahuan dan memahami_ secara
+detail tahapan-tahapan dalam pemodelan
+togaf ADM. Sehingga, apa yang
+diimplementasikan sesuai dengan
+rancangan dan dapat meminimalisasi
+kesalahan dalam pengerjaannya.
+Diharapkan juga sekolah menyusun
+rancangan anggaran secara matang
+karena setiap rekomendasi baik berupa
+aplikasi maupun infrastruktur dari penulis
+membutuhkan biaya yang tidak sedikit.
+Anggaran yang disiapkan tidak saja ketika
+pengadaan, tapi pada pemeliharaan juga.
+2. Bagi Peneliti Selanjutnya
+Penelitian ini belum menguji kesiapan
+sebuah sekolah dalam menerapkan
+togaf ADM, untuk penelitian lebih lanjut
+disarankan melakukan pengujian
+kesiapan sekolah terlebih dahulu sebelum
+merancang arsitektur enterprise dengan
+togaf ADM. Setiap tahapan dalam
+togaf ADM dapat dilakukan penelitian
+lanjutan secara terpisah untuk
+mendapatkan model arsitektur enterprise
+yang lebih terperinci. Masing-masing
+rekomendasi aplikasi dapat dilakukan
+penelitian lanjutan untuk menciptakan
+rancangan implementasinya. Penelitian
+lanjutan juga dapat dilakukan untuk
+menganalisa dan mengevaluasi user
+
+experience dari rekomendasi aplikasi
+yang sudah terimplementasikan.
+
+DAFTAR PUSTAKA
+
+Cholik CA. 2017. Pemanfaatan Teknologi
+Informasi dan Komunikasi Untuk
+Meningkatkan Pendidikan di
+Indonesia. J. lim. indones. 2(6):21-30.
+
+landhorst M. 2013. Enterprise Architecture
+at Work: Modelling, Communication
+and Analysis. Berlin: Springer Nature.
+
+Pamungkas CA. 2017. Pengantar dan
+Implementasi Basis Data. Yogyakarta:
+Penerbit Deepublish.
+
+Setiawan EB. 2009. Pemilihan EA
+Framework. Semin. Nas. Apl. Teknol.
+Inf. 2009(sriati):114-119.
+
+Setiawan R. 2016. Perancangan Arsitektur
+Enterprise Untuk Perguruan Tinggi
+Swasta Menggunakan togaf Adm. J.
+
+algoritme. 12(2):548—
+561 .doi:10.33364/algoritma/v.12-
+2.548.
+
+Sucahyana MA. 2019. Perencanaan
+Enterprise Architecture Smart Campus
+Menggunakan togaf ADM _ di
+stahn Mpu_ Kuturan  Singaraja.
+Universitas Pendidikan Ganesha.
+
+surani D. 2019. Studi Literatur: Peran
+Teknologi Pendidikan dalam
+Pendidikan 4.0. Pros. Semin. Nas.
+Pendidik. FKIP. 2(1):456-469.
+
+The Open Group. 2020. The togaf®
+Standard, Version 9.2. [diunduh 2020
+Jun 22]. Tersedia pada:
+https://pubs.opengroup.org/architectur
+e/togaf9-doc/arch/
+
+wiyana, Winarno WW. 2015. Sistem
+penjaminan Mutu Pendidikan Dengan
+togaf ADM _ Untuk Sekolah
+Menengah Kejuruan. regis. J. /lm.
+Teknol. sist. Inf. 1(1):7-
+14.doi:10.26594/r.v1i1.401.
+
+Jurnal Sains dan Teknologi | 328

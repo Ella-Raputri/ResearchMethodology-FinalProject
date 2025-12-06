@@ -1,0 +1,164 @@
+Tabel 1 Penelitian terkait penerapan blockchain di bidang pertanian
+
+pce subtema: Objek inci Sin
+No Sitasi oe ee Deskripsi Singkat
+T (Tian, 2016)   Menggunakan blockchain dan RFID untuk manjemen
+rantai pasok makanan di China
+2 (sheetal,, 2017) . . Mengedepankan penerapan teknologi Blockchain dalam
+Keamanan informasi dari rantai suplai makanan di China
+3 (Papa, 2017) . . Pemanfaatan blockchain untuk transparansi SCM
+agribisnis.
+4 (Xie, Sun & Luo, 2017) . . Merancang skema untuk penyimpanan data berdasarkan
+blockchain
+5 (lineal., 2017) . . Memperkenalkan prototype sistem ICT e-Agriculture
+6 (Salah et al., 2018) .  Review Blockchain dengan AI dalam berbagai bidang,
+termasuk pertanian
+7 (Almeida et al., 2018) . . Review Blockchain dalam pertanian
+8 (Rabah, 2018)   Memberikan gambaran umum penerapan big data dalam
+berbagai bidang
+9 (Kumar & Iyengar, 2018) .  Implementasi blockchain untuk SCM di Ind
+10 (Leng et al., 2018) . . SCM pertanian dengan arsitektur rantai ganda berbasis
+teknologi blockchain
+11 (Lucena et al., 2018) .  Pelacakan penjaminan mutu gandum berdasarkan
+jaringan bisnis blockchain
+12 Carbone et al, 2018) . . Penerapan teknologi blockchain, cloud dan OT untuk
+rantai pasokan makanan,
+13. (Hua et al., 2018) . . Pemanfaatan blockchain untuk membangun
+kepercayaan
+14 Casado et al., 2018) . . Penggunaan blockchain dalam penerapan industri
+pertanian
+15. (Patil et al, 2018) . . Smart greenhouse farm berbasis 1OT dengan framework
+blockchain
+(Yadaf & Singh, 2019) . . Meninjau aplikasi blockchain di bidang pertanian
+
+29
+
+30
+31
+32
+33
+
+34
+35
+36
+37
+38
+
+39
+
+41
+
+42
+B
+
+(Dave et al., 2019)
+
+(Singh, Rathore & Park,
+2019)
+
+(Antonucci et al., 2019)
+(Arena et al., 2019)
+
+(gamble, kulasekaran &
+Sharma, 2019)
+
+(komisaris, Fonts &
+Prenafeta-Bolds, 2019)
+(Salah et al., 2019)
+
+(Reddy, Aravind Reddy &
+Sashi Rekha, 2019)
+
+(Wu & Tsai, 2019)
+
+(Bordel et al., 2019)
+(Munir, Bajwa &
+Cheema, 2019)
+(Nazarov, shvedova &
+Sulimin, 2019)
+(Iswari, Arkeman &
+Muslich, 2019)
+(ferrar et al., 2020)
+(leche et al., 2020)
+(Mirabelli & Solina, 2020)
+(Mistry et al., 2020)
+
+(Sisodiya & Garg, 2020)
+(Xiong et al., 2020)
+
+(Alam et al., 2020)
+
+(Borah et al., 2020)
+(gamble, kulasekaran &
+Sharma, 2020)
+
+(Shahid et al., 20206)
+
+(Shahid et al., 2020a)
+(singh et al., 2020)
+(Tiwari, 2020)
+
+(Daniel & Ifejika Speranza,
+2020)
+
+(chinnaiya & Balachandar,
+2020)
+
+Meninjau aplikasi blockchain di berbagai bidang
+termasuk pertanian
+Konsep BlockIOTIntelligence
+
+Review blockchain dalam agrifood
+BRUSCHETTA: Blockhain-IOT framework untuk SCM
+Komoditas minyak zaitun
+
+Pemodelan blockchain dalam SCM pertanian
+
+Penerapan blockchain dalam rantai pasokan makanan
+
+Penerapan blockchain untuk SCM kedelai
+Penggunaan Blockchain untuk meningkatkan efisiensi
+SCM pertanian
+
+Blockchain
+pada pertanian
+
+Penggunaan blockchain untuk masalah otomasi irigrasi
+Penggunaan logika fuzzy pada kasus sistem smart
+watering menggunakan blockchain
+
+Usulan pengembangan blockchain unuk agro industri
+Rusia
+
+Rancang bangun sistem blockchain untuk rantai pasok
+Kakao
+
+Studi literatur penerapan blockchain IOT di pertanian
+Studi literatur teknologi di SCM
+
+Studi literatur blockchain dan SCM
+
+Review penerapan blockchain di teknologi SG dan
+pertanian secara umum
+
+Review blockchain dan aplikasinya
+
+Review implementasi blockchain di pertanian
+
+Konsep smart farming & blockchain dalam pertanian
+Penggunaan blockchain dan [OT untuk SCM pertanian
+Blockchain dengan SCM untuk keandalan layanan
+
+anakan untuk pengamanan data jaringan
+
+Implementasi blockchain untuk SCM berdasarkan
+reputasi sitem
+
+Solusi blockchain untuk pertanian SCM
+Pengembangan blockchain pada produk susu mumi
+Penerapan blockchain untuk agrifood SCM
+Blockchain untuk dokumentasi data
+
+Penggunaan blockchain, IOT, drone & sensor untuk
+pertanian
+

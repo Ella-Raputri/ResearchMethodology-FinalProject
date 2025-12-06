@@ -1,0 +1,60 @@
+organisasi masyarakat sipil, juga memiliki peran penting dalam adopsi AI dalam pendidikan [28].
+Mereka harus dilibatkan dalam proses pengambilan keputusan dan evaluasi untuk memastikan bahwa
+perspektif dan kepentingan mereka dipertimbangkan. Masyarakat juga dapat memberikan umpan balik
+yang berharga tentang dampak dan efektivitas solusi Al dalam pendidikan.
+
+Kesimpulan
+
+Perkembangan teknologi kecerdasan buatan (Al) telah membuka peluang baru dalam dunia
+pendidikan di Indonesia. Al berpotensi untuk mentransformasi cara belajar dan mengajar, melalui
+pembelajaran adaptif, pengalaman belajar yang lebih interaktif, efisiensi tugas administratif, dan analisis
+data untuk pengambilan keputusan yang lebih baik. Namun, adopsi Al dalam pendidikan di Indonesia
+juga menghadapi tantangan seperti infrastruktur teknologi yang kurang memadai, kekurangan sumber
+daya manusia yang terampil dalam bidang Al, kesenjangan akses teknologi antara daerah perkotaan dan
+pedesaan, serta kekhawatiran tentang privasi data dan etika. Untuk menghadapi tantangan tersebut,
+diperlukan strategi yang komprehensif, seperti pengembangan kebijakan dan regulasi yang tepat,
+peningkatan investasi dalam infrastruktur teknologi dan pelatihan guru, kolaborasi dengan perusahaan
+
+teknologi dan lembaga penelitian, serta kampanye literasi digital dan pelatihan bagi siswa dan orang
+
+tua, Semua pemangku kepentingan, termasuk pemerintah, institusi pendidikan, industri teknologi, dan
+masyarakat, memiliki peran penting dalam mengadopsi Al dalam pendidikan di Indonesia. Kolaborasi
+dan kemitraan yang erat antara semua pihak sangat diperlukan untuk mewujudkan potensi AI dalam
+meningkatkan kualitas pendidikan dan mempersiapkan generasi mendatang untuk menghadapi
+
+tantangan masa depan.
+
+Referensi
+
+[1] cioffi, R, travaglini, M., piscitelli, G., petrillo, A, & De Felice, F. (2020). Artificial intelligence and
+machine learning applications in smart production: Progress, trends, and directions. Sustainability,
+12(2), 492.
+
+[2] van der Vlist, F., Helmond, A., & Ferrari, F. (2024). Big Al: Cloud infrastructure dependence and the
+industrialisation of artificial intelligence. Big Data & Society, 11(1), 20539517241232630.
+
+[3] Wang. B., Liu, H,, An, P., Li, Q. Li, K, Chen, L,,... & Gu, S. (2018). Artificial intelligence and education (pp.
+129-161). Springer Singapore.
+
+[4] Dai, C. P., & Ke, F. (2022). Educational applications of artificial intelligence in simulation-based
+learning: A systematic mapping review. Computers and Education: Artificial Intelligence, 3, 100087.
+
+[5] Rane, N., Choudhary, S., & Rane, J. (2023). Education 4.0 and 5.0: Integrating Artificial Intelligence
+(AD for personalized and adaptive learning. Available at SSRN 4638365.
+
+[6] Bharathi, G. P., Chandra, I, sanatana, D. P. R,, Tummalachervu, C. K., Rao, V. S., & Neelima, S. (2024).
+Al-driven adaptive learning for enhancing business intelligence simulation games. Entertainment
+Computing, 50, 100699.
+
+[7] Yugandhar, K., & Rao, Y. R. (2024). Artificial Intelligence in Classroom Management: Improving
+Instructional Quality of English Class with AI Tools. Educational Administration: Theory and Practice,
+30(4), 2666-2672.
+
+[8] Hifi, M., & Ahsan, A. N. (2022). Kesiapan Bangsa Indonesia Menghadapi Perkembangan Era Industri
+4.0 Dilihat Dari Sudut Pandang Tujuan Dan Cita~Cita Bangsa Indonesia. Jurnal mahatvavirya, 9(2),
+46-58.
+
+[9] Nazmi, R., Ardiyanto, J., Anshori, M. L, Siswanto, D. E., & Wirawan, R. (2023). Adaptive Learning in
+the Future of Educational Management Adapts to Student Needs. al-fikrah: Jurnal Manajemen
+Pendidikan, 11(2), 272-283.
+

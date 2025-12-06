@@ -1,0 +1,45 @@
+PEMANFAATAN KECERDASAN BUATAN (ARTIFICIAL
+INTELLIGENCE) UNTUK MENDETEKSI HASIL CT SCAN PARU-PARU
+PASIEN YANG TERINFEKSI COVID-19
+
+Rizky Hanifudin!, Putri Rokhmayati?, Nandi Pura Nugraha?, Muhammad Afif Alrasyid*, perani
+Rosyani>
+
+123436 Teknik Informatika, Universitas Pamulang, Tangerang Selatan, Indonesia
+
+e-mail: rizkyhanifudin@gmail.com, *putrirokhmayati@gmail.com, *nandipura09@gmail.com,
+4afif.alrasyid.aa@gmail.com *dosen00837@unpam.ac.id
+
+Abstract
+
+Corona Virus Disease 19 (COVID-19) is an infectious disease caused by the recently discovered
+coronavirus. Currently, COVID-19 is a significant problem for all of us, but until now there has been no
+effective medicine to overcome it. One of the other problems is the detection of infection in individuals.
+Current COVID-19 detection methods, such as PCR Swaps, are considered slow, while Rapid Tests are
+considered unreliable based on several previous cases. This research aims to develop a method that is faster
+and more accurate in detecting individuals infected with COVID-19 by using Artificial Intelligence,
+especially by using the convolutional Neural Network (CNN) architecture in its learning. The research
+method used in this study is literature review, in which related articles are collected and processed using
+the Mendeley application. The criteria used in the selection of articles were articles published in 2020 which
+discussed the use of Artificial Intelligence in handling COVID-19. Based on the collection and discussion
+of several existing studies, it can be concluded that by using an Artificial Intelligence system, detection of
+COVID-19 infection in individuals can be carried out through pattern analysis on Lung CT Scan results
+with a high degree of accuracy, using existing training data.
+
+Abstrak
+
+Penyakit Virus Corona 19 (COVID-19) adalah penyakit menular yang disebabkan oleh virus corona
+yang baru-baru ini ditemukan. Saat ini, COVID-19 menjadi permasalahan yang signifikan bagi kita semua,
+namun hingga saat ini belum ditemukan obat yang efektif untuk mengatasinya. Salah satu masalah lainnya
+adalah deteksi infeksi pada individu. Metode pendeteksian COVID-19 saat ini, seperti PCR Swap, dianggap
+masih lambat, sementara Rapid Tes dianggap kurang dapat dipercaya berdasarkan beberapa kasus
+sebelumnya. Penelitian ini bertujuan untuk mengembangkan metode yang lebih cepat dan akurat dalam
+pendeteksian individu yang terinfeksi COVID-19 dengan menggunakan Artificial Intelligence, khususnya
+dengan menggunakan arsitektur convolutional Neural Network (CNN) dalam pembelajarannya. Metode
+penelitian yang digunakan dalam studi ini adalah literature review, di mana artikel-artikel terkait
+dikumpulkan dan diproses menggunakan aplikasi Mendeley. Kriteria yang digunakan dalam seleksi artikel
+adalah artikel yang diterbitkan pada tahun 2020 yang membahas penggunaan Artificial Intelligence dalam.
+penanganan COVID-19. Berdasarkan pengumpulan dan pembahasan beberapa penelitian yang ada, dapat
+disimpulkan bahwa dengan menggunakan sistem Artificial Intelligence, deteksi infeksi COVID-19 pada
+individu dapat dilakukan melalui analisis pola pada hasil CT Scan Paru dengan tingkat akurasi yang tinggi,
+menggunakan data latih yang telah ada.

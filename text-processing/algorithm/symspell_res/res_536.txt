@@ -1,0 +1,38 @@
+3. Pada radio button Series in pilih Columns dan text area Stop Value
+dengan nilai akhir penomoran misalnya 10 (sepuluh).
+4. likok
+
+Ketikan nomer awal di cell penomoran
+
+-Series in Type
+ Rows  Linear
+
+ Columns  Growth
+ |  Date
+ autofill
+
+Step value: Stop value:
+
+1. Ketikan nomer berikutnya di bawahnya
+
+2. Blok keduanya dan letakkan cursor dipojok kanan bawah sehingga
+cursor berubah seperti bentuk ketiga.
+
+3. Klik kiri, jangan dilepas (drag) dan tarik ke bawah dan berhenti
+sampai nomor yang dikehendaki dan lepas klik.
+
+Membuat Link
+Untuk membuat suatu link pada excel, ikuti langkah - langkah di bawah
+ini:
+1. sorot cell yang akan di link apabila itu suatu teks, atau sisipkan shape,
+clipart, chart atau yang lain untuk di link.
+Pilih Menu Insert, lalu klik hyperlink.
+3. Terdapat empat pilihan untuk link, yaitu:
+a. Existing File or web page: berfungsi untuk melik-kan ke situs
+internet.
+b. Place in this Document: untuk melik-kan di worksheet excel
+saja Misal di sheet 1, sheet 2atau sheet 3, dll).
+c. Create new document: untuk melik-kan pada lembar kerja baru.
+E-mail Address: untuk melik-kan pada e-mail.
+
+Frizka Fitriana, $.Kom., M.Kom.

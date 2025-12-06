@@ -1,0 +1,46 @@
+Evaluasi Literasi Kecerdasan Buatan Definisi
+
+leyli Desra Asrol!, Rifma?, Syahril3
+
+1Dinas Pendidikan Kabupaten Pasaman Barat
+
+23Universitas Negeri Padang, Padang
+
+corresponding Author: @ rifmar34@fip.unp.ac.id
+
+ABSTRACT
+Kecerdasan Buatan (Al) berada di puncak agenda para pemimpin
+pendidikan saat ini dalam mendidik generasi berikutnya di seluruh
+dunia. Namun, pemahaman publik tentang teknologi AI dan bagaimana
+mendefinisikan literasi AI masih kurang dieksplorasi. Visi ini
+menghadirkan tantangan yang akan datang bagi generasi berikutnya
+untuk belajar tentang AI. Pada catatan ini, tinjauan eksplorasi dilakukan
+untuk mengkonseptualisasikan konsep baru literasi AI, dalam mencari
+landasan teoretis yang kuat untuk mendefinisikan, mengajar, dan
+mengevaluasi literasi AI. Didasarkan pada literatur pada 18 artikel peer-
+review yang ada, ulasan ini mengusulkan empat aspek (yaitu,
+mengetahui dan memahami, menggunakan, mengevaluasi, dan masalah
+etika) untuk mendorong literasi AI berdasarkan adaptasi literasi Klasik.
+Studi ini menyoroti definisi konsolidasi, pengajaran, dan masalah etika
+tentang literasi AI,
+Literasi AI, Pembelajaran Dan Pengajaran AI, AI Dalam Pendidikan, Etika Al,
+Keyword = Kuesioner Literasi AI.
+
+PENDAHULUAN
+
+Kecerdasan buatan (AI) pertama kali didefinisikan sebagai "ilmu dan
+teknik membuat mesin cerdas" pada tahun 1956 (McCarthy, 2007, p.2). Selama
+beberapa dekade abad ke-20, AI telah berkembang secara progresif menjadi
+mesin dan algoritma cerdas yang dapat bernalar dan beradaptasi berdasarkan
+seperangkat aturan dan lingkungan yang meniru kecerdasan manusia
+(McCarthy, 2007). Wang (2019) memperluas definisi AI yang dapat melakukan
+tugas kognitif khususnya pembelajaran dan pemecahan masalah dengan
+inovasi teknologi yang menarik seperti pembelajaran mesin dan jaringan saraf
+(Zawacki-Richter dkk, 2019). Saat ini, penggunaan AI telah menyebar ke
+berbagai industri (misalnya, bisnis, sains, seni, pendidikan) untuk
+meningkatkan pengalaman pengguna dan meningkatkan efisiensi. Aplikasi AI
+ada di banyak bagian kehidupan kita sehari-hari (misalnya, peralatan rumah
+pintar, smartphone, Google, Siri). Sebagian besar publik mengakui keberadaan
+layanan dan perangkat AI, tetapi jarang mengetahui konsep dan teknologi di
+baliknya, atau menyadari potensi masalah etika terkait AI (Burgsteiner dkk,
+2016; ghalib, 2019). Mirip dengan literasi Klasik yang mencakup kemampuan

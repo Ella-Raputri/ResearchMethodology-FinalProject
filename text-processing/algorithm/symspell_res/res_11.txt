@@ -1,0 +1,132 @@
+kualitas yang baik dan  dapat
+dipertanggungjawabkan.
+
+2. Dasar Teori
+2.1 Systematic Literature Review
+
+Systematic literature review atau sering
+disingkat SLR adalah metode literature review yang
+mengidentifikasi, menilai, dan menginterpretasi
+seluruh temuan-temuan pada suatu topik penelitian,
+untuk menjawab pertanyaan penelitian (research
+question) yang telah ditetapkan  sebelumnya
+(Kitchenham & Charters, 2007). Metode SLR
+dilakukan secara sistematis dengan mengikuti
+tahapan dan protokol yang memmungkinkan proses
+literature review terhindar dari bias dan pemahaman
+yang bersifat subyektif dari penelitinya. Pada saat
+melakukan review menggunakan metode SLR
+diharuskan melalui beberapa tahapan yaitu planning,
+conducting, dan reporting
+
+2.2. Pemetaan Riset
+
+Pemetaan riset merupakan alat visualisasi yang
+mengatur dan menampilkan pengetahuan dengan
+cara visual, seperti menggunakan tabel, diagram alir,
+grafik dan diagram venn. Lingkup tinjauan yang
+digunakan juga melacak studi dengan ulasan
+sistematis. Dibanding dengan tinjauan sistematis,
+lingkupan tinjauan lebih difokuskan pada temuan
+awal, meskipun tidak selalu memiliki kualitas
+sebagai data awal untuk dimasukkan, dan sintesis
+data lebih terfokus pada kualitatif (Diane Cooper :
+2016).
+
+2.3 Deteksi Topik
+
+Tugas deteksi topik ialah mengevaluasi
+teknologi yang mendeteksi topik-topik baru yang
+sebelumnya tidak dikenal. Seperti dalam tugas
+pelacakan, topik didefinisikan dengan mengaitkan
+cerita yang membahas topik tersebut. Namun, sistem
+pendeteksian topik tidak diberi pengetahuan tentang
+topik tersebut (Jonathan : 2018).
+
+2.4 Twitter
+
+Twitter adalah layanan jejaring sosial dan
+mikroblog daring yang memungkinkan penggunanya
+untuk mengirim dan membaca pesan berbasis teks
+hingga 140 karakter, akan tetapi pada tanggal 7
+November 2017 bertambah hingga 280 karakter
+yang dikenal dengan sebutan kicauan atau tweet
+(Jack Dorsey : 2018).
+
+3. Metodologi
+3.1 Tempat dan Waktu Penelitian
+
+Penelitian ini dilakukan di Laboratorium
+Komputer Gedung L1 Teknik Elektro lantai 2,
+Fakultas Teknik, Universitas Negeri Jakarta yang
+berlokasi di Jalan. Rawamangun Muka, Jakarta
+13220. Penelitian ini dilakukan sejak bulan Januari
+2018 hingga Juli 2019.
+
+3.2 Metode Penelitian
+
+Metode yang digunakan dalam penelitian ini
+adalah metode systematic literature review. Dimana
+peneliti melakukan analisis pada penelitian yang
+telah dilakukan sebelumnya melalui _literatur-
+literatur penelitian yang berkaitan dengan Klasifikasi
+teks pendek pada twitter.
+
+3.3 Data dan Sumber Data
+
+Data yang digunakan berupa dokumen hasil
+penelitian dalam bentuk literatur yang didapatkan
+dengan cara melakukan proses mengunduh pada
+digital library terpercaya. Literatur yang digunakan
+merupakan hasil penelitian sebelumnya yang relevan
+dengan apa yang dibutuhkan penulis dalam
+penelitian ini.
+
+3.4 Teknik dan Prosedur Pengumpulan Data
+
+Pengumpulan data untuk penelitian ini
+menggunakan data dari digital library IEEE
+eXplore, sciencedirect, Google Scholar dan
+citeseerx dalam pencarian literatur terkait. Alasan
+dari pemilihan ke empat digital library tersebut
+dikarenakan merupakan digital library yang tersedia
+di Universitas Negeri Jakarta dan juga tidak adanya
+Kriteria atau karakteristik khusus dalam pemilihan
+digital library.
+
+3.5 Prosedur Analisis Data
+
+Pada penelitian ini, dibuat sebuah aturan
+yang mengikat yaitu literatur yang membahas
+metode deteksi topik pada twitter, literatur dengan
+batas tahun publikasi 2014-2018, dan literatur
+berbahasa inggris dan pada saat pencarian di digital
+library menggunakan search string: (topic
+detection) AND (twitter).
+
+3.6 Pemeriksaan Keabsahan Data
+
+Pemeriksaan keabsahan data__dilakukan.
+berdasarkan relevansi judul dari literatur yang
+tersedia dengan topik bahasan yaitu deteksi topik
+pada twitter, isi dari abstrak dan diskusi dengan
+pihak yang memiliki kompetensi dan berkepentingan
+dalam penelitian riset deteksi topik pada twitter
+menggunakan metode systematic literature review.
+Dalam hal ini yang dimaksud adalah dosen
+pembimbing.
+
+4. Hasil dan Analisis
+4.1 Planning
+
+Pada tahapan planning dimulai dengan
+merumuskan masalah yang akan diteliti, Pada
+penelitian ini, peneliti mengangkat masalah
+mengenai metode yang digunakan untuk pendeteksi
+topik pada twitter. Setelan perumusan masalah,
+maka dilakukan identifikasi masalah dan bagian
+terakhir dari tahap planning ialah menentukan
+reasearch Question.
+
+Research Question dibuat secara spesifik untuk
+membuat review menjadi terfokus, untuk

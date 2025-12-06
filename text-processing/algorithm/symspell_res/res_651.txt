@@ -1,0 +1,39 @@
+VECTOR RASTER
+
+Gambar 1.1
+
+Gambar vektor dan raster dapat terlihat berbeda. Ini karena gambar vektor harus memiliki bentuk
+terpisah untuk setiap naungan warna, sedangkan gambar raster dapat memiliki setiap piksel dengan
+warna yang berbeda, menunjukkan gradasi warna halus dan kedalaman lebih jelas. Pada ukuran yang
+lebih besar, tepi gambar raster menjadi tidak rata dan gambar menjadi pixelated. Gambar vektor lebih
+terukur.
+
+Hubungan disetiap gamabar satu dengan gambar yang lain antara setiap piksel dan gambar raster
+memiliki kemampuan memori yang berbeda  beda yang ada adikomputer. Komputer harus
+menyimpan informasi untuk setiap piksel dari gambar raster, sedangkan gambar vektor hanya
+menyimpan rangkaian titik yang perlu dihubungkan dengan garis, kurva, dll. Akibatnya, file vektor
+biasanya lebih kecil daripada file raster. File gambar vektor lebih mudah dimodifikasi daripada file
+gambar raster karena alasan ini.
+
+Gambar vektor dan raster dapat diubah menjadi satu sama lain dengan perangkat lunak yang tepat.
+Adobe Illustrator dan Adobe Photoshop adalah contoh perangkat lunak yang memungkinkan
+pengguna untuk mengubah satu format gambar ke format File raster sangat baik untuk
+menggambarkan kedalaman warna , karena setiap piksel dapat memiliki warna yang berbeda. Dan
+ada lebih banyak piksel yang bisa menjadi warna unik daripada vektor yang bisa menjadi warna unik.
+Ini membuat format file raster bagus untuk mengedit foto digital.
+
+File raster sangat baik untuk menggambarkan kedalaman warna , karena setiap piksel dapat memiliki
+warna yang berbeda. Dan ada lebih banyak piksel yang bisa menjadi warna unik daripada vektor yang
+bisa menjadi warna unik. Ini membuat format file raster bagus untuk mengedit foto digital.
+
+1.5 KEUNTUNGAN DAN KERUGIAN DARI GAMBAR VEKTOR
+
+Penting untuk mempertimbangkan keuntungan dan kerugian menggunakan file vektor.
+
+Keuntungan
+ Skalabilitas. Seperti disebutkan sebelumnya, ini adalah keuntungan utama dari gambar
+vektor. Karena gambar vektor diturunkan dari hubungan vektor matematis, atau hubungan
+antara titik yang menciptakan garis dan kurva, gambar tersebut tampak bersih dan tepat
+pada ukuran berapa pun.
+ Ukuran fila pada gambar vektor umumnya memiliki ukuran file yang kecil karena hanya
+menyimpan sejumlah kecil titik dan hubungan matematis. Hubungan tersebut diekspresikan

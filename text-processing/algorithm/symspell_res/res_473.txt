@@ -1,0 +1,63 @@
+Jurnal Biologi Indonesia 13(1): 157 -169 (2017)
+
+Aplikasi Kajian DNA Molekuler dan Fenotipik Pada Program pelepasliaran Burung
+Kakatua
+(Application of Molecular DNA and Phenotypic Study for Reintroduction
+Programme of cockatoo )
+
+Moch Syamsul Arifin Zein, Tri Haryoko, Yuli Sulistya Fitriana, Eko Sulistyadi, & Dewi Malia
+prawiradilaga
+
+Bidang Zoologi, Puslit Biologi-LIPI
+Gedung Widyasatwaloka, Jl. Raya Jakarta-Bogor Km. 46 Cibinong 16911
+Email: zein_genetic@yahoo.com
+
+Memasukkan: September 2016, Diterima: Januari 2017.
+
+ABSTRACT
+
+There are six species of cockatoo in Indonesia which are well known as exotic, smart, and they can be trained
+in a variety of attractions. Thus, many people want to keep those birds as pets. All of pets which have been kept
+by community should be evaluated from various aspects before being reintroduced to their natural habitat. The
+examination of sex and species of illegal cockatoo play as a key role for the reintroduction programme. The
+objective of this study was to evaluate the reliability and effectivity of evaluation technique of morphometric
+and molecular for reintroduction programme of cockatoo. We used the coi gene sequences from 68
+individuals of cockatoo from pet communities in and around Jakarta and four sequences from GenBank. The
+phylogenetic analysis used the neighbor-joining method, in which the genetic distance matrix calculations with
+Kimura 2-parameter models that are implemented on a pairwise distance calculation in the MEGA program
+version 6:05. The result of the genetic variation of the cockatoo species which shows intraspesifik divergence
+was Cacatua alba (n=4)= 0%, C. galerita (Australia n=9)= 0.6%, C. galerita (Indonesia n=53)= 0.3%,
+C .goffiniana (n=3)= 0%, C. moluccensis (n=7)= 0.1%, and C. sulphurea (n=2)= 0.3%, with a range of 0-0.6%.
+The results indicate that the average of intraspesifik of coi in the cockatoo community was 0.25+0.055%, and
+'interspecific divergence ranged from 3.1 to 11.6%. The phylogenetic tree shows the monophyletic clade of
+cockatoo species in Indonesia. In addition, DNA barcode analysis and molecular sexing could correct the error
+and doubts the result of five individual species identification and two individual sexing identification of C.
+galerita by morphological identification. The results of morphological examination base on body weight, body
+length and head-bill length of C. galerita triton were not significantly different (P>0,5). Finally, 19 individuals
+C. galerita triton and two individuals P. aterrimus were reintroduced to their natural habitat.
+
+Keywords: cockatoo, barcodes DNA, reintroduction
+
+ABSTRAK
+Ada enam spesies burung kakatua di Indonesia yang diketahui sebagai satwa eksotis, cerdas, dan dapat dilatih
+untuk berbagai atraksi. Oleh sebab itu banyak komunitas pecinta burung ingin memiliki dan memeliharanya.
+Semua satwa yang telah dipelihara masyarakat perlu dilakukan evaluasi dari berbagai aspek sebelum dilepas
+kembali ke habitat alam. Identifikasi spesies dan jenis kelamin kakatua peliharaan ilegal memiliki peran kunci
+untuk program reintroduksi. Tujuan dari penelitian ini adalah untuk mengevaluasi realibilitas dan efektivitas
+teknik morfometri dan molekuler untuk program reintroduksi kakatua ke habitat alam. Sebanyak 68 sekuen gen
+coi kakatua yang dikoleksi dari komunitas pecinta burung di sekitar Jakarta dan empat sekuen dari GenBank
+digunakan dalam kajian ini. Analisa filogenetik menggunakan metoda neighbor-joining, dimana kalkulasi
+matrik jarak genetik dengan model Kimura-2 parameter diimplementasikan pada pairwise distance calculation
+dalam program MEGA Versi 6.05. Hasil analisa menunjukkan variasi intraspesifik adalah Cacatua alba (n=4)=
+0%, C. galerita (n=53)= 0,3%, C. goffiniana (n=3)= 0%, C. moluccensis (n=7)= 0,1%, dan C. sulphurea (n=2)
+= 0,3%, dengan kisaran antara 0-0,6%. Rata-rata divergensi intraspesifik sekuen coi adalah 0,25+0,055% dan
+interspesifik berkisar antara 3,1-11,6%. Pohon filogenetik menunjukkan clade monofiletik spesies kakatua di
+Indonesia. Selain itu, analisis DNA barcode dan penentuan jenis kelamin dengan teknik molekuler telah
+melakukan koreksi terhadap lima individu hasil identifikasi spesies dan dua individu hasil identifikasi jenis
+kelamin C. galerita triton. Hasil kajian C. galerita triton jantan dan betina berdasarkan berat tubuh, panjang
+tubuh, dan panjang kepala-paruh tidak berbeda nyata (P>0,5). Akhirnya, sebanyak 19 ekor C. galerita triton
+dan dua ekor P. aterrimus telah dilepasliarkan di habitat alam.
+
+Kata Kunci: Kakatua, DNA barcode, reintroduksi
+
+157

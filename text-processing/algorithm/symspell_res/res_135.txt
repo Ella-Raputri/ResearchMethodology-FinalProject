@@ -1,0 +1,42 @@
+mereka terhadap kebutuhan pengguna dan mengoptimalkan pengelolaan sumber daya
+mereka. Namun demikian, sangat penting untuk memprioritaskan perlindungan
+privasi pengguna dan memastikan pemanfaatan data secara etis ketika menerapkan
+analisis ini.
+nah, kalau di Perpustakaan stipram  sendiri
+menggunakan analisis penggunaan menggunakan SLiMs kak jadi
+
+setiap ada pinjam atau kunjungan itu bisa mengisi nama dan NIM
+
+bagi mahasiswa yang menjadi pemustaka sehingga kita bisa
+
+mendata secara otomatis semua pengunjung yang ada kak
+
+(Pustakawan, Analisis Pengguna, 2023).
+
+Menurut (Nafradella, 2017) SLiMs adalah perangkat lunak yang sangat
+menguntungkan untuk pengelolaan perpustakaan, itu tidak termasuk dalam domain
+kecerdasan buatan (AI). SLiMs berfungsi sebagai sistem manajemen yang membantu
+perpustakaan dengan tugas-tugas seperti katalogisasi, pinjaman, dan manajemen
+inventaris; Namun, mereka tidak memiliki kapasitas kognitif atau kemampuan untuk
+memperoleh pengetahuan yang mirip dengan sistem AI. Namun demikian,
+perpustakaan stipram memasukkan teknologi kecerdasan buatan atau elemen AI
+ke dalam sistem SLiMs mereka untuk meningkatkan kemampuan_pencarian,
+memberikan rekomendasi buku, atau menganalisis pola penggunaan. Integrasi ini
+akan memungkinkan SLiMs untuk memanfaatkan keunggulan yang ditawarkan oleh
+teknologi AI. Perpustakaan menggunakan SLiMS, sebuah aplikasi perangkat lunak,
+untuk mengatur koleksi sumber daya mereka secara efektif, aktivitas peminjaman,
+proses katalogisasi, dan berbagai operasi rutin lainnya. Dengan memasukkan
+kecerdasan buatan (AI) ke dalam SLiMS, banyak kemajuan dan keuntungan yang
+dapat dicapai, meskipun pada saat ini jumlah sistem SLiMS yang sepenuhnya
+digerakkan oleh AI mungkin terbatas.
+
+Identifikasi dan Pengenalan Teks
+
+Kecerdasan buatan dapat dimanfaatkan untuk mengidentifikasi dan mengenali
+konten tekstual dalam buku, artikel, atau dokumen lainnya. Teknologi Optical
+Character Recognition (OCR) memberdayakan perpustakaan untuk mengubah materi
+cetak menjadi teks yang dapat dicari secara digital dan dapat diakses. Pemanfaatan
+Optical Character Recognition (OCR) dalam  perpustakaan meningkatkan
+aksesibilitas, eksplorasi, dan administrasi sumber daya, serta membantu konservasi
+
+materi bersejarah. Namun demikian, seperti halnya dengan inovasi teknologi apa pun,

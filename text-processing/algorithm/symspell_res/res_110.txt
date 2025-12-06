@@ -1,0 +1,46 @@
+Kerangka Kerja Sistem Kecerdasan Buatan
+dalam Meningkatkan Kompetensi Sumber Daya
+Manusia Indonesia
+
+Yudo Devianto!*, Saruni Dwiasnati?
+
+Sistem Informasi, Universitas Mercu Buana, Jakarta
+?Teknik Informatika, Universitas Mercu Buana, Jakarta
+*yudo.devianto@mercubuana.ac.id
+
+Abstrak
+
+Di zaman yang semakin berkembang ini yaitu era digital, teknologi
+merupakan suatu hal yang sangat penting. Dunia pada saat ini tengah
+menghadapi era teknologi atau biasa disebut revolusi industri 4.0. kondisi
+tersebut ditandai langsung dengan penggunaan mesin digital dan internet
+yang menyebabkan perubahan yang cepat dan signifikan terhadap segala
+sektor kehidupan manusia sehingga memudahkan manusia dalam
+melakukan berbagai pekerjaan. Era transformasi digital adalah bagian
+proses dari teknologi yang lebih besar, dan ini adalah perubahan yang
+berhubungan dengan penerapan teknologi digital dalam aspek kehidupan
+yang ada pada masyarkat. Kecerdasan buatan adalah suatu ilmu yang
+mempelajari cara membuat komputer melakukan sesuatu seperti yang
+dilakukan oleh manusia. Diperlukan sebuah kerangka kerja sistem
+kecerdasan buatan yang dapat diterapkan dalam pengembangan ilm
+pengetahuan, teknologi dan seni di Indonesia. Paper ini mencoba
+membahas kerangka kerja Case Based Reasoning (CBR) dalam
+pengembangan sistem kecerdasan buatan. Diharapkan kerangka kerja ini
+dapat menjadi acuan penerapan sistem kecerdasan di Indonesia.
+
+Keywords: Kecerdasan Buatan; Teknologi Baru; Case Based Reasoning
+Soft Skill.
+
+DOI: 10.2244 1/incomtech.v10i1.7460
+
+1, PENDAHULUAN
+
+Di zaman yang semakin berkembang ini yaitu era digital, teknologi merupakan
+suatu hal yang sangat penting. Dunia pada saat ini tengah menghadapi era teknologi
+atau biasa disebut revolusi industri 4.0. kondisi tersebut ditandai langsung dengan
+penggunaan mesin digital dan internet yang menyebabkan perubahan yang cepat
+dan signifikan terhadap segala sektor kehidupan manusia sehingga memudahkan
+manusia dalam melakukan berbagai pekerjaan. Era transformasi digital adalah
+bagian proses dari teknologi yang lebih besar, dan ini adalah perubahan yang
+berhubungan dengan penerapan teknologi digital dalam aspek kehidupan yang ada
+pada masyarkat. Tranformasi digital dapat dianggap tahap ketiga dalam merangkul

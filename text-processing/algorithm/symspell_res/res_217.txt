@@ -1,0 +1,41 @@
+bagaimana pelajar memperoleh konsep AI, serta menggunakan AI untuk
+dimasukkan ke dalam aplikasi mereka sendiri (Druga dkk, 2019; Lee dkk.,
+2021). Long and marko (2020) dan Rodriguez-Garcia dkk. (2020)
+menyebutkan lima ide besar AI dari touretski dkk (2019) yang memberikan
+dasar yang kuat untuk penelitian masa depan dalam mengembangkan literasi
+AI (lihat Lampiran 2). Dalam studi lain, Rodriguez-Garcia dkk (2020)
+mengevaluasi LearningML, pembuat model pembelajaran mesin, untuk
+mengembangkan pemikiran kritis, dan anak-anak K-12 tentang dasar-dasar AI
+untuk memahami apa yang dapat dibuat dengan AI, bagaimana hal itu dapat
+memengaruhi kehidupan mereka, dan masalah etika terkait teknologi AI.
+Dalam pendidikan tinggi, dua peneliti mengklaim bahwa pengetahuan dan
+keterampilan AI menjadi lebih maju untuk memenuhi tuntutan pekerjaan di
+masa depan. Kandlhofer dkk. (2016) dan Burgsteiner dkk (2016) mencantumkan
+seperangkat konsep AI yang berpotensi menjadi dasar untuk karir di bidang
+sains dan teknik: automata, agen cerdas, grafik dan struktur data, dasar-dasar
+ilmu komputer, pembelajaran mesin, dll. Russell dan Norvig (2009). Empat
+studi menyebutkan pentingnya mendidik warga tentang konsep dasar AI, dan
+dampak teknologi AI pada kehidupan sehari-hari mereka. Misalnya, Robinson
+(2020) menyebutkan bahwa dokumen kebijakan Norwegia berjudul AI untuk
+semua orang: Elemen AI (hal. 44) menegaskan bahwa pemerintah akan
+membuat kursus pembelajaran AI dapat diakses secara global pada tahun 2020.
+
+Artefak pembelajaran : Mengingat kompleksitas AI, artefak
+pembelajaran yang sesuai dengan usia penting untuk meningkatkan
+pemahaman konseptual AI siswa, dan meningkatkan motivasi dan minat
+mereka dalam mempelajari AI. Dalam beberapa tahun terakhir, telah terjadi
+peningkatan perangkat keras dan perangkat lunak yang meningkatkan konsep
+AI yang dapat diakses oleh pelajar yang lebih muda. Lampiran 3 memberikan
+ikhtisar tentang jenis artefak pembelajaran AI mulai dari perangkat keras (n=5)
+hingga artefak yang berfokus pada perangkat lunak (n=3), agen cerdas (n=4)
+dan alat pembelajaran yang tidak dicolokkan (n=5). Demokratisasi teknologi AI
+saat ini mendorong siswa untuk membuat agen cerdas dan model pembelajaran
+mesin tanpa perlu memprogram (Long & mamerto, 2020). Dalam konteks ini,
+kita dapat melihat peluang bagi pendidik untuk mendemokratisasikan akses ke
+literasi AI dan memperkuat konsep AI melalui alat yang muncul ini. Kalau
+tidak.
+RQ 3. Bagaimana peneliti mengevaluasi keterampilan literasi AI siswa?
+
+Di antara 18 penelitian, 11 artikel mengadopsi metode evaluasi
+kuantitatif (n=9) dan kualitatif (n=6) untuk menguji bagaimana siswa
+meningkatkan keterampilan literasi mereka (lihat Lampiran 4). Untuk

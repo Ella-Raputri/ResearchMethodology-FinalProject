@@ -1,0 +1,66 @@
+3. HASIL DAN PEMBAHASAN
+
+3.1. Hasil Pencarian dan Klasifikasi Artikel
+
+Dari hasil pencarian sesuai kata kunci, diperoleh
+data berupa artikel ilmiah dalam bentuk jurnal dan
+proceeding dengan jumlah sebanyak 58 buah. Artikel
+ilmiah tersebut diterbitkan pada tahun 2016 
+Agustus 2020 serta memiliki tema besar blockchain
+dalam pertanian, Artikel ilmiah yang terkumpul
+kemudian diklasifikasi kembali berdasarkan subtopik
+artikel ilmiah yang secara umum terbagi dalam 5
+kelompok. Pemilihan subtopik di setiap kelompok
+dilakukan berdasarkan pengembangan dari penelitian
+(yadav & Singh, 2019) yakni :
+
+(1) Ulasan penerapan blockchain di pertanian
+(Survey).
+
+(2)Implementasi blockchain dalam masalah
+manajemen rantai pasok (Supply Chain
+Management/SCM) di pertanian.
+
+(3) Implementasi blockchain sebagai data base
+(DB) di bidang pertanian.
+
+(4) Integrasi blockchain dan Internet of Things
+(1OT) di pertanian.
+
+(5) Integrasi blockchain dan Kecerdasan Buatan
+(AD di pertanian.
+
+Hasil pengelompokan dan pengumpulan artikel
+ilmiah tersebut disajikan dalam Tabel 1.
+
+3.2. Hasil Analisa Deskriptif
+
+Diagram dan grafik digunakan untuk
+menganalisa posisi riset blockchain dan Al dalam
+pertanian. Gambar 2 menunjukan jumlah artikel
+ilmiah pertahun. Gambar 3 menunjukan persentase
+hasil klasifikasi dari artikel ilmiah terkait. Gambar 4
+menunjukan persentase objek pertanian yang diteliti.
+Gambar 5 menunjukan lokasi penelitian.
+
+Number of Paper
+
+[Bh :ectcoin
+
+Gambar 2. Jumlah Artikel imiah Terkait per Tahun.
+
+* tl | E mo Blockchain
+
+Gambar 3. Persentase Artikel Blockchain Berdasarkan subtopik
+
+Produk
+
+spesifik
+
+agrilus
+ture
+79%
+
+Gambar 4. Persentase Artikel Berdasarkan Objek Penelitian
+
+Gambar 5. Persentase Artikel Berdasarkan Lokasi Penelitian

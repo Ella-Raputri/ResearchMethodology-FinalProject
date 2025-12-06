@@ -1,0 +1,36 @@
+Dan penelitian serupa juga ditulis oleh (Evan Devara, Rijanandi, Riyanto, &
+adinata, 2021) Perpustakaan berfungsi sebagai tempat untuk membaca buku-buku yang
+mencakup beragam koleksi, sehingga memberikan sumber pengetahuan yang beragam
+kepada para pembaca. Namun, di era yang didominasi oleh teknologi, setiap orang pasti
+mendambakan fasilitas yang lebih praktis. Dengan adanya Artificial Intelligence (Al), hal ini
+dapat diimplementasikan dan diintegrasikan ke dalam sistem perpustakaan. Masalah yang
+sering dihadapi oleh pengunjung perpustakaan adalah tantangan untuk menemukan literatur
+yang sesuai dengan preferensi mereka, yang mencakup kriteria seperti judul, penggambaran
+visual, genre, dan komposisi fisik. Kecerdasan buatan dapat membantu mengidentifikasi
+literatur melalui rekomendasi dan peringkat, sehingga pembaca tidak perlu susah payah
+mencari di rak-rak buku yang tersedia untuk mendapatkan bahan bacaan yang diinginkan.
+Hal ini tentu saja memudahkan proses pencarian literatur bagi para pembaca. Sistem
+rekomendasi yang digunakan adalah metode rekomendasi, yang menggabungkan
+penyaringan dan pemeringkatan. Tujuan dari penelitian ini adalah untuk memudahkan
+pengunjung perpustakaan dalam menemukan literatur yang diinginkan dengan mudah dan
+
+cepat.
+
+Kemajuan ini memungkinkan perpustakaan untuk terus memainkan peran penting
+dalam mendukung penelitian ilmiah, pengajaran dan pembelajaran di era digital. Melalui
+artikel ini, peneliti mengevaluasi bagaimana AI dapat mengoptimalkan pencarian informasi
+di perpustakaan, mengurangi beban kerja staf perpustakaan, dan memberikan pengalaman
+pencarian yang dipersonalisasi dan lebih efektif kepada pengguna. peneliti juga membahas
+alat AI yang telah terbukti di perpustakaan di seluruh dunia dan bagaimana teknologi ini
+dapat berhasil diterapkan di stipram Yogyakarta. Dalam penjelasan lebih detailnya,
+peneliti membahas konsep dasar AI yang relevan, kasus penggunaan di perpustakaan, dan
+manfaat yang dapat diharapkan dari penerapan teknologi AI tersebut. Selain itu, kami
+membahas potensi tantangan dan pertimbangan etis yang mungkin timbul selama penerapan
+AI di perpustakaan. Penelitian ini bertujuan untuk memberikan pemahaman yang jelas
+tentang bagaimana AI dapat membantu perpustakaan menjadi lebih efisien, lebih relevan,
+dan lebih responsif terhadap kebutuhan pengguna.selain itu tujuan artikel ini di buat juga
+untuk melihat perjalanan Perpustakaan stipram Yogyakarta dalam mengadopsi teknologi
+kecerdasan buatan. Artikel ini akan menguraikan keuntungan dan tantangan yang dihadapi
+selama proses ini, serta merinci dampaknya terhadap layanan perpustakaan dan pengguna.
+
+Selain itu, penelitian ini juga berusaha memberikan rekomendasi tentang bagaimana

@@ -1,0 +1,124 @@
+I. PENDAHULUAN
+
+Teknologi Blockchain hadir diperkenalkan pada
+tahun 2008. Awal mula difungsikan sebagai peer-to-
+peer Ledger akan didaftarkan transaksi Bitcoin
+cryptocurrency [1]. Tujuannya adalah untuk
+memungkinkan pengguna dalam melakukan transaksi
+mereka secara langsung serta dapat menghilangkan
+perantara pihak ketiga. Untuk mencapainya
+blockchain dirancang selaku jaringan desentralisasi
+dari peer node. Tiap node dalam jaringan: (1)
+mempunyai salinan buku transaksi, (2) menerima
+konsensus dari node lain dalam jaringan dan dicatat
+dalam sebuah data ke dalam buku besar (3)
+memberitakan setiap transaksi yang dibuat dari
+pengguna ke node lain dalam jaringan, dan (4)
+pemeriksaan ulang yang teratur pada buku besar
+sehingga identik dengan seluruh jaringan [2]. Seiring
+berkembangnya popularitas pada Bitcoin, peneliti dan
+praktisi sadar betul bahwa teknologi yang
+mendasarinya memiliki potensi yang sangat besar [3].
+Kelebihan khas Teknologi Blockchain  termasuk
+immutabilis, transparansi, dan kepercayaan diketahui
+berfungsi tidak hanya dalam cryptocurrencies namun
+juga banyak pada bidang lainnya. Oleh sebab itu,
+bertambahnya jumlah aplikasi berbasis Blockc!
+banyak dikembangkan dalam berbagai bidang [4].
+Gatteschi, et al. menyatakan  bahwa
+
+(5),
+pengembangan aplikasi berbasis blockchain terbagi
+menjadi tiga tahap utama: blockchain 1.0, 2.0, dan 3.0.
+Blockchain 1.0 digunakan untuk cryptocurrencies dan
+berfokus pada fasilitasi transaksi tunai sederhana. Lalu,
+Blockchain 2.0 hadir untuk properti dan kontrak
+
+cerdas. Kontrak cerdas ini diberlakukan dalam
+kondisi dan kriteria tertentu yang wajib dipenuhi
+sebelum  mendaftarkan iri pada _blockchain.
+Pendaftaran berlangsung  tanpa campur tangan dari
+pihak ketiga. Dalam Blockchain 3.0, meningkatnya
+aplikasi yang dikembangkan di berbagai zona seperti
+pemerintah, pendidikan, kesehatan, dan  ilmu
+pengetahuan.
+
+Beberapa lembaga pendidikan sudah mulai
+memanfaatkan teknologi blockchain. meskipun
+penggunaan pli Blockchain dalam dunia
+pendidikan masih dalam tahapan dini. Namun
+sejumlah lembaga ini memanfaatkan aplikasi
+Blockchain untuk keperluan verifikasi s
+sertifikat akademik atau pencapaian
+siswa [6]. Akan tetapi, sejumlah peneliti meyakini
+akan teknologi blockchain mempunyai_ penawaran
+lebih banyak dan sesungguhnya mampu merubah
+lapangan. nestor menyatakan bahwa Blockchain
+mampu melemahkan kedudukan  sentral lembaga
+pendidikan menjadi agen sertifikasi serta member
+keleluasaan belajar siswa yang lebih banyak.
+
+Walaupun kapasitas referensi tentang pemakaian
+aplikasi blockchain dalam dunia pendidikan telah
+bertambah dalam beberapa tahun terakhir, mas
+terfragmentasi serta tidak terdapat tinjauan sistematis
+yang belum dicoba pada topik tersebut. Dengan
+
+demikian kajian tersebut sangat berarti_ mengusung
+gambaran negara-of-The-Art pada topik serta memberi
+penjelasan praktik berbasis bukti. Dengan begitu,
+artikel ini memberi_peran yang sah dan efisien pada
+artikel teknologi_pendidikan dengan meneliti
+bagaimana teknologi blockchain dimanfaatkan dalam
+dunia pendidikan, Peneliti dengan keinginan tinggi
+sangat berpengaruh besar terhadap bidang pendidikan
+serta target audiens yang menjadi utama adalah
+manajer, pembuat kebijakan, akademisi [7].
+
+II. METODOLOGI
+
+Pembahasan ini membutuhkan sebagai peninjau
+sistematis yang dibuat eksplisit kepada pembaca.
+Tidak hanya itu, persoalan riset yang diformulasikan
+dengan baik bisa tingkatkan lebih efektif dari Tinjauan
+sistematis serta memisahkan waktu serta anggaran
+agar memperoleh_postingan yang _relevan.
+Mengevaluasi kualitas mutu pada artikel. Dalam tahap
+ini, pembahas artikel perlu menetapkan artikel yang
+mempunyai kualitas agar dimasukkan dalam
+
+peninjauan sistematis. Mula-mula, Adanya standar
+kualitas minimum untuk inklusi- pada _ulasan
+sistematis, mengecualikan artikel yang _ tidak
+
+memenuhi standar peninjauan perlu digunakannya
+evaluasi kualitas. Selanjutnya, dalam semua Tinjauan
+sistematis, perlu terdapat semacam evaluasi_ mutu
+karena kualitas review bergantung pada sebagian besar
+mutu artikel yang disertakan.
+
+Memperoleh data dari artikel. Lalu setelah
+pengenalan semua artikel yang akan dimasukkan
+dalam review, para pengulas perlu memperoleh data
+yang sesuai dari tiap sensible secara_ sistematis.
+Informasi ini wajib digunakan sebagai bahan baku
+dalam pembuatan sesi sintesis. Tipe informasi yang
+hendak diperoleh ditetapkan pada permasalahan riset
+yang ditetapkan sepanjang sesi awal peninjauan.
+
+Untuk mendapatkan artikel yang relevan yaitu
+dengan memanfaatkan kode data ilmiah selaku sumber
+utama untuk menentukan kualitas dari tinjauan ini,
+serta tidak adanya penilaian kualitas yang dilakukan.
+Lalu, pencarian pada Google Cendekia diperuntukkan
+untuk artikel yang ditinjau oleh kerabat yang
+diterbitkan oleh penyiar utama untuk memutuskan
+berperan dalam ulasan ini. Oleh sebab itu, adanya
+kemungkinan kami untuk dapat menyertakan sebuah
+artikel yang berkualitas. Untuk memperoleh data dari
+studi yang disertakan perlu menggunakan Formulir
+ekstraksi data . Format ini dibangun secara khusus
+untuk diulas dan mengacu pada gambar dibawah ini.
+Bentuk ini berisi pada 7 proses seperti gambar
+dibawah ini.
+

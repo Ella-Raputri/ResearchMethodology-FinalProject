@@ -1,0 +1,75 @@
+1. Join (penggabungan). Pada proses ini
+setiap item dikombinasikan dengan
+item yang lainnya sampai_ tidak
+terbentuk kombinasi lagi.
+2. Prune (pemangkasan). Pada proses
+ini, hasil dari item yang telah
+dikombinasikan tadi lalu dipangkas
+dengan menggunakan minimum
+support yang telah ditentukan oleh
+user.
+Metode Penemuan Kesenjangan
+
+akhria dkk, (2017) pada jurnalnya
+Revealing The Gap Between skillet Of
+Student And Evolving Skills Required By The
+Industry Of  Information And
+Communication Technology dan juga lecky
+dkk, (2010) pada
+kedua
+
+jumatnya = Mining
+
+Computing Jobs penelitian ini
+memiliki kesamaan yaitu. mengeksploitasi
+lowongan kerja yang dibutuhkan industri
+sebagai acuan perkembangan TIK, namun
+yang membedakan, pada jurnal akhria dkk,
+memiliki tujuan lain yaitu menemukan
+kesenjangan antara  keterampilan  siswa
+dengan keterampilan yang dibutuhkan pihak
+industri, sehingga pihak sekolah atau kampus
+bisa melakukan evaluasi terhadap kurikulum.
+yang ada. Namun penelitian ini
+menggunakan frequent items saja, sehingga
+hubungan keterkaitan topik satu dengan yang
+
+lain belum ditemukan.
+
+Son dkk, (2015) pada jurnal yang
+berjudul Visualization of e-Health Research
+Topics and Current Trends Using Social
+Network Analysis [6]. penelitian ini bertujuan
+untuk secara kritis meninjau topik penelitian
+utama dan tren internasional e-kesehatan
+melalui analisis jaringan sosial. Dalam
+penelitian ini menggunakan pendekatan
+clustering atau pengelompokan.
+
+Penelitian tentang kesenjangan yang
+dilakukan oleh akhria dkk (2017), lecky
+dkk, (2010) dan Son dkk (2015) belum
+mengukur frequent termoset atau himpunan
+kata yang ada di dalam abstrak. Mereka
+hanya fokus mengukur kesenjangan metode
+dangan menggunakan frequent items dan
+belum menggunakan Assocition Rule (AR
+Mining), padahal association rule dapat
+mengungkapkan hubungan topik yang satu
+dengan yang lain.
+
+Maka diusulkan_ penelitian ini
+untuk mengungkapkan
+kesenjangan tersebut dengan menggunakan
+
+bertujuan
+
+Association Rule (AR Mining), dimana kata-
+kata yang paling sering muncul (frequent
+termoset) di dalam abstrak skripsi dan abstrak
+riset dieksploitasi. Dari frequent termoset yang
+dikumpulkan, hubungan antara satu kata
+dengan yang lain ditemukan, untuk
+kemudian, perbedaan antara topik yang
+
+dibahas di dalam skripsi dengan yang

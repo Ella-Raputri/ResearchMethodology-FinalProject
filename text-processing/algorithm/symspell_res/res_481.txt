@@ -1,0 +1,70 @@
+Aplikasi Kajian DNA Molekuler dan Fenotipik Pada Program pelepasliaran Burung Kakatua
+
+PEMBAHASAN
+
+Barcode DNA pada populasi kakatua di
+masyarakat
+
+Hasil kajian barcode DNA pada burung
+kakatua yang dipelihara masyarakat sekitar Jakarta
+menunjukkan divergensi sekuen intraspesifik dari
+fragmen gen COI DNA mitokondria berkisar
+0,0-0,6% dengan rata-rata 0,25+0,055% dan
+interspesifik berkisar 3,1-11,6%, sedangkan _hasil
+kajian lain terhadap burung§ kakatua _ putih
+menunjukkan performa yang tidak jauh berbeda,
+yaitu divergensi intraspesifik dan interspesifik
+berkisar antara 0,0-0,26% dan 2,99-10,2%
+(Astuti & Sulandari 2010). Hasil divergensi
+
+interspesifik lebih besar dari 3% menunjukkan
+setiap spesies mempunyai sekuen barcode unik,
+sehingga clade dan subclade antar taksa terlihat
+jelas dengan resolusi tinggi.
+
+Jika hal ini di bandingkan dengan divergensi
+intraspesifik dan interspesifik hasil penelitian
+sekuen gen COI DNA mitokondria burung di
+Korea, diketahui rata-rata 0,3% dan 7,9% (Yoo
+et al. 2006), sedangkan burung di Jepang jarak
+genetik interspesifik berkisar antara 2-2,5%,
+namun diketahui ada kelompok burung yang
+mempunyai jarak genetik interspesifik dengan
+perbedaan lebih dari 2% dan ada kelompok
+burung yang mempunyai divergensi sekuen
+interspesifik lebih kecil dari 2% (nishiki
+
+Tabel 3. Hasil identifikasi subspesies dan jenis kelamin berdasarkan karakteristik fenotipik dan DNA molekuler
+
+No Kode Identifikasi Morfologi Identifikasi Molekuler
+Subspesies Sex Subspesies Sex
+1 330827 = Cacatua galerita triton M Cacatua galerita triton M
+2 330825  Cacatua galerita triton F Cacatua galerita triton F
+3 330824 Cacatua galerita triton M Cacatua galerita triton M
+4 330823  Cacatua galerita triton M Cacatua galerita triton M
+5 330822 Cacatua galerita triton M Cacatua galerita triton M
+6 330828  Cacatua galerita triton M Cacatua galerita triton M
+7 330829  Cacatua galerita triton F Cacatua galerita triton F
+8 330331 Cacatua galerita triton M Cacatua galerita triton M
+9 330830 Cacatua galerita triton F Cacatua galerita triton F
+10 330833 probosciger aterrimus M probosciger aterrimus M
+11 330832 probosciger aterrimus M probosciger aterrimus M
+12 330808  Cacatua galerita triton F Cacatua galerita triton F
+13 330810 Cacatua galerita triton F Cacatua galerita triton F
+14 330834  Cacatua galerita triton F Cacatua galerita triton F
+15 330836 Cacatua galerita triton F Cacatua galerita triton F
+16 320832  Cacatua galerita triton M Cacatua galerita triton M
+
+Tabel 4. Hasil identifikasi subspesies dan jenis kelamin dan DNA berdasarkan karakteristik fenotipik dan
+
+DNA molekuler
+Kode Identifikasi Morfologi Identifikasi Molekuler Karakter Morfologi
+Subspesies Sex Subspesies Sex Bobot Panjang aniane Kepala
+
+330826 = C. sulphurea parvula F C. galerita triton F 578 460 68.9
+320824 = C. galerita eleonora M C. galerita triton F 490 470 T4.4
+330807 ~—C. sulphurea parvula F C. galerita triton F 420 390 70.1
+330823 = C. sulphurea parvula M C. galerita triton F 470 390 67.7
+320835 = C. galerita eleonora F C. galerita triton F 420 383 69.9
+
+165
