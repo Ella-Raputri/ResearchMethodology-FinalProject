@@ -1,0 +1,14 @@
+3. Penambahan teks box:
+
+*   Pilih slide yang Anda inginkan untuk menempatkan teks box.
+*   Pada tab Insert, klik Text Box.
+*   Klik pada slide dan tarik kursor untuk memperluas teks box.
+*   Ketik teks.
+*   Gambar layar komputer dengan kotak teks.
+
+4. Pengaturan Teks:
+
+    a. Font typeface: Klik panah di sebelah nama font dan pilih font. Ingat bahwa Anda dapat melihat bagaimana font baru akan terlihat dengan menyoroti teks, dan hovering melalui font typeface baru.
+    Contoh: ALGERIAN.
+
+    b. Mengubah ukuran font: Klik panah di sebelah font size dan pilih ukuran yang sesuai, atau klik pada tombol increase or decrease font size.
