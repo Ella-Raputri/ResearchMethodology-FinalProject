@@ -1,17 +1,1 @@
-f. Spindel penggerak meja
-g. Meja
-h. Batang penggerak.
-
-Roda gigi a dengan T-slot digerakkan oleh poros motor. Di dalam slot ada baut b yang dapat digeser dan dikunci di sembarang posisi. Pada spindel penggerak meja f, dipasang roda gigi ratchet c dengan lidah jentera d. Baut b dan lidah pengungkit d dihubungkan dengan batang penggerak e. Waktu gerakan maju, gerakan putar dari lidah pengungkit dipindahkan ke spindel penggerak meja. Pada gerakan berikutnya batang penggerak mundur dan lidah pengungkit d melewati roda gigi ratchet c di antara 2 gigi. Dengan memutar lidah pengungkit d 180°, maka pemakanan arah terbalik. Pemakanan dapat disetel dengan baut.
-
-Standard Operating Procedure (SOP) Skrap
-
-1. Pencekaman benda kerja:
-
-a. Benda persegi yang kecil dapat dipasang pada ragum (Gambar 4a.).
-b. Pencekaman benda kerja disesuaikan dengan kontur permukaan benda kerja yang akan disekrap. Untuk mencekam benda kerja yang memiliki permukaan tidak beraturan atau tidak rata, kita harus memasang dan mengganjal benda kerja dengan besi bulat yang dapat menekan pada satu titik (Gambar 4b).
-c. Untuk menjepit benda kerja yang berbentuk tabung, ada kalanya di bagian bawah benda kerja diganjal dengan semacam pelat yang tipis atau bisa juga menggunakan parallel blok (Gambar 4c).
-d. Selain itu, parallel blok yang ada juga bisa dimanfaatkan untuk sebagai landasan pada saat proses pencekaman benda kerja yang berbentuk segmen atau sektor (Gambar 4d).
-e. Benda kerja yang mempunyai dimensi cukup besar dan tidak mungkin dicekam dengan ragum, dapat dicekam dengan menggunakan klem (Gambar 4e.). Perhatikan posisi pengekleman benda kerja terhadap arah pemotongan.
-
-Gambar 4 Pencekaman benda kerja pada proses skrap
+f. Spindel penggerak meja g. Meja h. Batang penggerak. Roda gigi a dengan T-slot digerakkan oleh poros motor. Di dalam slot ada baut b yang dapat digeser dan dikunci di sembarang posisi. Pada spindle penggerak meja f, dipasang roda gigi ratchet c dengan lidah jentera d. Baut b dan lidah pengungkit d dihubungkan dengan batang penggerak e waktu gerakan maju, gerakan putar dari lidah pengungkit dipindahkan ke spindle penggerak meja. Pada gerakan berikutnya batang penggerak mundur dan lidah pengungkit d melewati roda gigi ratchet c di antara 2 gigi. Dengan memutar lidah pengungkit d 180, maka pemakanan arah terbalik. Pemakanan dapat disetel dengan baut. Standard Operating Procedure (SOP) Skrap 1. Pencekaman benda kerja: a. Benda persegi yang kecil dapat dipasang pada ragum (Gambar 4a.). b. Pencekaman benda kerja disesuaikan dengan kontur permukaan benda kerja yang akan disekrap. Untuk mencekam benda kerja yang memiliki permukaan tidak beraturan atau tidak rata kita harus memasang dan mengganjal benda kerja dengan besi bulat yang dapat menekan pada satu titik (Gambar 4b). c. Untuk menjepit benda kerja yang berbentuk tabung, ada kalanya di bagian bawah benda kerja diganjal dengan semacam pelat yang tipis atau bisa juga menggunakan paralel blok (Gambar 4c). d. Selain itu, paralel blok yang ada juga bisa dimanfaatkan untuk sebagai landasan pada saat proses pencekaman benda kerja yang berbentuk segmen atau sektor (Gambar 4d). e. Benda kerja yang mempunyai dimensi cukup besar dan tidak mungkin dicekam dengan ragum, dapat dicekam dengan menggunakan klem (Gambar 4e.). Perhatikan posisi pengekleman benda kerja terhadap arah pemotongan. Gambar 4 Pencekaman benda kerja pada proses skrap

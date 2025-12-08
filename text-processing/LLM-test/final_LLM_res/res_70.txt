@@ -1,19 +1,1 @@
-Instruksi:
-
-1. Susun ulang teks agar urut dan mudah dibaca.
-2. Perbaiki typo dan kesalahan pemenggalan kata.
-3. Jangan menambah, mengurangi, atau mengubah informasi apa pun.
-4. Jangan menambah komentar, penjelasan, atau catatan.
-5. Output harus berupa teks final saja, tanpa markdown, tanpa format tambahan.
-6. Jangan melakukan asumsi atau mengisi bagian teks yang hilang.
-7. Teks output harus berisi kata-kata yang sama dengan input, kecuali kata yang memang diperbaiki karena typo.
-8. Jangan mengubah struktur kalimat secara berlebihan—hanya rapikan urutan dan perbaiki ejaan.
-
-PERINTAH PENTING:
-
-• Jangan membuat kalimat baru.
-• Jangan menghilangkan kata.
-• Jangan melakukan halusinasi.
-• Kembalikan hanya teks yang sudah diperbaiki.
-
 gambar teks dalam buku teks 1,
