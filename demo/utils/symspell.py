@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 
 sym_spell = SymSpell()
-sym_spell.load_pickle("../data/dictionary/symspell_dictionary.pkl")
+sym_spell.load_pickle("../data/dictionary/symspell_dictionary.pkl") #change to your path
 ner = pipeline("ner", model="cahya/NusaBert-ner-v1.3", grouped_entities=True)
 model_name = "indolem/indobert-base-uncased"
 tokenizer = AutoTokenizer.from_pretrained(model_name)

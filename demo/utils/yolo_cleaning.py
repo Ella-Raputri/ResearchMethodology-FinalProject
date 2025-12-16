@@ -1,14 +1,18 @@
 from ultralytics import YOLO
 import os
 from PIL import Image
+from dotenv import load_dotenv
 import glob
 import json
 from tqdm import tqdm
 from transformers import BlipProcessor, BlipForConditionalGeneration, MarianMTModel, MarianTokenizer
 from .ocr import scan_image
 
-caption_processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
-caption_model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
+load_dotenv()
+token = os.getenv("HF_TOKEN")
+
+caption_processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base", token=token)
+caption_model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base", token=token)
 
 translator = MarianMTModel.from_pretrained("Helsinki-NLP/opus-mt-en-id")
 translator_tokenizer = MarianTokenizer.from_pretrained("Helsinki-NLP/opus-mt-en-id")
@@ -186,7 +190,7 @@ def find_label_path(source_name):
     return None
 
 def yolo_clean(source_file):
-    model = YOLO("../yolo/models/kfold_result/kfold_training/fold_4/weights/best.pt")
+    model = YOLO("../yolo/models/kfold_result/kfold_training/fold_4/weights/best.pt") #change to your path
     results = model.predict(
         source=source_file, save=True, save_txt=True, save_conf=True,
         project="detect_result",

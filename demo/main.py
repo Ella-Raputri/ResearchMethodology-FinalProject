@@ -5,6 +5,7 @@ from utils.ocr import scan_image
 from utils.yolo_cleaning import yolo_clean
 from utils.symspell import symspell_clean
 from utils.llm import llm_clean
+from utils.tts import text_to_speech
 
 
 def final_clean_text(src, use_yolo=False, text_clean_choice=None) -> str:
@@ -49,7 +50,8 @@ def parse_args():
     parser.add_argument("src", type=str, help="Path to input image file")
     parser.add_argument("--yolo", action="store_true", help="Enable YOLO-based OCR cleaning")
     parser.add_argument("--text-clean", choices=["symspell", "llm"], default=None, help="Text cleaning method")
-    parser.add_argument("--save-output", type=str,default=None,  help="Path to save final output text")
+    parser.add_argument("--save-output", type=str,default=None,  help="Path to save final output text (txt)")
+    parser.add_argument("--save-speech", type=str,default=None,  help="Path to save final speech (wav)")
     return parser.parse_args()
 
 
@@ -83,6 +85,18 @@ def main():
 
         print(f"\n[OUTPUT SAVED TO]")
         print(args.save_output)
+
+
+    if args.save_speech:
+        output_dir = os.path.dirname(args.save_output)
+        if output_dir:
+            os.makedirs(output_dir, exist_ok=True)
+            
+        print("\n[GENERATING SPEECH...]")
+        text_to_speech(result, path=args.save_speech)
+
+        print(f"\n[SPEECH SAVED TO]")
+        print(args.save_speech)
 
 
 if __name__ == "__main__":

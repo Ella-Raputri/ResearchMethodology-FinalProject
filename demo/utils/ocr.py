@@ -3,7 +3,7 @@ from PIL import Image
 import pytesseract
 from tqdm import tqdm
 
-# kalau pakai virtual env, uncomment ini, path utk tesseractnya sesuaikan dgn lokasi path tesseractmu
+# change to your path
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 def scan_image(path):

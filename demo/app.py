@@ -5,6 +5,7 @@ from utils.ocr import scan_image
 from utils.yolo_cleaning import yolo_clean
 from utils.symspell import symspell_clean
 from utils.llm import llm_clean
+from utils.tts import text_to_speech_bytes
 
 
 def final_clean_text(src, use_yolo=False, text_clean_choice=None) -> str:
@@ -140,6 +141,23 @@ if uploaded_file:
             file_name="final_output.txt",
             mime="text/plain"
         )
+
+
+        st.subheader("[Text to Speech]")
+        if st.button("Generate Speech for Final Text"):
+            with st.spinner("Generating speech..."):
+                audio_bytes = text_to_speech_bytes(results["final"])
+                st.session_state["tts_audio"] = audio_bytes
+        
+        if "tts_audio" in st.session_state:
+            st.download_button(
+                label="Download Speech",
+                data=st.session_state["tts_audio"],
+                file_name="final_output.wav",
+                mime="audio/wav"
+            )
+            st.audio(st.session_state["tts_audio"], format="audio/wav")
+
 
     # Cleanup temp file
     os.unlink(img_path)
