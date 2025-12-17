@@ -5,7 +5,7 @@ from utils.ocr import scan_image
 from utils.yolo_cleaning import yolo_clean
 from utils.symspell import symspell_clean
 from utils.llm import llm_clean
-from utils.tts import text_to_speech_bytes
+from utils.tts import text_to_speech_bytes, text_to_speech
 
 
 def final_clean_text(src, use_yolo=False, text_clean_choice=None) -> str:
@@ -89,75 +89,76 @@ if uploaded_file:
 
     if st.button("🚀 Run OCR Pipeline"):
         with st.spinner("Processing..."):
-            results = final_clean_text(
+            st.session_state["results"] = final_clean_text(
                 src=img_path,
                 use_yolo=use_yolo,
                 text_clean_choice=text_clean_choice
             )
+        st.session_state.pop("tts_audio", None)
 
-        st.subheader("📌 Baseline OCR")
+
+if "results" in st.session_state:
+    results = st.session_state["results"]
+    st.subheader("📌 Baseline OCR")
+    st.text_area(
+        "Baseline OCR Output",
+        results["baseline"],
+        height=200
+    )
+
+    if results["yolo"] is not None:
+        st.subheader("YOLO Cleaned Text")
         st.text_area(
-            "Baseline OCR Output",
-            results["baseline"],
+            "YOLO Output",
+            results["yolo"],
+            height=200
+        )
+    
+    if results["text-correction"] is not None:
+        st.subheader("Typo Corrected Text")
+        st.text_area(
+            "Text Correction Output",
+            results["text-correction"],
             height=200
         )
 
-        if results["yolo"] is not None:
-            st.subheader("YOLO Cleaned Text")
-            st.text_area(
-                "YOLO Output",
-                results["yolo"],
-                height=200
-            )
-        
-        if results["text-correction"] is not None:
-            st.subheader("Typo Corrected Text")
-            st.text_area(
-                "Text Correction Output",
-                results["text-correction"],
-                height=200
-            )
+    st.subheader("✅ Final Output")
+    st.text_area(
+        "Final Cleaned Text",
+        results["final"],
+        height=250
+    )
 
-        st.subheader("✅ Final Output")
-        st.text_area(
-            "Final Cleaned Text",
-            results["final"],
-            height=250
-        )
+    if save_output:
+        output_dir = os.path.dirname(output_filename)
+        if output_dir:
+            os.makedirs(output_dir, exist_ok=True)
 
-        if save_output:
-            output_dir = os.path.dirname(output_filename)
-            if output_dir:
-                os.makedirs(output_dir, exist_ok=True)
+        with open(output_filename, "w", encoding="utf-8") as f:
+            f.write(results["final"])
 
-            with open(output_filename, "w", encoding="utf-8") as f:
-                f.write(results["final"])
+        st.success(f"Output saved to `{output_filename}`")
 
-            st.success(f"Output saved to `{output_filename}`")
+    st.download_button(
+        label="Download Final Text",
+        data=results["final"],
+        file_name="final_output.txt",
+        mime="text/plain"
+    )
+
+
+    st.subheader("🔊 Text to Speech")
+
+    if st.button("Generate Speech"):
+        with st.spinner("Generating speech..."):
+            st.session_state["tts_audio"] = text_to_speech_bytes(results["final"])
+
+    if "tts_audio" in st.session_state:
+        st.audio(st.session_state["tts_audio"], format="audio/wav")
 
         st.download_button(
-            label="Download Final Text",
-            data=results["final"],
-            file_name="final_output.txt",
-            mime="text/plain"
+            label="Download Speech",
+            data=st.session_state["tts_audio"],
+            file_name="final_output.wav",
+            mime="audio/wav",
         )
-
-
-        st.subheader("[Text to Speech]")
-        if st.button("Generate Speech for Final Text"):
-            with st.spinner("Generating speech..."):
-                audio_bytes = text_to_speech_bytes(results["final"])
-                st.session_state["tts_audio"] = audio_bytes
-        
-        if "tts_audio" in st.session_state:
-            st.download_button(
-                label="Download Speech",
-                data=st.session_state["tts_audio"],
-                file_name="final_output.wav",
-                mime="audio/wav"
-            )
-            st.audio(st.session_state["tts_audio"], format="audio/wav")
-
-
-    # Cleanup temp file
-    os.unlink(img_path)

@@ -5,8 +5,7 @@ import re, os, json
 from dotenv import load_dotenv
 
 load_dotenv("../.env")
-API_KEY = os.getenv("GEMINI_API_KEY8")
-print(API_KEY)
+API_KEY = os.getenv("GEMINI_API_KEY7")
 
 client = genai.Client(
     api_key=API_KEY
