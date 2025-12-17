@@ -136,8 +136,10 @@ Access the app in localhost:8501 (by default). Here is the demo GUI image.
 
 <br> 
 
-## Demo Video
+## Demo Video and PPT
 You can also see our demo video in [here](https://drive.google.com/file/d/1-mkmQBCFmD1A4QwMY6OPQEsArwOM19VO/view?usp=sharing)
+
+For the final PPT, you can access it [here](https://www.canva.com/design/DAG7aCt1s14/MF6TivoLe5a3t9e7d7WhOQ/view?utm_content=DAG7aCt1s14&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb77030a3d0)
 
 <br>
 
